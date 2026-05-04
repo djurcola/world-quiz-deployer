@@ -14,6 +14,7 @@ This folder is a **self-contained deployment package** for World Quiz. It contai
 | `world-quiz-db.service` | systemd service template for SpacetimeDB |
 | `world-quiz-web.service` | systemd service template for static files |
 | `.env.example` | Example environment variables (used during frontend build) |
+| `nginx/` | Example SWAG/nginx reverse proxy configs |
 
 ## Quick Start — Fresh VPS
 
@@ -28,6 +29,7 @@ sudo bash install.sh
 
 That's it. The script will:
 - Install SpacetimeDB 2.1.0
+- Generate JWT keys in PKCS#8 format (required by SpacetimeDB)
 - Copy application files to `/opt/world-quiz/`
 - Create and enable systemd services
 - Start SpacetimeDB on port 3080
@@ -35,6 +37,44 @@ That's it. The script will:
 - Start the static web server on port 8060
 
 After it finishes, open `http://your-vps:8060` in a browser.
+
+### Re-running on an existing deployment
+
+`install.sh` is **idempotent** — you can safely run it again to update files or config without losing game data:
+
+```bash
+# Update static files and restart services (preserves database)
+sudo bash install.sh
+```
+
+On re-run it will:
+- Update `/opt/world-quiz/` with the latest files from this repo
+- Restart systemd services so config changes take effect
+- **Skip** the `publish --clear-database` step, preserving all rooms, players, and scores
+
+To force a fresh install and wipe the database:
+```bash
+sudo bash install.sh --clear-database
+```
+
+### Custom public URI
+
+If your SpacetimeDB will be accessed via a public URL (e.g. behind an nginx proxy):
+
+```bash
+sudo SPACETIME_PUBLIC_URI=wss://spacetime.yourdomain.com bash install.sh
+```
+
+The script will warn you if the frontend was built for a different URI.
+
+## Environment Variables
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `SPACETIME_PUBLIC_URI` | `wss://spacetime.dnas.place` | Public WebSocket URL clients connect to |
+| `SPACETIME_PORT` | `3080` | Local port SpacetimeDB listens on |
+| `WEB_PORT` | `8060` | Local port for static file server |
+| `SERVICE_USER` | `$SUDO_USER` | Linux user to run services as |
 
 ## Manual Start (without systemd)
 
@@ -51,7 +91,7 @@ If you prefer not to use systemd:
 ## Prerequisites
 
 - Linux VPS (Ubuntu/Debian recommended)
-- `curl`, `git`, `python3`, `systemctl`
+- `curl`, `git`, `python3`, `systemctl`, `rsync`, `openssl`
 - Root access (for `install.sh`)
 
 ## Ports
@@ -84,6 +124,50 @@ sudo ufw allow 8060/tcp
 sudo ufw allow 3080/tcp
 ```
 
+## Reverse Proxy Setup (SWAG / Nginx)
+
+If you want to serve SpacetimeDB and the web app through HTTPS with custom domains, use the example nginx configs in `nginx/`.
+
+### Why two subdomains?
+
+SpacetimeDB uses WebSockets at the root path and is sensitive to path rewriting. A dedicated `spacetime.*` subdomain avoids subtle protocol bugs.
+
+### Setup
+
+1. Ensure DNS A records point to your VPS:
+   - `spacetime.yourdomain.com` -> your VPS IP
+   - `quiz.yourdomain.com` -> your VPS IP
+
+2. Copy the nginx configs into your SWAG proxy-confs folder:
+   ```bash
+   cp nginx/spacetime.conf /config/nginx/proxy-confs/
+   cp nginx/quiz.conf /config/nginx/proxy-confs/
+   ```
+
+3. Update the `$upstream_app` in each config if SpacetimeDB/web run on a different host than nginx.
+
+4. Restart SWAG/nginx.
+
+5. Rebuild the frontend with the public SpacetimeDB URI:
+   ```bash
+   # On your dev machine
+   cd client
+   VITE_SPACETIME_URI=wss://spacetime.yourdomain.com npm run build
+   cp -r dist/ ../deploy/
+   # Commit and push to your deploy repo
+   ```
+
+6. Run `install.sh` on the VPS with your public URI:
+   ```bash
+   sudo SPACETIME_PUBLIC_URI=wss://spacetime.yourdomain.com bash install.sh
+   ```
+
+**Important proxy settings** (already in the example configs):
+- `proxy_http_version 1.1;`
+- `proxy_set_header Upgrade $http_upgrade;`
+- `proxy_set_header Connection "upgrade";`
+- `proxy_send_timeout 3600s;` and `proxy_read_timeout 3600s;`
+
 ## Updating the Deployment
 
 To update after a new release:
@@ -113,6 +197,13 @@ Ensure SpacetimeDB is running:
 ```bash
 systemctl status world-quiz-db
 curl -s http://127.0.0.1:3080
+```
+
+### SpacetimeDB fails to start with JWT key error
+The install script converts keys to PKCS#8 automatically. If you manually created keys, convert them:
+```bash
+openssl pkcs8 -topk8 -nocrypt -in id_ecdsa -out id_ecdsa.pkcs8
+mv id_ecdsa.pkcs8 id_ecdsa
 ```
 
 ### Frontend can't connect
