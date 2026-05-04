@@ -1,0 +1,18 @@
+[Unit]
+Description=World Quiz Static Web Server
+After=network.target
+
+[Service]
+Type=simple
+User=world-quiz
+Group=world-quiz
+Environment="PATH=/usr/local/bin:/usr/bin:/bin"
+WorkingDirectory=/opt/world-quiz/dist
+ExecStart=/usr/bin/python3 -m http.server 8060
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

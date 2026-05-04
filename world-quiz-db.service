@@ -1,0 +1,19 @@
+[Unit]
+Description=World Quiz SpacetimeDB Server
+After=network.target
+
+[Service]
+Type=simple
+User=world-quiz
+Group=world-quiz
+Environment="PATH=/usr/local/bin:/usr/bin:/bin"
+Environment="CARGO_TARGET_DIR=/home/world-quiz/.cargo-target"
+WorkingDirectory=/opt/world-quiz
+ExecStart=/home/world-quiz/.local/share/spacetime/bin/2.1.0/spacetimedb-cli start --listen-addr 0.0.0.0:3080
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
