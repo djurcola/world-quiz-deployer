@@ -147,7 +147,7 @@ rsync -avz --exclude='install.sh' "${SCRIPT_DIR}/" "${APP_DIR}/"
 chown -R "${SERVICE_USER}:${SERVICE_USER}" "${APP_DIR}"
 
 # --- 5. Warn if frontend URI doesn't match public URI ---
-BUILT_URI=$(grep -oP 'wss?://[^"\x27]+' "${APP_DIR}/dist/assets/index-"*.js 2>/dev/null | head -1 || echo "unknown")
+BUILT_URI=$(grep -oP 'wss?://[^"\x27`,;\s]+' "${APP_DIR}/dist/assets/index-"*.js 2>/dev/null | head -1 || echo "unknown")
 if [[ "${BUILT_URI}" != "${SPACETIME_PUBLIC_URI}" ]]; then
     warn "Frontend was built for '${BUILT_URI}' but you are deploying for '${SPACETIME_PUBLIC_URI}'."
     warn "Players may not be able to connect. To fix, rebuild the frontend on your dev machine:"

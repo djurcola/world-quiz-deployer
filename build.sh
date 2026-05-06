@@ -35,13 +35,15 @@ if [ -z "${CARGO_TARGET_DIR:-}" ]; then
     echo "CARGO_TARGET_DIR not set, using default: $CARGO_TARGET_DIR"
 fi
 
-# Find spacetimedb-cli
+# Find SpacetimeDB CLI
 if command -v spacetimedb-cli &> /dev/null; then
     SPACETIME_CMD="spacetimedb-cli"
+elif command -v spacetime &> /dev/null; then
+    SPACETIME_CMD="spacetime"
 elif [ -x "$HOME/.local/share/spacetime/bin/2.1.0/spacetimedb-cli" ]; then
     SPACETIME_CMD="$HOME/.local/share/spacetime/bin/2.1.0/spacetimedb-cli"
 else
-    echo "Error: spacetimedb-cli not found. Please install SpacetimeDB 2.1.0."
+    echo "Error: spacetime CLI not found. Please install SpacetimeDB 2.1.0."
     echo "See: https://spacetimedb.com/docs/deployments/quickstart"
     exit 1
 fi

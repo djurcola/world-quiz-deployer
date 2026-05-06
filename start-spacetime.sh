@@ -8,13 +8,15 @@ LISTEN_ADDR="0.0.0.0:${SPACETIME_PORT}"
 
 echo "Starting SpacetimeDB on $LISTEN_ADDR..."
 
-# Find spacetimedb-cli
+# Find SpacetimeDB CLI
 if command -v spacetimedb-cli &> /dev/null; then
     SPACETIME_CMD="spacetimedb-cli"
+elif command -v spacetime &> /dev/null; then
+    SPACETIME_CMD="spacetime"
 elif [ -x "$HOME/.local/share/spacetime/bin/2.1.0/spacetimedb-cli" ]; then
     SPACETIME_CMD="$HOME/.local/share/spacetime/bin/2.1.0/spacetimedb-cli"
 else
-    echo "Error: spacetimedb-cli not found. Please install SpacetimeDB 2.1.0."
+    echo "Error: spacetime CLI not found. Please install SpacetimeDB 2.1.0."
     exit 1
 fi
 
@@ -31,4 +33,4 @@ echo "SpacetimeDB started on port $SPACETIME_PORT"
 echo "Logs: tail -f /tmp/spacetime-3080.log"
 echo ""
 echo "To publish the module:"
-echo "  cd server/spacetimedb && spacetimedb-cli publish world-quiz --server local --no-config -p . -y"
+echo "  cd server/spacetimedb && ${SPACETIME_CMD} publish world-quiz --server local --no-config -p . -y"
