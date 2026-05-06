@@ -7,7 +7,7 @@ This folder is a **self-contained deployment package** for World Quiz. It contai
 | File / Folder | Purpose |
 |---------------|---------|
 | `dist/` | Pre-built React frontend (static HTML/JS/CSS) |
-| `server.wasm` | Pre-built SpacetimeDB Rust module (1,220 questions embedded) |
+| `server.wasm` | Pre-built SpacetimeDB Rust module (2,147 questions per language, 5 themes) |
 | `install.sh` | **One-command VPS deployment** — installs SpacetimeDB, publishes the module, creates systemd services, and starts everything |
 | `start-spacetime.sh` | Start SpacetimeDB on port 3080 (for manual/local use) |
 | `start-web.sh` | Start static file server on port 8060 (for manual/local use) |
@@ -33,7 +33,7 @@ That's it. The script will:
 - Copy application files to `/opt/world-quiz/`
 - Create and enable systemd services
 - Start SpacetimeDB on port 3080
-- Publish the pre-built `server.wasm` module (seeds all 1,220 questions)
+- Publish the pre-built `server.wasm` module (seeds all questions across 5 themes)
 - Start the static web server on port 8060
 
 After it finishes, open `http://your-vps:8060` in a browser.
@@ -220,9 +220,9 @@ cp -r dist/ ../deploy/
 
 This package was generated from the main World Quiz development repo:
 
-1. `cargo test` passed (36/36 tests)
+1. `cargo test` passed (88/88 tests)
 2. `npm run build` produced `client/dist/`
-3. `server.wasm` was built via `spacetimedb-cli publish`
+3. `server.wasm` was built via `spacetime build`
 4. Both artifacts were copied into this `deploy/` folder
 
 Do not hand-edit `dist/` or `server.wasm` — always rebuild from the main repo.

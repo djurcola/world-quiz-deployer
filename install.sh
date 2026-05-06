@@ -238,7 +238,7 @@ elif [[ "$CLEAR_DATABASE" == "true" ]]; then
     su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm --clear-database -y"
     log "Module published and questions seeded."
 else
-    log "Publishing World Quiz module (this seeds all 1,220 questions)..."
+    log "Publishing World Quiz module (this seeds all questions across 5 themes)..."
     su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm --clear-database -y"
     log "Module published and questions seeded."
 fi
