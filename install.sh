@@ -9,6 +9,9 @@ set -euo pipefail
 # Safe to re-run on an existing deployment — it will update files and
 # restart services WITHOUT clearing the database.
 #
+# To update the module code while preserving player data and rooms:
+#   sudo bash install.sh --update
+#
 # To force a fresh install (wipe database):
 #   sudo bash install.sh --clear-database
 #
@@ -26,11 +29,15 @@ SPACETIME_PUBLIC_URI="${1:-${SPACETIME_PUBLIC_URI:-wss://spacetime.dnas.place}}"
 SPACETIME_PORT="${SPACETIME_PORT:-3080}"
 WEB_PORT="${WEB_PORT:-8060}"
 CLEAR_DATABASE="${CLEAR_DATABASE:-false}"
+UPDATE_MODULE="${UPDATE_MODULE:-false}"
 
-# Check for explicit --clear-database flag
+# Check for explicit flags
 for arg in "$@"; do
     if [[ "$arg" == "--clear-database" ]]; then
         CLEAR_DATABASE="true"
+    fi
+    if [[ "$arg" == "--update" ]]; then
+        UPDATE_MODULE="true"
     fi
 done
 
@@ -130,14 +137,7 @@ if systemctl is-active --quiet world-quiz-db.service 2>/dev/null || \
     log "Existing deployment detected. Updating in-place..."
 fi
 
-if [[ "$IS_RERUN" == "true" && "$CLEAR_DATABASE" == "true" ]]; then
-    warn "You are about to WIPE all existing game data (rooms, players, scores)."
-    read -p "Are you sure? Type 'yes' to continue: " confirm
-    if [[ "$confirm" != "yes" ]]; then
-        log "Aborted."
-        exit 0
-    fi
-fi
+
 
 # --- 4. Copy application files ---
 log "Copying application files to ${APP_DIR}..."
@@ -222,23 +222,35 @@ for i in $(seq 1 30); do
     fi
 done
 
-# --- 8. Publish module (only if not already published, or if --clear-database) ---
+# --- 8. Publish module ---
 
 MODULE_EXISTS=false
 if su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} logs world-quiz --server ${LOCAL_SERVER_URL} -n 1" &>/dev/null; then
     MODULE_EXISTS=true
 fi
 
-if [[ "$MODULE_EXISTS" == "true" && "$CLEAR_DATABASE" != "true" ]]; then
-    log "Module 'world-quiz' already published. Skipping publish to preserve existing data."
-    log "If you need to update the module or wipe data, run:"
-    log "  sudo bash install.sh --clear-database"
-elif [[ "$CLEAR_DATABASE" == "true" ]]; then
+if [[ "$CLEAR_DATABASE" == "true" ]]; then
+    warn "You are about to WIPE all existing game data (rooms, players, scores)."
+    read -p "Are you sure? Type 'yes' to continue: " confirm
+    if [[ "$confirm" != "yes" ]]; then
+        log "Aborted."
+        exit 0
+    fi
     log "Publishing World Quiz module with --clear-database (wiping existing data)..."
     su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm --clear-database -y"
     log "Module published and questions seeded."
+elif [[ "$UPDATE_MODULE" == "true" ]]; then
+    log "Updating World Quiz module (preserves existing rooms, players, and scores)..."
+    su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm -y"
+    log "Module updated successfully."
+elif [[ "$MODULE_EXISTS" == "true" ]]; then
+    log "Module 'world-quiz' already published. Skipping publish to preserve existing data."
+    log "If you need to update the module code, run:"
+    log "  sudo bash install.sh --update"
+    log "If you need to wipe data, run:"
+    log "  sudo bash install.sh --clear-database"
 else
-    log "Publishing World Quiz module (this seeds all questions across 5 themes)..."
+    log "Publishing World Quiz module for the first time (this seeds all questions across 5 themes)..."
     su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm --clear-database -y"
     log "Module published and questions seeded."
 fi

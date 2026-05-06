@@ -40,7 +40,7 @@ After it finishes, open `http://your-vps:8060` in a browser.
 
 ### Re-running on an existing deployment
 
-`install.sh` is **idempotent** — you can safely run it again to update files or config without losing game data:
+`install.sh` is **idempotent** — you can safely run it again to update static files or config without losing game data:
 
 ```bash
 # Update static files and restart services (preserves database)
@@ -50,9 +50,22 @@ sudo bash install.sh
 On re-run it will:
 - Update `/opt/world-quiz/` with the latest files from this repo
 - Restart systemd services so config changes take effect
-- **Skip** the `publish --clear-database` step, preserving all rooms, players, and scores
+- **Skip** module publish, preserving all rooms, players, and scores
 
-To force a fresh install and wipe the database:
+### Updating the module (new release)
+
+To deploy a new `server.wasm` without wiping existing game data:
+
+```bash
+sudo bash install.sh --update
+```
+
+This republishes the module code while preserving all rooms, players, and scores. It only fails if the new module has breaking schema changes (in which case you must use `--clear-database`).
+
+### Wiping the database
+
+To force a fresh install and clear all data:
+
 ```bash
 sudo bash install.sh --clear-database
 ```
