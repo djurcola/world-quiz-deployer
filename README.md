@@ -7,7 +7,7 @@ This folder is a **self-contained deployment package** for World Quiz. It contai
 | File / Folder | Purpose |
 |---------------|---------|
 | `dist/` | Pre-built React frontend (static HTML/JS/CSS) |
-| `server.wasm` | Pre-built SpacetimeDB Rust module (2,147 questions per language, 5 themes) |
+| `server.wasm` | Pre-built SpacetimeDB Rust module (~8,588 questions total: 2,147 per language × 4 languages, 5 themes) |
 | `install.sh` | **One-command VPS deployment** — installs SpacetimeDB, publishes the module, creates systemd services, and starts everything |
 | `start-spacetime.sh` | Start SpacetimeDB on port 3080 (for manual/local use) |
 | `start-web.sh` | Start static file server on port 8060 (for manual/local use) |
@@ -166,8 +166,8 @@ SpacetimeDB uses WebSockets at the root path and is sensitive to path rewriting.
    # On your dev machine
    cd client
    VITE_SPACETIME_URI=wss://spacetime.yourdomain.com npm run build
-   cp -r dist/ ../deploy/
-   # Commit and push to your deploy repo
+    cp -r dist/ ../.deploy/
+    # Commit and push to your deploy repo
    ```
 
 6. Run `install.sh` on the VPS with your public URI:
@@ -226,16 +226,16 @@ Check that the WebSocket URI baked into `dist/assets/index-*.js` matches your Sp
 # On dev machine
 cd ../client
 VITE_SPACETIME_URI=wss://spacetime.yourdomain.com npm run build
-cp -r dist/ ../deploy/
+    cp -r dist/ ../.deploy/
 ```
 
 ## How This Package Was Built
 
 This package was generated from the main World Quiz development repo:
 
-1. `cargo test` passed (88/88 tests)
+1. `cargo test` passed (110/110 tests)
 2. `npm run build` produced `client/dist/`
 3. `server.wasm` was built via `spacetime build`
-4. Both artifacts were copied into this `deploy/` folder
+4. Both artifacts were copied into this `.deploy/` folder
 
 Do not hand-edit `dist/` or `server.wasm` — always rebuild from the main repo.

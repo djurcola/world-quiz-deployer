@@ -152,7 +152,7 @@ if [[ "${BUILT_URI}" != "${SPACETIME_PUBLIC_URI}" ]]; then
     warn "Frontend was built for '${BUILT_URI}' but you are deploying for '${SPACETIME_PUBLIC_URI}'."
     warn "Players may not be able to connect. To fix, rebuild the frontend on your dev machine:"
     warn "  cd client && VITE_SPACETIME_URI=${SPACETIME_PUBLIC_URI} npm run build"
-    warn "  cp -r dist/ ../deploy/ && git push"
+    warn "  cp -r dist/ ../.deploy/ && git push"
 fi
 
 # --- 6. Create systemd services ---
