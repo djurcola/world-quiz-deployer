@@ -1,0 +1,3826 @@
+[
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What planet is known as the 'Red Planet'?",
+    "correct_answer": "Mars",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "22769d574a6e577abf2311c05b94e9a0fac95c73471d1ec28d51c0b396d5620e",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the largest moon of Saturn?",
+    "correct_answer": "Titan",
+    "choices": [
+      "Titan",
+      "Enceladus",
+      "Rhea",
+      "Io"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c97f8920e3aca2e36b7789beff75d73e5f6873a69c79b4a2653e5b146557bae5",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the telescope that replaced the Hubble Space Telescope as NASA's flagship?",
+    "correct_answer": "James Webb Space Telescope",
+    "choices": [
+      "Chandra X-ray Observatory",
+      "James Webb Space Telescope",
+      "Kepler Space Telescope",
+      "Spitzer Space Telescope"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3b292d763fa0b73a4754aa86710528dcab47ce6ddf45a6bcb0415756cc642aac",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What is the smallest planet in our solar system?",
+    "correct_answer": "Mercury",
+    "choices": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Pluto"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4f8a6ff7f8a4a3b3e72363fef148e349af1f8afba8bd3b606d63aa29135ead9c",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the phenomenon where the Moon passes between the Sun and Earth?",
+    "correct_answer": "Solar eclipse",
+    "choices": [
+      "Lunar eclipse",
+      "Solar eclipse",
+      "Penumbral eclipse",
+      "Annular eclipse"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "be468c8d39e0ba198a6afdea632b0fb90f3a062d20a8dc3f5af9aa7474caa2e0",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Approximately how old is the universe?",
+    "correct_answer": "13.8 billion years",
+    "choices": [
+      "4.5 billion years",
+      "13.8 billion years",
+      "100 billion years",
+      "1 trillion years"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "dab58b7f46f0aab45a605a4410888b8067ece24561cceaf3fa49c6d6e0ed4d40",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the closest galaxy to the Milky Way?",
+    "correct_answer": "Canis Major Dwarf Galaxy",
+    "choices": [
+      "Andromeda Galaxy",
+      "Canis Major Dwarf Galaxy",
+      "Triangulum Galaxy",
+      "Large Magellanic Cloud"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "6d327d31e1dc39d12ac013b92e7083a5ab0bc6db3a043615050fe365710a63bc",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Which planet has the Great Red Spot?",
+    "correct_answer": "Jupiter",
+    "choices": [
+      "Saturn",
+      "Jupiter",
+      "Neptune",
+      "Mars"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b8a3bd08be373f6ebf257ae76c9d30aac5cc673446ae617446bc9fa4e8bd2f4e",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "What is the term for a star that suddenly increases dramatically in brightness and then fades?",
+    "correct_answer": "Nova",
+    "choices": [
+      "Supernova",
+      "Nova",
+      "Variable star",
+      "Flare star"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "85a4b5255afc1f9bda7aba3281eb49ca18d4b1e33395e04bfb0cb9076c83edc6",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of NASA's most famous Mars rover that operated from 2004 to 2018?",
+    "correct_answer": "Opportunity",
+    "choices": [
+      "Spirit",
+      "Opportunity",
+      "Curiosity",
+      "Perseverance"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "90521ed4b9de602684ea289cb97319c34ba5a944c967e74c6eb91fe61185ae88",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "What planet has the most extreme temperature range in the solar system?",
+    "correct_answer": "Mercury",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Neptune"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "88ae09081beff583e16c626b23e775e4cbaaf8cca689db708c1315993ce71350",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the theory that the universe is expanding?",
+    "correct_answer": "Hubble's law",
+    "choices": [
+      "Einstein's theory",
+      "Hubble's law",
+      "Newton's law",
+      "Kepler's law"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "920820d8101cfd01b0480a4199976fbe068e771d3d85dc0cf7a528bd9222ba8f",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What is the second brightest object in Earth's night sky after the Moon?",
+    "correct_answer": "Venus",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Venus",
+      "Sirius"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "04271c3d419bd9e3d4b07be54240b3704025f01007bb0e9c0715065ebdb04bb0",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What are the rocky inner planets of our solar system called?",
+    "correct_answer": "Terrestrial planets",
+    "choices": [
+      "Gas giants",
+      "Terrestrial planets",
+      "Dwarf planets",
+      "Jovian planets"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "bf6f11c87463270aab3d6f54947c92238b91c796eeede51a3ada7e1594ebc7ec",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the largest volcano in the solar system, located on Mars?",
+    "correct_answer": "Olympus Mons",
+    "choices": [
+      "Mauna Kea",
+      "Olympus Mons",
+      "Mount Everest",
+      "Valles Marineris"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e74337dc3af071b0d3445b2a7c387d060844d34185bfb8e4542bdade6c6e0397",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What is the average distance from Earth to the Sun called?",
+    "correct_answer": "Astronomical Unit (AU)",
+    "choices": [
+      "Light-year",
+      "Astronomical Unit (AU)",
+      "Parsec",
+      "Kilometer"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b8ac3a10e4392eb60d5dc52c07d3b0a9a002e9e1779684d54d046dd43e5d8a16",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Who was the first person to walk on the Moon?",
+    "correct_answer": "Neil Armstrong",
+    "choices": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "afe74425eee0b3166727be8b09fa92fa381b192071e830060ce93836ca021148",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What type of eclipse occurs when Earth passes between the Sun and the Moon?",
+    "correct_answer": "Lunar eclipse",
+    "choices": [
+      "Solar eclipse",
+      "Lunar eclipse",
+      "Annular eclipse",
+      "Hybrid eclipse"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "18b5a9b19dda7b4c2e1a710214f69cd01c4881fbc38f0fb2e35e4190766e594f",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "What is the name of the cloud of comets that surrounds the solar system?",
+    "correct_answer": "Oort Cloud",
+    "choices": [
+      "Kuiper Belt",
+      "Oort Cloud",
+      "Asteroid Belt",
+      "Heliosphere"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "319bfe484d8bf46a213e25be6b56737a4d6fc0b09c7bc95e55b9a531ad72d907",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Which planet spins on its side?",
+    "correct_answer": "Uranus",
+    "choices": [
+      "Neptune",
+      "Uranus",
+      "Pluto",
+      "Venus"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "23a0dcf8d4bcc8b77157345a15dab62a36965706d9e14935347085aebfb29faf",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the galaxy that will collide with the Milky Way in about 4.5 billion years?",
+    "correct_answer": "Andromeda Galaxy",
+    "choices": [
+      "Triangulum Galaxy",
+      "Andromeda Galaxy",
+      "Sombrero Galaxy",
+      "Whirlpool Galaxy"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9f6d6e25200906f0a29512fbd436e2535c26bf8a74310e245fca7fae54abbb9a",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "How many moons does Mars have?",
+    "correct_answer": "2",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7ee1b308bca5013cd766530592e3f8fca18777de39b9357c0edd192faa3359e2",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the space probe that visited Pluto in 2015?",
+    "correct_answer": "New Horizons",
+    "choices": [
+      "Voyager 1",
+      "New Horizons",
+      "Cassini",
+      "Dawn"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9ca33fd11c16e5f84835872f99b76069f388f75de15a718ab39195b72247388a",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the primary component of Saturn's rings?",
+    "correct_answer": "Ice and rock particles",
+    "choices": [
+      "Dust",
+      "Ice and rock particles",
+      "Gas",
+      "Plasma"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "f7427437eecd099a8452a86855cb57fae3de190316c22f70a71550aad943f34a",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the brightest star in the constellation Orion?",
+    "correct_answer": "Rigel",
+    "choices": [
+      "Betelgeuse",
+      "Rigel",
+      "Sirius",
+      "Polaris"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "cc1be01b0809fe296c7f251f4185f6bd3e088d99df4dddd63822fc91bfe8cf6c",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "What is a neutron star made of?",
+    "correct_answer": "Neutrons",
+    "choices": [
+      "Protons",
+      "Neutrons",
+      "Quarks",
+      "Electrons"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "40f33c1ddf1474e70d9ddccd2ae56361764f0bab59b81514e58003386a14c8c2",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "How long does it take for Earth to orbit the Sun?",
+    "correct_answer": "365.25 days",
+    "choices": [
+      "360 days",
+      "365.25 days",
+      "366 days",
+      "370 days"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "549120537ae3d02cff4cb8ab2ae4a5926a227498462e5dbebc8e551dbed17165",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the first artificial satellite launched into space?",
+    "correct_answer": "Sputnik 1",
+    "choices": [
+      "Explorer 1",
+      "Sputnik 1",
+      "Vanguard 1",
+      "Luna 2"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "119164177bd7d776457d5cb3f4a6eee92c9199bf40a1b08ac0a8e247649c002d",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What type of star is the Sun classified as?",
+    "correct_answer": "Yellow dwarf",
+    "choices": [
+      "Red giant",
+      "Yellow dwarf",
+      "White dwarf",
+      "Blue supergiant"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9e784bc3200b38578bc0007c21fb0ed8cb4bb265b5e8bb61e9cc9be04245c8d8",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "What is the name of the largest canyon in the solar system, located on Mars?",
+    "correct_answer": "Valles Marineris",
+    "choices": [
+      "Grand Canyon",
+      "Valles Marineris",
+      "Coprates Chasma",
+      "Mawrth Vallis"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2619b7e8e767bed6ae74f0c058660f13f2ca58a553b325e95fd21adb80d444ec",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What is the closest star to Earth?",
+    "correct_answer": "The Sun",
+    "choices": [
+      "Proxima Centauri",
+      "The Sun",
+      "Alpha Centauri",
+      "Sirius"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "6da761085929f12b07ef412c343028fada740edcb05679cd2127858359dd9e82",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What galaxy is Earth located in?",
+    "correct_answer": "Milky Way",
+    "choices": [
+      "Andromeda",
+      "Milky Way",
+      "Triangulum",
+      "Sombrero"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7912bd40c8bf87cca0fe34d8913e7e62589b1dc8b9eea090131d1b203c35c287",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What is the largest planet in our solar system?",
+    "correct_answer": "Jupiter",
+    "choices": [
+      "Saturn",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "d9fc8e8f274d2916a8e6963b15bc465f58858a940716681d02d343b10eabd0e0",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "What astronomical object is known as a 'failed star'?",
+    "correct_answer": "Brown dwarf",
+    "choices": [
+      "White dwarf",
+      "Brown dwarf",
+      "Red giant",
+      "Neutron star"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "713e3382b0f3563249c959a1fb56f717b52938e86dd87357e784ded5737e4998",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+    "correct_answer": "Event horizon",
+    "choices": [
+      "Singularity",
+      "Event horizon",
+      "Accretion disk",
+      "Photon sphere"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "bdd6fb0c37f4904044e6fa5b53461c7f21ca7186645adff9825c1f5ed449be30",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What causes the phases of the Moon?",
+    "correct_answer": "Its orbit around Earth",
+    "choices": [
+      "Earth's shadow",
+      "Its orbit around Earth",
+      "The Sun's distance",
+      "Cloud cover"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "5f087d995b5f6c01a51b07087020ce36105e347f8a149d5dbbf32ce68d318de5",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the most abundant element in the universe?",
+    "correct_answer": "Hydrogen",
+    "choices": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3e67daa48eb475c401516dbe6c6d2751c197b9d3fc5d2cfe4ac5cb331cdfec86",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What is the name of the theory describing the origin of the universe?",
+    "correct_answer": "Big Bang theory",
+    "choices": [
+      "Steady state theory",
+      "Big Bang theory",
+      "String theory",
+      "Nebular hypothesis"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "476125444ac208f3303e6c0c7ca277af6f9129444b726354ea3b540059c2ba95",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is a supernova?",
+    "correct_answer": "The explosion of a star",
+    "choices": [
+      "The birth of a star",
+      "The explosion of a star",
+      "A type of galaxy",
+      "A collision of comets"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a0dbd7a351fe9023b93252f02a2e0b20618cbe70e43d6d7a679e4c243825753b",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Which planet has the most confirmed moons?",
+    "correct_answer": "Saturn",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b1740747d03be9d6993fdaeb7590bd7058d1138553fe45f561b92d1012386e4a",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "How long does it take sunlight to reach Earth?",
+    "correct_answer": "About 8 minutes",
+    "choices": [
+      "About 8 seconds",
+      "About 8 minutes",
+      "About 8 hours",
+      "About 8 days"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b76b02d12fb8362b8e72fca238a2dc5faed066899617c3d2a2c3e217dfc8980f",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the brightest star in the night sky?",
+    "correct_answer": "Sirius",
+    "choices": [
+      "Vega",
+      "Sirius",
+      "Polaris",
+      "Betelgeuse"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "6079988ec9b8402141c4bf0e9f77bcbc49e3eae06796a75e7f9b33e7c3a253aa",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "What type of galaxy is the Milky Way?",
+    "correct_answer": "Spiral galaxy",
+    "choices": [
+      "Elliptical galaxy",
+      "Spiral galaxy",
+      "Irregular galaxy",
+      "Lenticular galaxy"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2dc959b3e218f1137762ef7478f1422e1ec38915f869b15bd97704fe9ba0a374",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "What planet is known as the 'Morning Star' or 'Evening Star'?",
+    "correct_answer": "Venus",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "caedbea913d69e38cf23c9066004d1494e13a3de39b320ec255b12924239196c",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "What is the name of the first human-made object to leave the solar system?",
+    "correct_answer": "Voyager 1",
+    "choices": [
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Cassini"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "30b16eaa5154835506170027d369ac4584875f81fa47cb1a61b6f5af8141723b",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the main function of red blood cells?",
+    "correct_answer": "Carry oxygen",
+    "choices": [
+      "Fight infection",
+      "Carry oxygen",
+      "Clot blood",
+      "Produce antibodies"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "80f463b8e335a519a106aaa6416ed4f667834551674c890175e388117885c2da",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the largest organ inside the human body?",
+    "correct_answer": "Liver",
+    "choices": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Brain"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "87055edfba4a09e1bc0a756304aa710da14ac62a2b52accb172c91804db627cb",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the scientific name for the 'voice box'?",
+    "correct_answer": "Larynx",
+    "choices": [
+      "Pharynx",
+      "Larynx",
+      "Trachea",
+      "Esophagus"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2472e903480918de023b74fddfc27f9a593d64572eadcb76f7532c666ac5dc1a",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "What type of bond holds the two strands of DNA together?",
+    "correct_answer": "Hydrogen bonds",
+    "choices": [
+      "Covalent bonds",
+      "Hydrogen bonds",
+      "Ionic bonds",
+      "Peptide bonds"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "8d8eadd1365e698282a11199c85ad9d12f78986f24b16c19b4126ee22fed7d4f",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Which animal is known as the 'ship of the desert'?",
+    "correct_answer": "Camel",
+    "choices": [
+      "Horse",
+      "Camel",
+      "Donkey",
+      "Llama"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "328802885fa3d8c3dc7153bd161cacff2a274deedcda0487f7e303b597edb9eb",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What vitamin is also known as ascorbic acid?",
+    "correct_answer": "Vitamin C",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin E"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "f4164a633685dd0fffea55b60e2538898ed1c7ee6924d4c15dd5b28e5560f026",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What part of the plant conducts photosynthesis?",
+    "correct_answer": "Leaves",
+    "choices": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flowers"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "ef0717265890b5e85815d097c058b79ae872951de19f1cfa28128d43d7cc15b1",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the study of heredity and variation called?",
+    "correct_answer": "Genetics",
+    "choices": [
+      "Genetics",
+      "Evolution",
+      "Ecology",
+      "Embryology"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4d7123c8514ad86397c4ae8c263db727d727deddeefbfdd8892f5faaf7594689",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Which of these animals is a marsupial?",
+    "correct_answer": "Kangaroo",
+    "choices": [
+      "Polar bear",
+      "Kangaroo",
+      "Elephant",
+      "Penguin"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3594bcd941d251a877c2699f77bdfa9b3a4a0537932e85e9bad83f5dc8439c2c",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "What is the human body's smallest bone?",
+    "correct_answer": "Stapes (in the ear)",
+    "choices": [
+      "Stapes (in the ear)",
+      "Phalanx (in the finger)",
+      "Coccyx (tailbone)",
+      "Hyoid (in the neck)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "6f7269cd9162c95867b5dd96cbb763eade076d7d1a235f31b1eb940fbd500cc5",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What do we call animals that are active during the night?",
+    "correct_answer": "Nocturnal",
+    "choices": [
+      "Diurnal",
+      "Nocturnal",
+      "Crepuscular",
+      "Hibernating"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3ff7cf77ce13c57f2aab0a31219113b4bdea699fd39eb5926ece75996924569a",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the name of the process by which plants release water vapor through their leaves?",
+    "correct_answer": "Transpiration",
+    "choices": [
+      "Condensation",
+      "Transpiration",
+      "Evaporation",
+      "Respiration"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "293104ef124929dde8a8b74d2fa53683c946f18b60a8d179baaef4f8c91a56c7",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Which blood type is the universal recipient?",
+    "correct_answer": "AB positive",
+    "choices": [
+      "A positive",
+      "AB positive",
+      "O positive",
+      "AB negative"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "892e5f4356d772ee3bd618532b9bd945fa17c599e86166b68266cc13a53089e3",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "How many teeth does an adult human typically have?",
+    "correct_answer": "32",
+    "choices": [
+      "28",
+      "32",
+      "36",
+      "30"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "0ae363252630ad67f1d691b61489b12495aa312b7b06bc7ece4b36209cda9e6a",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the name of the tube that carries food from the mouth to the stomach?",
+    "correct_answer": "Esophagus",
+    "choices": [
+      "Trachea",
+      "Esophagus",
+      "Intestine",
+      "Pharynx"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "5843deee2a8f77f51b4ac7613022aea8727ddebd196670409f5956c8e8b19a86",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the largest species of shark?",
+    "correct_answer": "Whale shark",
+    "choices": [
+      "Great white shark",
+      "Whale shark",
+      "Hammerhead shark",
+      "Megalodon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "362d95537707be5f1760031fe599cde64584878f046118cbb530a447d447ecf0",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the powerhouse of the cell also known as?",
+    "correct_answer": "Mitochondria",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Cell membrane"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "1edcb7527a03cef1acd3f5cd3c88df58b313d23b207cb07ba90f419aa189b07d",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Which sense is associated with the cochlea?",
+    "correct_answer": "Hearing",
+    "choices": [
+      "Sight",
+      "Hearing",
+      "Smell",
+      "Taste"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "8c7ac8d3ef8b17890338f7da9cb6a0f37670de235862b3f306b75066fb7230ae",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the term for an organism that eats both plants and animals?",
+    "correct_answer": "Omnivore",
+    "choices": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Detritivore"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "26cf948c46d5321e68a4b214ad54b0c61b6a7d5632c60e17ca855453c2d56a24",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the name of the pigment that gives skin its color?",
+    "correct_answer": "Melanin",
+    "choices": [
+      "Melanin",
+      "Keratin",
+      "Collagen",
+      "Carotene"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "33fd7c0c64f3f831141f6a66fafef78d2a125783cef921b079b850bd4d3fd048",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the largest land animal alive today?",
+    "correct_answer": "African elephant",
+    "choices": [
+      "White rhinoceros",
+      "African elephant",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "60ecaed4f8c932e2f4b6eed742f98f85fa010efdd11598acf27f26a73f25cf58",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the smallest unit of life?",
+    "correct_answer": "Cell",
+    "choices": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Tissue"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "185ca4f7a5bee4626b28acdb2628bce21482b942c7decf41a3a8b7037b70d976",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Which disease is caused by the deficiency of insulin?",
+    "correct_answer": "Diabetes",
+    "choices": [
+      "Anemia",
+      "Diabetes",
+      "Arthritis",
+      "Asthma"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "eef305716320c425678fbca337d9a594fe3f4389dc651203d79d3e3f3710bc01",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "What is the name of the double membrane that surrounds the lungs?",
+    "correct_answer": "Pleura",
+    "choices": [
+      "Pericardium",
+      "Pleura",
+      "Peritoneum",
+      "Meninges"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b9c93a133c9856571239dc9741fd8ad3daf86ad35ee54b3ca0804befbfae47e2",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What process describes the movement of water across a semipermeable membrane?",
+    "correct_answer": "Osmosis",
+    "choices": [
+      "Diffusion",
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "46d16488a6e6d78e20dffd4f683f8b65e81f5d949f4ca5d5595e3fdd45e7d20a",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Which animal can change its color to blend in with its surroundings?",
+    "correct_answer": "Chameleon",
+    "choices": [
+      "Octopus",
+      "Chameleon",
+      "Peacock",
+      "Zebra"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c9977b422987fb63311f1219c580102dd9746bbc52397da46dca695a28a34d2a",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the name of the first antibiotic discovered?",
+    "correct_answer": "Penicillin",
+    "choices": [
+      "Streptomycin",
+      "Penicillin",
+      "Tetracycline",
+      "Erythromycin"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "1201e67edadc47a08ea8f3c8bf1372ab5eb2ef0062cb222a6e6792239af85bfa",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What part of the brain is responsible for balance and coordination?",
+    "correct_answer": "Cerebellum",
+    "choices": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brain stem",
+      "Hypothalamus"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "dcce437d95b7370862069c68dc51d1a64aa87851712e791d833f507b98409072",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the term for animals that lay eggs?",
+    "correct_answer": "Oviparous",
+    "choices": [
+      "Viviparous",
+      "Oviparous",
+      "Ovoviviparous",
+      "Marsupial"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "28b93fc9ae6e1b9989e7dba5d17b85a7e226ff9e5e22e6896e0add36905c2e0d",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the longest bone in the human body?",
+    "correct_answer": "Femur",
+    "choices": [
+      "Tibia",
+      "Femur",
+      "Humerus",
+      "Fibula"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b148706348e6500ce259229622a4f52d7b1d61544e8b7021fff5e294543bf0d0",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Which organ is responsible for filtering blood in the human body?",
+    "correct_answer": "Kidneys",
+    "choices": [
+      "Liver",
+      "Kidneys",
+      "Heart",
+      "Lungs"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "31285927dea8ca34f034e09bcc97a516f46490dd3a6e4b393529a1db5c6d550b",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the study of insects called?",
+    "correct_answer": "Entomology",
+    "choices": [
+      "Entomology",
+      "Herpetology",
+      "Ornithology",
+      "Ichthyology"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4770dd747466b86af1ab1d049576cd123533f7903b29f61ea9874497195043c9",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Which organism is responsible for the production of most of Earth's oxygen?",
+    "correct_answer": "Phytoplankton",
+    "choices": [
+      "Trees",
+      "Phytoplankton",
+      "Grasses",
+      "Rainforests"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "eb741bacbfc6b587ac7f7d87aa4bc83d409e2f57a44bef59f195522439d9bcc2",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the name of the process where a caterpillar turns into a butterfly?",
+    "correct_answer": "Metamorphosis",
+    "choices": [
+      "Metamorphosis",
+      "Evolution",
+      "Hibernation",
+      "Germination"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "f31854665c60ce3c76fcb893bb2e0d2cfd7e99b9b2e6018474482c2bbd383469",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What organelle is responsible for producing ATP in cells?",
+    "correct_answer": "Mitochondria",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "33ca87a3659c87577406cdda8b1a82c635a0a68c4727be885c751cc969bcb1be",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the largest organ in the human body?",
+    "correct_answer": "Skin",
+    "choices": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "1093e569297abb6d68c8fc1c5db330091fbc7c7c3a1cdd05c0e1ac232d4215a2",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What process do plants use to convert sunlight into energy?",
+    "correct_answer": "Photosynthesis",
+    "choices": [
+      "Cellular respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Chemosynthesis"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3b386ee666ac95107c85c001310ce761a6ac4e0228c602f756d5ca22ed4b23c1",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Which blood type is known as the universal donor?",
+    "correct_answer": "O negative",
+    "choices": [
+      "A positive",
+      "AB positive",
+      "O negative",
+      "B negative"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "694af3fc287b0412f1414e38f98dd366af81a7a2e33c48f18d5ccd83f79ec8f3",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "How many chromosomes do humans typically have?",
+    "correct_answer": "46",
+    "choices": [
+      "23",
+      "46",
+      "48",
+      "44"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e3634be2a530a6abe60eb15b289cb43bbf3a3e8657f5513f324c96a98f4a06a0",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "What is the name of the enzyme that breaks down lactose?",
+    "correct_answer": "Lactase",
+    "choices": [
+      "Lipase",
+      "Amylase",
+      "Lactase",
+      "Protease"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "067497df9b76381788b30c83b58bfe924e07cb6dd2f7b8c27d1f2b22c0868c66",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What term describes an organism that can make its own food?",
+    "correct_answer": "Autotroph",
+    "choices": [
+      "Heterotroph",
+      "Autotroph",
+      "Decomposer",
+      "Parasite"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "8c0c07136d69b88b3b588aa18a905601e15f801b19b2c15ad84488a5c541b5c2",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What vitamin does the human body produce when exposed to sunlight?",
+    "correct_answer": "Vitamin D",
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b56958d7f476b39bfd8df888dd06fdc260e4a887718bfa286778950c99285711",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "What is the scientific study of fungi called?",
+    "correct_answer": "Mycology",
+    "choices": [
+      "Botany",
+      "Mycology",
+      "Virology",
+      "Entomology"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "deacfd911811da90ac4cc1dac79d76019fc2cfc40a90ebd187cb71676ac7be22",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What type of animal is a platypus?",
+    "correct_answer": "A mammal",
+    "choices": [
+      "A reptile",
+      "A bird",
+      "A mammal",
+      "An amphibian"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "5918b9e16e98acf63cc91b94865a2dab5831def1a3e66e2a0ceb26c349a3a6ff",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "What is the body's largest and strongest bone?",
+    "correct_answer": "Femur",
+    "choices": [
+      "Tibia",
+      "Femur",
+      "Humerus",
+      "Spine"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3dad8b41fcfd6f6d742c589b0669e0729fb0c53c58b41f493399f58be035dd61",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What is the name of the process by which cells divide to form two identical daughter cells?",
+    "correct_answer": "Mitosis",
+    "choices": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "5b60623317de3da6d6a3ee477fb4b605676f1639a2a04f97433686add0986cd4",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Which of these animals has blue blood?",
+    "correct_answer": "Octopus",
+    "choices": [
+      "Lobster",
+      "Octopus",
+      "Earthworm",
+      "Shark"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "f560286ef8f34fc5ddafd41c3d8e3add55324a0f61d033b4594b2566b85ff6d9",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "What part of the human eye is responsible for focusing light?",
+    "correct_answer": "Lens",
+    "choices": [
+      "Retina",
+      "Cornea",
+      "Lens",
+      "Iris"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7289259ee531ed0f0f7394a88c639c939f0b863b6c524c291b3c1f3697abdff3",
+    "language": "en"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Approximately what percentage of the human body is water?",
+    "correct_answer": "60%",
+    "choices": [
+      "40%",
+      "60%",
+      "80%",
+      "95%"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "63dfcf4b7536255b9d785805d3c4f4178544d632df486244f71362a82873d95a",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the atomic number of carbon?",
+    "correct_answer": "6",
+    "choices": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "bf1c943c0293fc6a73c925824c26b6f2b606bc99ada305c295cbf734038c3a8b",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the chemical symbol for potassium?",
+    "correct_answer": "K",
+    "choices": [
+      "P",
+      "K",
+      "Po",
+      "Pt"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b535eb5e0ff46d5e6c468c78c964d3e090e0dba8d8999265e5c4fbdd54ab7ddd",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What type of reaction releases heat?",
+    "correct_answer": "Exothermic",
+    "choices": [
+      "Endothermic",
+      "Exothermic",
+      "Synthesis",
+      "Decomposition"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "5df2e52f38cf831ca81436cd3787f58ac26fa4b65a9595e18253c7809ff6bb76",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What element is needed for combustion to occur?",
+    "correct_answer": "Oxygen",
+    "choices": [
+      "Nitrogen",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b3481193d128ab26867e8c228f107a3a7b7398155296d7078e16286b10292091",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What is the chemical name for laughing gas?",
+    "correct_answer": "Nitrous oxide",
+    "choices": [
+      "Nitrogen dioxide",
+      "Nitrous oxide",
+      "Nitric oxide",
+      "Nitrogen"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "5cec6fcd8bdeb7693823bc3cd5e990657f2e8604dc4bfda1047dd7b10eeaa611",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the most abundant element in Earth's crust?",
+    "correct_answer": "Oxygen",
+    "choices": [
+      "Silicon",
+      "Oxygen",
+      "Aluminum",
+      "Iron"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2760161913e35bc8f77db4a24f2c7be42b23e62b3505d1bcbf9988577ca7d797",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What colour does litmus paper turn in an acid?",
+    "correct_answer": "Red",
+    "choices": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "224e8b41544fd8cad5fe7d6e4090bd4d0b0cfb0f9780a0aa81d4b95a711b9d9b",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What element is a diamond made of?",
+    "correct_answer": "Carbon",
+    "choices": [
+      "Carbon",
+      "Silicon",
+      "Graphite",
+      "Diamond"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9572ce049fa2f97af0c8378017359d6e62c496698793fb96c8da48d4821db7ae",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the periodic table symbol for silver?",
+    "correct_answer": "Ag",
+    "choices": [
+      "Si",
+      "Sl",
+      "Ag",
+      "Sv"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "65833753d1aa2342eaf6d753a950824282a106e23f98542d73eeb112234d3a11",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What type of mixture has particles that do not settle out?",
+    "correct_answer": "Colloid",
+    "choices": [
+      "Solution",
+      "Colloid",
+      "Suspension",
+      "Emulsion"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "8ed11ce667554457307ce4e5817ef5cd804d0fe417f6c8b4b82b3f80d8e449a3",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the main component of natural gas?",
+    "correct_answer": "Methane",
+    "choices": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "eb8cb4f26089215184c936ca6d0e6a1f0f6190c48312854b77fb34ea56c20b87",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the chemical formula for ammonia?",
+    "correct_answer": "NH₃",
+    "choices": [
+      "NH₂",
+      "NH₃",
+      "NH₄",
+      "N₂H₃"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "12fce1b02b5bfd6b20dbf9eab60871d0ec8344ee6aaeea22449816d93c979e4d",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What element has the highest melting point?",
+    "correct_answer": "Tungsten",
+    "choices": [
+      "Tungsten",
+      "Carbon",
+      "Iron",
+      "Platinum"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "249bb057a1fa6d80838834d355ca2720eeb06173c188078e31407064511f570d",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the pH of a strong acid typically?",
+    "correct_answer": "0-1",
+    "choices": [
+      "0-1",
+      "5-6",
+      "7-8",
+      "12-14"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "af0f14d976df61457a25280023bc733c49ca48b5096b92be5065413594777206",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the name of the chemical process that makes iron rust?",
+    "correct_answer": "Oxidation",
+    "choices": [
+      "Reduction",
+      "Oxidation",
+      "Hydration",
+      "Sublimation"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "02d87e1697dfea65cb7b89bc6ad6ca7e7e5459da33572d218a926e07890cd481",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Which element is used as a blue colorant in fireworks?",
+    "correct_answer": "Copper",
+    "choices": [
+      "Sodium",
+      "Strontium",
+      "Copper",
+      "Barium"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7343e9aa641d1c59eb64f75b745608cc7f245b6a60de432cd21b61fb1b1a2d30",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the smallest particle of an element that retains its chemical properties?",
+    "correct_answer": "Atom",
+    "choices": [
+      "Molecule",
+      "Atom",
+      "Proton",
+      "Electron"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "1297aa3068a1580c6ff00c785bf6f0f54c75270553a9012acc7be4dd8fdde132",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the chemical name for dry ice?",
+    "correct_answer": "Solid carbon dioxide",
+    "choices": [
+      "Solid water",
+      "Solid carbon dioxide",
+      "Solid nitrogen",
+      "Solid oxygen"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c2d883b755636760f8cfdd3b0a819e61770a555659b17847a49feba5c55be5f0",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the process of separating a mixture by boiling point called?",
+    "correct_answer": "Distillation",
+    "choices": [
+      "Filtration",
+      "Distillation",
+      "Chromatography",
+      "Evaporation"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "1053f387ee3a21474dda62b0e2dd1a8d565eea583dd9bb7c2c5726cbd055f02e",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Which element is liquid at room temperature besides mercury?",
+    "correct_answer": "Bromine",
+    "choices": [
+      "Iodine",
+      "Bromine",
+      "Chlorine",
+      "Fluorine"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3c58fff4c1eb66663d9a8a25415dd6504087ebb95950d58f4be6e984e1d8bb2f",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What type of chemical bond forms between metals and non-metals?",
+    "correct_answer": "Ionic bond",
+    "choices": [
+      "Covalent bond",
+      "Ionic bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "f2fa92f7e8a7804e150e636c610ea22ef459630b3f6d0f05bf9fd605de79a824",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the chemical formula for methane?",
+    "correct_answer": "CH₄",
+    "choices": [
+      "CO₂",
+      "C₂H₆",
+      "CH₄",
+      "C₃H₈"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c0b5d7bc3f535424da118dd6b2f69187490de6484c69c43ea9f00b8062c2f45a",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What element has the atomic symbol 'Fe'?",
+    "correct_answer": "Iron",
+    "choices": [
+      "Francium",
+      "Iron",
+      "Fluorine",
+      "Fermium"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "1c80c214288188b34b77bab4359791d22513f52f711ee2813066354e9496daab",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What is the study of the speed of chemical reactions called?",
+    "correct_answer": "Chemical kinetics",
+    "choices": [
+      "Thermochemistry",
+      "Chemical kinetics",
+      "Stoichiometry",
+      "Electrochemistry"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "cc4babe1419b51d695fdbe924c58068483219d68235cf6270c67182c66655c81",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the main gas produced by volcanoes besides water vapor?",
+    "correct_answer": "Carbon dioxide",
+    "choices": [
+      "Sulfur dioxide",
+      "Carbon dioxide",
+      "Hydrogen sulfide",
+      "Nitrogen"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "854fc4f5cc3120f5c9e644f0b9b5658f452d1794729790cf33a9677fc7dfde73",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What is the only letter not appearing on the periodic table?",
+    "correct_answer": "J",
+    "choices": [
+      "Q",
+      "J",
+      "X",
+      "Z"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "50f6725cca716a56f004f44fc50ef91c36cd96b7824cf72c1d614dd33383c26e",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the name of the negatively charged ion?",
+    "correct_answer": "Anion",
+    "choices": [
+      "Cation",
+      "Anion",
+      "Isotope",
+      "Ion"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7139ca2e98850fb946678c1ab0dfaf3a5e72ecc59bcf3edd065e35b6f88acfb6",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the atomic number of gold?",
+    "correct_answer": "79",
+    "choices": [
+      "47",
+      "79",
+      "82",
+      "92"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3477f863bed1aa90ca6064f7f1ab0edc76ac6e0d0253e969a406b1a3976f790f",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Which acid is used in car batteries?",
+    "correct_answer": "Sulfuric acid",
+    "choices": [
+      "Hydrochloric acid",
+      "Sulfuric acid",
+      "Nitric acid",
+      "Acetic acid"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a005254532ca5fdb013dc2ec85fd390f50b9f9242ea2bb2834d62ccc590fbc1a",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the process of a gas turning into a liquid called?",
+    "correct_answer": "Condensation",
+    "choices": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7baf0308578178d66f82dc3076af447706bf00ddc4c4a194dd2a081e1ae27ac4",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What element makes up most of the Sun?",
+    "correct_answer": "Hydrogen",
+    "choices": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "d73901c031e8a9e0a134f7655677970579e5281966c38a639479dc6bfe2359c6",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the common name for sodium chloride?",
+    "correct_answer": "Table salt",
+    "choices": [
+      "Baking soda",
+      "Table salt",
+      "Epsom salt",
+      "Rock salt"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "21dfdf1d9bd714d45c12349ea9b53a5baa81aa63320a6fcaf49081967b3ffe7e",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What is the chemical symbol for tin?",
+    "correct_answer": "Sn",
+    "choices": [
+      "Ti",
+      "Tn",
+      "Sn",
+      "Si"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c409628259a1eb0182ab9a30ff572f29dc01726d038c267c311596a5f023776e",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What is Avogadro's number?",
+    "correct_answer": "6.022 × 10²³",
+    "choices": [
+      "3.141 × 10²³",
+      "6.022 × 10²³",
+      "1.602 × 10¹⁹",
+      "9.81 × 10²³"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e0cdea476d5044dbe830502e4f68d4af8ce775529d6dda45eda0ad6b9610ebc5",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the pH of pure water?",
+    "correct_answer": "7",
+    "choices": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "19d8e8995528106ed930152dfc69689bae36bdcb444800f3e3f473d4ced4ae1f",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Which element has the atomic number 1?",
+    "correct_answer": "Hydrogen",
+    "choices": [
+      "Helium",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "6ab9a4a36c4b629f9dc7b859e74bb6136ce9511f786264e9775a67a5873b323a",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the chemical formula for table salt?",
+    "correct_answer": "NaCl",
+    "choices": [
+      "NaCl",
+      "KCl",
+      "NaOH",
+      "Na₂CO₃"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9f34518f28184f28b5c93aea9248b6b5099ffd02a1d10e32f3e9104e66afa089",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What type of chemical bond involves the sharing of electrons?",
+    "correct_answer": "Covalent bond",
+    "choices": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c83c57e5ab29081cc67bc01ffcc8e5ed36f2d8bc63c3a420635b5dc0b58e2b22",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the most abundant gas in Earth's atmosphere?",
+    "correct_answer": "Nitrogen",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e3403af8ef1da6001ea3d4f3d2b86e268525ef8725b8735a8682a5cbe5f34c77",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Which element's chemical symbol is 'Au'?",
+    "correct_answer": "Gold",
+    "choices": [
+      "Silver",
+      "Aluminum",
+      "Gold",
+      "Argon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c625e6ba9627bd92edb1cc97b503474a96dfb0e9bca9091d2e80fa1d4a3a6fbe",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What is the process of a solid turning directly into a gas called?",
+    "correct_answer": "Sublimation",
+    "choices": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "897ba0adcc5bf7102a87799ef1d1f438e505faff638ec1a48cc156b38c6fbf70",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is a substance called that speeds up a chemical reaction without being consumed?",
+    "correct_answer": "Catalyst",
+    "choices": [
+      "Reactant",
+      "Product",
+      "Catalyst",
+      "Inhibitor"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3a792e19c4dc1a16f7c5cc51c3b872c607163beff8ed65e01a2ad9c7fd8e5680",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "What is the chemical name for baking soda?",
+    "correct_answer": "Sodium bicarbonate",
+    "choices": [
+      "Sodium carbonate",
+      "Sodium bicarbonate",
+      "Sodium hydroxide",
+      "Sodium chloride"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "ed5d8d8daface54e70ba988a31099f17ac06cb69935e7e3d3a0894353464716a",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Which element is a liquid at room temperature?",
+    "correct_answer": "Mercury",
+    "choices": [
+      "Iron",
+      "Mercury",
+      "Silver",
+      "Lead"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a8cb25d3246181282ed5524525594dd278418e2f5315dbae63d733ce3f7fb076",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the lightest element on the periodic table?",
+    "correct_answer": "Hydrogen",
+    "choices": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Oxygen"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4a418cec15e85a930ace6bd0101793e12812fbd88a0e4dcbb4062a79a1171444",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the chemical formula for hydrogen peroxide?",
+    "correct_answer": "H₂O₂",
+    "choices": [
+      "H₂O",
+      "H₂O₂",
+      "HO₂",
+      "H₂SO₄"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "44f35577dfd6acd990c1f562784a68633c0897ffc8a0b13877284c6cee292f8d",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What noble gas is used in glowing signs?",
+    "correct_answer": "Neon",
+    "choices": [
+      "Argon",
+      "Neon",
+      "Krypton",
+      "Xenon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "634618c2ed57b21e44e3da186e7f124634526518153243a3eb0c2eb82e18d4a8",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "What is the study of carbon-containing compounds called?",
+    "correct_answer": "Organic chemistry",
+    "choices": [
+      "Inorganic chemistry",
+      "Organic chemistry",
+      "Physical chemistry",
+      "Biochemistry"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "448ec5b621e7bca1f789a0ea3140e6a08e4e3d52bb6b5e17537f3f88c2b2c638",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Which acid is found in the stomach and helps digest food?",
+    "correct_answer": "Hydrochloric acid",
+    "choices": [
+      "Sulfuric acid",
+      "Nitric acid",
+      "Hydrochloric acid",
+      "Acetic acid"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2e73ab6503ffa03983b7564e3d478f57257816738952f89316372d78927529f0",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What is the SI unit of force?",
+    "correct_answer": "Newton",
+    "choices": [
+      "Joule",
+      "Newton",
+      "Pascal",
+      "Watt"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "25255588a185727feb72e64d2f8fdd3b17790c90bdec85c9c748190d94e05180",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the speed of sound in air at sea level approximately?",
+    "correct_answer": "343 m/s",
+    "choices": [
+      "150 m/s",
+      "343 m/s",
+      "700 m/s",
+      "1,000 m/s"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3e9ed50837ff74505e9ff7a9a7908b6bfd2a664451051315f994b1da19d99670",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What type of mirror is used in car side mirrors with the warning 'objects are closer than they appear'?",
+    "correct_answer": "Convex mirror",
+    "choices": [
+      "Concave mirror",
+      "Convex mirror",
+      "Plane mirror",
+      "Parabolic mirror"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e1c940a459745f29e9a39e567ab9f039c1c9102f2263ab3a9dbd7fc69865146e",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Which physicist developed the theory of general relativity?",
+    "correct_answer": "Albert Einstein",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Richard Feynman"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c7d0db4f783484b2ebc30d2c4e81bfc33327a6dadfe9c35c76339be9c94fb04e",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the phenomenon where a vibrating system responds more strongly at specific frequencies?",
+    "correct_answer": "Resonance",
+    "choices": [
+      "Diffraction",
+      "Resonance",
+      "Interference",
+      "Polarization"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "05bd1fa9f816046fbfb4720d397781a7be3c9f5574d2ca6e982f66968b8a187c",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What subatomic particle has a negative charge?",
+    "correct_answer": "Electron",
+    "choices": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Positron"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "69fae852071e4d7a445786c7e8a09feca5fa25c941741eb4678971db65084b25",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What is the SI unit of energy?",
+    "correct_answer": "Joule",
+    "choices": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Volt"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "8cc87740ca12e090157c2217e117f1d06ef672af2215f59ad53539f00d915690",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What is the term for the resistance of an object to change its state of motion?",
+    "correct_answer": "Inertia",
+    "choices": [
+      "Momentum",
+      "Inertia",
+      "Friction",
+      "Acceleration"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e5e3a1e716793cce198080e48482c9ea3d078128d6b7adae4ec9c3de2f383181",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What law describes the relationship between voltage, current, and resistance?",
+    "correct_answer": "Ohm's law",
+    "choices": [
+      "Faraday's law",
+      "Ohm's law",
+      "Coulomb's law",
+      "Ampere's law"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a18ebd835136f981ed4c2b37e94237be63db5b13c5f82889bd79441ff4190f05",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "What particle is made up of two quarks?",
+    "correct_answer": "Meson",
+    "choices": [
+      "Proton",
+      "Neutron",
+      "Meson",
+      "Baryon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "22e9bd82726662be76a39c9d42ddb66ffb0f4f6fe51af922fad715c087f635f7",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What does a transformer do?",
+    "correct_answer": "Changes voltage of alternating current",
+    "choices": [
+      "Changes voltage of direct current",
+      "Changes voltage of alternating current",
+      "Converts AC to DC",
+      "Stores electrical energy"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "ddd3d34a1c5c98204c77dbb6fbf37f7da83c37228d54f4f111a6c2c920c2d376",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the study of heat and its transformation called?",
+    "correct_answer": "Thermodynamics",
+    "choices": [
+      "Kinematics",
+      "Thermodynamics",
+      "Electromagnetism",
+      "Quantum mechanics"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4827de0362da405416edb333eca94be31b211d0e1e66aabf71141aca0a7f66d4",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What instrument is used to measure electric current?",
+    "correct_answer": "Ammeter",
+    "choices": [
+      "Voltmeter",
+      "Ammeter",
+      "Ohmmeter",
+      "Galvanometer"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "319c5ab87b9cd759196fe0fb6a3d40f62b455a26233e433c5712ee70de61ad37",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the process of a nucleus splitting into smaller nuclei called?",
+    "correct_answer": "Nuclear fission",
+    "choices": [
+      "Nuclear fusion",
+      "Nuclear fission",
+      "Radioactive decay",
+      "Ionization"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "0e05561041dab301762252533ce047dc102a57730d8660b0e80d201bfa40369b",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "What is the name of the principle that states no two fermions can occupy the same quantum state?",
+    "correct_answer": "Pauli exclusion principle",
+    "choices": [
+      "Heisenberg uncertainty principle",
+      "Pauli exclusion principle",
+      "Aufbau principle",
+      "Correspondence principle"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e767df084fc81b2980238cb220805bbf6784e21e027d3b6e0d85b6940cd581bd",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What color has the longest wavelength in visible light?",
+    "correct_answer": "Red",
+    "choices": [
+      "Red",
+      "Blue",
+      "Green",
+      "Violet"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2e8a341f9daf3ccbca6dbc124f26da4751b95491c760b0a65812a652accbd574",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the name for a material that has zero electrical resistance below a critical temperature?",
+    "correct_answer": "Superconductor",
+    "choices": [
+      "Semiconductor",
+      "Superconductor",
+      "Conductor",
+      "Insulator"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "972ad4a0fb57bffb6c35addbd6437a93434a4cc5eeaf6b49d598cf99f0b2a0b5",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Which simple machine is a sloped surface?",
+    "correct_answer": "Inclined plane",
+    "choices": [
+      "Lever",
+      "Inclined plane",
+      "Wedge",
+      "Screw"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "0849fec14525db30bb0c78280158e022c059b8ce687f1b83bb6b429dfb97a77b",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What is the SI unit of frequency?",
+    "correct_answer": "Hertz",
+    "choices": [
+      "Decibel",
+      "Hertz",
+      "Watt",
+      "Tesla"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2763baf94b50b472423ed2e0f8d9c55c5718021371f46e43180921322d284c79",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What phenomenon explains why the sky appears blue?",
+    "correct_answer": "Rayleigh scattering",
+    "choices": [
+      "Mie scattering",
+      "Rayleigh scattering",
+      "Raman scattering",
+      "Compton scattering"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "f4a28287bf296cd4d6f69b9729641439709f2a82ce582e514d09ea17bb1a1e33",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "A ball thrown upward at 10 m/s returns to its starting point. What is its final speed ignoring air resistance?",
+    "correct_answer": "10 m/s",
+    "choices": [
+      "0 m/s",
+      "5 m/s",
+      "10 m/s",
+      "20 m/s"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a0e44b0dbeca732ef5957885f9cfc61fe6688b7be8663c216588fb576516db7b",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What is the SI unit of pressure?",
+    "correct_answer": "Pascal",
+    "choices": [
+      "Bar",
+      "Pascal",
+      "PSI",
+      "Atmosphere"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "488f2f8cd7126afefeb8857203e1474f8180f05d2c89201dd9da4e0e2d78fad3",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What type of lens is thicker in the middle than at the edges?",
+    "correct_answer": "Convex lens",
+    "choices": [
+      "Concave lens",
+      "Convex lens",
+      "Cylindrical lens",
+      "Bifocal lens"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "45d7f043141822e30e9a768f6660cbc505c902432ba6e48439a400d097bc137d",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What happens to the pitch of a sound when the frequency increases?",
+    "correct_answer": "It gets higher",
+    "choices": [
+      "It gets lower",
+      "It gets higher",
+      "It stays the same",
+      "It disappears"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9837c1e412057e56ec41887814c1e562c41f93b83e199246c26a52e5866e12fc",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Which fundamental force is responsible for holding the nucleus of an atom together?",
+    "correct_answer": "Strong nuclear force",
+    "choices": [
+      "Electromagnetic force",
+      "Strong nuclear force",
+      "Weak nuclear force",
+      "Gravitational force"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "0e926560bdf9a6055b26012721851f542eeac1a43a20f405a3b8cbfe499740aa",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "What is the name for the minimum energy needed to remove an electron from an atom?",
+    "correct_answer": "Ionization energy",
+    "choices": [
+      "Electron affinity",
+      "Ionization energy",
+      "Binding energy",
+      "Activation energy"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3920ecf5292c9383ed794d5c3a1ff3e761372935c1209a40afd510279ca4c7ed",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the formula for kinetic energy?",
+    "correct_answer": "½ mv²",
+    "choices": [
+      "mv",
+      "½ mv²",
+      "mgh",
+      "½ kx²"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "efab198cda4449b96e4b021dc05172f56c04a8b196bbbf0b76f19a27f59454a6",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What phenomenon causes the pitch of a siren to change as it passes by?",
+    "correct_answer": "Doppler effect",
+    "choices": [
+      "Doppler effect",
+      "Photoelectric effect",
+      "Greenhouse effect",
+      "Butterfly effect"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "fe7b4067db36e6948a94fdd234f8837d1dc6593bd562d8c7b5f006a0dd8285b6",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What kind of wave is light?",
+    "correct_answer": "Electromagnetic wave",
+    "choices": [
+      "Mechanical wave",
+      "Electromagnetic wave",
+      "Longitudinal wave",
+      "Gravitational wave"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b01a55d9fcfd036de0c5b4d8463dee6cb4a53443239aa0f5684d870039accdc9",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the SI unit of electric charge?",
+    "correct_answer": "Coulomb",
+    "choices": [
+      "Ampere",
+      "Volt",
+      "Coulomb",
+      "Farad"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "685b7b25b20de9e2572026f0219769714d40c31a0a401e0af8ff8c8f1fb5528f",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What does a barometer measure?",
+    "correct_answer": "Atmospheric pressure",
+    "choices": [
+      "Temperature",
+      "Humidity",
+      "Atmospheric pressure",
+      "Wind speed"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "429293b2f2cd662420403e43e9920680886ecfb7c080f67cc62f71f44c2fda42",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What is the branch of physics that studies the behavior of particles at the atomic and subatomic level?",
+    "correct_answer": "Quantum mechanics",
+    "choices": [
+      "Classical mechanics",
+      "Quantum mechanics",
+      "Thermodynamics",
+      "Relativity"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "1f37574caf6b8ff47629d4031d985865333c8abaa725483bfcd610f95215fdfa",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What device converts mechanical energy into electrical energy?",
+    "correct_answer": "Generator",
+    "choices": [
+      "Motor",
+      "Generator",
+      "Transformer",
+      "Rectifier"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c4ec49cc9f28e3ca8129465e456da86a97107f1dffb26cb1618cc1ca6f688091",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the unit of measurement for the intensity of sound?",
+    "correct_answer": "Decibel",
+    "choices": [
+      "Hertz",
+      "Decibel",
+      "Watt per square meter",
+      "Lumen"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "faf8f9ee6535e62f8b914b632147df3539a198971786cf4cfb9be615c70c1b5d",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What force keeps planets orbiting the Sun?",
+    "correct_answer": "Gravity",
+    "choices": [
+      "Gravity",
+      "Magnetism",
+      "Friction",
+      "Nuclear force"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e61ae47ac8556f1f4ff4cbb70dc8b0807bbef7f06877921a94333fd4d9aa1c79",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is the speed of light in a vacuum approximately equal to?",
+    "correct_answer": "300,000 km/s",
+    "choices": [
+      "150,000 km/s",
+      "300,000 km/s",
+      "500,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "334bca231b4dc5c2cad306330611dffce9d825e732a71e67cb74a5bef2403f72",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "What particle is responsible for carrying the electromagnetic force?",
+    "correct_answer": "Photon",
+    "choices": [
+      "Gluon",
+      "Photon",
+      "Graviton",
+      "Meson"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e3e22bbb6eda3c323bf111d5b604b39535c1820771229cea6d5af84d0df7b2e0",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "When temperature increases at constant pressure, what happens to the volume of a gas?",
+    "correct_answer": "It expands",
+    "choices": [
+      "It contracts",
+      "It expands",
+      "It stays the same",
+      "It ionizes"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "820c81525461febce0006cb7a7b1dc5af4fbf11af38a4d5ede944ebb245f5ece",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Which of these is a scalar quantity?",
+    "correct_answer": "Mass",
+    "choices": [
+      "Velocity",
+      "Force",
+      "Mass",
+      "Acceleration"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "aa331fade9fedbb5ef54189732ae4cf1bc6ce67ba1b7d1b9338d6423574c36c4",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What is the SI unit of electric current?",
+    "correct_answer": "Ampere",
+    "choices": [
+      "Volt",
+      "Watt",
+      "Ampere",
+      "Ohm"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "747a8950117a8ff6b04d1ed492f3013e8ab68947f18831315107f7d0b7598be6",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What phenomenon causes a straw to appear bent when placed in a glass of water?",
+    "correct_answer": "Refraction",
+    "choices": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Absorption"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4c12e46e8a68b1d02a397c4c663f85585add2622c38c4bac60f2be9cde161d9e",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Approximately how long is the half-life of Carbon-14?",
+    "correct_answer": "5,730 years",
+    "choices": [
+      "1,000 years",
+      "5,730 years",
+      "10,000 years",
+      "25,000 years"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a5da2fd073e1cdd868de9ee22814ee1dce56a788bbf9d78154defe82313bf7db",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What type of energy does a moving car primarily have?",
+    "correct_answer": "Kinetic energy",
+    "choices": [
+      "Potential energy",
+      "Kinetic energy",
+      "Thermal energy",
+      "Chemical energy"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "b867741080871ee68097be37f816414387f799941d51935af9597ba63c8acf63",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Which law states that every action has an equal and opposite reaction?",
+    "correct_answer": "Newton's third law",
+    "choices": [
+      "Newton's first law",
+      "Newton's second law",
+      "Newton's third law",
+      "The law of universal gravitation"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3a2e325f15e8376b46846affcb13b7da9a685ca9943e42a0436feb598a78e610",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "What is the name of the theoretical particle that gives other particles mass?",
+    "correct_answer": "Higgs boson",
+    "choices": [
+      "Higgs boson",
+      "Tachyon",
+      "Neutrino",
+      "Gluon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3d98113ba0b885b842e769fddf0432cade3bdd2e34c6392ddfee60a1af8891a5",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What color is the sky due to the scattering of sunlight by the atmosphere?",
+    "correct_answer": "Blue",
+    "choices": [
+      "Red",
+      "Blue",
+      "Green",
+      "Violet"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "d6c5195357e6a8b193b7e7e63bde750331bbba3831fe12749d4edfa44648b0a9",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What does a prism do to white light?",
+    "correct_answer": "Splits it into its component colors",
+    "choices": [
+      "Absorbs all colors",
+      "Splits it into its component colors",
+      "Converts it to ultraviolet",
+      "Doubles its intensity"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7e230d1f3a19ea520d8e7e3f1527e19b1bc094d9cbb3bb62a2536521701a8894",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "What is absolute zero in degrees Celsius?",
+    "correct_answer": "-273.15°C",
+    "choices": [
+      "-100°C",
+      "-200°C",
+      "-273.15°C",
+      "-373.15°C"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a1beef8c29b41b97d8dcc4cfba16c216b620ec8d8b7342bdfa9831b48877e8c1",
+    "language": "en"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "What type of wave is sound?",
+    "correct_answer": "A longitudinal wave",
+    "choices": [
+      "A transverse wave",
+      "A longitudinal wave",
+      "An electromagnetic wave",
+      "A surface wave"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9eacc5d54c2365e8506a3d12f20e3f7601152ba2eca3e55bf07ff167c02a605f",
+    "language": "en"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "What is the chemical symbol for water?",
+    "correct_answer": "H₂O",
+    "choices": [
+      "H₂O",
+      "CO₂",
+      "NaCl",
+      "O₂"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "190e1da45c85d4bb1870e615b19fc52235d2cc7a5cd6474662a858090f2e2a95",
+    "language": "en"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "29d94c03115d917cb2394aa19122187f5bd843caaddb249b1e22765c485754a5",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'URL' stand for?",
+    "correct_answer": "Uniform Resource Locator",
+    "choices": [
+      "Universal Resource Locator",
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Unified Resource Language"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9a974f8d8d1914b9d4594871323e89ecd4d3c9101907e775184a93c20cac5b28",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What programming language was created by James Gosling at Sun Microsystems?",
+    "correct_answer": "Java",
+    "choices": [
+      "C++",
+      "Java",
+      "Python",
+      "Ruby"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4b27ca54d9f024aa247a9bc360e77b0360e82b69887bc4f47bd161846cf7cdae",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'SSD' stand for?",
+    "correct_answer": "Solid State Drive",
+    "choices": [
+      "Solid State Drive",
+      "Super Speed Disk",
+      "System Storage Device",
+      "Solid Storage Disk"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "cdb689701d8b93a48244929321e3f3113014cd37943796b397691803c44ede42",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "In what year was Google founded?",
+    "correct_answer": "1998",
+    "choices": [
+      "1995",
+      "1998",
+      "2000",
+      "2004"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "2d53cc4bf97e82f42fe8afcc98c3807f2e0fe489aa5ae63666e6e7c0bccb296d",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What does 'DNS' stand for?",
+    "correct_answer": "Domain Name System",
+    "choices": [
+      "Digital Network Service",
+      "Domain Name System",
+      "Data Network Security",
+      "Dynamic Name Server"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "3e82a6a5ab51c1cb393a721d85266b0aaf49ab6d7a98a7d9e40ec4f7d6c2399f",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What is the most popular programming language as of 2024?",
+    "correct_answer": "Python",
+    "choices": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "f28bdae610018481584f5ee702f65715d94eca937981df54070edfbeb0875c30",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'VPN' stand for?",
+    "correct_answer": "Virtual Private Network",
+    "choices": [
+      "Virtual Public Network",
+      "Virtual Private Network",
+      "Very Private Network",
+      "Verified Private Network"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "d81d6acc2b62e41a5471222088a54602ac1898d6ae485addd214e90190ad5e5b",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Who co-founded Apple Computer with Steve Jobs?",
+    "correct_answer": "Steve Wozniak",
+    "choices": [
+      "Bill Gates",
+      "Steve Wozniak",
+      "Tim Cook",
+      "Jony Ive"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "67fac95c8994b612242a4fc426ac5054387b96695893f1890fc480fa8c220c39",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'IoT' stand for?",
+    "correct_answer": "Internet of Things",
+    "choices": [
+      "Input Output Terminal",
+      "Internet of Things",
+      "Integrated Operating Technology",
+      "Internal Object Tracking"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "49624d10eb7559846f996645e1cd759336f8b13796e831e58876ce2e5f9a3b9c",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "What caching system is commonly used with PHP for key-value storage?",
+    "correct_answer": "Redis",
+    "choices": [
+      "MySQL",
+      "Redis",
+      "MongoDB",
+      "SQLite"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4bdc775cfbaf8d0873fece411873cc7a738c959a7decce24dc6cfb265542ef6d",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'HTML' stand for?",
+    "correct_answer": "HyperText Markup Language",
+    "choices": [
+      "HyperText Markup Language",
+      "High Tech Modern Language",
+      "HyperTransfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "ba13965702607683472e07711003cc02d976f6753f92a29991f93372d0018341",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "What is the name of the first web browser?",
+    "correct_answer": "WorldWideWeb",
+    "choices": [
+      "Mosaic",
+      "Netscape",
+      "WorldWideWeb",
+      "Internet Explorer"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "5669a99e9e7f5f6062eb469a2f7780dc0a5f1475c4756eaa6f389053964b7bfd",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'JSON' stand for?",
+    "correct_answer": "JavaScript Object Notation",
+    "choices": [
+      "JavaScript Object Notation",
+      "Java Standard Output Network",
+      "JavaScript Online Notation",
+      "Java Serialized Object Node"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "6aa04ad86b594cad926cab3e1dec7fe8bf0b53557154b8c738df7f99c4b97e74",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Which company developed the Android operating system?",
+    "correct_answer": "Google",
+    "choices": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Samsung"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "afeb7afbd410fc1ccfd8c4a81edcdbe9d07ea6526de9918a1357853b3c824544",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What is the term for a type of malware that encrypts files and demands payment?",
+    "correct_answer": "Ransomware",
+    "choices": [
+      "Virus",
+      "Ransomware",
+      "Spyware",
+      "Trojan"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4a5584c75bc0a82d4696894bb3f2b4ee612ed392d827833a80ead5fe148a5d0c",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'AI' stand for?",
+    "correct_answer": "Artificial Intelligence",
+    "choices": [
+      "Automated Interface",
+      "Artificial Intelligence",
+      "Advanced Integration",
+      "Automated Intelligence"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4c82732a41399798b355bf813099cd0055ec74aba7bdc7e4f35230483440309c",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Which company created the first commercially successful smartphone?",
+    "correct_answer": "Apple",
+    "choices": [
+      "Nokia",
+      "Apple",
+      "BlackBerry",
+      "IBM"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "0c95a638e96bf761b62db54118b425d144838a86b1418b45a94b2db430790310",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'USB' stand for?",
+    "correct_answer": "Universal Serial Bus",
+    "choices": [
+      "Universal Serial Bus",
+      "Universal System Board",
+      "Unified Serial Bus",
+      "Universal Signal Bridge"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "467cdd1ce7dbd7492c62288d7fdab3f78d910300bd003720b0ac930e07b7f677",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What programming paradigm is based on the concept of 'objects' that contain data and code?",
+    "correct_answer": "Object-oriented programming",
+    "choices": [
+      "Functional programming",
+      "Object-oriented programming",
+      "Procedural programming",
+      "Declarative programming"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "de5848b6e82b07fcd2783fd6fd1b649e6974eacce424d2125c03079f8fe6df92",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What does 'BIOS' stand for?",
+    "correct_answer": "Basic Input Output System",
+    "choices": [
+      "Binary Input Output System",
+      "Basic Input Output System",
+      "Boot Integrated Operating System",
+      "Basic Integrated Operating System"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c729ad51e52964cbf4bfaf1706504bdfbd20951b425314c78671b67e6752fd20",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Which company developed the Swift programming language?",
+    "correct_answer": "Apple",
+    "choices": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "JetBrains"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a7a21ce441130e6a743997e5a821fbf9e81772d6796c76dcb2d5428e7fea97ce",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What is the term for a computer network that is restricted to a single building or campus?",
+    "correct_answer": "LAN (Local Area Network)",
+    "choices": [
+      "WAN (Wide Area Network)",
+      "LAN (Local Area Network)",
+      "MAN (Metropolitan Area Network)",
+      "PAN (Personal Area Network)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a0ca687a5abcb526b422a63a9d45ca6aa17b674789c852ee87f6ec990a89f1b7",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "What does 'YAML' stand for?",
+    "correct_answer": "YAML Ain't Markup Language",
+    "choices": [
+      "Yet Another Markup Language",
+      "YAML Ain't Markup Language",
+      "YAML Advanced Markup Language",
+      "Yet Another Modeling Language"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "64a05c272e5b96fd67f7374edd95d8b0ccd476f0789bde1e3f6f51e5aaa35707",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Which company owns the GitHub platform?",
+    "correct_answer": "Microsoft",
+    "choices": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "IBM"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "9641952142171551ee11a8a0cb35a9ea4281671e11a3ce362b387cbdc304e0ee",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What does 'APK' stand for in Android?",
+    "correct_answer": "Android Package Kit",
+    "choices": [
+      "Android Platform Kit",
+      "Android Package Kit",
+      "Application Package Key",
+      "Android Program Kernel"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "13658ce8e7dad04c3aab81891773e4720da3c801b90ab41bcfe9113251f6152f",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What programming language is primarily used for iOS app development?",
+    "correct_answer": "Swift",
+    "choices": [
+      "Kotlin",
+      "Swift",
+      "Java",
+      "C#"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "71037bbaa306915224d2c3639b2899cf42f7bcc70252a1041e572190295d2263",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What is the concept of splitting a program into small, reusable pieces called?",
+    "correct_answer": "Modular programming",
+    "choices": [
+      "Spaghetti code",
+      "Modular programming",
+      "Monolithic architecture",
+      "Event-driven programming"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "80eb20e6a82f6a75757819dc594401155e4cd0600992eb4c5fc8c98ff5ad2c26",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'CLI' stand for?",
+    "correct_answer": "Command Line Interface",
+    "choices": [
+      "Command Line Interface",
+      "Central Logic Interface",
+      "Computer Language Interpreter",
+      "Code Language Integration"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e55ff781b91b2e1af39042b34743ca20e2b0652f6ca889f89f55ccd487a4902f",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "What was the first commercially successful video game console?",
+    "correct_answer": "Atari 2600",
+    "choices": [
+      "Magnavox Odyssey",
+      "Atari 2600",
+      "Nintendo Entertainment System",
+      "ColecoVision"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "c63d0793bf271d02d500303f6369354ad4081de7c3658fb26bbcbd5b7616bf7b",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What does 'SSL' stand for?",
+    "correct_answer": "Secure Sockets Layer",
+    "choices": [
+      "Secure System Link",
+      "Secure Sockets Layer",
+      "Server Side Logic",
+      "Safe Socket Login"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "d00c87f042550232058bb432d8e763e776630060793a7bde93501610fa0ac258",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'CPU' stand for?",
+    "correct_answer": "Central Processing Unit",
+    "choices": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Core Process Utility",
+      "Central Program Unit"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "46cd903816cd76373275f73ddc81bb8c9d3f761dff01a4aa45fe1359546e84c7",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'HTTP' stand for?",
+    "correct_answer": "HyperText Transfer Protocol",
+    "choices": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Transmission Process",
+      "High Technology Transfer Program"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "4b5eacba1585b67866498d8b8c2df1bdcac7d174d66bb8b60b10304c572530b8",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What is the binary representation of the decimal number 15?",
+    "correct_answer": "1111",
+    "choices": [
+      "1010",
+      "1100",
+      "1111",
+      "1000"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "d887ce55771a3b258c9262c18fc6caa467866417a2ea41b961fe033461fbdc8d",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'RAM' stand for?",
+    "correct_answer": "Random Access Memory",
+    "choices": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Application Module",
+      "Run Application Manager"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e34ea007a9b2bfa62179e889f39bf3bc59b5c33402babd97b8ae7a2e92636ed9",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Who is considered the father of computer science?",
+    "correct_answer": "Alan Turing",
+    "choices": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "a0cb82f33dd460046d6068b7d5cd05e37a7877e783982ec442a1545fce4685ad",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does the 'S' in 'HTTPS' stand for?",
+    "correct_answer": "Secure",
+    "choices": [
+      "Socket",
+      "System",
+      "Secure",
+      "Server"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "754ac5ab486d667bd1c2d5cc054c7005f3cf579488e29c9a092ab2a5a7f65a45",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "What was the name of the first electronic general-purpose computer?",
+    "correct_answer": "ENIAC",
+    "choices": [
+      "Colossus",
+      "ENIAC",
+      "UNIVAC",
+      "IBM 701"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "e49c9aab7757370bcc2047842f8d09c9491fd1e66b05a14d70a31a9c13fc4e3c",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What does 'SQL' stand for?",
+    "correct_answer": "Structured Query Language",
+    "choices": [
+      "Simple Query Language",
+      "Structured Query Language",
+      "Standard Query Logic",
+      "Sequential Query Language"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "d497461bae63c9240e2f2f6af7de61c7a11f6df942c54c616558390b280f4f59",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "In what year was the World Wide Web invented?",
+    "correct_answer": "1989",
+    "choices": [
+      "1975",
+      "1989",
+      "1995",
+      "2001"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "181c24c6c5393d83267daafdd2e807d625a44aa8a1538723ef2b291abc45efb5",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'IP' stand for in networking?",
+    "correct_answer": "Internet Protocol",
+    "choices": [
+      "Internet Protocol",
+      "Internal Process",
+      "Information Provider",
+      "Integrated Platform"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "0d1f31f28fffe2e71e0dddeb593c4aeb0b18f0dc889ee228ef4b31adba73752c",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "What programming language is Python written in?",
+    "correct_answer": "C",
+    "choices": [
+      "Java",
+      "C",
+      "C++",
+      "Assembly"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "631de33b7f774526e4723020fd8e18da396aff66cacf0310cb9e7b7b21d7f6d2",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'CSS' stand for in web development?",
+    "correct_answer": "Cascading Style Sheets",
+    "choices": [
+      "Creative Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style System",
+      "Colorful Style Sheets"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "7d5c0706b65c38265c25ba215698b77ba0d67a60cc3623ca30526aa5b5b360c9",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "What is the most widely used operating system for web servers?",
+    "correct_answer": "Linux",
+    "choices": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "FreeBSD"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "49acbb9485d1954b17fe97ccc57e159c1c6384414fa812c728b0d29f72a6b2dd",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "What does 'API' stand for?",
+    "correct_answer": "Application Programming Interface",
+    "choices": [
+      "Application Programming Interface",
+      "Advanced Program Integration",
+      "Automatic Process Instruction",
+      "Application Protocol Interface"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "aa9da642ce6ba0b4638c1af01708901e8cb6ffa61739e03effd4622572751618",
+    "language": "en"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "What is the name of the first computer virus?",
+    "correct_answer": "Creeper",
+    "choices": [
+      "ILOVEYOU",
+      "Melissa",
+      "Creeper",
+      "Morris Worm"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "translation_key": "548a177841c789a3414afeb99ede83cbecba0d3456b29360957e4b6c1f4db47d",
+    "language": "en"
+  }
+]

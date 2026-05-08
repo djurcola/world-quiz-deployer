@@ -5,7 +5,8 @@ set -euo pipefail
 # Usage: sudo bash install.sh [SPACETIME_PUBLIC_URI]
 #
 # This script installs SpacetimeDB, publishes the pre-built module,
-# creates systemd services, and starts everything.
+# loads questions via publish-questions.sh, creates systemd services,
+# and starts everything.
 # Safe to re-run on an existing deployment — it will update files and
 # restart services WITHOUT clearing the database.
 #
@@ -62,7 +63,15 @@ info "SpacetimeDB local port: ${SPACETIME_PORT}"
 info "Web server local port:  ${WEB_PORT}"
 
 # --- 0. Install prerequisites ---
-for cmd in curl git python3 systemctl rsync openssl; do
+for cmd in curl git python3 systemctl rsync openssl node npm; do
+    if [[ "$cmd" == "node" || "$cmd" == "npm" ]]; then
+        # Node.js is only needed for publishing questions, not critical for install
+        if ! command -v "$cmd" &>/dev/null; then
+            warn "${cmd} is not installed. It is required to publish questions after deployment."
+            warn "Install Node.js 20+ before running publish-questions.sh."
+        fi
+        continue
+    fi
     if ! command -v "$cmd" &>/dev/null; then
         log "Installing missing prerequisite: ${cmd}..."
         if command -v apt-get &>/dev/null; then
@@ -230,7 +239,7 @@ if su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} logs wor
 fi
 
 if [[ "$CLEAR_DATABASE" == "true" ]]; then
-    warn "You are about to WIPE all existing game data (rooms, players, scores)."
+    warn "You are about to WIPE all existing game data (rooms, players, scores, and questions)."
     read -p "Are you sure? Type 'yes' to continue: " confirm
     if [[ "$confirm" != "yes" ]]; then
         log "Aborted."
@@ -238,9 +247,9 @@ if [[ "$CLEAR_DATABASE" == "true" ]]; then
     fi
     log "Publishing World Quiz module with --clear-database (wiping existing data)..."
     su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm --clear-database -y"
-    log "Module published and questions seeded."
+    log "Module published. Questions are empty — run publish-questions.sh to load them."
 elif [[ "$UPDATE_MODULE" == "true" ]]; then
-    log "Updating World Quiz module (preserves existing rooms, players, and scores)..."
+    log "Updating World Quiz module (preserves existing rooms, players, scores, and questions)..."
     su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm -y"
     log "Module updated successfully."
 elif [[ "$MODULE_EXISTS" == "true" ]]; then
@@ -250,9 +259,21 @@ elif [[ "$MODULE_EXISTS" == "true" ]]; then
     log "If you need to wipe data, run:"
     log "  sudo bash install.sh --clear-database"
 else
-    log "Publishing World Quiz module for the first time (this seeds all questions across 5 themes)..."
+    log "Publishing World Quiz module for the first time..."
     su "${SERVICE_USER}" -c "HOME=/home/${SERVICE_USER} ${SPACETIME_CLI} publish world-quiz --server ${LOCAL_SERVER_URL} --no-config -b ${APP_DIR}/server.wasm --clear-database -y"
-    log "Module published and questions seeded."
+    log "Module published. Questions are empty — run publish-questions.sh to load them."
+fi
+
+# --- 8b. Publish questions (only after fresh publish or clear-database) ---
+if [[ "$CLEAR_DATABASE" == "true" ]] || [[ "$MODULE_EXISTS" == "false" ]]; then
+    if command -v node &>/dev/null && command -v npm &>/dev/null; then
+        log "Publishing questions to the database..."
+        su "${SERVICE_USER}" -c "cd ${APP_DIR} && bash ${APP_DIR}/publish-questions.sh"
+    else
+        warn "Node.js/npm not found. Skipping automatic question publishing."
+        warn "To publish questions manually after installing Node.js 20+:"
+        warn "  sudo bash ${APP_DIR}/publish-questions.sh"
+    fi
 fi
 
 if [[ "$IS_RERUN" == "true" ]]; then

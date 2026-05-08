@@ -1,0 +1,2914 @@
+[
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué celebridad es conocida por la canción 'Shake It Off'?",
+    "correct_answer": "Taylor Swift",
+    "choices": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Lady Gaga",
+      "Katy Perry"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6e50061e-b750-4bdd-9bc3-9e0e3cdd4703"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel?",
+    "correct_answer": "Robert Downey Jr.",
+    "choices": [
+      "Robert Downey Jr.",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Chris Evans"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "e6ba225f-0abc-431d-a19b-178ec7bcfc94"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué celebridad fundó la empresa 'Fenty Beauty'?",
+    "correct_answer": "Rihanna",
+    "choices": [
+      "Rihanna",
+      "Beyoncé",
+      "Kylie Jenner",
+      "Selena Gomez"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6fd3824c-a9ff-4013-ab45-8b14477ff373"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "¿Quién es la persona más joven en ganar un Premio Nobel?",
+    "correct_answer": "Malala Yousafzai",
+    "choices": [
+      "Malala Yousafzai",
+      "Albert Einstein",
+      "Martin Luther King Jr.",
+      "Marie Curie"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5ed5492a-70e2-4814-a781-9b3313927724"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actriz interpretó a Hermione Granger en las películas de Harry Potter?",
+    "correct_answer": "Emma Watson",
+    "choices": [
+      "Emma Watson",
+      "Natalie Portman",
+      "Emma Roberts",
+      "Emma Stone"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5832316e-c7f7-4189-b253-07566a3b4eec"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién es el atleta olímpico más condecorado de todos los tiempos?",
+    "correct_answer": "Michael Phelps",
+    "choices": [
+      "Michael Phelps",
+      "Simone Biles",
+      "Usain Bolt",
+      "Carl Lewis"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "dcc67fee-68cf-42d1-a4bf-42408b24e793"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué pareja de celebridades era ampliamente conocida como 'Brangelina'?",
+    "correct_answer": "Brad Pitt y Angelina Jolie",
+    "choices": [
+      "David y Victoria Beckham",
+      "Jay-Z y Beyoncé",
+      "Ben Affleck y Jennifer Lopez",
+      "Brad Pitt y Angelina Jolie"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "04420f21-af35-44a3-81b6-3bc492b32de7"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actor interpretó a Walter White en 'Breaking Bad'?",
+    "correct_answer": "Bryan Cranston",
+    "choices": [
+      "Bryan Cranston",
+      "Jon Hamm",
+      "Matthew McConaughey",
+      "Kevin Spacey"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "8adc706f-9489-4938-9042-4061dd662ca4"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién fue la primera mujer multimillonaria en ganar su fortuna sin heredarla?",
+    "correct_answer": "Oprah Winfrey",
+    "choices": [
+      "J.K. Rowling",
+      "Oprah Winfrey",
+      "Martha Stewart",
+      "Madonna"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "95300a3e-b934-41f6-9af7-aa32f4f06c23"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué músico es conocido por usar un vestido de carne en los MTV Video Music Awards de 2010?",
+    "correct_answer": "Lady Gaga",
+    "choices": [
+      "Madonna",
+      "Nicki Minaj",
+      "Katy Perry",
+      "Lady Gaga"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "bb88e439-aaf1-4cc3-bf5d-8e4a17059bb6"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "¿Quién adaptó 'The Office' para la televisión estadounidense?",
+    "correct_answer": "Greg Daniels",
+    "choices": [
+      "Greg Daniels",
+      "Michael Schur",
+      "Steve Carell",
+      "Ricky Gervais"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "bbc4eb5d-eac7-4066-bac3-30343bd723d6"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "¿Qué celebridad ha ganado la mayor cantidad de Premios Grammy?",
+    "correct_answer": "Beyoncé",
+    "choices": [
+      "Michael Jackson",
+      "Stevie Wonder",
+      "Beyoncé",
+      "Quincy Jones"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "230b319e-92fd-4bdc-a7ce-2241e1087528"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actor protagonizó como Jack Dawson en la película 'Titanic'?",
+    "correct_answer": "Leonardo DiCaprio",
+    "choices": [
+      "Brad Pitt",
+      "Tom Cruise",
+      "Matt Damon",
+      "Leonardo DiCaprio"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1eacacaf-2e36-4e8d-a2f4-b032b2665f33"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Quién es el presentador de 'The Tonight Show Starring Jimmy Fallon'?",
+    "correct_answer": "Jimmy Fallon",
+    "choices": [
+      "Seth Meyers",
+      "Jimmy Kimmel",
+      "Jimmy Fallon",
+      "Stephen Colbert"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "0eb6862d-1954-4f6a-8d84-cb8b0e823f49"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué chef famoso es conocido por la frase '¡Bam!' y posee un imperio de restaurantes?",
+    "correct_answer": "Emeril Lagasse",
+    "choices": [
+      "Bobby Flay",
+      "Gordon Ramsay",
+      "Anthony Bourdain",
+      "Emeril Lagasse"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "9e875941-0ebb-4def-8139-a7ee72975cfa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película presenta al personaje Forrest Gump?",
+    "correct_answer": "Forrest Gump",
+    "choices": [
+      "Forrest Gump",
+      "The Green Mile",
+      "Big",
+      "Cast Away"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f050e9dd-ff8b-46ca-8da0-eff03bfd98e2"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Quién dirigió 'Jurassic Park'?",
+    "correct_answer": "Steven Spielberg",
+    "choices": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b8fbdbd4-5ae1-41a4-b029-2569b70a0d0e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Quién dirigió 'Pulp Fiction'?",
+    "correct_answer": "Quentin Tarantino",
+    "choices": [
+      "Hermanos Coen",
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "David Fincher"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "4956cb31-998d-4f43-9df5-d37a1d08d4b4"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Qué película ganó el primer Premio de la Academia a la Mejor Película?",
+    "correct_answer": "Wings",
+    "choices": [
+      "The Jazz Singer",
+      "Wings",
+      "Metropolis",
+      "Sunrise"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3be00128-0763-454e-9b9a-7babb174151e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el metal ficticio en el universo Marvel que recubre las garras de Wolverine?",
+    "correct_answer": "Adamantium",
+    "choices": [
+      "Vibranium",
+      "Carbonadium",
+      "Adamantium",
+      "Uru"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "32264ba6-58ba-4be3-8c34-acc44ba9d9ea"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Qué película incluye la famosa frase 'Here's looking at you, kid'?",
+    "correct_answer": "Casablanca",
+    "choices": [
+      "Casablanca",
+      "Gone with the Wind",
+      "The Maltese Falcon",
+      "Citizen Kane"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f3b29413-fada-45d4-a395-0af87eed781d"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Quién interpretó al Joker en 'The Dark Knight'?",
+    "correct_answer": "Heath Ledger",
+    "choices": [
+      "Jared Leto",
+      "Heath Ledger",
+      "Joaquin Phoenix",
+      "Jack Nicholson"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "43fe9c2a-82a7-4a23-94cc-d5d73ce86b16"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre del país africano ficticio en 'Black Panther'?",
+    "correct_answer": "Wakanda",
+    "choices": [
+      "Genovia",
+      "Wakanda",
+      "Zamunda",
+      "Latveria"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "8e3bee00-84d0-442b-8581-c3edba3058ae"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Qué película presenta un personaje llamado Trinity?",
+    "correct_answer": "The Matrix",
+    "choices": [
+      "The Fifth Element",
+      "The Matrix",
+      "The Terminator",
+      "Blade Runner"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "8f256591-8d44-4727-b614-8ba07c8d83b3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre del dinosaurio antagonista principal en 'Jurassic Park'?",
+    "correct_answer": "Tyrannosaurus rex",
+    "choices": [
+      "Velociraptor",
+      "Tyrannosaurus rex",
+      "Brachiosaurus",
+      "Dilophosaurus"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "993399cf-614b-4e68-851b-d61899ad6174"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película presenta un tiburón asesino aterrorizando una ciudad costera?",
+    "correct_answer": "Jaws",
+    "choices": [
+      "The Shallows",
+      "Deep Blue Sea",
+      "Sharknado",
+      "Jaws"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "d46da805-d7d7-4244-8250-09254ca3e3a7"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Quién dirigió 'Inception'?",
+    "correct_answer": "Christopher Nolan",
+    "choices": [
+      "Christopher Nolan",
+      "David Lynch",
+      "Denis Villeneuve",
+      "Ridley Scott"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "2372548f-3b98-48db-8c30-c160e4e57a5b"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es la película más taquillera de todos los tiempos (sin ajustar por inflación)?",
+    "correct_answer": "Avatar",
+    "choices": [
+      "Avatar",
+      "Star Wars: The Force Awakens",
+      "Titanic",
+      "Avengers: Endgame"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a1726a9f-c801-4390-ac6d-2b98d860af47"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Qué película ganó el Premio de la Academia a la Mejor Película en 2020?",
+    "correct_answer": "Parasite",
+    "choices": [
+      "Joker",
+      "1917",
+      "Once Upon a Time in Hollywood",
+      "Parasite"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "e477dfd8-b2bc-4025-b09d-445013e534ed"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre de la escuela de magia ficticia en las películas de Harry Potter?",
+    "correct_answer": "Hogwarts",
+    "choices": [
+      "Ilvermorny",
+      "Hogwarts",
+      "Durmstrang",
+      "Beauxbatons"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f825e5f1-87a0-4f40-9f4d-6ed2faa48a06"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué banda lanzó el álbum 'Abbey Road'?",
+    "correct_answer": "The Beatles",
+    "choices": [
+      "Led Zeppelin",
+      "The Who",
+      "The Beatles",
+      "The Rolling Stones"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "57bbb99f-ca92-489c-aac6-2c1c169f782a"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el álbum más vendido de todos los tiempos?",
+    "correct_answer": "Thriller",
+    "choices": [
+      "The Dark Side of the Moon",
+      "Abbey Road",
+      "Back in Black",
+      "Thriller"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1d8db3c6-5014-49ee-90f7-875bc91dd87e"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Quién es conocido como el 'Rey del Pop'?",
+    "correct_answer": "Michael Jackson",
+    "choices": [
+      "Elvis Presley",
+      "Michael Jackson",
+      "Madonna",
+      "Prince"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "615ad9e1-a81f-4e7e-b571-75db8fd3a6be"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Cuántas teclas tiene un piano estándar?",
+    "correct_answer": "88",
+    "choices": [
+      "88",
+      "92",
+      "76",
+      "108"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "089e2d6c-e45d-4dd5-a06e-0e961b7f4439"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "¿Cuál fue el primer video musical transmitido en MTV?",
+    "correct_answer": "Video Killed the Radio Star",
+    "choices": [
+      "Video Killed the Radio Star",
+      "Radio Ga Ga",
+      "Like a Virgin",
+      "Billie Jean"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "06da090c-4434-443e-8966-71b1269e0666"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué compositor escribió 'Las cuatro estaciones'?",
+    "correct_answer": "Vivaldi",
+    "choices": [
+      "Bach",
+      "Beethoven",
+      "Mozart",
+      "Vivaldi"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "0a9fb2bd-2aa8-4f9c-b6c2-11489e60e0ff"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué género musical se originó en Nueva Orleans a principios del siglo XX?",
+    "correct_answer": "Jazz",
+    "choices": [
+      "Rock and roll",
+      "Blues",
+      "Country",
+      "Jazz"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "ae676840-d079-4c52-a1e0-64e5dda2eee0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué artista lanzó el álbum 'Purple Rain'?",
+    "correct_answer": "Prince",
+    "choices": [
+      "Prince",
+      "David Bowie",
+      "Michael Jackson",
+      "Lenny Kravitz"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "befca16d-7dc9-4fd8-ab60-f45871131aa6"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué término musical significa 'gradualmente más fuerte'?",
+    "correct_answer": "Crescendo",
+    "choices": [
+      "Crescendo",
+      "Fortissimo",
+      "Allegro",
+      "Diminuendo"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "c2c0072d-8742-4686-9630-e998a780c0b0"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué canción de Queen se toca famosamente en eventos deportivos en todo el mundo?",
+    "correct_answer": "We Will Rock You",
+    "choices": [
+      "We Will Rock You",
+      "Another One Bites the Dust",
+      "Bohemian Rhapsody",
+      "Don't Stop Me Now"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "127b8797-1259-473a-898d-827940c32308"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué instrumento toca Yo-Yo Ma?",
+    "correct_answer": "Cello",
+    "choices": [
+      "Cello",
+      "Viola",
+      "Violín",
+      "Contrabajo"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "0ba85bd6-060b-43db-ad6e-7cf3f495222b"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué banda de los años 90 incluía a los miembros Kurt Cobain y Krist Novoselic?",
+    "correct_answer": "Nirvana",
+    "choices": [
+      "Soundgarden",
+      "Nirvana",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "357cdbac-4cea-4a54-8c3d-f26aef4e7084"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el rango vocal más alto para una cantante femenina?",
+    "correct_answer": "Soprano",
+    "choices": [
+      "Soprano",
+      "Contralto",
+      "Tenor",
+      "Mezzosoprano"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1cca709f-b4b3-40b5-afef-139f0794396e"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué rapero lanzó el álbum 'The Marshall Mathers LP'?",
+    "correct_answer": "Eminem",
+    "choices": [
+      "Dr. Dre",
+      "Eminem",
+      "Snoop Dogg",
+      "Jay-Z"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "8d5e9925-934e-4f5b-970a-b3729f850260"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿En qué año se celebró Woodstock?",
+    "correct_answer": "1969",
+    "choices": [
+      "1975",
+      "1967",
+      "1969",
+      "1971"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5b2dc8db-70a6-4131-add7-be7da375ff68"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión presenta personajes llamados Ross, Rachel, Monica, Chandler, Joey y Phoebe?",
+    "correct_answer": "Friends",
+    "choices": [
+      "How I Met Your Mother",
+      "Friends",
+      "Seinfeld",
+      "The Big Bang Theory"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b5079f1e-d51e-4631-95db-04581af3a0ff"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre del continente ficticio en 'Game of Thrones'?",
+    "correct_answer": "Westeros",
+    "choices": [
+      "Middle-earth",
+      "Westeros",
+      "Essos",
+      "Narnia"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a629f956-a943-450f-918c-568c063afbdc"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión presenta a un profesor de química de secundaria convertido en fabricante de metanfetamina?",
+    "correct_answer": "Breaking Bad",
+    "choices": [
+      "Weeds",
+      "The Wire",
+      "Dexter",
+      "Breaking Bad"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "4bcab32d-4f2b-447d-8d51-15e7d8de49d7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre de la cafetería en 'Friends'?",
+    "correct_answer": "Central Perk",
+    "choices": [
+      "Central Perk",
+      "Monk's Cafe",
+      "Java Junction",
+      "The Coffee Bean"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "382d92e8-f184-4ac6-80c7-69c7dd13534a"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué serie de televisión está ambientada en el pueblo ficticio de Hawkins, Indiana?",
+    "correct_answer": "Stranger Things",
+    "choices": [
+      "Gravity Falls",
+      "The X-Files",
+      "Stranger Things",
+      "Twin Peaks"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6907d1a5-faff-494d-998c-d970fbddbf15"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre de la nave espacial en la serie original de 'Star Trek'?",
+    "correct_answer": "USS Enterprise",
+    "choices": [
+      "USS Defiant",
+      "USS Voyager",
+      "USS Discovery",
+      "USS Enterprise"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "75eca4c6-a1bc-4b9b-ac9f-efcf60254d24"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué serie animada popularizó la frase 'D'oh!'?",
+    "correct_answer": "Los Simpson",
+    "choices": [
+      "Family Guy",
+      "Los Simpson",
+      "South Park",
+      "Bob Esponja"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5a85c28e-6f01-4624-9589-1a73a2c3626f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿En qué año se emitió el primer episodio de 'Los Simpson'?",
+    "correct_answer": "1989",
+    "choices": [
+      "1993",
+      "1991",
+      "1989",
+      "1987"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5cbbd4c8-fbe8-4620-b97d-6db258795cfe"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión presenta a un personaje llamado Dwight Schrute?",
+    "correct_answer": "The Office",
+    "choices": [
+      "30 Rock",
+      "Parks and Recreation",
+      "Brooklyn Nine-Nine",
+      "The Office"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6ac6aeb0-1653-4be9-b438-097196c6361c"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el programa de televisión guionizado en horario estelar más longevo de EE. UU.?",
+    "correct_answer": "Los Simpson",
+    "choices": [
+      "Grey's Anatomy",
+      "Los Simpson",
+      "Law & Order",
+      "Gunsmoke"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "61dd20ce-c4d1-443b-bfff-e07f3f1195f7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué serie de televisión tiene una canción temática llamada 'I'll Be There for You'?",
+    "correct_answer": "Friends",
+    "choices": [
+      "The Fresh Prince of Bel-Air",
+      "How I Met Your Mother",
+      "Full House",
+      "Friends"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b440590e-5e8e-44ea-950d-75d01cfa2415"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el nombre del espía británico ficticio en la serie de TV 'The Americans'?",
+    "correct_answer": "Clark Westerfeld",
+    "choices": [
+      "Michael Westen",
+      "James Bond",
+      "Philip Jennings",
+      "Clark Westerfeld"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f72d41a6-ac5c-422a-bcdc-180f12d739c3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué reality show presenta el lema 'La tribu ha hablado'?",
+    "correct_answer": "Survivor",
+    "choices": [
+      "Big Brother",
+      "Survivor",
+      "The Amazing Race",
+      "American Idol"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5c2596e9-ba0f-40e1-8b09-76655230d845"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "¿Qué serie de televisión popularizó el término 'jump the shark'?",
+    "correct_answer": "Happy Days",
+    "choices": [
+      "Family Ties",
+      "Los Simpson",
+      "Three's Company",
+      "Happy Days"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "d1137628-e339-49cf-bf21-4c5db3638ab7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿En qué ciudad se ambienta principalmente la serie de TV 'The Wire'?",
+    "correct_answer": "Baltimore",
+    "choices": [
+      "Baltimore",
+      "Nueva York",
+      "Filadelfia",
+      "Chicago"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3ee3c5df-9610-4a92-b8dd-ed938a89b138"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué serie de televisión presenta a un personaje llamado 'El Doctor' que viaja en el tiempo en una caja azul?",
+    "correct_answer": "Doctor Who",
+    "choices": [
+      "Quantum Leap",
+      "The Twilight Zone",
+      "Star Trek",
+      "Doctor Who"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1160dbd3-fe8b-464c-a07c-fd4d6ee55f9d"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué celebridad lanzó su carrera musical con el álbum 'The Fame' en 2008?",
+    "correct_answer": "Lady Gaga",
+    "choices": [
+      "Britney Spears",
+      "Rihanna",
+      "Katy Perry",
+      "Lady Gaga"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a0c667ff-8aa3-468e-b39e-aa7a142aa156"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actor interpretó el papel de John Wick?",
+    "correct_answer": "Keanu Reeves",
+    "choices": [
+      "Keanu Reeves",
+      "Matt Damon",
+      "Jason Statham",
+      "Tom Cruise"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "af2446cc-2365-4f62-87d7-69d772d516cb"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién es la persona más rica del mundo en 2025?",
+    "correct_answer": "Elon Musk",
+    "choices": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Bernard Arnault"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a6363639-f6c7-4b93-ad3a-507d28327a34"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué deportista es conocido por arrodillarse durante el himno nacional?",
+    "correct_answer": "Colin Kaepernick",
+    "choices": [
+      "Colin Kaepernick",
+      "Muhammad Ali",
+      "LeBron James",
+      "Tom Brady"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "bb06891b-cbb6-4f7d-a9f5-96b4ea4727ba"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién es el cantante principal de la banda U2?",
+    "correct_answer": "Bono",
+    "choices": [
+      "Bono",
+      "Sting",
+      "Chris Martin",
+      "Mick Jagger"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "50d41fe7-b0a6-46e8-bbf0-8d058128b46d"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué personalidad de YouTube es conocida por 'Gangnam Style'?",
+    "correct_answer": "Psy",
+    "choices": [
+      "Psy",
+      "Rain",
+      "CL",
+      "BTS"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f89262df-c781-4fff-84c1-aa003fb68b43"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Quién se convirtió en el primer presidente afroamericano de Estados Unidos?",
+    "correct_answer": "Barack Obama",
+    "choices": [
+      "Martin Luther King Jr.",
+      "Frederick Douglass",
+      "Barack Obama",
+      "Colin Powell"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "24f81933-514e-4711-9af1-6686c380b768"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actriz interpretó a Katniss Everdeen en 'Los juegos del hambre'?",
+    "correct_answer": "Jennifer Lawrence",
+    "choices": [
+      "Kristen Stewart",
+      "Shailene Woodley",
+      "Emma Stone",
+      "Jennifer Lawrence"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3510115e-f746-489f-8947-4c41b602dff4"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién es la persona más seguida en Instagram?",
+    "correct_answer": "Cristiano Ronaldo",
+    "choices": [
+      "Selena Gomez",
+      "Kylie Jenner",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "144db4df-c5f4-41e2-b4a9-95923351bf84"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué chef famoso es conocido por gritar a los concursantes en 'Hell's Kitchen'?",
+    "correct_answer": "Gordon Ramsay",
+    "choices": [
+      "Jamie Oliver",
+      "Wolfgang Puck",
+      "Bobby Flay",
+      "Gordon Ramsay"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "4270bf36-1f11-47d2-8e34-07d431bec76a"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "¿Qué músico ganó el Premio Pulitzer de Música en 2018 por un álbum?",
+    "correct_answer": "Kendrick Lamar",
+    "choices": [
+      "Kanye West",
+      "Childish Gambino",
+      "Kendrick Lamar",
+      "Jay-Z"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1bd14d9d-df26-4ab1-96ef-58f717475a28"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién fue la primera mujer en volar sola a través del océano Atlántico?",
+    "correct_answer": "Amelia Earhart",
+    "choices": [
+      "Amelia Earhart",
+      "Jacqueline Cochran",
+      "Harriet Quimby",
+      "Bessie Coleman"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a6164b9c-35a8-46dd-bcbd-0369396d7e4b"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actor interpretó el papel de Gandalf en 'El Señor de los Anillos'?",
+    "correct_answer": "Ian McKellen",
+    "choices": [
+      "Ian McKellen",
+      "Christopher Lee",
+      "Michael Gambon",
+      "Richard Harris"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "ea246d6d-415d-49f7-82b8-2618d96cbdfc"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Quién es el fundador de Amazon?",
+    "correct_answer": "Jeff Bezos",
+    "choices": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Jeff Bezos",
+      "Mark Zuckerberg"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6bac09fb-a94e-4bf7-9508-2c00cfa7f609"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actor interpretó al Joker en la película 'Joker' de 2019?",
+    "correct_answer": "Joaquin Phoenix",
+    "choices": [
+      "Joaquin Phoenix",
+      "Heath Ledger",
+      "Jack Nicholson",
+      "Jared Leto"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "9b61fabc-bcd8-4cf6-a99d-0545c1de2ec3"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién es la multimillonaria más joven que se hizo a sí misma?",
+    "correct_answer": "Kylie Jenner",
+    "choices": [
+      "Kylie Jenner",
+      "Beyoncé",
+      "Rihanna",
+      "Taylor Swift"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5879714f-2a0c-4226-8c2a-1a4bb4c05c93"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué científico es conocido por la teoría de la evolución por selección natural?",
+    "correct_answer": "Charles Darwin",
+    "choices": [
+      "Jean-Baptiste Lamarck",
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Alfred Russel Wallace"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "2d1b5848-0962-435d-bf6a-1e9e0e1d7083"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Quién interpretó al personaje del Capitán Jack Sparrow?",
+    "correct_answer": "Johnny Depp",
+    "choices": [
+      "Johnny Depp",
+      "Kevin McNally",
+      "Orlando Bloom",
+      "Geoffrey Rush"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a2739ed9-fdf3-4865-b7dd-82db6f6c33b9"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "¿Qué músico es conocido por usar un cuerno protésico en la frente durante sus actuaciones?",
+    "correct_answer": "Lady Gaga",
+    "choices": [
+      "Björk",
+      "Lady Gaga",
+      "Madonna",
+      "Grace Jones"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "78471557-f019-42e4-9cb1-6274d1a1ae0a"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Quién es el creador de Facebook?",
+    "correct_answer": "Mark Zuckerberg",
+    "choices": [
+      "Sean Parker",
+      "Dustin Moskovitz",
+      "Eduardo Saverin",
+      "Mark Zuckerberg"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "c2833968-a110-4290-9a0b-dbe98db9f550"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "¿Qué actor ha sido nominado a la mayor cantidad de Premios de la Academia?",
+    "correct_answer": "Meryl Streep",
+    "choices": [
+      "Katharine Hepburn",
+      "Meryl Streep",
+      "Bette Davis",
+      "Jack Nicholson"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "edde0d42-459d-4638-8ae2-9c8a13e996db"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "¿Quién es el atleta mejor pagado de todos los tiempos ajustado por inflación?",
+    "correct_answer": "Michael Jordan",
+    "choices": [
+      "Arnold Palmer",
+      "Tiger Woods",
+      "Michael Schumacher",
+      "Michael Jordan"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "be3779a2-971a-43d8-876a-d83dbad80047"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Qué actriz interpretó al personaje de Hermione Granger?",
+    "correct_answer": "Emma Watson",
+    "choices": [
+      "Maggie Smith",
+      "Emma Watson",
+      "Bonnie Wright",
+      "Evanna Lynch"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7e204ca6-ef04-4724-8240-7cd2c02724df"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué activista es conocida por su trabajo en la educación de las niñas y ganó el Premio Nobel de la Paz en 2014?",
+    "correct_answer": "Malala Yousafzai",
+    "choices": [
+      "Greta Thunberg",
+      "Malala Yousafzai",
+      "Rigoberta Menchú",
+      "Wangari Maathai"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "4ea4c7f4-3826-41fe-8ea8-02e75fdca9fe"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué celebridad ha ganado la mayor cantidad de premios Oscar por actuación?",
+    "correct_answer": "Katharine Hepburn",
+    "choices": [
+      "Daniel Day-Lewis",
+      "Katharine Hepburn",
+      "Jack Nicholson",
+      "Meryl Streep"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f7c4d469-e504-4031-844e-cf3399ea8770"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "¿Quién es el creador de la serie de libros de Harry Potter?",
+    "correct_answer": "J.K. Rowling",
+    "choices": [
+      "J.K. Rowling",
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "Roald Dahl"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "30400f8a-0625-42bd-9811-083b88f9822b"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Qué actor interpretó el papel de Darth Vader en la trilogía original de Star Wars (voz)?",
+    "correct_answer": "James Earl Jones",
+    "choices": [
+      "Peter Cushing",
+      "Frank Oz",
+      "James Earl Jones",
+      "David Prowse"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "0057b1eb-2422-41e4-9ee0-dbdbf55ce4cc"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "¿Quién es la primera mujer afroamericana en viajar al espacio?",
+    "correct_answer": "Mae Jemison",
+    "choices": [
+      "Peggy Whitson",
+      "Mae Jemison",
+      "Valentina Tereshkova",
+      "Sally Ride"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "e0de2d8a-c4c1-478f-9398-d650b65b5042"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Qué película incluye la frase '¡No puedes soportar la verdad!'?",
+    "correct_answer": "Algunos hombres buenos",
+    "choices": [
+      "El abogado del diablo",
+      "Filadelfia",
+      "Algunos hombres buenos",
+      "La tapadera"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1557df79-86de-433d-8cf0-14fcea881493"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Quién dirigió 'La lista de Schindler'?",
+    "correct_answer": "Steven Spielberg",
+    "choices": [
+      "Stanley Kubrick",
+      "Roman Polanski",
+      "Steven Spielberg",
+      "Martin Scorsese"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6a519ede-6e17-4833-b030-1b0c834332a4"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película animada presenta a un pez payaso buscando a su hijo?",
+    "correct_answer": "Buscando a Nemo",
+    "choices": [
+      "La sirenita",
+      "Shark Tale",
+      "El viaje de Chihiro",
+      "Buscando a Nemo"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3e75d220-2ab2-4279-a259-9efaf47c7ecb"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película incluye la frase 'Volveré'?",
+    "correct_answer": "Terminator",
+    "choices": [
+      "RoboCop",
+      "Desafío total",
+      "Terminator",
+      "Depredador"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "8533f143-2e13-4367-90ac-2c92af628ed7"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Quién protagonizó al personaje principal en las películas de 'Indiana Jones'?",
+    "correct_answer": "Harrison Ford",
+    "choices": [
+      "Kurt Russell",
+      "Tom Selleck",
+      "Sean Connery",
+      "Harrison Ford"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "80b70644-c0b3-436b-9680-f57616704588"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Qué película ganó el Premio de la Academia a la Mejor Película Animada en 2024?",
+    "correct_answer": "El chico y la garza",
+    "choices": [
+      "El chico y la garza",
+      "Spider-Man: A través del Spider-Verso",
+      "Elemental",
+      "Wish"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b17cbe97-334c-49a3-9ec6-a2504cd696f3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué franquicia cinematográfica presenta vehículos que se transforman en robots?",
+    "correct_answer": "Transformers",
+    "choices": [
+      "G.I. Joe",
+      "Voltron",
+      "Power Rangers",
+      "Transformers"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7bb23c2b-345a-4183-a76b-8e34f18651c3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Quién dirigió 'El Padrino'?",
+    "correct_answer": "Francis Ford Coppola",
+    "choices": [
+      "Sergio Leone",
+      "Francis Ford Coppola",
+      "Martin Scorsese",
+      "Brian De Palma"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "de2db945-71cc-441e-bdbc-a6a2e87fa7a9"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es la película animada más taquillera de todos los tiempos?",
+    "correct_answer": "Intensa-Mente 2",
+    "choices": [
+      "Frozen",
+      "Intensa-Mente 2",
+      "El Rey León",
+      "Frozen II"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "48d02825-8523-4d22-a78c-5ed1b0ee3be8"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "En 'El Mago de Oz', ¿qué dice Dorothy para regresar a Kansas?",
+    "correct_answer": "No hay lugar como el hogar",
+    "choices": [
+      "Quiero ir a casa",
+      "No hay lugar como el hogar",
+      "Hogar, dulce hogar",
+      "Llévame a casa"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "327ed134-880b-4dd3-957f-62f380c78426"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Qué actor interpretó al personaje de Hannibal Lecter en 'El silencio de los inocentes'?",
+    "correct_answer": "Anthony Hopkins",
+    "choices": [
+      "Mads Mikkelsen",
+      "Gary Oldman",
+      "Anthony Hopkins",
+      "Brian Cox"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7ef4efc3-14cb-48e4-b5ad-38eb6b3c77d8"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué serie de películas presenta a una protagonista llamada Katniss Everdeen?",
+    "correct_answer": "Los juegos del hambre",
+    "choices": [
+      "Crepúsculo",
+      "Divergente",
+      "Los juegos del hambre",
+      "El corredor del laberinto"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b1c246c9-8373-4b90-bcbd-7722205c5faa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Quién dirigió '2001: Odisea del espacio'?",
+    "correct_answer": "Stanley Kubrick",
+    "choices": [
+      "Ridley Scott",
+      "Andrei Tarkovsky",
+      "Stanley Kubrick",
+      "Christopher Nolan"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5c6f2539-3448-4df6-8c9c-ea7ddf671841"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Qué película presenta a un personaje llamado 'Mia Wallace'?",
+    "correct_answer": "Pulp Fiction",
+    "choices": [
+      "Kill Bill",
+      "Reservoir Dogs",
+      "Pulp Fiction",
+      "Jackie Brown"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a57adfda-f696-44b6-928f-2d0ea3d4e92f"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el nombre del metal ficticio en 'Pantera Negra' que es único de Wakanda?",
+    "correct_answer": "Vibranio",
+    "choices": [
+      "Vibranio",
+      "Adamantium",
+      "Uru",
+      "Prometio"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b41b7e11-c4f1-47dd-babe-e1a234630724"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Qué película fue la primera en recaudar más de mil millones de dólares en taquilla?",
+    "correct_answer": "Titanic",
+    "choices": [
+      "Harry Potter y la piedra filosofal",
+      "Parque Jurásico",
+      "Star Wars: Episodio I",
+      "Titanic"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "0009ef90-12bb-436e-905a-643f84165f5a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película incluye la canción 'My Heart Will Go On'?",
+    "correct_answer": "Titanic",
+    "choices": [
+      "El guardaespaldas",
+      "Casablanca",
+      "Titanic",
+      "Romeo + Julieta"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a10cb2a4-4186-4737-93e8-8a5e9e94cc7f"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Quién interpretó al personaje de Jack Sparrow en 'Piratas del Caribe'?",
+    "correct_answer": "Johnny Depp",
+    "choices": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Kevin McNally"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "05ced800-968d-4213-8469-9756dc0392a5"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Qué película presenta el país ficticio de Genovia?",
+    "correct_answer": "El diario de la princesa",
+    "choices": [
+      "El príncipe de Zamunda",
+      "El diario de la princesa",
+      "EuroTrip",
+      "Vacaciones en Roma"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "38cd1e93-709b-4d1f-8bfe-b9dcabf8ea07"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Qué actor ha interpretado a James Bond la mayor cantidad de veces?",
+    "correct_answer": "Roger Moore",
+    "choices": [
+      "Roger Moore",
+      "Daniel Craig",
+      "Pierce Brosnan",
+      "Sean Connery"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "63ee5421-2615-48f7-a612-b6e3cc7c4118"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el nombre del dinosaurio ficticio de Parque Jurásico que escupe veneno?",
+    "correct_answer": "Dilophosaurus",
+    "choices": [
+      "Spinosaurus",
+      "Velociraptor",
+      "Compsognathus",
+      "Dilophosaurus"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "95b18c03-af86-42bb-8d6b-294b3d920e3a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película incluye la frase 'Que la Fuerza te acompañe'?",
+    "correct_answer": "Star Wars",
+    "choices": [
+      "Dune",
+      "Star Wars",
+      "Guardianes de la Galaxia",
+      "Star Trek"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3a2e30c5-5354-4117-8810-0eb366290c0c"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Qué director de cine es conocido por sus cameos en sus propias películas, incluyendo 'Vértigo' y 'Psicosis'?",
+    "correct_answer": "Alfred Hitchcock",
+    "choices": [
+      "Quentin Tarantino",
+      "Stanley Kubrick",
+      "Martin Scorsese",
+      "Alfred Hitchcock"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "4eefb8ef-fab2-4657-bb88-c2f232e5fd8a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película de Pixar presenta una rata que quiere convertirse en chef?",
+    "correct_answer": "Ratatouille",
+    "choices": [
+      "Ratatouille",
+      "Los Increíbles",
+      "Up",
+      "Buscando a Nemo"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a98d0b0f-e405-413c-ae36-96f56c51e07b"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre de la ciudad ficticia donde opera Batman?",
+    "correct_answer": "Ciudad Gótica",
+    "choices": [
+      "Ciudad Central",
+      "Ciudad Gótica",
+      "Metrópolis",
+      "Star City"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "da9f51c8-e9c1-4c43-b82e-33a2ec79e96d"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Quién interpretó el papel principal en la película de 2023 'Oppenheimer'?",
+    "correct_answer": "Cillian Murphy",
+    "choices": [
+      "Tom Hardy",
+      "Matt Damon",
+      "Cillian Murphy",
+      "Robert Downey Jr."
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "aff64c0a-a4ed-4561-b721-c64b34d9fcfa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "¿Cuál fue la primera película animada de larga duración jamás realizada?",
+    "correct_answer": "Blancanieves y los siete enanitos",
+    "choices": [
+      "Pinocho",
+      "Fantasía",
+      "Blancanieves y los siete enanitos",
+      "Las aventuras del príncipe Achmed"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "99fc4686-1568-4be3-8458-4812bb00e87e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película incluye la frase 'Vas a necesitar un barco más grande'?",
+    "correct_answer": "Tiburón",
+    "choices": [
+      "Moby Dick",
+      "Meg",
+      "La tormenta perfecta",
+      "Tiburón"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "597f8f48-57f2-41b1-966a-4f28fb7ea86e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Cómo se llama el reino en 'Frozen' de Disney?",
+    "correct_answer": "Arendelle",
+    "choices": [
+      "Agrabah",
+      "Corona",
+      "Arendelle",
+      "Atlántica"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5e8e78fd-ae79-4d89-9eab-fcd543b8dd00"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Quién dirigió 'Dune' (2021)?",
+    "correct_answer": "Denis Villeneuve",
+    "choices": [
+      "James Cameron",
+      "Denis Villeneuve",
+      "Ridley Scott",
+      "Christopher Nolan"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "39915e53-6be9-45ed-91a3-b157efecff24"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Qué película presenta un parque temático donde dinosaurios genéticamente modificados se desatan?",
+    "correct_answer": "Parque Jurásico",
+    "choices": [
+      "King Kong",
+      "El mundo perdido",
+      "El planeta de los simios",
+      "Parque Jurásico"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3e97e217-5a6e-4ae5-a3c3-7dcba039f79c"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Cómo se llama el deporte ficticio en 'Harry Potter' que se juega en escobas?",
+    "correct_answer": "Quidditch",
+    "choices": [
+      "Bludgers",
+      "Snitchball",
+      "Broomball",
+      "Quidditch"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "53027014-0441-4b52-94da-06d2606b78bb"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "¿Qué película de 1999 incluye la frase 'Veo gente muerta'?",
+    "correct_answer": "El sexto sentido",
+    "choices": [
+      "El aro",
+      "El sexto sentido",
+      "Los otros",
+      "El proyecto de la bruja de Blair"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1c66c1c8-28de-42b8-97b9-a3331e172351"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "¿Quién dio voz al personaje de Woody en 'Toy Story'?",
+    "correct_answer": "Tom Hanks",
+    "choices": [
+      "Tom Hanks",
+      "John Goodman",
+      "Billy Crystal",
+      "Tim Allen"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7ea61de5-85dc-4fdd-a5c7-818f49d37cc3"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué compositor escribió la 'Claro de luna'?",
+    "correct_answer": "Beethoven",
+    "choices": [
+      "Beethoven",
+      "Bach",
+      "Mozart",
+      "Chopin"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "c3446fce-848b-444e-ab10-a174ffc0b940"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el sencillo más vendido de todos los tiempos?",
+    "correct_answer": "White Christmas",
+    "choices": [
+      "Candle in the Wind 1997",
+      "White Christmas",
+      "Shape of You",
+      "Bohemian Rhapsody"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "c150c379-be62-423c-ba9e-52f09b9bfcdf"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué banda de rock interpretó la canción 'Stairway to Heaven'?",
+    "correct_answer": "Led Zeppelin",
+    "choices": [
+      "Led Zeppelin",
+      "The Who",
+      "Black Sabbath",
+      "Deep Purple"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6781ef4b-2d91-4b45-9337-b60fdc01247c"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué instrumento musical hace famoso a Yo-Yo Ma?",
+    "correct_answer": "Violonchelo",
+    "choices": [
+      "Contrabajo",
+      "Violín",
+      "Violonchelo",
+      "Piano"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1238501b-5850-4b9f-b4c0-0e4085e689c8"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué artista femenina lanzó el álbum '21'?",
+    "correct_answer": "Adele",
+    "choices": [
+      "Norah Jones",
+      "Amy Winehouse",
+      "Adele",
+      "Beyoncé"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "0a79915b-8d69-441f-a3ac-d6fbfe0bf8a3"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué género musical interpretaba principalmente Elvis Presley?",
+    "correct_answer": "Rock and roll",
+    "choices": [
+      "Gospel",
+      "Country",
+      "Blues",
+      "Rock and roll"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3b2f70f0-d251-43d2-bc17-9accf6c6da10"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el término musical para una pieza con cinco secciones?",
+    "correct_answer": "Quinteto",
+    "choices": [
+      "Sexteto",
+      "Cuarteto",
+      "Quinteto",
+      "Suite"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "aa8dc314-4533-4c4f-8c8f-7318742602a0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué compositor clásico se quedó sordo más tarde en la vida pero continuó componiendo?",
+    "correct_answer": "Beethoven",
+    "choices": [
+      "Bach",
+      "Mozart",
+      "Tchaikovsky",
+      "Beethoven"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "c141af0a-8e58-46d2-a7a0-b526afa99ff4"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Cómo se llama el primer álbum de The Beatles?",
+    "correct_answer": "Please Please Me",
+    "choices": [
+      "Please Please Me",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Help!",
+      "A Hard Day's Night"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "25192e17-d34e-4bd4-8a7a-9748d73d28ae"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿A qué familia de instrumentos pertenece el saxofón?",
+    "correct_answer": "Viento madera",
+    "choices": [
+      "Viento metal",
+      "Viento madera",
+      "Cuerda",
+      "Percusión"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "326f4c2f-4a7b-413c-bfb4-0bc43e9a1983"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué popular servicio de transmisión de música se lanzó en 2008 en Suecia?",
+    "correct_answer": "Spotify",
+    "choices": [
+      "Spotify",
+      "Apple Music",
+      "Pandora",
+      "Tidal"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3794fb14-3374-46d6-b05e-ca762f726794"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué cantante es conocida como la 'Reina del Soul'?",
+    "correct_answer": "Aretha Franklin",
+    "choices": [
+      "Aretha Franklin",
+      "Etta James",
+      "Whitney Houston",
+      "Tina Turner"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6e458d7d-00f6-4f1f-9da3-9019c309f606"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Cómo se llama la voz masculina más grave?",
+    "correct_answer": "Bajo",
+    "choices": [
+      "Tenor",
+      "Barítono",
+      "Bajo",
+      "Contratenor"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "80696fcb-a2db-40ae-8f4e-1cfbb5a72153"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué banda tuvo un éxito con 'Smells Like Teen Spirit'?",
+    "correct_answer": "Nirvana",
+    "choices": [
+      "Alice in Chains",
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "01e5e6e6-6c46-4ae1-95d4-216fef0b7080"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "¿Qué instrumento tiene pedales que cambian su tono y se toca típicamente con los pies?",
+    "correct_answer": "Arpa de pedales",
+    "choices": [
+      "Arpa de pedales",
+      "Órgano de tubos",
+      "Clavicémbalo",
+      "Celesta"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "4aabbe3a-f87b-47a3-b44b-ee60085cd102"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué festival de música se celebra anualmente en el desierto de Nevada?",
+    "correct_answer": "Burning Man",
+    "choices": [
+      "Glastonbury",
+      "Burning Man",
+      "Lollapalooza",
+      "Coachella"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "341ee300-754e-4857-ac4c-b1d16b72ab5a"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Quién escribió el 'Cascanueces'?",
+    "correct_answer": "Tchaikovsky",
+    "choices": [
+      "Tchaikovsky",
+      "Stravinsky",
+      "Rimsky-Korsakov",
+      "Prokofiev"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "ae11a4e4-97cc-4605-acbc-063774cb2181"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el término para una melodía que se toca o canta en canon?",
+    "correct_answer": "Canon",
+    "choices": [
+      "Rondó",
+      "Canon",
+      "Fuga",
+      "Sonata"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "287c4fc4-9cea-4706-a908-8a90963dd644"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué estrella del pop lanzó la canción 'Bad Guy'?",
+    "correct_answer": "Billie Eilish",
+    "choices": [
+      "Halsey",
+      "Lizzo",
+      "Dua Lipa",
+      "Billie Eilish"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "38cd5ac6-3330-45ce-89cf-6e054eb0a2cb"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el término para un grupo de cuatro músicos que tocan juntos?",
+    "correct_answer": "Cuarteto",
+    "choices": [
+      "Trío",
+      "Dúo",
+      "Cuarteto",
+      "Quinteto"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "a811efa0-6e64-4b3b-937b-29c774d41a4d"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué rapero es conocido por el álbum 'good kid, m.A.A.d city'?",
+    "correct_answer": "Kendrick Lamar",
+    "choices": [
+      "Kendrick Lamar",
+      "J. Cole",
+      "Kanye West",
+      "Drake"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "cea62b3e-2a35-467a-a761-be7c682960ba"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué estilo de baile se originó en Argentina a finales del siglo XIX?",
+    "correct_answer": "Tango",
+    "choices": [
+      "Samba",
+      "Salsa",
+      "Tango",
+      "Flamenco"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "fcfb4d52-272f-40fa-9297-0229ed74c5f0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Qué banda británica de rock lanzó el álbum 'The Dark Side of the Moon'?",
+    "correct_answer": "Pink Floyd",
+    "choices": [
+      "Led Zeppelin",
+      "Queen",
+      "The Who",
+      "Pink Floyd"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "81aef0ce-f6c9-4123-abf4-c806341d6716"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "¿Qué nota está un semitono por encima de La?",
+    "correct_answer": "La sostenido (La♯)",
+    "choices": [
+      "Si bemol (Si♭)",
+      "Sol sostenido (Sol♯)",
+      "La sostenido (La♯)",
+      "Si"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "deb2e3cb-719d-45a1-ad46-a6ffec204fab"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué cantante era conocido como el 'Rey del Rock and Roll'?",
+    "correct_answer": "Elvis Presley",
+    "choices": [
+      "Buddy Holly",
+      "Little Richard",
+      "Elvis Presley",
+      "Chuck Berry"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "47e0647f-2496-48b1-88c5-6b4182206fb7"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿Qué instrumento se usa típicamente para mantener el ritmo en una banda y puede ser acústico o electrónico?",
+    "correct_answer": "Batería",
+    "choices": [
+      "Bajo",
+      "Guitarra",
+      "Piano",
+      "Batería"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "5999c4e0-72da-4a12-8c41-093a12a47497"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "¿De qué banda fue Freddie Mercury el cantante principal?",
+    "correct_answer": "Queen",
+    "choices": [
+      "The Rolling Stones",
+      "Queen",
+      "AC/DC",
+      "The Who"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "43d57e41-db12-46a0-8c28-8cec5a29b8fc"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "¿Cómo se llama la escala musical con el patrón tono-tono-semitono-tono-tono-tono-semitono?",
+    "correct_answer": "Escala mayor",
+    "choices": [
+      "Escala pentatónica",
+      "Escala cromática",
+      "Escala mayor",
+      "Escala menor"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "97b5b344-a039-4331-8131-17784126653e"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Quién lanzó el álbum 'Lemonade' en 2016?",
+    "correct_answer": "Beyoncé",
+    "choices": [
+      "Katy Perry",
+      "Beyoncé",
+      "Rihanna",
+      "Adele"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "e83e40fc-1155-401d-9ea6-8df80fa780e4"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el nombre del instrumento musical que es esencialmente un xilófono grande?",
+    "correct_answer": "Marimba",
+    "choices": [
+      "Marimba",
+      "Celesta",
+      "Glockenspiel",
+      "Vibráfono"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "6ac06db6-4806-47f3-8f66-4c9d1b5972f3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión se desarrolla en la ficticia empresa de papel Dunder Mifflin?",
+    "correct_answer": "The Office",
+    "choices": [
+      "Parks and Recreation",
+      "Better Off Ted",
+      "The Office",
+      "30 Rock"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "63e9aaa6-424a-4aba-8b60-a9547eec074d"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Quién interpretó a Walter White en 'Breaking Bad'?",
+    "correct_answer": "Bryan Cranston",
+    "choices": [
+      "Jon Hamm",
+      "Kevin Spacey",
+      "James Gandolfini",
+      "Bryan Cranston"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7409fce5-2e7c-4ccf-96b8-99463ac4880d"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión británico presenta a un alienígena que viaja en el tiempo llamado el Doctor?",
+    "correct_answer": "Doctor Who",
+    "choices": [
+      "The Hitchhiker's Guide to the Galaxy",
+      "Red Dwarf",
+      "Star Trek",
+      "Doctor Who"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "07ba91a2-e3dd-4674-bb33-b781d74bd6f2"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué serie de televisión está basada en los libros de George R.R. Martin?",
+    "correct_answer": "Game of Thrones",
+    "choices": [
+      "Outlander",
+      "The Witcher",
+      "Game of Thrones",
+      "Lord of the Rings: The Rings of Power"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "c760ad79-2b14-4d1a-ba4f-be7db5fe82a0"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el nombre de la cafetería en 'Seinfeld'?",
+    "correct_answer": "Monk's Cafe",
+    "choices": [
+      "Central Perk",
+      "The Diner",
+      "Tom's Restaurant",
+      "Monk's Cafe"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b880739e-4141-4a26-a620-0d922aec5a20"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión trata sobre un grupo de amigos navegando sus veinte años en la ciudad de Nueva York?",
+    "correct_answer": "Friends",
+    "choices": [
+      "New Girl",
+      "Friends",
+      "How I Met Your Mother",
+      "Sex and the City"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f28bdcfe-c752-4049-91ab-a050d4e4262f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué programa presenta el ficticio Departamento de Parques de Pawnee, Indiana?",
+    "correct_answer": "Parks and Recreation",
+    "choices": [
+      "Brooklyn Nine-Nine",
+      "Parks and Recreation",
+      "Community",
+      "The Office"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7c7e6dda-5d4d-4b51-8dfd-99bcf5addfd3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Quién interpretó a Tony Soprano en 'Los Soprano'?",
+    "correct_answer": "James Gandolfini",
+    "choices": [
+      "Joe Pesci",
+      "Ray Liotta",
+      "Michael Imperioli",
+      "James Gandolfini"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "dea180e3-b04e-44a4-ac26-579440df1844"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "¿Qué programa presenta la ficticia agencia de publicidad Sterling Cooper?",
+    "correct_answer": "Mad Men",
+    "choices": [
+      "Suits",
+      "Ugly Betty",
+      "The West Wing",
+      "Mad Men"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "b2ac393d-b234-4693-b6ec-10dc1c3137a2"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué serie de competición de telerrealidad presenta una silla giratoria?",
+    "correct_answer": "The Voice",
+    "choices": [
+      "America's Got Talent",
+      "The Voice",
+      "X Factor",
+      "American Idol"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f77ae607-0bb5-41a6-bc86-ed36abbddf42"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el programa animado más longevo en la historia de la televisión?",
+    "correct_answer": "Los Simpson",
+    "choices": [
+      "Bob Esponja",
+      "South Park",
+      "Los Simpson",
+      "Padre de Familia"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "f20e80e5-d642-4d6d-b914-4b49050df55b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa trata sobre un profesor de química de secundaria y su exalumno Jesse Pinkman?",
+    "correct_answer": "Breaking Bad",
+    "choices": [
+      "Ozark",
+      "Breaking Bad",
+      "Narcos",
+      "Weeds"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "ba31d4e2-8cc8-495d-98cb-74a6eadbedb8"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué serie de televisión se desarrolla en el ficticio pueblo de Stars Hollow?",
+    "correct_answer": "Gilmore Girls",
+    "choices": [
+      "Twin Peaks",
+      "Everwood",
+      "The OC",
+      "Gilmore Girls"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "63f9cc29-ec24-4efe-9808-d9bd18039291"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el nombre de la escuela ficticia en 'The Vampire Diaries'?",
+    "correct_answer": "Mystic Falls High School",
+    "choices": [
+      "Salvatore Boarding School",
+      "West Beverly High",
+      "Sunnydale High",
+      "Mystic Falls High School"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "621324e0-79c9-4cb5-acce-7490b16ab0b5"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué sitcom de televisión presenta un personaje llamado Sheldon Cooper?",
+    "correct_answer": "The Big Bang Theory",
+    "choices": [
+      "The IT Crowd",
+      "Silicon Valley",
+      "The Big Bang Theory",
+      "Community"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "14816f51-3f53-46ca-ae35-aeeab2f40429"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa presenta a los detectives Jake Peralta y Rosa Díaz?",
+    "correct_answer": "Brooklyn Nine-Nine",
+    "choices": [
+      "Brooklyn Nine-Nine",
+      "Superstore",
+      "Parks and Recreation",
+      "The Office"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7c0cd304-1be8-4c8e-8c65-974656e40711"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué serie de HBO se desarrolla en el mundo de la publicidad en Madison Avenue en los años 60?",
+    "correct_answer": "Mad Men",
+    "choices": [
+      "Boardwalk Empire",
+      "The Deuce",
+      "The Marvelous Mrs. Maisel",
+      "Mad Men"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "70824c22-7348-415e-b3ae-f1589ccebb54"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión popularizó la frase 'Se acerca el invierno'?",
+    "correct_answer": "Game of Thrones",
+    "choices": [
+      "Outlander",
+      "The Last Kingdom",
+      "Game of Thrones",
+      "Vikings"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "c11216ee-8bce-48da-9bfa-1b5bf5c6d677"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué serie de Netflix trata sobre unos hermanos que dirigen un hostal en Tulum?",
+    "correct_answer": "The Resort",
+    "choices": [
+      "The Resort",
+      "Élite",
+      "White Lotus",
+      "Outer Banks"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1a81796f-59c6-44dd-a57e-81372a1971da"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre de la serie de televisión de apocalipsis zombi basada en un cómic de Robert Kirkman?",
+    "correct_answer": "The Walking Dead",
+    "choices": [
+      "iZombie",
+      "Z Nation",
+      "Black Summer",
+      "The Walking Dead"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "507ce506-559b-4d7f-b7d0-ef23cdf434a5"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué serie de televisión presenta una supercomputadora llamada 'MOTHER' y una nave colonia?",
+    "correct_answer": "The 100",
+    "choices": [
+      "The Expanse",
+      "Lost in Space",
+      "Battlestar Galactica",
+      "The 100"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "364f1137-3ed6-4891-86f8-3499404a4947"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "¿Qué serie dramática de televisión ganó el Emmy a la Mejor Serie Dramática en 2024?",
+    "correct_answer": "Shogun",
+    "choices": [
+      "Succession",
+      "Shogun",
+      "The Bear",
+      "The Crown"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "9d0ae308-d665-4821-933c-fef05557f41b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué serie de televisión se desarrolla en un colegio comunitario en Greendale, Colorado?",
+    "correct_answer": "Community",
+    "choices": [
+      "Greek",
+      "Undeclared",
+      "Community",
+      "The Big Bang Theory"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "93caa574-8f9d-40df-b7db-46d1fd086e8f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el nombre de la prisión en la serie de televisión 'Prison Break'?",
+    "correct_answer": "Penitenciaría Estatal de Fox River",
+    "choices": [
+      "Penitenciaría de Litchfield",
+      "Penitenciaría Estatal de Fox River",
+      "Alcatraz",
+      "Centro Correccional Estatal Oswald"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "1fe84437-68e5-4b78-b76a-7593008933b3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué miniserie de televisión sigue el desastre nuclear de Chernóbil?",
+    "correct_answer": "Chernobyl",
+    "choices": [
+      "Meltdown",
+      "The Disaster",
+      "Nuclear",
+      "Chernobyl"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "68993b51-213c-43a1-9bdc-fc7b2779348b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el nombre de la ciudad ficticia en 'Los Simpson'?",
+    "correct_answer": "Springfield",
+    "choices": [
+      "Capital City",
+      "North Haven",
+      "Springfield",
+      "Shelbyville"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "74b36ba4-0c3a-49de-a162-502036016ced"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "¿Qué programa de televisión presenta a una adolescente llamada Wednesday Addams?",
+    "correct_answer": "Wednesday",
+    "choices": [
+      "Sabrina",
+      "Chilling Adventures of Sabrina",
+      "Wednesday",
+      "The Addams Family"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "3428d961-75f6-4c1d-878a-097b658e7a62"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "¿Qué serie sigue las vidas de la familia Pearson a través de múltiples líneas temporales?",
+    "correct_answer": "This Is Us",
+    "choices": [
+      "Modern Family",
+      "Parenthood",
+      "Brothers and Sisters",
+      "This Is Us"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "7574aecc-fd83-4434-974e-852cc3fb9c5f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "¿Qué serie británica trata sobre un grupo de estudiantes en una universidad de Edimburgo?",
+    "correct_answer": "The Young Ones",
+    "choices": [
+      "Skins",
+      "The Inbetweeners",
+      "The Young Ones",
+      "Fresh Meat"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "es",
+    "translation_key": "ba6c7cea-649f-46bb-bbf0-a0b6b9ccd04f"
+  }
+]

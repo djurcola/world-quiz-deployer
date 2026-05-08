@@ -1,0 +1,4882 @@
+[
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪個建築物是為法老胡夫建造的陵墓？",
+    "correct_answer": "吉薩大金字塔",
+    "choices": [
+      "吉薩大金字塔",
+      "阿耳忒彌斯神廟",
+      "巴比倫空中花園",
+      "羅德島太陽神巨像"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e0cc954b-c662-4c9b-9eba-351252d003af"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪位古希臘哲學家被判處飲用毒芹汁而死？",
+    "correct_answer": "蘇格拉底",
+    "choices": [
+      "亞里斯多德",
+      "畢達哥拉斯",
+      "柏拉圖",
+      "蘇格拉底"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6d8051ec-fe38-4a9c-b427-98d4a704bd69"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "美索不達米亞古文明位於哪個現代國家？",
+    "correct_answer": "伊拉克",
+    "choices": [
+      "埃及",
+      "土耳其",
+      "伊拉克",
+      "伊朗"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "65183565-c74b-447a-970a-ae3bf32d311e"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪位羅馬統治者在三月中旬遇刺身亡？",
+    "correct_answer": "尤利烏斯·凱撒",
+    "choices": [
+      "奧古斯都",
+      "尤利烏斯·凱撒",
+      "尼祿",
+      "卡利古拉"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d1ba501d-bc9e-41f9-a8bd-2bdb68371b3b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "古雅典的民主議會叫什麼？",
+    "correct_answer": "公民大會",
+    "choices": [
+      "五百人議會",
+      "公民大會",
+      "戰神山議會",
+      "元老院"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "05dd6117-25e1-4bf5-bf0d-5b8ded70cc11"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪個古代奇蹟位於巴比倫城？",
+    "correct_answer": "空中花園",
+    "choices": [
+      "羅德島太陽神巨像",
+      "亞歷山大燈塔",
+      "宙斯神像",
+      "空中花園"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e615a5b2-ce98-4c3a-bc65-eae602a8b424"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "古埃及人使用哪種文字系統？",
+    "correct_answer": "象形文字",
+    "choices": [
+      "梵文",
+      "拉丁文",
+      "楔形文字",
+      "象形文字"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5c53e601-39d2-4564-9fbc-1e8b86feab38"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪部著名的古希臘史詩講述了特洛伊戰爭的故事？",
+    "correct_answer": "伊利亞德",
+    "choices": [
+      "埃涅阿斯紀",
+      "奧德賽",
+      "伊利亞德",
+      "神譜"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4f8cb0b9-3678-4d5e-ae06-38364d5891f6"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "羅馬帝國的主要語言是什麼？",
+    "correct_answer": "拉丁文",
+    "choices": [
+      "拉丁文",
+      "阿拉姆語",
+      "希臘文",
+      "伊特魯里亞語"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "7ff306f4-3a89-4ec0-ab50-28471f27474c"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪個古文明建造了馬丘比丘城？",
+    "correct_answer": "印加",
+    "choices": [
+      "印加",
+      "馬雅",
+      "阿茲特克",
+      "奧爾梅克"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9ed021b1-c290-4bf0-bc34-f4cd878d4631"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "中國第一位皇帝叫什麼名字？",
+    "correct_answer": "秦始皇",
+    "choices": [
+      "忽必烈",
+      "孔子",
+      "秦始皇",
+      "孫子"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6d479c9a-2c45-40da-a9a2-329e0215b94f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪位波斯國王建造了宏偉的波斯波利斯城？",
+    "correct_answer": "大流士大帝",
+    "choices": [
+      "大流士大帝",
+      "薛西斯一世",
+      "居魯士大帝",
+      "岡比西斯二世"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "ee224bde-0d58-4cab-838b-0828bb2c6570"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "在希臘神話中，誰是眾神之王？",
+    "correct_answer": "宙斯",
+    "choices": [
+      "黑帝斯",
+      "宙斯",
+      "阿瑞斯",
+      "波塞冬"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "7d439483-402b-4c24-a229-f3d4e01f3871"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "古羅馬的角鬥場叫什麼名字？",
+    "correct_answer": "羅馬競技場",
+    "choices": [
+      "羅馬競技場",
+      "卡拉卡拉浴場",
+      "馬克西穆斯競技場",
+      "萬神殿"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b52f7a85-eba8-49a8-a476-ca3145a27a8b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪個古文明以其先進的管道系統和偉大浴場聞名？",
+    "correct_answer": "印度河流域文明",
+    "choices": [
+      "印度河流域文明",
+      "古希臘",
+      "古中國",
+      "古埃及"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "ad3f709b-9ac9-4182-904a-926fee3aa25b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "根據神話，誰是羅馬的傳奇創始人？",
+    "correct_answer": "羅慕路斯",
+    "choices": [
+      "羅慕路斯",
+      "尤利烏斯·凱撒",
+      "雷穆斯",
+      "埃涅阿斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8f72f977-db52-4168-a213-f3c8c0426583"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "亞歷山大大帝軍隊中的精銳步兵部隊叫什麼？",
+    "correct_answer": "夥友騎兵",
+    "choices": [
+      "方陣",
+      "不死軍",
+      "夥友騎兵",
+      "禁衛軍"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8fb545b9-f24b-462b-bfec-3802a6a3abd4"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪個古希臘城邦以其軍事化社會聞名？",
+    "correct_answer": "斯巴達",
+    "choices": [
+      "雅典",
+      "底比斯",
+      "科林斯",
+      "斯巴達"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "11d8974d-4e6b-4815-a51d-051a6ed8db1f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "中國古人用什麼材料製作兵馬俑？",
+    "correct_answer": "陶土",
+    "choices": [
+      "陶土",
+      "大理石",
+      "青銅",
+      "玉"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9dc82601-77d4-4c60-8f3f-9c69cd9235c6"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪位迦太基將軍率領大象翻越阿爾卑斯山進攻羅馬？",
+    "correct_answer": "漢尼拔",
+    "choices": [
+      "哈斯德魯巴",
+      "西庇阿·阿非利加努斯",
+      "哈米爾卡·巴卡",
+      "漢尼拔"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0ec0d61b-b96b-4d03-bc90-681099b78361"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "已知最早成文法典叫什麼？",
+    "correct_answer": "漢摩拉比法典",
+    "choices": [
+      "十二銅表法",
+      "德拉古法典",
+      "漢摩拉比法典",
+      "阿育王詔令"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1fb606e7-41eb-423b-9b5c-70f8e7f83505"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪位埃及女王以與凱撒和安東尼的關係聞名？",
+    "correct_answer": "克麗奧佩脫拉",
+    "choices": [
+      "娜芙蒂蒂",
+      "安赫塞娜蒙",
+      "哈特謝普蘇特",
+      "克麗奧佩脫拉"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f8586b3e-8e70-4f3b-bb35-8964572b5975"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "在哪場戰役中，三百名斯巴達人對抗波斯軍隊進行了傳奇性的最後一戰？",
+    "correct_answer": "溫泉關戰役",
+    "choices": [
+      "薩拉米斯海戰",
+      "普拉提亞戰役",
+      "馬拉松戰役",
+      "溫泉關戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "994ca65f-efda-474e-adb3-9f50ac6c6e5a"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "連接中國與地中海世界的主要貿易路線是什麼？",
+    "correct_answer": "絲綢之路",
+    "choices": [
+      "香料之路",
+      "御道",
+      "琥珀之路",
+      "絲綢之路"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8c871f32-5765-4180-a48b-250e6769aa94"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪位羅馬皇帝是第一位皈依基督教的？",
+    "correct_answer": "君士坦丁大帝",
+    "choices": [
+      "君士坦丁大帝",
+      "狄奧多西一世",
+      "查士丁尼",
+      "戴克里先"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "86bad4b2-b332-4104-a92d-80fdced3dc81"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "古希臘數學家阿基米德以哪項發明聞名？",
+    "correct_answer": "阿基米德螺旋泵",
+    "choices": [
+      "滑輪系統",
+      "投石機",
+      "水輪",
+      "阿基米德螺旋泵"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d70317c5-bdc4-48c0-a13c-764b89a127d8"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "古埃及的最後一位法老是誰？",
+    "correct_answer": "克麗奧佩脫拉七世",
+    "choices": [
+      "克麗奧佩脫拉七世",
+      "娜芙蒂蒂",
+      "拉美西斯二世",
+      "哈特謝普蘇特"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "718da4e5-5021-4588-9778-7b1eecae67d6"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪位古希臘數學家被譽為幾何學之父？",
+    "correct_answer": "歐幾里得",
+    "choices": [
+      "畢達哥拉斯",
+      "歐幾里得",
+      "亞里斯多德",
+      "阿基米德"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f6e1e349-7c6e-4cf9-b4c9-5ada7522f092"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "羅馬的公共浴場除了沐浴之外，也作為社交中心，它們叫什麼？",
+    "correct_answer": "溫泉浴場",
+    "choices": [
+      "廣場",
+      "水渠",
+      "溫泉浴場",
+      "公寓"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "74cecdf2-bc90-4dfb-8f88-dccdfbbe0848"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪個古文明在蒂卡爾建造了階梯金字塔？",
+    "correct_answer": "馬雅",
+    "choices": [
+      "阿茲特克",
+      "馬雅",
+      "印加",
+      "奧爾梅克"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d275927e-5538-4aab-acb7-de808d50a40f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "古中國人稱自己的帝國為什麼？",
+    "correct_answer": "中原",
+    "choices": [
+      "大國",
+      "龍域",
+      "天朝",
+      "中原"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "14c25065-5bb1-4ee1-a9aa-60ebf2fb04f7"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "誰是希臘神話中的智慧與戰爭女神？",
+    "correct_answer": "雅典娜",
+    "choices": [
+      "赫拉",
+      "雅典娜",
+      "阿芙蘿黛蒂",
+      "阿耳忒彌斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f2fde595-d6ef-41c6-991a-d744cc57fc3b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪位波斯國王入侵希臘並在馬拉松戰役中被擊敗？",
+    "correct_answer": "大流士一世",
+    "choices": [
+      "阿塔薛西斯一世",
+      "大流士一世",
+      "薛西斯一世",
+      "居魯士大帝"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e5374a16-beda-4605-bf53-93c251de2b9b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "羅馬職業軍團中擔任皇帝貼身護衛的部隊叫什麼？",
+    "correct_answer": "禁衛軍",
+    "choices": [
+      "禁衛軍",
+      "羅馬軍團",
+      "大隊",
+      "騎士階級"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a0c6bd47-15eb-4b7d-9a62-6a7360b71bed"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "古埃及人稱呼他們在莎草紙上使用的書寫方式是什麼？",
+    "correct_answer": "僧侶體",
+    "choices": [
+      "楔形文字",
+      "科普特文",
+      "通俗體",
+      "僧侶體"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4ab4af03-b25e-4b89-b75c-e4c7b2c7594f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪位羅馬皇帝在不列顛北部修建了著名的長城？",
+    "correct_answer": "哈德良",
+    "choices": [
+      "安敦寧·比烏斯",
+      "哈德良",
+      "奧古斯都",
+      "圖拉真"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a0636d23-3f68-4101-9269-646bb4cf3d4b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "古羅馬平民的主要食物是什麼？",
+    "correct_answer": "普爾斯（一種用二粒小麥製成的粥）",
+    "choices": [
+      "扁豆湯",
+      "魚露",
+      "麵包和橄欖",
+      "普爾斯（一種用二粒小麥製成的粥）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5970b273-8438-45f8-96c0-35ce6c9b0a9f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "希臘神話中伊薩卡島的傳奇國王是誰？",
+    "correct_answer": "奧德修斯",
+    "choices": [
+      "墨涅拉俄斯",
+      "奧德修斯",
+      "阿基里斯",
+      "阿伽門農"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "eab6b8ac-833d-47a1-ba3e-92ad23d04b5c"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪個古文明發明了已知最古老的文字系統——楔形文字？",
+    "correct_answer": "蘇美爾人",
+    "choices": [
+      "巴比倫人",
+      "蘇美爾人",
+      "埃及人",
+      "亞述人"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b21ff9ea-b9bd-48e9-95b6-39dbd1af4f5c"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "波斯精銳步兵單位「一萬人」叫什麼？",
+    "correct_answer": "不死軍",
+    "choices": [
+      "不死軍",
+      "盾牌兵",
+      "夥友騎兵",
+      "禁衛軍"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "48659075-636c-4d19-a0d4-b134c04d97ad"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "亞歷山大大帝在哪場戰役中擊敗了波斯國王大流士三世？",
+    "correct_answer": "高加米拉戰役",
+    "choices": [
+      "格拉尼庫斯河戰役",
+      "海達斯佩斯河戰役",
+      "高加米拉戰役",
+      "伊蘇斯戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "15fcbd67-0ca2-4207-aee6-bc732a67fa02"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "羅馬廣場主要用於什麼？",
+    "correct_answer": "公共市場和集會場所",
+    "choices": [
+      "神廟建築群",
+      "公共市場和集會場所",
+      "軍事訓練場",
+      "皇宮"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "cbee2549-b85a-48c3-b4bf-f3c6bf6c6995"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪位古代中國哲學家撰寫了《孫子兵法》？",
+    "correct_answer": "孫子",
+    "choices": [
+      "孔子",
+      "老子",
+      "孟子",
+      "孫子"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4217497d-8349-4382-b78e-5465d985a78a"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "與羅馬敵對且於西元前146年被毀的希臘貿易殖民地叫什麼？",
+    "correct_answer": "迦太基",
+    "choices": [
+      "馬賽",
+      "科林斯",
+      "迦太基",
+      "敘拉古"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5d4d98ac-4afc-40fe-b5cc-14228302b9cd"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪位古代統治者建造了巴比倫空中花園？",
+    "correct_answer": "尼布甲尼撒二世",
+    "choices": [
+      "阿卡德的薩爾貢",
+      "漢摩拉比",
+      "尼布甲尼撒二世",
+      "亞述巴尼拔"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a7e723ad-69b8-4806-9207-8ec3a5ed6cea"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "羅馬的三權分立政府體系叫什麼？",
+    "correct_answer": "羅馬共和國",
+    "choices": [
+      "羅馬共和國",
+      "羅馬元老院",
+      "羅馬王國",
+      "羅馬帝國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "26b75685-1920-423f-a4cf-6f8acdd17eb8"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "哪位古希臘醫生被認為是醫學之父？",
+    "correct_answer": "希波克拉底",
+    "choices": [
+      "亞里斯多德",
+      "蓋倫",
+      "希波克拉底",
+      "畢達哥拉斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1147595d-2750-4822-993b-9a2a4c86ed26"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "亞歷山大燈塔是哪種類型的建築？",
+    "correct_answer": "法羅斯燈塔（一座帶有烽火的高塔）",
+    "choices": [
+      "法羅斯燈塔（一座帶有烽火的高塔）",
+      "波塞冬神廟",
+      "軍事防禦工事",
+      "皇宮"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0add73f0-51c5-4b27-9770-b237a4d0241d"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "哪位羅馬皇帝將帝國分為東西兩部分？",
+    "correct_answer": "戴克里先",
+    "choices": [
+      "君士坦丁",
+      "戴克里先",
+      "狄奧多西一世",
+      "奧古斯都"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "093f1a1d-c03b-4d23-8785-c980e512d8f5"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "哪個希臘城市是著名神諭的地點？",
+    "correct_answer": "德爾斐",
+    "choices": [
+      "科林斯",
+      "德爾斐",
+      "奧林匹亞",
+      "以弗所"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "dcc49fd8-e523-4753-8813-8713d5c84f08"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "克里斯多福·哥倫布在哪一年首次抵達美洲？",
+    "correct_answer": "1492",
+    "choices": [
+      "1501",
+      "1492",
+      "1476",
+      "1488"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "2575f741-1593-403f-a9e6-bad238ba6bf6"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪一位君主在法國大革命期間被處決？",
+    "correct_answer": "路易十六",
+    "choices": [
+      "瑪麗·安托瓦內特",
+      "路易十六",
+      "查理十世",
+      "拿破崙·波拿巴"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "98a41c1d-bff7-4819-bd8e-a2807c992f92"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪項發明被廣泛認為是工業革命的開端？",
+    "correct_answer": "蒸汽機",
+    "choices": [
+      "動力織布機",
+      "蒸汽機",
+      "珍妮紡紗機",
+      "軋棉機"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "da678e67-fecb-4e24-ad8b-3554dceea6cf"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪位科學家提出了太陽系的日心說模型？",
+    "correct_answer": "尼古拉·哥白尼",
+    "choices": [
+      "艾薩克·牛頓",
+      "約翰尼斯·克卜勒",
+      "尼古拉·哥白尼",
+      "伽利略·伽利萊"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9a64e713-bbfb-415f-ab64-a33115ccac2c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪一事件被廣泛認為是第一次世界大戰的起點？",
+    "correct_answer": "奧匈帝國王儲斐迪南大公遇刺",
+    "choices": [
+      "馬恩河戰役",
+      "德國入侵波蘭",
+      "奧匈帝國王儲斐迪南大公遇刺",
+      "盧西塔尼亞號沉沒"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "520a16c0-317f-4a9e-96ea-a35151c9d640"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪項條約終結了第一次世界大戰？",
+    "correct_answer": "凡爾賽條約",
+    "choices": [
+      "布列斯特-立陶夫斯克條約",
+      "巴黎條約",
+      "凡爾賽條約",
+      "根特條約"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9b0c5ea9-335b-4489-a199-4d90f0f531b0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪個國家在戰時投下了第一顆原子彈？",
+    "correct_answer": "美國",
+    "choices": [
+      "美國",
+      "德國",
+      "英國",
+      "蘇聯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a1528cf9-92cd-41f6-9b46-bd0b8ff901e2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "柏林圍牆在哪一年倒塌？",
+    "correct_answer": "1989",
+    "choices": [
+      "1991",
+      "1989",
+      "1987",
+      "1985"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0684df41-1a8c-461f-b449-ed8bff6c19da"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "第一位進入太空的人類是誰？",
+    "correct_answer": "尤里·加加林",
+    "choices": [
+      "約翰·格倫",
+      "巴茲·奧爾德林",
+      "尤里·加加林",
+      "尼爾·阿姆斯特朗"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "23947243-db2d-4f53-aecc-ea22f56d2f44"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪位探險家被認為是首位完成環球航行的人？",
+    "correct_answer": "斐迪南·麥哲倫",
+    "choices": [
+      "克里斯多福·哥倫布",
+      "瓦斯科·達伽馬",
+      "詹姆斯·庫克",
+      "斐迪南·麥哲倫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "893637d5-bca2-4a60-a941-637696fe899d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "首次載人登月任務的名稱是什麼？",
+    "correct_answer": "阿波羅11號",
+    "choices": [
+      "阿波羅8號",
+      "阿波羅13號",
+      "阿波羅10號",
+      "阿波羅11號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "02c2f34b-cf03-4f72-b86b-2e2f965ba4ad"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "哪位啟蒙思想家主張政府權力分立？",
+    "correct_answer": "孟德斯鳩",
+    "choices": [
+      "約翰·洛克",
+      "讓-雅克·盧梭",
+      "伏爾泰",
+      "孟德斯鳩"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3688c26f-e576-436b-b69e-45ac4642cdc0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "馬歇爾計劃的主要目的是什麼？",
+    "correct_answer": "二戰後重建西歐經濟",
+    "choices": [
+      "資助盟軍諾曼第登陸",
+      "向蘇聯提供貸款",
+      "二戰後重建西歐經濟",
+      "遏制共產主義在亞洲的擴張"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "99a99a2d-140e-4593-8ce9-2b9d5eaa2801"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1980年代蘇聯經濟重組政策的名稱是什麼？",
+    "correct_answer": "重建（Perestroika）",
+    "choices": [
+      "公開化（Glasnost）",
+      "緩和（Détente）",
+      "重建（Perestroika）",
+      "集體化（Collectivization）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a10274da-3c86-4705-84e6-eba5694072f9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "冷戰期間被圍牆分割的城市是哪一個？",
+    "correct_answer": "柏林",
+    "choices": [
+      "布拉格",
+      "布達佩斯",
+      "維也納",
+      "柏林"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "90812a5b-1bb1-42b9-8677-7c2e3a177f27"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "1917年布爾什維克革命的領袖是誰？",
+    "correct_answer": "弗拉基米爾·列寧",
+    "choices": [
+      "列夫·托洛茨基",
+      "弗拉基米爾·列寧",
+      "約瑟夫·史達林",
+      "卡爾·馬克思"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "be17f228-81a5-4164-a638-3bb126d2d722"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "第二次世界大戰在哪一年結束？",
+    "correct_answer": "1945",
+    "choices": [
+      "1944",
+      "1946",
+      "1943",
+      "1945"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "af1c48bc-5f8f-4e5f-a829-9b5d68e13e67"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪位文藝復興藝術家繪製了西斯汀禮拜堂的天頂畫？",
+    "correct_answer": "米開朗基羅",
+    "choices": [
+      "李奧納多·達文西",
+      "多納太羅",
+      "拉斐爾",
+      "米開朗基羅"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6c278572-7ef7-4692-9c2b-7cc971288ae3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "第一顆發射入太空的人造衛星名稱是什麼？",
+    "correct_answer": "史普尼克1號",
+    "choices": [
+      "史普尼克2號",
+      "史普尼克1號",
+      "探險者1號",
+      "先鋒1號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "fd84e1d5-c93a-46b0-b6f2-4d2fe64ff85a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪個歐洲國家殖民了巴西？",
+    "correct_answer": "葡萄牙",
+    "choices": [
+      "西班牙",
+      "葡萄牙",
+      "法國",
+      "英格蘭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "dd0cad7d-9a85-46ee-b331-2be180df4da5"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "曼哈頓計劃是什麼？",
+    "correct_answer": "第一顆核武器的研發",
+    "choices": [
+      "布萊切利園的密碼破譯計劃",
+      "第一顆核武器的研發",
+      "第一條跨洲鐵路的建設",
+      "盟軍諾曼第登陸"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "17718c87-b011-48e1-a337-703d505e7a50"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪個國家贈送自由女神像給美國？",
+    "correct_answer": "法國",
+    "choices": [
+      "英格蘭",
+      "德國",
+      "西班牙",
+      "法國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f432220c-b6dc-45fa-9b26-94183e4b34b3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "誰提出了天擇演化論？",
+    "correct_answer": "查爾斯·達爾文",
+    "choices": [
+      "讓-巴蒂斯特·拉馬克",
+      "阿爾弗雷德·拉塞爾·華萊士",
+      "格里哥·孟德爾",
+      "查爾斯·達爾文"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3c55af58-bd0c-40e1-93f6-8d475bbec3c4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1962年哪場危機幾乎導致核戰？",
+    "correct_answer": "古巴飛彈危機",
+    "choices": [
+      "古巴飛彈危機",
+      "蘇伊士運河危機",
+      "柏林封鎖",
+      "韓戰"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a2313682-3d60-4f30-985a-4cd7fddc4778"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "1939年哪個國家與德國簽署互不侵犯條約，之後卻被入侵？",
+    "correct_answer": "蘇聯",
+    "choices": [
+      "蘇聯",
+      "法國",
+      "波蘭",
+      "英國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "22b76462-30df-4cdd-95dc-f8fe4773ff83"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1973年美國哪項里程碑式的最高法院判決使墮胎合法化？",
+    "correct_answer": "羅訴韋德案",
+    "choices": [
+      "布朗訴托皮卡教育局案",
+      "米蘭達訴亞利桑那州案",
+      "羅訴韋德案",
+      "普萊西訴弗格森案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "ca675eac-0ca7-4e9f-8cb4-92bae651b8c7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "第一位單獨飛越大西洋的女性是誰？",
+    "correct_answer": "愛蜜莉亞·艾爾哈特",
+    "choices": [
+      "哈麗特·昆比",
+      "傑奎琳·科克倫",
+      "愛蜜莉亞·艾爾哈特",
+      "貝西·科爾曼"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a2da2b86-728d-4d49-987c-bb865a39fdbe"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪個歐洲國家率先開闢通往印度的海路？",
+    "correct_answer": "葡萄牙",
+    "choices": [
+      "西班牙",
+      "葡萄牙",
+      "荷蘭",
+      "英格蘭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c0e6e662-f0f8-4b94-ad5d-5223c2f41833"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "英國在哪一年加入歐洲經濟共同體？",
+    "correct_answer": "1973",
+    "choices": [
+      "1957",
+      "1964",
+      "1973",
+      "1981"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "2895c22a-cc51-41e4-b329-8dd48602a9f4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "誰成為英國首位女性首相？",
+    "correct_answer": "瑪格麗特·柴契爾",
+    "choices": [
+      "英迪拉·甘地",
+      "德蕾莎·梅伊",
+      "安格拉·梅克爾",
+      "瑪格麗特·柴契爾"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0253be6f-5b7e-448c-acee-a8949cfe35e3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "哪場戰役被認為是二戰歐洲戰場的轉捩點？",
+    "correct_answer": "史達林格勒戰役",
+    "choices": [
+      "突出部戰役",
+      "D-Day",
+      "不列顛戰役",
+      "史達林格勒戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "70cb0bf2-fa1a-41ba-ba53-3d18c282a22e"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "三十年戰爭的主要原因是什麼？",
+    "correct_answer": "天主教與新教之間的宗教衝突",
+    "choices": [
+      "英格蘭與西班牙之間的貿易競爭",
+      "神聖羅馬帝國的繼承危機",
+      "天主教與新教之間的宗教衝突",
+      "亞爾薩斯-洛林的領土爭議"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "431ce107-ff9a-4639-8815-887cde6ec682"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "約在1440年，誰發明了印刷機？",
+    "correct_answer": "約翰內斯·古騰堡",
+    "choices": [
+      "阿爾杜斯·馬努蒂烏斯",
+      "阿爾布雷希特·杜勒",
+      "威廉·卡克斯頓",
+      "約翰內斯·古騰堡"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e559ffb5-8dba-43cd-8aec-181542ad762c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "一戰前哪個帝國被稱為「歐洲病夫」？",
+    "correct_answer": "鄂圖曼帝國",
+    "choices": [
+      "俄羅斯帝國",
+      "拜占庭帝國",
+      "奧匈帝國",
+      "鄂圖曼帝國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "de9754b4-f4d7-4e30-8a64-ea71ffe78e53"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1915年被德國潛艇擊沉的英國遠洋郵輪叫什麼？",
+    "correct_answer": "RMS盧西塔尼亞號",
+    "choices": [
+      "RMS鐵達尼號",
+      "HMS無畏號",
+      "RMS盧西塔尼亞號",
+      "RMS毛里塔尼亞號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "ecda4d5f-8e9b-4ae5-9ad3-c065de0875f7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "二戰後哪個國家分裂為南北兩部分？",
+    "correct_answer": "韓國",
+    "choices": [
+      "德國",
+      "中國",
+      "越南",
+      "韓國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1127eb29-27fe-4df4-a834-7469351e8e3e"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "中國最後一位皇帝是誰？",
+    "correct_answer": "溥儀",
+    "choices": [
+      "蔣介石",
+      "毛澤東",
+      "溥儀",
+      "孫中山"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "77fdd450-ed6d-46c2-b68c-69eadd2dd873"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "幫助奴隸逃離美國南方的秘密網絡叫什麼？",
+    "correct_answer": "地下鐵路",
+    "choices": [
+      "自由之路",
+      "自由線",
+      "地下鐵路",
+      "北方通道"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "2a3828f8-8833-4bd6-a3c7-e5be64c53c99"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "哪位哲學家撰寫了《社會契約論》？",
+    "correct_answer": "讓-雅克·盧梭",
+    "choices": [
+      "約翰·洛克",
+      "湯瑪斯·霍布斯",
+      "伏爾泰",
+      "讓-雅克·盧梭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0843c441-6205-44e0-94d3-2566f5fd8596"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "車諾比核災發生在哪一年？",
+    "correct_answer": "1986",
+    "choices": [
+      "1989",
+      "1984",
+      "1982",
+      "1986"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5d38718b-3aed-4351-b266-b7e86802d410"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪項發明歸功於亞歷山大·格拉漢姆·貝爾？",
+    "correct_answer": "電話",
+    "choices": [
+      "電燈泡",
+      "電報",
+      "無線電",
+      "電話"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "064e7f10-4091-4839-9a0c-477de2e7cadb"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "「非洲爭奪」指的是什麼？",
+    "correct_answer": "歐洲對非洲的殖民與瓜分",
+    "choices": [
+      "尋找尼羅河源頭的競賽",
+      "歐洲對非洲的殖民與瓜分",
+      "南非的淘金熱",
+      "二戰期間對非洲資源的競爭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0e1c4063-587f-4310-949d-3f520d953129"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "誰領導了印度的非暴力獨立運動？",
+    "correct_answer": "聖雄甘地",
+    "choices": [
+      "羅賓德拉納特·泰戈爾",
+      "蘇巴斯·錢德拉·鮑斯",
+      "賈瓦哈拉爾·尼赫魯",
+      "聖雄甘地"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4c15af10-cc2b-40a3-bda0-200ef506032c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪個國家最先賦予女性投票權？",
+    "correct_answer": "紐西蘭",
+    "choices": [
+      "紐西蘭",
+      "美國",
+      "澳大利亞",
+      "芬蘭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8a005ec2-9fe5-4c43-a148-1fedf11aff64"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "蘇聯封鎖期間，美國向柏林運送物資的計劃叫什麼？",
+    "correct_answer": "柏林空運",
+    "choices": [
+      "霸王行動",
+      "柏林空運",
+      "馬歇爾計劃",
+      "巴巴羅薩行動"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5a6159b6-c645-48e4-b5cd-2be530051631"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "1939年哪個歐洲國家與德國瓜分波蘭？",
+    "correct_answer": "蘇聯",
+    "choices": [
+      "蘇聯",
+      "法國",
+      "奧地利",
+      "義大利"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d5944b2a-5d53-4dbc-a27d-7060bd90d70f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "誰發現了青黴素？",
+    "correct_answer": "亞歷山大·弗萊明",
+    "choices": [
+      "亞歷山大·弗萊明",
+      "約瑟夫·李斯特",
+      "路易·巴斯德",
+      "羅伯特·科赫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0194838d-7fb2-498a-9ad1-5367b721afa9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "馬斯垂克條約在哪一年建立了歐盟？",
+    "correct_answer": "1993",
+    "choices": [
+      "1993",
+      "1991",
+      "1995",
+      "1989"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6988161c-ee17-47e1-95f2-5f63c8447a28"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位義大利探險家為英格蘭航行並宣稱擁有紐芬蘭？",
+    "correct_answer": "約翰·卡伯特",
+    "choices": [
+      "喬瓦尼·達·韋拉扎諾",
+      "亞美利哥·韋斯普奇",
+      "亨利·哈德遜",
+      "約翰·卡伯特"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "746b75e1-aa97-48f7-b877-ae9589c8b811"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "盟軍諾曼第登陸的行動代號是什麼？",
+    "correct_answer": "霸王行動",
+    "choices": [
+      "火炬行動",
+      "霸王行動",
+      "市場花園行動",
+      "巴巴羅薩行動"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b1358ca4-3ca8-4be0-a7d6-a7e183084c2f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "俄羅斯第一位民選總統是誰？",
+    "correct_answer": "鮑里斯·葉爾辛",
+    "choices": [
+      "弗拉基米爾·普丁",
+      "鮑里斯·葉爾辛",
+      "德米特里·梅德韋傑夫",
+      "米哈伊爾·戈巴契夫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "951a916d-b4fa-48a0-a585-c778187edc0e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "《獨立宣言》是在哪一年簽署的？",
+    "correct_answer": "1776年",
+    "choices": [
+      "1776年",
+      "1775年",
+      "1781年",
+      "1783年"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "883cb6af-29ea-4526-9d3a-f013814c5da7"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "美國第一任總統是誰？",
+    "correct_answer": "喬治·華盛頓",
+    "choices": [
+      "班傑明·富蘭克林",
+      "喬治·華盛頓",
+      "約翰·亞當斯",
+      "湯瑪斯·傑佛遜"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6eb4cbf4-1710-4684-982e-4d1b6e6082a4"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "美國南北之間進行了哪一場戰爭？",
+    "correct_answer": "南北戰爭",
+    "choices": [
+      "1812年戰爭",
+      "美墨戰爭",
+      "南北戰爭",
+      "獨立戰爭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e6c8e059-53af-483b-9b01-0794e3caab7a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "誰起草了《解放宣言》？",
+    "correct_answer": "亞伯拉罕·林肯",
+    "choices": [
+      "安德魯·詹森",
+      "亞伯拉罕·林肯",
+      "弗雷德里克·道格拉斯",
+      "尤利西斯·S·格蘭特"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "65296004-ad8f-49f5-a76b-b5e83d550b5a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "美國是從哪個國家獨立出來的？",
+    "correct_answer": "大不列顛",
+    "choices": [
+      "法國",
+      "荷蘭",
+      "西班牙",
+      "大不列顛"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "39a3af59-7f7b-42a4-9b9a-917450f2d409"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "最後一個加入美國的州是哪一個？",
+    "correct_answer": "夏威夷",
+    "choices": [
+      "亞利桑那",
+      "新墨西哥",
+      "阿拉斯加",
+      "夏威夷"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a1eead68-8064-44e7-9b8b-6913f19fbec5"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "《獨立宣言》的主要起草人是誰？",
+    "correct_answer": "湯瑪斯·傑佛遜",
+    "choices": [
+      "湯瑪斯·傑佛遜",
+      "詹姆斯·麥迪遜",
+      "班傑明·富蘭克林",
+      "約翰·亞當斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b5ca3fee-0fa1-4e13-ba7b-f56221743638"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "美國南北戰爭是在哪一年開始的？",
+    "correct_answer": "1861年",
+    "choices": [
+      "1859年",
+      "1861年",
+      "1863年",
+      "1860年"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9d9d27f4-04ca-4b65-b08e-ab90c9d618f9"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "美國憲法哪一條修正案廢除了奴隸制？",
+    "correct_answer": "第十三修正案",
+    "choices": [
+      "第十五修正案",
+      "第十二修正案",
+      "第十三修正案",
+      "第十四修正案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f8406b74-e458-4364-97fc-a95253f68f0e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "誰說過「不自由，毋寧死」？",
+    "correct_answer": "派翠克·亨利",
+    "choices": [
+      "塞繆爾·亞當斯",
+      "派翠克·亨利",
+      "湯瑪斯·潘恩",
+      "約翰·漢考克"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3417ac5b-0995-48c7-96f2-e286bf95cbb9"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "哪個事件引發了大蕭條？",
+    "correct_answer": "1929年股市崩盤",
+    "choices": [
+      "斯姆特-霍利關稅法案",
+      "沙塵暴",
+      "1929年股市崩盤",
+      "美國銀行倒閉"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4453486f-92b8-4649-a29b-ce684c53f238"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "以「我有一個夢想」聞名的民權運動領袖是誰？",
+    "correct_answer": "馬丁·路德·金恩",
+    "choices": [
+      "馬丁·路德·金恩",
+      "麥爾坎·X",
+      "羅莎·帕克斯",
+      "弗雷德里克·道格拉斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "739abac5-36cb-4fa7-8c16-5e3fa85c9307"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "羅莎·帕克斯的哪項反抗行為引發了蒙哥馬利公車抵制運動？",
+    "correct_answer": "拒絕讓出公車座位給白人乘客",
+    "choices": [
+      "拒絕讓出公車座位給白人乘客",
+      "拒絕繳納人頭稅",
+      "在種族隔離的午餐櫃檯組織靜坐",
+      "領導華盛頓遊行"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1004b588-c27a-416c-ad8c-c6a41d2beaff"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "美洲第一個永久性的英國定居點叫什麼？",
+    "correct_answer": "詹姆斯鎮",
+    "choices": [
+      "羅阿諾克",
+      "聖奧古斯丁",
+      "普利茅斯",
+      "詹姆斯鎮"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "64b93f74-f8fb-406a-b363-6b7454ce7d4e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "第一次世界大戰期間的美國總統是誰？",
+    "correct_answer": "伍德羅·威爾遜",
+    "choices": [
+      "伍德羅·威爾遜",
+      "西奧多·羅斯福",
+      "華倫·G·哈定",
+      "威廉·霍華德·塔夫脫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "765394f5-253f-4c68-b97f-dd0dd988898d"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "哪個重大建設項目連接了大西洋和太平洋？",
+    "correct_answer": "巴拿馬運河",
+    "choices": [
+      "胡佛水壩",
+      "伊利運河",
+      "巴拿馬運河",
+      "橫貫大陸鐵路"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6478ba33-9dab-419c-9fcd-5246cdde7c2d"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "哪位總統頒布了《解放宣言》？",
+    "correct_answer": "亞伯拉罕·林肯",
+    "choices": [
+      "安德魯·詹森",
+      "亞伯拉罕·林肯",
+      "尤利西斯·S·格蘭特",
+      "詹姆斯·布坎南"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f08d5bae-90ce-480a-ac16-9b48b6786a85"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "載著清教徒來到美國的船叫什麼？",
+    "correct_answer": "五月花號",
+    "choices": [
+      "蘇珊康斯坦號",
+      "五月花號",
+      "聖瑪利亞號",
+      "斯皮德韋爾號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5ef26a4d-5bdb-4d32-a4c3-dfd2c0c88b77"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "唯一一位辭職的總統是誰？",
+    "correct_answer": "理查·尼克森",
+    "choices": [
+      "理查·尼克森",
+      "安德魯·詹森",
+      "華倫·G·哈定",
+      "比爾·柯林頓"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "ae088f76-0bd6-4798-9f84-aa83d13ad76e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "哪個最高法院案例裁定種族隔離合憲？",
+    "correct_answer": "普萊西訴弗格森案",
+    "choices": [
+      "德雷德·斯科特訴桑福德案",
+      "馬伯里訴麥迪遜案",
+      "普萊西訴弗格森案",
+      "布朗訴教育委員會案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "79b50a02-2fb3-44ec-aec4-901b8f0e7f3e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "哪場戰役被認為是美國南北戰爭的轉捩點？",
+    "correct_answer": "蓋茨堡戰役",
+    "choices": [
+      "安提坦戰役",
+      "蓋茨堡戰役",
+      "牛奔河戰役",
+      "夏洛伊戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "120c075b-2ea3-4456-b235-cc609264b660"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "美國送太空人到月球的計畫叫什麼？",
+    "correct_answer": "阿波羅計畫",
+    "choices": [
+      "雙子星計畫",
+      "太空梭計畫",
+      "阿波羅計畫",
+      "水星計畫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "ca3c458f-431b-4028-85be-a51ec90e7158"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "美國最高法院第一位女性大法官是誰？",
+    "correct_answer": "桑德拉·戴·奧康納",
+    "choices": [
+      "艾琳娜·卡根",
+      "桑德拉·戴·奧康納",
+      "索尼婭·索托馬約爾",
+      "露絲·巴德·金斯伯格"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f19ca83a-ae37-4f92-9a1a-b918539e6a99"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "美國是在哪一年加入第二次世界大戰的？",
+    "correct_answer": "1941年",
+    "choices": [
+      "1940年",
+      "1939年",
+      "1941年",
+      "1942年"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5358a4cf-ee9f-4fdc-975f-c5cb36b3b4db"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "哪位總統在福特劇院被暗殺？",
+    "correct_answer": "亞伯拉罕·林肯",
+    "choices": [
+      "亞伯拉罕·林肯",
+      "詹姆斯·A·加菲爾德",
+      "威廉·麥金利",
+      "約翰·F·甘迺迪"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d1a3b67c-ced4-4337-84c0-76d644bbaca6"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "2001年9月11日的恐怖襲擊叫什麼？",
+    "correct_answer": "911襲擊",
+    "choices": [
+      "奧克拉荷馬市爆炸案",
+      "911襲擊",
+      "世貿中心爆炸案",
+      "波士頓馬拉松爆炸案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1b11d1f0-7f59-4dca-8c2a-b9c1062a0159"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "大陸軍的指揮官是誰？",
+    "correct_answer": "喬治·華盛頓",
+    "choices": [
+      "喬治·華盛頓",
+      "湯瑪斯·傑佛遜",
+      "班傑明·富蘭克林",
+      "約翰·亞當斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d2ee61a0-0151-45a2-bd9b-3a5e5eab39af"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "1803年哪項購買案使美國面積加倍？",
+    "correct_answer": "路易斯安那購地案",
+    "choices": [
+      "阿拉斯加購地案",
+      "墨西哥割讓地",
+      "蓋茲登購地案",
+      "路易斯安那購地案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4d0719ae-4d6e-4d1b-bfe5-c000d34e332c"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "南北戰爭期間，誰領導了著名的「向大海進軍」？",
+    "correct_answer": "威廉·特庫姆塞·謝爾曼",
+    "choices": [
+      "威廉·特庫姆塞·謝爾曼",
+      "尤利西斯·S·格蘭特",
+      "羅伯特·E·李",
+      "石牆傑克森"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "34180f52-6fcc-479e-a404-1650dc059484"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "美國女性在哪一年獲得投票權？",
+    "correct_answer": "1920年",
+    "choices": [
+      "1918年",
+      "1920年",
+      "1922年",
+      "1916年"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "de73874b-43a5-4b34-8037-0031ab457071"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "哪位總統以新政計畫聞名？",
+    "correct_answer": "富蘭克林·D·羅斯福",
+    "choices": [
+      "哈瑞·S·杜魯門",
+      "赫伯特·胡佛",
+      "西奧多·羅斯福",
+      "富蘭克林·D·羅斯福"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "75316659-7d13-4385-b211-e74254e98cfb"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "美國製造原子彈的秘密計畫叫什麼？",
+    "correct_answer": "曼哈頓計畫",
+    "choices": [
+      "霸王行動",
+      "曼哈頓計畫",
+      "馬歇爾計畫",
+      "阿波羅計畫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b21dc8cd-b87b-4a84-863e-aaf3a9fd3677"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "第一位進入南方白人學校的非裔美國人是誰？",
+    "correct_answer": "露比·布里奇斯",
+    "choices": [
+      "琳達·布朗",
+      "克勞黛特·科爾文",
+      "露比·布里奇斯",
+      "桃樂絲·康茨"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b8dc5de8-b5ae-4c78-bd9e-43d35504ce6b"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "哪條憲法修正案保障攜帶武器的權利？",
+    "correct_answer": "第二修正案",
+    "choices": [
+      "第四修正案",
+      "第一修正案",
+      "第五修正案",
+      "第二修正案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3246b884-0b6e-4bab-bae6-e4901b2d4169"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "南卡羅來納州哪個堡壘是內戰第一場戰鬥的地點？",
+    "correct_answer": "薩姆特堡",
+    "choices": [
+      "薩姆特堡",
+      "麥克亨利堡",
+      "提康德羅加堡",
+      "諾克斯堡"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "13005543-4a62-48eb-ae3e-6668e5f3c2f8"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "誰發明了軋棉機？",
+    "correct_answer": "伊利·惠特尼",
+    "choices": [
+      "賽勒斯·麥考密克",
+      "伊利·惠特尼",
+      "塞繆爾·斯萊特",
+      "約翰·迪爾"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "da76c9db-9572-429a-a979-5820f8c4778a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "美國歷史上的「好感時代」是什麼？",
+    "correct_answer": "1812年戰爭後國家團結的時期",
+    "choices": [
+      "1812年戰爭後國家團結的時期",
+      "快速西進擴張的時期",
+      "咆哮的二十年代的經濟繁榮",
+      "內戰後的重建時期"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4029489d-f9ac-41c3-b4db-bddbe8143a18"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "哪位總統的任期最短？",
+    "correct_answer": "威廉·亨利·哈里森",
+    "choices": [
+      "詹姆斯·A·加菲爾德",
+      "約翰·F·甘迺迪",
+      "威廉·亨利·哈里森",
+      "扎卡里·泰勒"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "774ed917-feb1-4648-be34-7cf402db4bb3"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "哪份文件是美國的最高法律？",
+    "correct_answer": "美國憲法",
+    "choices": [
+      "美國憲法",
+      "權利法案",
+      "邦聯條例",
+      "獨立宣言"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "cb62b3d2-3303-4688-9f8f-ccf0144b4c4e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "哪個原住民部落被迫踏上「淚之路」？",
+    "correct_answer": "切羅基族",
+    "choices": [
+      "阿帕契族",
+      "蘇族",
+      "切羅基族",
+      "易洛魁族"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8e75f6e2-2eb0-404c-a45f-b04cc4b624d2"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "古巴飛彈危機期間的美國總統是誰？",
+    "correct_answer": "約翰·F·甘迺迪",
+    "choices": [
+      "理查·尼克森",
+      "林登·B·詹森",
+      "約翰·F·甘迺迪",
+      "德懷特·D·艾森豪"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "26112d5d-4b48-4068-a5cf-bdeb2c9fc8ba"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "美洲第一個成功的英國殖民地叫什麼？",
+    "correct_answer": "詹姆斯鎮",
+    "choices": [
+      "普利茅斯",
+      "威廉斯堡",
+      "羅阿諾克",
+      "詹姆斯鎮"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d859aa2e-0a52-4839-ba7a-3d18afec9f31"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "路易斯與克拉克遠征的主要目的是什麼？",
+    "correct_answer": "探索路易斯安那購地案",
+    "choices": [
+      "尋找通往亞洲的西北航道",
+      "與原住民建立貿易路線",
+      "探索路易斯安那購地案",
+      "繪製洛磯山脈地圖"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6d6b7e27-d2d6-45a4-b87e-c85297d0712f"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "美國哪個州原本是從俄羅斯購買的？",
+    "correct_answer": "阿拉斯加",
+    "choices": [
+      "阿拉斯加",
+      "加利福尼亞",
+      "夏威夷",
+      "佛羅里達"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3ab28cfe-bfbc-4856-a351-832bca7a3a51"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "誰刺殺了亞伯拉罕·林肯總統？",
+    "correct_answer": "約翰·威爾克斯·布思",
+    "choices": [
+      "里昂·佐爾戈斯",
+      "查爾斯·吉托",
+      "李·哈維·奧斯瓦爾德",
+      "約翰·威爾克斯·布思"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b07aabef-da04-4677-a2df-ef381c47a0f3"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "美國在哪一年向廣島和長崎投擲原子彈？",
+    "correct_answer": "1945年",
+    "choices": [
+      "1945年",
+      "1946年",
+      "1944年",
+      "1943年"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "95d974fa-8e53-44b0-8cca-a1003dadeb22"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "美國最高法院第一任首席大法官是誰？",
+    "correct_answer": "約翰·傑伊",
+    "choices": [
+      "約翰·馬歇爾",
+      "奧利弗·埃爾斯沃思",
+      "羅傑·B·托尼",
+      "約翰·傑伊"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "cecac859-cc7f-4179-84aa-48d3494d82fa"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "1849年人們前往加州尋找黃金的移民運動叫什麼？",
+    "correct_answer": "加州淘金熱",
+    "choices": [
+      "加州淘金熱",
+      "克朗代克淘金熱",
+      "西進運動",
+      "大遷徙"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8ad68739-2fa7-4eda-b15f-d5c235baf4b1"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "哪條憲法修正案賦予女性投票權？",
+    "correct_answer": "第十九修正案",
+    "choices": [
+      "第十八修正案",
+      "第二十一修正案",
+      "第十九修正案",
+      "第十五修正案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1ea55b3e-75a7-4a98-974b-b26fa8ad524a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "第一位入住白宮的美國總統是誰？",
+    "correct_answer": "約翰·亞當斯",
+    "choices": [
+      "約翰·亞當斯",
+      "詹姆斯·麥迪遜",
+      "湯瑪斯·傑佛遜",
+      "喬治·華盛頓"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "148b68ab-8550-44f5-a68e-bb73d92e308e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "什麼事件促使美國參與第一次世界大戰？",
+    "correct_answer": "德國的不限潛艇戰",
+    "choices": [
+      "盧西塔尼亞號沉沒事件",
+      "齊默曼電報",
+      "斐迪南大公遇刺事件",
+      "德國的不限潛艇戰"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "2bbe3fc3-a945-4ad3-a49b-67e539060e48"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "原住民澳洲人已在這片大陸上居住多久？",
+    "correct_answer": "超過六萬年",
+    "choices": [
+      "超過一萬年",
+      "超過兩萬年",
+      "超過六萬年",
+      "超過十萬年"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "29fbfcc5-3e69-4efe-893b-3307e4a9cfd8"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "原住民澳洲人稱創世時期為？",
+    "correct_answer": "夢幻時代",
+    "choices": [
+      "歌之徑",
+      "大神",
+      "祖先時代",
+      "夢幻時代"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5188e5e0-72d5-468c-aaf7-4c12d0357cd9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "傳統上，原住民澳洲人橫跨大地的歌曲地圖叫什麼？",
+    "correct_answer": "歌之徑",
+    "choices": [
+      "徒步路徑",
+      "歌之徑",
+      "夢之路徑",
+      "精神之路"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0a825589-f704-4b3a-8e88-fb1024fe3b4b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "詹姆斯·庫克船長在哪一年登陸澳洲東海岸？",
+    "correct_answer": "1770",
+    "choices": [
+      "1768",
+      "1770",
+      "1788",
+      "1778"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d210b58c-fd57-452d-9f86-10dd55a060b0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "庫克船長抵達澳洲時所乘的船叫什麼？",
+    "correct_answer": "奮進號",
+    "choices": [
+      "發現號",
+      "小獵犬號",
+      "決心號",
+      "奮進號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "66ad4de2-84da-4e75-9594-d578180eca26"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "庫克船長首次登陸澳洲大陸的地點是？",
+    "correct_answer": "植物學灣",
+    "choices": [
+      "菲利浦港灣",
+      "植物學灣",
+      "約克角",
+      "雪梨灣"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a61b1d87-2a52-4c29-b121-bd50862cb3e2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "第一艦隊在哪一年抵達澳洲以建立流放殖民地？",
+    "correct_answer": "1788",
+    "choices": [
+      "1800",
+      "1770",
+      "1788",
+      "1790"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e15f386a-1cc0-440b-85d3-bb683f246650"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "誰指揮第一艦隊前往澳洲？",
+    "correct_answer": "亞瑟·菲利普船長",
+    "choices": [
+      "亞瑟·菲利普船長",
+      "詹姆斯·庫克船長",
+      "威廉·布萊船長",
+      "拉克倫·麥覺理總督"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0cec2c46-08a6-4e6b-965a-dc480b00bb6b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "第一艦隊原計劃在植物學灣定居，但後來遷移了。他們最終定居在哪裡？",
+    "correct_answer": "雪梨灣",
+    "choices": [
+      "霍巴特",
+      "布里斯本河",
+      "雪梨灣",
+      "菲利浦港灣"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "08a204df-2615-416d-aed2-e611ddf9385a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "第一艦隊的旗艦叫什麼？",
+    "correct_answer": "天狼星號",
+    "choices": [
+      "奮進號",
+      "天狼星號",
+      "勝利號",
+      "供應號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f8200aa1-4ecb-41c4-bf7f-6fdae0b485f1"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位英國探險家以在庫克之後繪製澳洲海岸線而聞名？",
+    "correct_answer": "馬修·弗林德斯",
+    "choices": [
+      "喬治·巴斯",
+      "威廉·布萊",
+      "約翰·麥克杜奧爾·斯圖爾特",
+      "馬修·弗林德斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "aec19969-1d58-4c69-973b-7d3ff91937a4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "探險家柏克和威爾斯悲劇性地試圖穿越什麼而喪生？",
+    "correct_answer": "由南向北橫越澳洲大陸",
+    "choices": [
+      "由南向北橫越澳洲大陸",
+      "納拉伯平原",
+      "大分水嶺",
+      "辛普森沙漠"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c83ed7df-53c6-4327-8e93-227b78b51e09"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "澳洲淘金熱在哪一年真正開始？",
+    "correct_answer": "1851",
+    "choices": [
+      "1854",
+      "1860",
+      "1849",
+      "1851"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "2ba67eb2-e74b-433c-88bc-20c85f9c1d09"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "澳洲第一個引發淘金熱的主要金礦發現地點是？",
+    "correct_answer": "新南威爾斯州巴瑟斯特",
+    "choices": [
+      "維多利亞州本迪戈",
+      "維多利亞州巴拉瑞特",
+      "新南威爾斯州巴瑟斯特",
+      "西澳州卡爾古利"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "29847d35-eaa5-4f79-99df-e88aa11fbf01"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "尤里卡柵欄事件是什麼？",
+    "correct_answer": "金礦工人反抗殖民當局的叛亂",
+    "choices": [
+      "保護黃金運輸的堡壘",
+      "金礦工人反抗殖民當局的叛亂",
+      "關押囚犯的監獄",
+      "金礦工人的貿易站"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1d917a79-5c59-4be4-9693-f0fffb1bd3a9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "尤里卡柵欄事件發生在哪一年？",
+    "correct_answer": "1854",
+    "choices": [
+      "1851",
+      "1860",
+      "1848",
+      "1854"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1d60d9cb-1290-45e1-adf8-58cb71641a11"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "尤里卡柵欄礦工們升起了什麼旗幟？",
+    "correct_answer": "尤里卡旗",
+    "choices": [
+      "澳洲國旗",
+      "南十字星旗",
+      "英國國旗",
+      "尤里卡旗"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "dfa38918-f3a5-46b7-bc85-f6aa7d9f146a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "六個澳洲殖民地在哪一年聯邦成立為澳洲聯邦？",
+    "correct_answer": "1901",
+    "choices": [
+      "1889",
+      "1910",
+      "1901",
+      "1891"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d26c73b8-9a38-4b3a-94a5-9aa632d41f64"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "澳洲第一任總理是誰？",
+    "correct_answer": "埃德蒙·巴頓",
+    "choices": [
+      "約翰·柯廷",
+      "埃德蒙·巴頓",
+      "亨利·帕克斯",
+      "阿爾弗雷德·迪金"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "08e96cba-5d64-4a76-897c-4fdd38f08559"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位政治家被譽為「聯邦之父」？",
+    "correct_answer": "亨利·帕克斯",
+    "choices": [
+      "埃德蒙·巴頓",
+      "塞繆爾·格里菲斯",
+      "阿爾弗雷德·迪金",
+      "亨利·帕克斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "25cb9a12-e045-45e7-9e60-d173235ab972"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "澳洲的首都是哪個城市？",
+    "correct_answer": "坎培拉",
+    "choices": [
+      "坎培拉",
+      "雪梨",
+      "墨爾本",
+      "布里斯本"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "64afb093-418e-42e3-b0d5-f24ebe0588d9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "澳洲憲法是由英國哪項議會法案頒布的？",
+    "correct_answer": "1900年澳洲聯邦憲法法案",
+    "choices": [
+      "1865年殖民地法律效力法案",
+      "1931年西敏法令",
+      "1900年澳洲聯邦憲法法案",
+      "1986年澳洲法案"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "28fb7162-1627-4f32-905f-0434671dab5e"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "澳洲國旗在哪一年正式成為國旗？",
+    "correct_answer": "1954",
+    "choices": [
+      "1934",
+      "1962",
+      "1901",
+      "1954"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c4692685-53bc-405f-a5db-e32741abd1d7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "澳洲國旗上最大的星星代表什麼？",
+    "correct_answer": "聯邦之星",
+    "choices": [
+      "南十字星",
+      "聯合之星",
+      "聯邦之星",
+      "國協之星"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "70fc4a17-d8ba-4113-a961-1476c49f0015"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "1880年在格倫羅萬被捕的惡名昭彰的叢林土匪叫什麼？",
+    "correct_answer": "奈德·凱利",
+    "choices": [
+      "奈德·凱利",
+      "班·霍爾",
+      "丹·摩根",
+      "雷電船長"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4c7ce2a9-d084-4ed6-9e9f-9fa9e11f9efa"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "奈德·凱利以穿戴什麼獨特的盔甲而聞名？",
+    "correct_answer": "自製鐵製頭盔和胸甲",
+    "choices": [
+      "鋼製鎖甲",
+      "防彈皮夾克",
+      "銅製面具",
+      "自製鐵製頭盔和胸甲"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b0bd2ebe-6f97-45d6-b69c-5787c5dbeb4d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "奈德·凱利在行刑前說了什麼名言？",
+    "correct_answer": "這就是人生",
+    "choices": [
+      "遊戲結束了",
+      "上帝寬恕我",
+      "我為我的人民而死",
+      "這就是人生"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "477632e0-27ee-457b-b7c4-38480388189a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "澳洲和紐西蘭部隊在哪一年登陸加里波利？",
+    "correct_answer": "1915",
+    "choices": [
+      "1915",
+      "1917",
+      "1914",
+      "1916"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1e8b74b1-a56d-4746-96a6-c7dc1b4c47e2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "ANZAC代表什麼？",
+    "correct_answer": "澳洲與紐西蘭陸軍軍團",
+    "choices": [
+      "盟軍海軍與陸軍軍團",
+      "澳洲與紐西蘭陸軍軍團",
+      "澳洲與紐西蘭盟軍指揮部",
+      "澳洲國家陸軍軍團"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "75c37f0d-16b9-453a-a7ee-5976689639d9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "ANZAC紀念日在每年的哪一天？",
+    "correct_answer": "4月25日",
+    "choices": [
+      "7月4日",
+      "5月8日",
+      "11月11日",
+      "4月25日"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "7afc0605-bc2a-4917-b112-ed7ca99b24d4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "哪位澳洲將軍指揮了加里波利的ANZAC部隊？",
+    "correct_answer": "威廉·伯德伍德爵士",
+    "choices": [
+      "威廉·伯德伍德爵士",
+      "約翰·莫納什爵士",
+      "湯馬斯·布萊梅爵士",
+      "亨利·肖維爾爵士"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "72dfa345-9c4d-42d3-bf59-1f3bd2e2c355"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "科科達小徑戰役是什麼？",
+    "correct_answer": "二戰期間在巴布亞紐幾內亞對抗日本的戰役",
+    "choices": [
+      "布爾戰爭在南非的戰役",
+      "與原住民澳洲人的邊境衝突",
+      "一次大戰在法國的戰役",
+      "二戰期間在巴布亞紐幾內亞對抗日本的戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "079c5546-291f-41e0-93b8-0b008dfa64be"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "日軍在哪一年轟炸了二戰期間的達爾文？",
+    "correct_answer": "1942",
+    "choices": [
+      "1942",
+      "1944",
+      "1941",
+      "1943"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "2ad02aa5-bdf5-4142-870c-0cfcc9c15ba7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位澳洲總理在授權轟炸達爾文後名言：「孟席斯會被記住，但我會被遺忘」？",
+    "correct_answer": "約翰·柯廷",
+    "choices": [
+      "羅伯特·孟席斯",
+      "亞瑟·法登",
+      "班·奇夫利",
+      "約翰·柯廷"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "093c04ce-63ed-4fb5-a0fb-366ae4d3cb2b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "誰被公認為澳洲史上最偉大的板球運動員？",
+    "correct_answer": "唐納德·布萊德曼爵士",
+    "choices": [
+      "史蒂夫·沃",
+      "唐納德·布萊德曼爵士",
+      "肖恩·沃恩",
+      "瑞奇·龐廷"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c8df39c8-2f37-4f2a-8813-6e825f04ed2d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "唐納德·布萊德曼爵士的職業生涯測試打擊率是多少？",
+    "correct_answer": "99.94",
+    "choices": [
+      "95.50",
+      "89.76",
+      "101.23",
+      "99.94"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "41517677-8c7a-4fdc-b29f-c1eee90210c3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "墨爾本在哪一年主辦了夏季奧運會？",
+    "correct_answer": "1956",
+    "choices": [
+      "1964",
+      "1960",
+      "1952",
+      "1956"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "32c4ba37-4b32-496b-90cd-e697a3ffdf54"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "雪梨在哪一年主辦了夏季奧運會？",
+    "correct_answer": "2000",
+    "choices": [
+      "2008",
+      "1996",
+      "2004",
+      "2000"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a869dbdb-752c-4624-8dd7-3626e9baaa79"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "設計雪梨歌劇院的著名建築師叫什麼？",
+    "correct_answer": "約恩·烏松",
+    "choices": [
+      "法蘭克·洛伊·萊特",
+      "勒·柯比意",
+      "約恩·烏松",
+      "西德尼·諾蘭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "dc1efc79-7a5c-4ad5-ae64-5f3359323ee4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "雪梨歌劇院在哪一年正式開幕？",
+    "correct_answer": "1973",
+    "choices": [
+      "1967",
+      "1975",
+      "1973",
+      "1981"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "eec87f11-bd37-4cdc-abaf-65b8174a3da9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1975年澳洲憲政危機通常被稱為什麼？",
+    "correct_answer": "解職事件",
+    "choices": [
+      "解職事件",
+      "政變",
+      "危機",
+      "解散"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "96fd8ebc-0b3f-433e-bbf1-1fa8c3bfe1fc"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1975年被總督解職的澳洲總理是誰？",
+    "correct_answer": "高夫·惠特蘭",
+    "choices": [
+      "高夫·惠特蘭",
+      "威廉·麥克馬洪",
+      "約翰·戈登",
+      "馬爾科姆·弗雷澤"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "10420f6a-8211-42c3-a229-50940c6d4933"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "解職惠特蘭政府的總督是誰？",
+    "correct_answer": "約翰·克爾爵士",
+    "choices": [
+      "約翰·克爾爵士",
+      "保羅·哈斯勒克爵士",
+      "尼尼安·史蒂芬爵士",
+      "威廉·迪恩爵士"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "aaaa7cb1-987d-438b-b20b-3c3a746b4032"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "總理陸克文在哪一年向原住民澳洲人發表道歉演說？",
+    "correct_answer": "2008",
+    "choices": [
+      "2010",
+      "2007",
+      "2008",
+      "2009"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9c047d8a-de88-4bf3-b7f3-1455fb283367"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "強行將原住民兒童從家庭中帶走的政策叫什麼？",
+    "correct_answer": "被偷走的一代",
+    "choices": [
+      "同化計畫",
+      "移除法案",
+      "被偷走的一代",
+      "迷失兒童"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9a67b249-11ef-41c9-9628-ef7532a47c84"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "澳洲史上任期最長的總理是誰？",
+    "correct_answer": "羅伯特·孟席斯爵士",
+    "choices": [
+      "保羅·基廷",
+      "羅伯特·孟席斯爵士",
+      "鮑勃·霍克",
+      "約翰·霍華德"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3d301047-aad6-4498-9f78-d198fc7f006f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位澳洲總理曾在公開場合落淚？",
+    "correct_answer": "鮑勃·霍克",
+    "choices": [
+      "約翰·霍華德",
+      "鮑勃·霍克",
+      "陸克文",
+      "保羅·基廷"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "18768a09-9653-4594-ae05-173b9b5e7346"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "大堡礁的大約長度是多少？",
+    "correct_answer": "超過2300公里",
+    "choices": [
+      "超過3500公里",
+      "超過800公里",
+      "超過1000公里",
+      "超過2300公里"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "66c48a43-b31e-4541-842b-917b9f5da477"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "2006年去世的澳洲保育人士兼「鱷魚獵人」是誰？",
+    "correct_answer": "史蒂夫·厄文",
+    "choices": [
+      "鮑勃·厄文",
+      "史蒂夫·厄文",
+      "泰瑞·厄文",
+      "約翰·巴特勒"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "fb083e13-00a5-4192-804f-b3032028732b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位澳洲原住民運動員在雪梨2000年奧運會上贏得女子400公尺金牌？",
+    "correct_answer": "凱西·弗里曼",
+    "choices": [
+      "諾娃·佩里斯",
+      "勞倫·傑克森",
+      "梅蘭妮·施蘭格",
+      "凱西·弗里曼"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d479c9d2-234d-4969-a504-879657d6455b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "《澳洲法案》在哪一年切斷了與英國議會的最後法律聯繫？",
+    "correct_answer": "1986",
+    "choices": [
+      "1982",
+      "1986",
+      "1975",
+      "1990"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c2945ecf-f869-4733-91fe-7c2e9ae6473d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位探險家在1862年成功完成首次從南到北穿越澳洲大陸的壯舉？",
+    "correct_answer": "約翰·麥克杜爾·史都華",
+    "choices": [
+      "威廉·約翰·威爾斯",
+      "約翰·麥克杜爾·史都華",
+      "羅伯特·奧哈拉·伯克",
+      "歐內斯特·吉爾斯"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8ba80ab3-f99e-4dcd-aba9-001e06ae1816"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "1942年在雪梨海岸被魚雷擊沉的客輪叫什麼名字？",
+    "correct_answer": "HMAS雪梨號",
+    "choices": [
+      "HMAS坎培拉號",
+      "HMAS澳洲號",
+      "HMAS伯斯號",
+      "HMAS雪梨號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "68937031-aad0-4449-9f40-434cbb3e145d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪個維京人建立的王朝統治了基輔羅斯？",
+    "correct_answer": "留里克王朝",
+    "choices": [
+      "留里克王朝",
+      "戈都諾夫王朝",
+      "羅曼諾夫王朝",
+      "舒伊斯基王朝"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6658fa48-3ae7-480b-b882-5c3710419dcf"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "弗拉基米爾大帝在哪一年為基輔羅斯施行洗禮？",
+    "correct_answer": "988",
+    "choices": [
+      "862",
+      "1054",
+      "1240",
+      "988"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0deb2b86-04fa-46e7-add4-10898c2e438d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪位蒙古領袖在13世紀入侵了羅斯？",
+    "correct_answer": "拔都汗",
+    "choices": [
+      "忽必烈汗",
+      "帖木兒",
+      "拔都汗",
+      "成吉思汗"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a748d662-6e0d-4dd9-ba31-9febfa87bb63"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "統治俄羅斯數世紀的蒙古國家叫什麼名字？",
+    "correct_answer": "金帳汗國",
+    "choices": [
+      "金帳汗國",
+      "伊兒汗國",
+      "白帳汗國",
+      "察合台汗國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4afee774-d6b4-411f-8112-a4b132c30229"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪位俄羅斯王子在佩普西湖的冰面上擊敗了條頓騎士團？",
+    "correct_answer": "亞歷山大·涅夫斯基",
+    "choices": [
+      "德米特里·頓斯科伊",
+      "智者雅羅斯拉夫",
+      "亞歷山大·涅夫斯基",
+      "弗拉基米爾·莫諾馬赫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "11c16d3b-06c6-414f-960f-f668fe1902c0"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "第一位被加冕為全俄羅斯沙皇的統治者是誰？",
+    "correct_answer": "伊凡四世（恐怖的伊凡）",
+    "choices": [
+      "瓦西里三世",
+      "彼得大帝",
+      "伊凡三世（大帝）",
+      "伊凡四世（恐怖的伊凡）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "28b56b95-7496-4a7b-8c4c-aa8abf9301cc"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "紅場上哪座大教堂是由恐怖的伊凡下令修建的？",
+    "correct_answer": "聖瓦西里主教座堂",
+    "choices": [
+      "基督救世主主教座堂",
+      "聖以撒主教座堂",
+      "喀山主教座堂",
+      "聖瓦西里主教座堂"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8c906078-39e3-4a28-909a-39d5f199f5fa"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "恐怖的伊凡的秘密警察部隊叫什麼名字？",
+    "correct_answer": "特轄區",
+    "choices": [
+      "契卡",
+      "特轄區",
+      "KGB",
+      "射擊軍"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c141f900-a01c-44e6-8091-71f20f719c3d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪場戰役標誌著俄羅斯對金帳汗國的首次重大勝利？",
+    "correct_answer": "庫里科沃戰役",
+    "choices": [
+      "涅瓦河戰役",
+      "冰湖戰役",
+      "格倫瓦爾德戰役",
+      "庫里科沃戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6b4adf4b-f83e-48fa-b233-101f486db6af"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "誰在庫里科沃戰役中領導了俄羅斯軍隊？",
+    "correct_answer": "德米特里·頓斯科伊",
+    "choices": [
+      "亞歷山大·涅夫斯基",
+      "德米特里·頓斯科伊",
+      "尤里·多爾戈魯基",
+      "伊凡·卡利塔"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "7be36ede-6560-4811-8c69-a83adc624057"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪個城市是基輔羅斯的首都？",
+    "correct_answer": "基輔",
+    "choices": [
+      "弗拉基米爾",
+      "莫斯科",
+      "基輔",
+      "諾夫哥羅德"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "888c5fac-c372-4ee2-8d16-4a4174cc4e36"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "智者雅羅斯拉夫頒布了什麼法典？",
+    "correct_answer": "羅斯法典",
+    "choices": [
+      "1497年法典",
+      "會議法典",
+      "羅斯法典",
+      "律書"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "cc91adbe-6be3-45af-819b-7a5f2d97b20b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "誰創立了莫斯科市？",
+    "correct_answer": "尤里·多爾戈魯基",
+    "choices": [
+      "亞歷山大·涅夫斯基",
+      "伊凡·卡利塔",
+      "安德烈·博戈柳布斯基",
+      "尤里·多爾戈魯基"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5d9c81d8-8cbb-42d9-9df5-4e731c264d89"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "哪位沙皇拒絕納貢，終結了蒙古枷鎖？",
+    "correct_answer": "伊凡三世（大帝）",
+    "choices": [
+      "伊凡三世（大帝）",
+      "瓦西里二世",
+      "伊凡四世（恐怖的伊凡）",
+      "德米特里·頓斯科伊"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4847e708-c088-4f25-831f-db08a8e33031"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "選出米哈伊爾·羅曼諾夫為沙皇的選舉會議叫什麼名字？",
+    "correct_answer": "縉紳會議",
+    "choices": [
+      "市民會議",
+      "縉紳會議",
+      "貴族杜馬",
+      "樞密院"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "7f75f500-0ea1-45c6-9d5b-8ecb280c620e"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "在混亂時期，哪位波蘭支持的冒充者聲稱擁有俄羅斯王位？",
+    "correct_answer": "偽德米特里一世",
+    "choices": [
+      "伊凡·博洛特尼科夫",
+      "偽德米特里一世",
+      "格里戈里·奧特列皮耶夫",
+      "普羅科皮·利亞普諾夫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f39085bd-7f9a-458c-bf48-b1ca372ef961"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位商人和哪位王子在1612年領導了解放莫斯科脫離波蘭佔領者的行動？",
+    "correct_answer": "米寧與波扎爾斯基",
+    "choices": [
+      "蘇薩寧與羅曼諾夫",
+      "赫梅利尼茨基與特魯別茨科伊",
+      "米寧與波扎爾斯基",
+      "博洛特尼科夫與舒伊斯基"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3b76248c-cfd1-4f20-b5d3-d231ed641a67"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "羅曼諾夫王朝在哪一年開始？",
+    "correct_answer": "1613",
+    "choices": [
+      "1613",
+      "1598",
+      "1682",
+      "1645"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "74c9ad08-33f4-4bd6-b31f-d34adb120a14"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "開始俄羅斯征服西伯利亞的哥薩克領袖叫什麼名字？",
+    "correct_answer": "葉爾馬克·季莫費耶維奇",
+    "choices": [
+      "葉梅利揚·普加喬夫",
+      "斯捷潘·拉辛",
+      "葉爾馬克·季莫費耶維奇",
+      "波格丹·赫梅利尼茨基"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b82ef14d-c2a0-4509-bf66-8d46198622ea"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪個城市的市民會議（Veche）在中世紀以共和國形式治理？",
+    "correct_answer": "諾夫哥羅德",
+    "choices": [
+      "弗拉基米爾",
+      "莫斯科",
+      "諾夫哥羅德",
+      "普斯科夫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "796f7c12-b626-4045-b8d3-3784eb6c208a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "哪位立陶宛大公兼波蘭國王在格倫瓦爾德擊敗了條頓騎士團，並有俄羅斯軍團並肩作戰？",
+    "correct_answer": "維托夫特（維陶塔斯）",
+    "choices": [
+      "維托夫特（維陶塔斯）",
+      "卡西米爾四世",
+      "明道加斯",
+      "雅蓋拉（亞蓋沃）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "bb6f38b4-9272-4916-84d9-42c38f03b5f1"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "蒙古人在羅斯僱用的稅吏叫什麼名字？",
+    "correct_answer": "巴斯卡基",
+    "choices": [
+      "侍衛隊",
+      "射擊軍",
+      "特轄區",
+      "巴斯卡基"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a3eab8dd-0b79-43c2-aace-d206745195e9"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "哪位王子首先將都主教駐地從基輔遷至弗拉基米爾？",
+    "correct_answer": "安德烈·博戈柳布斯基",
+    "choices": [
+      "尤里·多爾戈魯基",
+      "弗謝沃洛德三世（大巢）",
+      "安德烈·博戈柳布斯基",
+      "特維爾的米哈伊爾"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3a611165-a352-44ec-933a-58674a427b44"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "恐怖的伊凡在1552年征服了伏爾加河上的哪個汗國？",
+    "correct_answer": "喀山汗國",
+    "choices": [
+      "西伯利亞汗國",
+      "克里米亞汗國",
+      "喀山汗國",
+      "阿斯特拉罕汗國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e69fc8d0-c719-4ceb-b92c-251bb92c7c7f"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "哪位君主被稱為「俄羅斯土地的收集者」？",
+    "correct_answer": "伊凡三世（大帝）",
+    "choices": [
+      "德米特里·頓斯科伊",
+      "瓦西里二世",
+      "伊凡三世（大帝）",
+      "伊凡四世（恐怖的伊凡）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "42ec557a-1697-4fd2-8c52-511ef9733b41"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "哪位沙皇創立了俄羅斯海軍並建造了第一艘俄羅斯船隻？",
+    "correct_answer": "彼得大帝",
+    "choices": [
+      "恐怖的伊凡",
+      "凱薩琳大帝",
+      "亞歷山大一世",
+      "彼得大帝"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a6ebb458-0d64-4d2c-9eee-191c9c0d5a00"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "聖彼得堡在哪一年建立？",
+    "correct_answer": "1703",
+    "choices": [
+      "1725",
+      "1697",
+      "1712",
+      "1703"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "82380151-3a7a-4b6f-b1dd-68ab4ce007fa"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "彼得大帝贏得了哪場戰爭以獲得波羅的海出海口？",
+    "correct_answer": "大北方戰爭",
+    "choices": [
+      "七年戰爭",
+      "利沃尼亞戰爭",
+      "大北方戰爭",
+      "1741年俄瑞戰爭"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e4a954c1-8544-4f83-9dc1-b8bd7e8f4ae2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "第一位被稱為「大帝」的俄羅斯君主是誰？",
+    "correct_answer": "彼得大帝",
+    "choices": [
+      "亞歷山大大帝",
+      "凱薩琳大帝",
+      "彼得大帝",
+      "伊凡大帝"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a0d7adf2-7ccf-4ad5-b993-4b57bafcc1d1"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "哪位哥薩克叛亂領袖領導了反抗凱薩琳大帝的大規模農民起義？",
+    "correct_answer": "葉梅利揚·普加喬夫",
+    "choices": [
+      "斯捷潘·拉辛",
+      "葉梅利揚·普加喬夫",
+      "伊凡·博洛特尼科夫",
+      "康德拉季·布拉溫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1e086258-db6d-464b-b0fc-b343dc54e358"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "拿破崙1812年入侵俄羅斯的最終結局是什麼？",
+    "correct_answer": "災難性撤退，損失慘重",
+    "choices": [
+      "拿破崙被俘並流放",
+      "僵局並簽訂和約",
+      "法國在莫斯科取得決定性勝利",
+      "災難性撤退，損失慘重"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6de02526-78a8-4132-b44c-6db54d1ac062"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "拿破崙入侵期間，哪場戰役被認為是該戰役中傷亡最慘重的單日戰鬥？",
+    "correct_answer": "博羅金諾戰役",
+    "choices": [
+      "小雅羅斯拉韋茨戰役",
+      "斯摩棱斯克戰役",
+      "奧斯特利茨戰役",
+      "博羅金諾戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8155d0f7-1661-422c-bce5-e60d4a6a36ba"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "沙皇亞歷山大二世在哪一年解放了俄羅斯的農奴？",
+    "correct_answer": "1861",
+    "choices": [
+      "1825",
+      "1881",
+      "1861",
+      "1905"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "2bd48a89-69f6-4558-ae5b-7ada18a11743"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1825年反對尼古拉一世的失敗起義叫什麼名字？",
+    "correct_answer": "十二月黨人起義",
+    "choices": [
+      "十二月黨人起義",
+      "喀琅施塔得叛亂",
+      "一月起義",
+      "義和團運動"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6f310208-788a-49c6-9944-bab54537380c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1905年「血腥星期日」發生在哪個城市？",
+    "correct_answer": "聖彼得堡",
+    "choices": [
+      "聖彼得堡",
+      "莫斯科",
+      "基輔",
+      "華沙"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "dbd39c94-54b1-4755-aa88-a87adbda88de"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "影響羅曼諾夫宮廷的西伯利亞神秘主義者叫什麼名字？",
+    "correct_answer": "格里戈里·拉斯普丁",
+    "choices": [
+      "彼得·斯托雷平",
+      "謝爾蓋·維特",
+      "弗拉基米爾·普里什克維奇",
+      "格里戈里·拉斯普丁"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "575a0c96-bea8-44e4-99f1-c32e7e8943fe"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "布爾什維克革命在哪一年推翻了臨時政府？",
+    "correct_answer": "1917",
+    "choices": [
+      "1921",
+      "1905",
+      "1917",
+      "1918"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1bdf7282-9ba1-42d5-b85c-20f1d881a4f0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "列寧的秘密警察部隊叫什麼名字？",
+    "correct_answer": "契卡",
+    "choices": [
+      "內務人民委員會",
+      "KGB",
+      "契卡",
+      "特轄區"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "eda3177e-ae97-4ff8-af20-5179c1208446"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "沙皇尼古拉二世及其家屬於1918年在何處被處決？",
+    "correct_answer": "葉卡捷琳堡",
+    "choices": [
+      "聖彼得堡",
+      "莫斯科",
+      "葉卡捷琳堡",
+      "托博爾斯克"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3f396259-bb06-46f9-9c7f-53d43626153a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "俄國內戰（1918-1921）中哪一方獲勝？",
+    "correct_answer": "布爾什維克紅軍",
+    "choices": [
+      "布爾什維克紅軍",
+      "波蘭軍隊",
+      "綠軍",
+      "白軍"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "72b29546-f794-4052-b887-f6ca652b6331"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "史達林在1930年代末的政治鎮壓運動叫什麼？",
+    "correct_answer": "大清洗",
+    "choices": [
+      "大清洗",
+      "文化大革命",
+      "紅色恐怖",
+      "去史達林化"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "6e151206-d74c-45a4-9aac-2f8660276cc6"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "蘇聯的勞改營系統叫什麼名字？",
+    "correct_answer": "古拉格",
+    "choices": [
+      "國民經濟委員會",
+      "集體農莊",
+      "古拉格",
+      "大飢荒"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "59b39f11-12f1-4da4-99d6-27d03f88ad1d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "1941年哪場戰役阻止了德軍向莫斯科的推進？",
+    "correct_answer": "莫斯科保衛戰",
+    "choices": [
+      "斯摩棱斯克戰役",
+      "庫爾斯克戰役",
+      "勒熱夫戰役",
+      "莫斯科保衛戰"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "44d5eb59-6c36-4861-9190-15af4fafb70f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "二戰期間，哪個蘇聯城市遭受了長達872天的圍困？",
+    "correct_answer": "列寧格勒",
+    "choices": [
+      "莫斯科",
+      "列寧格勒",
+      "基輔",
+      "史達林格勒"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e36745f0-a5c0-4e50-8909-1a6d3e0364c0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1943年哪場戰役是歷史上規模最大的坦克戰？",
+    "correct_answer": "庫爾斯克戰役",
+    "choices": [
+      "史達林格勒戰役",
+      "柏林戰役",
+      "莫斯科保衛戰",
+      "庫爾斯克戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8326ab35-a2ec-45e7-b1f0-21caa55554f2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "1945年佔領柏林的那位蘇聯元帥是誰？",
+    "correct_answer": "格奧爾吉·朱可夫",
+    "choices": [
+      "伊萬·科涅夫",
+      "康斯坦丁·羅科索夫斯基",
+      "亞歷山大·華西列夫斯基",
+      "格奧爾吉·朱可夫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f2f4cb28-dd2d-44b7-9f57-ff8d755711c4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "蘇聯於1957年發射的第一顆人造衛星叫什麼？",
+    "correct_answer": "史普尼克",
+    "choices": [
+      "聯盟號",
+      "史普尼克",
+      "東方號",
+      "月球號"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "43166602-a19b-47bb-a001-70111a30c13f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "第一隻搭乘蘇聯太空船繞地球飛行的狗叫什麼？",
+    "correct_answer": "萊卡",
+    "choices": [
+      "萊卡",
+      "茲維奧茲多奇卡",
+      "斯特雷爾卡",
+      "貝爾卡"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "cf64a54c-ab8f-4e23-90b9-a7a78c3043e9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "戈巴契夫將他的經濟改革政策稱為什麼？",
+    "correct_answer": "改革",
+    "choices": [
+      "開放",
+      "改革",
+      "加速化",
+      "新思維"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1ccd79bf-1da4-4a4a-9998-961bf2faa06a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "蘇聯在哪一年正式解體？",
+    "correct_answer": "1991",
+    "choices": [
+      "1993",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "7653a912-6aec-4978-ade1-0dcaef169d4b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "14世紀時，哪種瘟疫導致歐洲約三分之一的人口死亡？",
+    "correct_answer": "黑死病",
+    "choices": [
+      "大瘟疫",
+      "黑死病",
+      "西班牙流感",
+      "查士丁尼大瘟疫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0cc7c6ab-26b2-4f0b-be1c-91ef9b4390e0"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪一位蒙古統治者建立了歷史上最大的連續陸地帝國？",
+    "correct_answer": "成吉思汗",
+    "choices": [
+      "忽必烈",
+      "帖木兒",
+      "成吉思汗",
+      "阿提拉"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8a597664-cdce-4e8f-8a66-3f1e71fe87e4"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "中世紀騎士遵守的行為準則叫什麼？",
+    "correct_answer": "騎士精神",
+    "choices": [
+      "封建法",
+      "騎士誓言",
+      "騎士精神",
+      "榮譽法典"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f54b7b36-9d7b-49df-bd30-fe616b75600d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪個城市是拜占庭帝國的首都？",
+    "correct_answer": "君士坦丁堡",
+    "choices": [
+      "亞歷山大港",
+      "君士坦丁堡",
+      "雅典",
+      "羅馬"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3b52cbb7-2fa1-4b5b-b000-55c0e308b134"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "1215年簽署的哪份文件限制了英國國王的權力？",
+    "correct_answer": "大憲章",
+    "choices": [
+      "人身保護令",
+      "權利法案",
+      "大憲章",
+      "權利請願書"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "a51811ee-19e8-4165-80ef-860ead64e56b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "據信哪位維京探險者在公元1000年左右到達了北美洲？",
+    "correct_answer": "萊夫·埃里克松",
+    "choices": [
+      "比約恩·鐵血",
+      "萊夫·埃里克松",
+      "拉格納·洛德布羅克",
+      "紅鬍子埃里克"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "9d3c8d06-fffb-45a4-bd07-4af733722daa"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "中世紀歐洲的主要經濟制度是什麼？",
+    "correct_answer": "封建制度",
+    "choices": [
+      "莊園制",
+      "重商主義",
+      "資本主義",
+      "封建制度"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e851afc9-3af0-4f70-abe3-31c6e0b795f6"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "基督徒和穆斯林之間為爭奪聖地控制權而進行的一系列宗教戰爭叫什麼？",
+    "correct_answer": "十字軍東征",
+    "choices": [
+      "收復失地運動",
+      "聖戰",
+      "宗教裁判所",
+      "十字軍東征"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "497e90c3-895e-40a6-885a-5613f38953ad"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "忽必烈建造的蒙古帝國首都叫什麼名字？",
+    "correct_answer": "上都（夏都）",
+    "choices": [
+      "上都（夏都）",
+      "北京",
+      "撒馬爾罕",
+      "喀拉和林"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "557af6a7-c098-40a8-8bca-b7afedb08ae5"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "公元800年聖誕節，哪位法蘭克國王被加冕為羅馬人的皇帝？",
+    "correct_answer": "查理曼",
+    "choices": [
+      "克洛維一世",
+      "查理·馬特",
+      "查理曼",
+      "矮子丕平"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8d81eeec-648f-46a7-aed5-d604c1ba4402"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "百年戰爭期間，哪種武器成為英格蘭軍隊的標誌？",
+    "correct_answer": "長弓",
+    "choices": [
+      "戰斧",
+      "長弓",
+      "投石機",
+      "十字弓"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "870e38fe-eb49-43d8-8180-b0810d6f6973"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪個中美洲文明建造了特諾奇蒂特蘭城？",
+    "correct_answer": "阿茲特克",
+    "choices": [
+      "馬雅",
+      "阿茲特克",
+      "印加",
+      "托爾特克"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "bd907cd8-cb77-4677-8b57-f6f946fc7090"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "連接歐洲和亞洲的貿易路線網絡叫什麼？",
+    "correct_answer": "絲綢之路",
+    "choices": [
+      "絲綢之路",
+      "琥珀之路",
+      "茶葉之路",
+      "香料之路"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "305bdaeb-68de-4321-b875-23810b42a0dd"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "1066年的哪場著名戰役標誌著諾曼人征服英格蘭？",
+    "correct_answer": "黑斯廷斯戰役",
+    "choices": [
+      "富爾福德戰役",
+      "斯坦福橋戰役",
+      "阿金庫爾戰役",
+      "黑斯廷斯戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "fa9893e5-f7ee-49e8-ab9b-67fce591ab5a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "中世紀城堡防禦的核心建築結構是什麼？",
+    "correct_answer": "城堡主樓",
+    "choices": [
+      "城堡主樓",
+      "護城河",
+      "城門塔",
+      "吊橋"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0508ed0c-ab64-4247-aea0-1c6583340b32"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪位法國農家女孩率領法軍在奧爾良取得勝利？",
+    "correct_answer": "聖女貞德",
+    "choices": [
+      "凱瑟琳·德·美第奇",
+      "瑪麗·安托瓦內特",
+      "阿基坦的埃莉諾",
+      "聖女貞德"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "75b4f5f6-d4b9-41c4-89f1-01ff2db3d418"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "哪位伊斯蘭學者撰寫了《醫學典範》，數百年間是標準醫學教科書？",
+    "correct_answer": "阿維森納（伊本·西那）",
+    "choices": [
+      "海什木（伊本·海賽姆）",
+      "阿威羅伊（伊本·路世德）",
+      "拉齊",
+      "阿維森納（伊本·西那）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b2443b0b-a0fb-4b47-b8dd-72edc8c1e339"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "維京人的議會或集會叫什麼？",
+    "correct_answer": "庭（Thing）",
+    "choices": [
+      "賢人會議（Witenagemot）",
+      "庭（Thing）",
+      "國會（Riksdag）",
+      "阿爾庭（Althing）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "d5ad08dd-a828-4922-a693-5f8cf57ef714"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位拜占庭皇帝將羅馬法編纂成全面的法律體系？",
+    "correct_answer": "查士丁尼一世",
+    "choices": [
+      "巴西爾二世",
+      "查士丁尼一世",
+      "君士坦丁大帝",
+      "希拉克略"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "978e2331-2b56-4527-a9b2-7018c77e2685"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "約翰內斯·古騰堡在1440年左右向歐洲引入了什麼發明？",
+    "correct_answer": "印刷機",
+    "choices": [
+      "望遠鏡",
+      "印刷機",
+      "指南針",
+      "星盤"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "0af54b69-eb31-4d6a-b584-12c952a83f0a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位英格蘭國王領導第三次十字軍東征對抗薩拉丁？",
+    "correct_answer": "獅心王理查",
+    "choices": [
+      "獅心王理查",
+      "愛德華一世",
+      "約翰王",
+      "亨利二世"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3ce0f96e-33a9-4d99-8dae-65ee8516d14f"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "印加帝國使用信使的通訊系統叫什麼？",
+    "correct_answer": "查斯基（Chasquis）",
+    "choices": [
+      "查斯基（Chasquis）",
+      "奇普（Quipu）",
+      "艾柳（Ayllu）",
+      "米特馬（Mitma）"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "489b27a3-e280-41c7-b383-9588c09f672c"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "1415年的哪場戰役是百年戰爭中英格蘭的重大勝利？",
+    "correct_answer": "阿金庫爾戰役",
+    "choices": [
+      "斯魯伊斯戰役",
+      "克雷西戰役",
+      "阿金庫爾戰役",
+      "普瓦捷戰役"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "73e827dd-bfbe-4f89-84ee-9e932cb2fe43"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "中世紀西班牙基督教收復伊比利半島的運動叫什麼？",
+    "correct_answer": "收復失地運動",
+    "choices": [
+      "宗教裁判所",
+      "驅逐運動",
+      "十字軍",
+      "收復失地運動"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "76c42681-379b-43ab-a83b-451f1f640743"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位蒙古大汗征服了宋朝並在中國建立元朝？",
+    "correct_answer": "忽必烈",
+    "choices": [
+      "成吉思汗",
+      "窩闊台",
+      "蒙哥",
+      "忽必烈"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "fe358de2-9de5-4173-8793-1f667620a136"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "中世紀農奴的典型住所叫什麼？",
+    "correct_answer": "克羅夫特（croft）",
+    "choices": [
+      "克羅夫特（croft）",
+      "長屋",
+      "小屋",
+      "茅舍"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "969f8f22-5cb3-4652-ae93-480022ec48df"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位來自威尼斯的著名旅行家記錄了前往忽必烈宮廷的旅程？",
+    "correct_answer": "馬可·波羅",
+    "choices": [
+      "馬可·波羅",
+      "魯布魯克",
+      "柏朗嘉賓",
+      "伊本·白圖泰"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "7e2c47d2-8258-4c2c-9111-0104956cd09b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "面對埃爾南·科爾特斯的阿茲特克皇帝叫什麼？",
+    "correct_answer": "蒙特祖馬二世",
+    "choices": [
+      "阿維索特爾",
+      "蒙特祖馬二世",
+      "夸烏特莫克",
+      "伊茲科阿特爾"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "f69a9ddb-ef5e-4169-9f4a-22dfff08cccf"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "西非哪個王國以其財富和統治者曼薩·穆薩的朝聖而聞名？",
+    "correct_answer": "馬利帝國",
+    "choices": [
+      "馬利帝國",
+      "卡奈姆帝國",
+      "迦納帝國",
+      "桑海帝國"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "097e7685-4b98-4c0e-9f4e-cf76b8e48ce6"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "天主教會設立以根除異端的特別法庭叫什麼？",
+    "correct_answer": "宗教裁判所",
+    "choices": [
+      "議會",
+      "主教會議",
+      "法庭",
+      "宗教裁判所"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5020de66-5378-481d-93f6-7f76ba8ac34f"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "哪位英格蘭國王被叛亂的男爵們強迫簽署大憲章？",
+    "correct_answer": "約翰王",
+    "choices": [
+      "獅心王理查",
+      "愛德華二世",
+      "亨利三世",
+      "約翰王"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c91c2e5c-b5ae-4763-8574-075ccbb1174d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "中世紀修道院的主要目的是什麼？",
+    "correct_answer": "供修士過宗教生活的地方",
+    "choices": [
+      "皇家住所",
+      "軍事堡壘",
+      "供修士過宗教生活的地方",
+      "市場和貿易中心"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "63b3e408-a22b-49f0-a5f1-fa969d51b71e"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "第四次十字軍東征在1204年洗劫了哪個城市而非耶路撒冷？",
+    "correct_answer": "君士坦丁堡",
+    "choices": [
+      "大馬士革",
+      "亞歷山大港",
+      "君士坦丁堡",
+      "安條克"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b9e3f29b-ccdc-4257-804f-97fae481d69b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "安地斯山脈高處著名的印加衛城叫什麼？",
+    "correct_answer": "馬丘比丘",
+    "choices": [
+      "庫斯科",
+      "奧揚泰坦博",
+      "薩克塞瓦曼",
+      "馬丘比丘"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "5e33798d-aff6-4ecf-9121-436a39960827"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "公元800年誰為查理曼加冕為神聖羅馬帝國皇帝？",
+    "correct_answer": "教宗利奧三世",
+    "choices": [
+      "教宗額我略七世",
+      "教宗利奧三世",
+      "教宗依諾增爵三世",
+      "教宗烏爾巴諾二世"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b822568f-24f6-4f1b-808d-a984a23fa15a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "維京人的狹長戰船叫什麼？",
+    "correct_answer": "長船",
+    "choices": [
+      "科格船",
+      "卡拉維爾船",
+      "槳帆船",
+      "長船"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "92dd7375-65e7-4fd3-90df-2b27753cf72b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪個王朝在唐朝黃金時期統治了中國？",
+    "correct_answer": "唐朝",
+    "choices": [
+      "唐朝",
+      "宋朝",
+      "元朝",
+      "明朝"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "4430989a-77d4-4b29-bcb2-c37e058f41dd"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "以土地換取軍事服務的做法叫什麼？",
+    "correct_answer": "封建領有制",
+    "choices": [
+      "恩賜地",
+      "封地",
+      "封建領有制",
+      "農奴制"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "92ef4d28-995e-452e-81db-71f13cb3b7e1"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位諾曼國王下令編纂《末日審判書》？",
+    "correct_answer": "征服者威廉",
+    "choices": [
+      "亨利一世",
+      "哈羅德·葛溫森",
+      "懺悔者愛德華",
+      "征服者威廉"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "8a99c2c5-e082-47c3-ba4a-e32a60c15b39"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "1088年在博洛尼亞成立的著名大學叫什麼？",
+    "correct_answer": "博洛尼亞大學",
+    "choices": [
+      "巴黎大學",
+      "薩萊諾大學",
+      "博洛尼亞大學",
+      "牛津大學"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "1901c455-fbb1-4381-9073-269233f52807"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "1258年哪位蒙古將領洗劫巴格達，終結了伊斯蘭黃金時代？",
+    "correct_answer": "旭烈兀",
+    "choices": [
+      "旭烈兀",
+      "速不台",
+      "成吉思汗",
+      "帖木兒"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "ca8eb80c-c61c-45bb-ab8b-bda9bc97ee77"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "阿茲特克用於農業的浮動花園叫什麼？",
+    "correct_answer": "奇南帕（Chinampas）",
+    "choices": [
+      "梯田",
+      "米爾帕",
+      "奇南帕（Chinampas）",
+      "果園"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b87134e2-80d1-4e95-9bbc-86deff4e29a1"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位英格蘭國王在黑斯廷斯戰役中被箭射中眼睛而死？",
+    "correct_answer": "哈羅德·葛溫森",
+    "choices": [
+      "懺悔者愛德華",
+      "征服者威廉",
+      "哈拉爾·哈德拉達",
+      "哈羅德·葛溫森"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "b0710b73-ef6d-4856-90f8-e3c38fe2398d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "14世紀開始尋求改革天主教會的宗教運動叫什麼？",
+    "correct_answer": "羅拉德運動",
+    "choices": [
+      "大分裂",
+      "胡斯運動",
+      "宗教改革",
+      "羅拉德運動"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e665273c-c0b8-4b0d-b004-e0307e3f47cc"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "841年哪位維京領袖建立了都柏林定居點？",
+    "correct_answer": "圖爾格西烏斯（Turgesius）",
+    "choices": [
+      "奧拉夫·特里格瓦松",
+      "圖爾格西烏斯（Turgesius）",
+      "無骨者伊瓦爾",
+      "八字鬍斯文"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "3397a741-2703-46ae-819c-592ab8aa70be"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "為保護中國免受北方入侵者而建造，後來成為主要旅遊景點的建築是什麼？",
+    "correct_answer": "中國長城",
+    "choices": [
+      "中國長城",
+      "明十三陵",
+      "紫禁城",
+      "天壇"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "dcb2a39d-3c9a-4a09-bdb9-96b29aec7106"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位中世紀女王統治了普瓦圖伯爵領地和阿基坦公國？",
+    "correct_answer": "阿基坦的埃莉諾",
+    "choices": [
+      "法蘭西的伊莎貝拉",
+      "卡斯蒂利亞的布蘭卡",
+      "英格蘭的瑪蒂爾達",
+      "阿基坦的埃莉諾"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c5ad07de-2191-47d9-92c1-4731e7b43260"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "記錄英格蘭所有財產和土地以用於徵稅的書叫什麼？",
+    "correct_answer": "末日審判書",
+    "choices": [
+      "大憲章",
+      "坎特伯雷故事集",
+      "末日審判書",
+      "盎格魯-撒克遜編年史"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "72b140bc-97d1-44b7-b043-0e7530b82fd6"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "哪位中世紀探險家穿越非洲和亞洲，到訪超過40個現代國家？",
+    "correct_answer": "伊本·白圖泰",
+    "choices": [
+      "鄭和",
+      "馬可·波羅",
+      "伊本·白圖泰",
+      "瓦斯科·達伽馬"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "e0da2255-ec0c-42a9-8da8-b7552b358ad0"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "與黑死病相關的疾病是什麼？",
+    "correct_answer": "腺鼠疫",
+    "choices": [
+      "霍亂",
+      "天花",
+      "斑疹傷寒",
+      "腺鼠疫"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "zh-tw",
+    "translation_key": "c4c76127-fd01-46e7-b3f7-a1cb2c32c145"
+  }
+]

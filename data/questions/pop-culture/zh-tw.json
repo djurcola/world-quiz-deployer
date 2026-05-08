@@ -1,0 +1,2914 @@
+[
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位名人以歌曲《Shake It Off》聞名？",
+    "correct_answer": "Taylor Swift",
+    "choices": [
+      "Taylor Swift",
+      "Ariana Grande",
+      "Lady Gaga",
+      "Katy Perry"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6e50061e-b750-4bdd-9bc3-9e0e3cdd4703"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位演員在漫威電影宇宙中飾演鋼鐵人？",
+    "correct_answer": "Robert Downey Jr.",
+    "choices": [
+      "Robert Downey Jr.",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Chris Evans"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "e6ba225f-0abc-431d-a19b-178ec7bcfc94"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位名人創辦了「Fenty Beauty」公司？",
+    "correct_answer": "Rihanna",
+    "choices": [
+      "Rihanna",
+      "Beyoncé",
+      "Kylie Jenner",
+      "Selena Gomez"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6fd3824c-a9ff-4013-ab45-8b14477ff373"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "誰是最年輕的諾貝爾獎得主？",
+    "correct_answer": "Malala Yousafzai",
+    "choices": [
+      "Malala Yousafzai",
+      "Albert Einstein",
+      "Martin Luther King Jr.",
+      "Marie Curie"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5ed5492a-70e2-4814-a781-9b3313927724"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位女演員在《哈利波特》電影中飾演妙麗·格蘭傑？",
+    "correct_answer": "Emma Watson",
+    "choices": [
+      "Emma Watson",
+      "Natalie Portman",
+      "Emma Roberts",
+      "Emma Stone"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5832316e-c7f7-4189-b253-07566a3b4eec"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "誰是史上獲得最多奧運獎牌的運動員？",
+    "correct_answer": "Michael Phelps",
+    "choices": [
+      "Michael Phelps",
+      "Simone Biles",
+      "Usain Bolt",
+      "Carl Lewis"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "dcc67fee-68cf-42d1-a4bf-42408b24e793"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪對名人情侶被廣泛稱為「Brangelina」？",
+    "correct_answer": "Brad Pitt and Angelina Jolie",
+    "choices": [
+      "David and Victoria Beckham",
+      "Jay-Z and Beyoncé",
+      "Ben Affleck and Jennifer Lopez",
+      "Brad Pitt and Angelina Jolie"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "04420f21-af35-44a3-81b6-3bc492b32de7"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位演員在《絕命毒師》中飾演華特·懷特？",
+    "correct_answer": "Bryan Cranston",
+    "choices": [
+      "Bryan Cranston",
+      "Jon Hamm",
+      "Matthew McConaughey",
+      "Kevin Spacey"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "8adc706f-9489-4938-9042-4061dd662ca4"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "誰是第一位白手起家的女性億萬富翁？",
+    "correct_answer": "Oprah Winfrey",
+    "choices": [
+      "J.K. Rowling",
+      "Oprah Winfrey",
+      "Martha Stewart",
+      "Madonna"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "95300a3e-b934-41f6-9af7-aa32f4f06c23"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位音樂人在2010年MTV音樂錄影帶大獎上穿著生肉裝？",
+    "correct_answer": "Lady Gaga",
+    "choices": [
+      "Madonna",
+      "Nicki Minaj",
+      "Katy Perry",
+      "Lady Gaga"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "bb88e439-aaf1-4cc3-bf5d-8e4a17059bb6"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "誰將《辦公室》改編為美國電視劇？",
+    "correct_answer": "Greg Daniels",
+    "choices": [
+      "Greg Daniels",
+      "Michael Schur",
+      "Steve Carell",
+      "Ricky Gervais"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "bbc4eb5d-eac7-4066-bac3-30343bd723d6"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "哪位名人獲得最多葛萊美獎？",
+    "correct_answer": "Beyoncé",
+    "choices": [
+      "Michael Jackson",
+      "Stevie Wonder",
+      "Beyoncé",
+      "Quincy Jones"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "230b319e-92fd-4bdc-a7ce-2241e1087528"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位演員在電影《鐵達尼號》中飾演傑克·道森？",
+    "correct_answer": "Leonardo DiCaprio",
+    "choices": [
+      "Brad Pitt",
+      "Tom Cruise",
+      "Matt Damon",
+      "Leonardo DiCaprio"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1eacacaf-2e36-4e8d-a2f4-b032b2665f33"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "誰是《吉米·法倫今夜秀》的主持人？",
+    "correct_answer": "Jimmy Fallon",
+    "choices": [
+      "Seth Meyers",
+      "Jimmy Kimmel",
+      "Jimmy Fallon",
+      "Stephen Colbert"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "0eb6862d-1954-4f6a-8d84-cb8b0e823f49"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位名廚以口頭禪「Bam!」聞名並擁有餐廳帝國？",
+    "correct_answer": "Emeril Lagasse",
+    "choices": [
+      "Bobby Flay",
+      "Gordon Ramsay",
+      "Anthony Bourdain",
+      "Emeril Lagasse"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "9e875941-0ebb-4def-8139-a7ee72975cfa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部電影以角色阿甘為主角？",
+    "correct_answer": "Forrest Gump",
+    "choices": [
+      "Forrest Gump",
+      "The Green Mile",
+      "Big",
+      "Cast Away"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f050e9dd-ff8b-46ca-8da0-eff03bfd98e2"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "誰導演了《侏羅紀公園》？",
+    "correct_answer": "Steven Spielberg",
+    "choices": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron",
+      "Ridley Scott"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b8fbdbd4-5ae1-41a4-b029-2569b70a0d0e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "誰導演了《黑色追緝令》？",
+    "correct_answer": "Quentin Tarantino",
+    "choices": [
+      "Coen Brothers",
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "David Fincher"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "4956cb31-998d-4f43-9df5-d37a1d08d4b4"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "哪部電影獲得第一屆奧斯卡最佳影片獎？",
+    "correct_answer": "Wings",
+    "choices": [
+      "The Jazz Singer",
+      "Wings",
+      "Metropolis",
+      "Sunrise"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3be00128-0763-454e-9b9a-7babb174151e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "漫威宇宙中金鋼狼爪子上覆蓋的虛構金屬是什麼？",
+    "correct_answer": "Adamantium",
+    "choices": [
+      "Vibranium",
+      "Carbonadium",
+      "Adamantium",
+      "Uru"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "32264ba6-58ba-4be3-8c34-acc44ba9d9ea"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "哪部電影中有著名台詞「Here's looking at you, kid」？",
+    "correct_answer": "Casablanca",
+    "choices": [
+      "Casablanca",
+      "Gone with the Wind",
+      "The Maltese Falcon",
+      "Citizen Kane"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f3b29413-fada-45d4-a395-0af87eed781d"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "誰在《黑暗騎士》中飾演小丑？",
+    "correct_answer": "Heath Ledger",
+    "choices": [
+      "Jared Leto",
+      "Heath Ledger",
+      "Joaquin Phoenix",
+      "Jack Nicholson"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "43fe9c2a-82a7-4a23-94cc-d5d73ce86b16"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "《黑豹》中虛構的非洲國家叫什麼？",
+    "correct_answer": "Wakanda",
+    "choices": [
+      "Genovia",
+      "Wakanda",
+      "Zamunda",
+      "Latveria"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "8e3bee00-84d0-442b-8581-c3edba3058ae"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "哪部電影中有一個名為崔妮蒂的角色？",
+    "correct_answer": "The Matrix",
+    "choices": [
+      "The Fifth Element",
+      "The Matrix",
+      "The Terminator",
+      "Blade Runner"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "8f256591-8d44-4727-b614-8ba07c8d83b3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "《侏羅紀公園》中主要的恐龍反派叫什麼？",
+    "correct_answer": "Tyrannosaurus rex",
+    "choices": [
+      "Velociraptor",
+      "Tyrannosaurus rex",
+      "Brachiosaurus",
+      "Dilophosaurus"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "993399cf-614b-4e68-851b-d61899ad6174"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部電影講述一條殺人鯊魚襲擊海灘小鎮？",
+    "correct_answer": "Jaws",
+    "choices": [
+      "The Shallows",
+      "Deep Blue Sea",
+      "Sharknado",
+      "Jaws"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "d46da805-d7d7-4244-8250-09254ca3e3a7"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "誰導演了《全面啟動》？",
+    "correct_answer": "Christopher Nolan",
+    "choices": [
+      "Christopher Nolan",
+      "David Lynch",
+      "Denis Villeneuve",
+      "Ridley Scott"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "2372548f-3b98-48db-8c30-c160e4e57a5b"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "史上票房最高的電影（未考慮通貨膨脹）是哪部？",
+    "correct_answer": "Avatar",
+    "choices": [
+      "Avatar",
+      "Star Wars: The Force Awakens",
+      "Titanic",
+      "Avengers: Endgame"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a1726a9f-c801-4390-ac6d-2b98d860af47"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "哪部電影在2020年獲得奧斯卡最佳影片獎？",
+    "correct_answer": "Parasite",
+    "choices": [
+      "Joker",
+      "1917",
+      "Once Upon a Time in Hollywood",
+      "Parasite"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "e477dfd8-b2bc-4025-b09d-445013e534ed"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "《哈利波特》電影中虛構的魔法學校叫什麼？",
+    "correct_answer": "Hogwarts",
+    "choices": [
+      "Ilvermorny",
+      "Hogwarts",
+      "Durmstrang",
+      "Beauxbatons"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f825e5f1-87a0-4f40-9f4d-6ed2faa48a06"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪個樂團發行了專輯《Abbey Road》？",
+    "correct_answer": "The Beatles",
+    "choices": [
+      "Led Zeppelin",
+      "The Who",
+      "The Beatles",
+      "The Rolling Stones"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "57bbb99f-ca92-489c-aac6-2c1c169f782a"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "史上最暢銷的專輯是哪張？",
+    "correct_answer": "Thriller",
+    "choices": [
+      "The Dark Side of the Moon",
+      "Abbey Road",
+      "Back in Black",
+      "Thriller"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1d8db3c6-5014-49ee-90f7-875bc91dd87e"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "誰被譽為「流行音樂之王」？",
+    "correct_answer": "Michael Jackson",
+    "choices": [
+      "Elvis Presley",
+      "Michael Jackson",
+      "Madonna",
+      "Prince"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "615ad9e1-a81f-4e7e-b571-75db8fd3a6be"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "標準鋼琴上有多少個琴鍵？",
+    "correct_answer": "88",
+    "choices": [
+      "88",
+      "92",
+      "76",
+      "108"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "089e2d6c-e45d-4dd5-a06e-0e961b7f4439"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "MTV播放的第一支音樂錄影帶是什麼？",
+    "correct_answer": "Video Killed the Radio Star",
+    "choices": [
+      "Video Killed the Radio Star",
+      "Radio Ga Ga",
+      "Like a Virgin",
+      "Billie Jean"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "06da090c-4434-443e-8966-71b1269e0666"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪位作曲家創作了《四季》？",
+    "correct_answer": "Vivaldi",
+    "choices": [
+      "Bach",
+      "Beethoven",
+      "Mozart",
+      "Vivaldi"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "0a9fb2bd-2aa8-4f9c-b6c2-11489e60e0ff"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪種音樂類型起源於20世紀初的紐奧良？",
+    "correct_answer": "Jazz",
+    "choices": [
+      "Rock and roll",
+      "Blues",
+      "Country",
+      "Jazz"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "ae676840-d079-4c52-a1e0-64e5dda2eee0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪位藝人發行了專輯《紫雨》？",
+    "correct_answer": "Prince",
+    "choices": [
+      "Prince",
+      "David Bowie",
+      "Michael Jackson",
+      "Lenny Kravitz"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "befca16d-7dc9-4fd8-ab60-f45871131aa6"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪個音樂術語表示「逐漸變大聲」？",
+    "correct_answer": "Crescendo",
+    "choices": [
+      "Crescendo",
+      "Fortissimo",
+      "Allegro",
+      "Diminuendo"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "c2c0072d-8742-4686-9630-e998a780c0b0"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "皇后合唱團的哪首歌在全球體育賽事中經常播放？",
+    "correct_answer": "We Will Rock You",
+    "choices": [
+      "We Will Rock You",
+      "Another One Bites the Dust",
+      "Bohemian Rhapsody",
+      "Don't Stop Me Now"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "127b8797-1259-473a-898d-827940c32308"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "馬友友演奏什麼樂器？",
+    "correct_answer": "Cello",
+    "choices": [
+      "Cello",
+      "Viola",
+      "Violin",
+      "Double bass"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "0ba85bd6-060b-43db-ad6e-7cf3f495222b"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪個1990年代的樂團成員包括科特·柯本和克里斯特·諾沃塞利克？",
+    "correct_answer": "Nirvana",
+    "choices": [
+      "Soundgarden",
+      "Nirvana",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "357cdbac-4cea-4a54-8c3d-f26aef4e7084"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "女歌手最高的音域是什麼？",
+    "correct_answer": "Soprano",
+    "choices": [
+      "Soprano",
+      "Alto",
+      "Tenor",
+      "Mezzo-soprano"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1cca709f-b4b3-40b5-afef-139f0794396e"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪位饒舌歌手發行了專輯《The Marshall Mathers LP》？",
+    "correct_answer": "Eminem",
+    "choices": [
+      "Dr. Dre",
+      "Eminem",
+      "Snoop Dogg",
+      "Jay-Z"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "8d5e9925-934e-4f5b-970a-b3729f850260"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "伍德斯托克音樂節在哪一年舉行？",
+    "correct_answer": "1969",
+    "choices": [
+      "1975",
+      "1967",
+      "1969",
+      "1971"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5b2dc8db-70a6-4131-add7-be7da375ff68"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇中有角色羅斯、瑞秋、莫妮卡、錢德勒、喬伊和菲比？",
+    "correct_answer": "Friends",
+    "choices": [
+      "How I Met Your Mother",
+      "Friends",
+      "Seinfeld",
+      "The Big Bang Theory"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b5079f1e-d51e-4631-95db-04581af3a0ff"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "《權力遊戲》中虛構大陸叫什麼？",
+    "correct_answer": "Westeros",
+    "choices": [
+      "Middle-earth",
+      "Westeros",
+      "Essos",
+      "Narnia"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a629f956-a943-450f-918c-568c063afbdc"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇講述一名高中化學老師轉變為冰毒製造商？",
+    "correct_answer": "Breaking Bad",
+    "choices": [
+      "Weeds",
+      "The Wire",
+      "Dexter",
+      "Breaking Bad"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "4bcab32d-4f2b-447d-8d51-15e7d8de49d7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "《六人行》中的咖啡廳叫什麼？",
+    "correct_answer": "Central Perk",
+    "choices": [
+      "Central Perk",
+      "Monk's Cafe",
+      "Java Junction",
+      "The Coffee Bean"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "382d92e8-f184-4ac6-80c7-69c7dd13534a"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部影集以印第安納州虛構小鎮霍金斯為背景？",
+    "correct_answer": "Stranger Things",
+    "choices": [
+      "Gravity Falls",
+      "The X-Files",
+      "Stranger Things",
+      "Twin Peaks"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6907d1a5-faff-494d-998c-d970fbddbf15"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "原始《星艦迷航記》系列中的太空船叫什麼名字？",
+    "correct_answer": "USS Enterprise",
+    "choices": [
+      "USS Defiant",
+      "USS Voyager",
+      "USS Discovery",
+      "USS Enterprise"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "75eca4c6-a1bc-4b9b-ac9f-efcf60254d24"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部動畫片讓口頭禪「D'oh!」廣為流行？",
+    "correct_answer": "《辛普森家庭》",
+    "choices": [
+      "《蓋酷家庭》",
+      "《辛普森家庭》",
+      "《南方公園》",
+      "《海綿寶寶》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5a85c28e-6f01-4624-9589-1a73a2c3626f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "《辛普森家庭》第一集在哪一年播出？",
+    "correct_answer": "1989",
+    "choices": [
+      "1993",
+      "1991",
+      "1989",
+      "1987"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5cbbd4c8-fbe8-4620-b97d-6db258795cfe"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇中有一個名叫德懷特·舒魯特（Dwight Schrute）的角色？",
+    "correct_answer": "《辦公室風雲》",
+    "choices": [
+      "《超級製作人》",
+      "《公園與遊憩》",
+      "《布魯克林九九》",
+      "《辦公室風雲》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6ac6aeb0-1653-4be9-b438-097196c6361c"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "美國黃金時段播出時間最長的劇本是哪一部？",
+    "correct_answer": "《辛普森家庭》",
+    "choices": [
+      "《實習醫生》",
+      "《辛普森家庭》",
+      "《法網遊龍》",
+      "《荒野大鏢客》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "61dd20ce-c4d1-443b-bfff-e07f3f1195f7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇的主題曲是〈I'll Be There for You〉？",
+    "correct_answer": "《六人行》",
+    "choices": [
+      "《新鮮王子妙事多》",
+      "《追愛總動員》",
+      "《歡樂滿屋》",
+      "《六人行》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b440590e-5e8e-44ea-950d-75d01cfa2415"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "電視劇《美國諜夢》中虛構的英國間諜叫什麼名字？",
+    "correct_answer": "Clark Westerfeld",
+    "choices": [
+      "Michael Westen",
+      "James Bond",
+      "Philip Jennings",
+      "Clark Westerfeld"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f72d41a6-ac5c-422a-bcdc-180f12d739c3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪個實境秀的口號是「部落已經發言」？",
+    "correct_answer": "《倖存者》",
+    "choices": [
+      "《老大哥》",
+      "《倖存者》",
+      "《驚險大挑戰》",
+      "《美國偶像》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5c2596e9-ba0f-40e1-8b09-76655230d845"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "哪部電視劇讓「跳鯊魚」這個術語廣為流傳？",
+    "correct_answer": "《歡樂時光》",
+    "choices": [
+      "《家庭情緣》",
+      "《辛普森家庭》",
+      "《三人行》",
+      "《歡樂時光》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "d1137628-e339-49cf-bf21-4c5db3638ab7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "電視劇《火線重案組》主要設定在哪個城市？",
+    "correct_answer": "巴爾的摩",
+    "choices": [
+      "巴爾的摩",
+      "紐約",
+      "費城",
+      "芝加哥"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3ee3c5df-9610-4a92-b8dd-ed938a89b138"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇中有一個名叫「博士」的角色，乘坐藍色盒子穿越時空？",
+    "correct_answer": "《神秘博士》",
+    "choices": [
+      "《時空怪客》",
+      "《陰陽魔界》",
+      "《星艦迷航記》",
+      "《神秘博士》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1160dbd3-fe8b-464c-a07c-fd4d6ee55f9d"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位名人於2008年以專輯《超人氣》開啟音樂生涯？",
+    "correct_answer": "女神卡卡",
+    "choices": [
+      "布蘭妮·斯皮爾斯",
+      "蕾哈娜",
+      "凱蒂·佩芮",
+      "女神卡卡"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a0c667ff-8aa3-468e-b39e-aa7a142aa156"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位演員飾演了約翰·維克（John Wick）這個角色？",
+    "correct_answer": "基努·李維",
+    "choices": [
+      "基努·李維",
+      "麥特·戴蒙",
+      "傑森·史塔森",
+      "湯姆·克魯斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "af2446cc-2365-4f62-87d7-69d772d516cb"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "截至2025年，誰是世界首富？",
+    "correct_answer": "伊隆·馬斯克",
+    "choices": [
+      "傑夫·貝佐斯",
+      "伊隆·馬斯克",
+      "馬克·祖克柏",
+      "貝爾納·阿諾特"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a6363639-f6c7-4b93-ad3a-507d28327a34"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位運動員以在國歌演奏時單膝跪地而聞名？",
+    "correct_answer": "科林·卡佩尼克",
+    "choices": [
+      "科林·卡佩尼克",
+      "穆罕默德·阿里",
+      "勒布朗·詹姆斯",
+      "湯姆·布雷迪"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "bb06891b-cbb6-4f7d-a9f5-96b4ea4727ba"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "U2樂團的主唱是誰？",
+    "correct_answer": "波諾",
+    "choices": [
+      "波諾",
+      "史汀",
+      "克里斯·馬汀",
+      "米克·傑格"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "50d41fe7-b0a6-46e8-bbf0-8d058128b46d"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位YouTube名人因《江南Style》而聞名？",
+    "correct_answer": "PSY",
+    "choices": [
+      "PSY",
+      "Rain",
+      "CL",
+      "BTS"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f89262df-c781-4fff-84c1-aa003fb68b43"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "誰成為美國第一位非裔總統？",
+    "correct_answer": "巴拉克·歐巴馬",
+    "choices": [
+      "馬丁·路德·金恩",
+      "弗雷德里克·道格拉斯",
+      "巴拉克·歐巴馬",
+      "柯林·鮑爾"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "24f81933-514e-4711-9af1-6686c380b768"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位女演員在《飢餓遊戲》中飾演凱妮絲·艾佛丁？",
+    "correct_answer": "珍妮佛·勞倫斯",
+    "choices": [
+      "克莉絲汀·史都華",
+      "雪琳·伍德莉",
+      "艾瑪·史東",
+      "珍妮佛·勞倫斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3510115e-f746-489f-8947-4c41b602dff4"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Instagram上追蹤人數最多的人是誰？",
+    "correct_answer": "Cristiano Ronaldo",
+    "choices": [
+      "Selena Gomez",
+      "Kylie Jenner",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "144db4df-c5f4-41e2-b4a9-95923351bf84"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位名廚以在《地獄廚房》中對參賽者大吼大叫而聞名？",
+    "correct_answer": "戈登·拉姆齊",
+    "choices": [
+      "傑米·奧利佛",
+      "沃夫岡·帕克",
+      "鮑比·弗萊",
+      "戈登·拉姆齊"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "4270bf36-1f11-47d2-8e34-07d431bec76a"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "哪位音樂人在2018年以專輯獲得普立茲音樂獎？",
+    "correct_answer": "肯德里克·拉馬爾",
+    "choices": [
+      "肯伊·威斯特",
+      "幼稚岡比諾",
+      "肯德里克·拉馬爾",
+      "傑斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1bd14d9d-df26-4ab1-96ef-58f717475a28"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "第一位單獨飛越大西洋的女性是誰？",
+    "correct_answer": "愛蜜莉亞·埃爾哈特",
+    "choices": [
+      "愛蜜莉亞·埃爾哈特",
+      "賈桂琳·科克倫",
+      "哈里特·昆比",
+      "貝西·科爾曼"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a6164b9c-35a8-46dd-bcbd-0369396d7e4b"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位演員在《魔戒》中飾演甘道夫？",
+    "correct_answer": "伊恩·麥克連",
+    "choices": [
+      "伊恩·麥克連",
+      "克里斯多福·李",
+      "麥可·坎邦",
+      "李察·哈里斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "ea246d6d-415d-49f7-82b8-2618d96cbdfc"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "亞馬遜的創辦人是誰？",
+    "correct_answer": "傑夫·貝佐斯",
+    "choices": [
+      "比爾·蓋茲",
+      "史蒂夫·賈伯斯",
+      "傑夫·貝佐斯",
+      "馬克·祖克柏"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6bac09fb-a94e-4bf7-9508-2c00cfa7f609"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位演員在2019年電影《小丑》中飾演小丑？",
+    "correct_answer": "瓦昆·菲尼克斯",
+    "choices": [
+      "瓦昆·菲尼克斯",
+      "希斯·萊傑",
+      "傑克·尼克遜",
+      "傑瑞德·雷托"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "9b61fabc-bcd8-4cf6-a99d-0545c1de2ec3"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "誰是最年輕的自行創業女性億萬富翁？",
+    "correct_answer": "凱莉·珍娜",
+    "choices": [
+      "凱莉·珍娜",
+      "碧昂絲",
+      "蕾哈娜",
+      "泰勒絲"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5879714f-2a0c-4226-8c2a-1a4bb4c05c93"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位科學家以天擇演化論聞名？",
+    "correct_answer": "查爾斯·達爾文",
+    "choices": [
+      "尚-巴蒂斯特·拉馬克",
+      "格雷戈爾·孟德爾",
+      "查爾斯·達爾文",
+      "阿爾弗雷德·羅素·華萊士"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "2d1b5848-0962-435d-bf6a-1e9e0e1d7083"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "誰飾演了傑克·史派羅船長這個角色？",
+    "correct_answer": "強尼·戴普",
+    "choices": [
+      "強尼·戴普",
+      "凱文·麥克納利",
+      "奧蘭多·布魯",
+      "傑佛瑞·洛許"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a2739ed9-fdf3-4865-b7dd-82db6f6c33b9"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "哪位音樂人在表演時以額頭上戴著義肢角而聞名？",
+    "correct_answer": "女神卡卡",
+    "choices": [
+      "碧玉",
+      "女神卡卡",
+      "瑪丹娜",
+      "葛蕾絲·瓊斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "78471557-f019-42e4-9cb1-6274d1a1ae0a"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Facebook的創辦人是誰？",
+    "correct_answer": "馬克·祖克柏",
+    "choices": [
+      "西恩·帕克",
+      "達斯汀·莫斯科維茨",
+      "愛德華多·薩維林",
+      "馬克·祖克柏"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "c2833968-a110-4290-9a0b-dbe98db9f550"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "哪位演員獲得最多奧斯卡金像獎提名？",
+    "correct_answer": "梅莉·史翠普",
+    "choices": [
+      "凱瑟琳·赫本",
+      "梅莉·史翠普",
+      "貝蒂·戴維斯",
+      "傑克·尼克遜"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "edde0d42-459d-4638-8ae2-9c8a13e996db"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "經通膨調整後，史上收入最高的運動員是誰？",
+    "correct_answer": "麥可·喬丹",
+    "choices": [
+      "阿諾·帕瑪",
+      "老虎伍茲",
+      "麥可·舒馬克",
+      "麥可·喬丹"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "be3779a2-971a-43d8-876a-d83dbad80047"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哪位女演員飾演了妙麗·格蘭傑這個角色？",
+    "correct_answer": "艾瑪·華森",
+    "choices": [
+      "瑪姬·史密斯",
+      "艾瑪·華森",
+      "邦妮·萊特",
+      "伊文娜·林奇"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7e204ca6-ef04-4724-8240-7cd2c02724df"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位社運人士以推動女孩教育聞名，並於2014年獲得諾貝爾和平獎？",
+    "correct_answer": "馬拉拉·優薩福扎伊",
+    "choices": [
+      "格蕾塔·通貝里",
+      "馬拉拉·優薩福扎伊",
+      "里戈韋塔·門楚",
+      "旺加里·馬塔伊"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "4ea4c7f4-3826-41fe-8ea8-02e75fdca9fe"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位名人獲得最多奧斯卡最佳演員獎？",
+    "correct_answer": "凱瑟琳·赫本",
+    "choices": [
+      "丹尼爾·戴-路易斯",
+      "凱瑟琳·赫本",
+      "傑克·尼克遜",
+      "梅莉·史翠普"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f7c4d469-e504-4031-844e-cf3399ea8770"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "哈利波特小說系列的作者是誰？",
+    "correct_answer": "J.K.羅琳",
+    "choices": [
+      "J.K.羅琳",
+      "J.R.R.托爾金",
+      "C.S.路易斯",
+      "羅爾德·達爾"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "30400f8a-0625-42bd-9811-083b88f9822b"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "哪位演員在原始星際大戰三部曲中為黑武士配音？",
+    "correct_answer": "詹姆斯·厄爾·瓊斯",
+    "choices": [
+      "彼得·庫欣",
+      "法蘭克·歐茲",
+      "詹姆斯·厄爾·瓊斯",
+      "大衛·普勞斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "0057b1eb-2422-41e4-9ee0-dbdbf55ce4cc"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "第一位進入太空的非裔美國女性是誰？",
+    "correct_answer": "梅·傑米森",
+    "choices": [
+      "佩吉·惠特森",
+      "梅·傑米森",
+      "瓦蓮京娜·捷列什科娃",
+      "莎莉·萊德"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "e0de2d8a-c4c1-478f-9398-d650b65b5042"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "哪部電影有台詞「你承受不了真相！」？",
+    "correct_answer": "《軍官與魔鬼》",
+    "choices": [
+      "《造雨人》",
+      "《費城》",
+      "《軍官與魔鬼》",
+      "《黑色豪門企業》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1557df79-86de-433d-8cf0-14fcea881493"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "誰執導了《辛德勒的名單》？",
+    "correct_answer": "史蒂芬·史匹柏",
+    "choices": [
+      "史丹利·庫柏力克",
+      "羅曼·波蘭斯基",
+      "史蒂芬·史匹柏",
+      "馬丁·史柯西斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6a519ede-6e17-4833-b030-1b0c834332a4"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部動畫片講述小丑魚尋找兒子的故事？",
+    "correct_answer": "《海底總動員》",
+    "choices": [
+      "《小美人魚》",
+      "《鯊魚黑幫》",
+      "《神隱少女》",
+      "《海底總動員》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3e75d220-2ab2-4279-a259-9efaf47c7ecb"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部電影有台詞「我會回來的」？",
+    "correct_answer": "《終結者》",
+    "choices": [
+      "《機器戰警》",
+      "《魔鬼總動員》",
+      "《終結者》",
+      "《終極戰士》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "8533f143-2e13-4367-90ac-2c92af628ed7"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "誰在《印第安納瓊斯》系列電影中飾演同名角色？",
+    "correct_answer": "哈里遜·福特",
+    "choices": [
+      "寇特·羅素",
+      "湯姆·謝立克",
+      "史恩·康納萊",
+      "哈里遜·福特"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "80b70644-c0b3-436b-9680-f57616704588"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "哪部電影贏得2024年奧斯卡最佳動畫片獎？",
+    "correct_answer": "《蒼鷺與少年》",
+    "choices": [
+      "《蒼鷺與少年》",
+      "《蜘蛛人：穿越新宇宙》",
+      "《元素方城市》",
+      "《星願》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b17cbe97-334c-49a3-9ec6-a2504cd696f3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪個電影系列以能變形成機器人的車輛為特色？",
+    "correct_answer": "《變形金剛》",
+    "choices": [
+      "《特種部隊》",
+      "《聖戰士》",
+      "《金剛戰士》",
+      "《變形金剛》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7bb23c2b-345a-4183-a76b-8e34f18651c3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "誰執導了《教父》？",
+    "correct_answer": "法蘭西斯·柯波拉",
+    "choices": [
+      "賽吉歐·李昂尼",
+      "法蘭西斯·柯波拉",
+      "馬丁·史柯西斯",
+      "布萊恩·狄帕瑪"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "de2db945-71cc-441e-bdbc-a6a2e87fa7a9"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "史上票房最高的動畫片是哪一部？",
+    "correct_answer": "《腦筋急轉彎2》",
+    "choices": [
+      "《冰雪奇緣》",
+      "《腦筋急轉彎2》",
+      "《獅子王》",
+      "《冰雪奇緣2》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "48d02825-8523-4d22-a78c-5ed1b0ee3be8"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "在《綠野仙蹤》中，桃樂絲說了什麼話才能回到堪薩斯？",
+    "correct_answer": "There's no place like home",
+    "choices": [
+      "I want to go home",
+      "There's no place like home",
+      "Home sweet home",
+      "Take me home"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "327ed134-880b-4dd3-957f-62f380c78426"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "哪位演員在《沉默的羔羊》中飾演漢尼拔·萊克特？",
+    "correct_answer": "安東尼·霍普金斯",
+    "choices": [
+      "邁茲·米克森",
+      "蓋瑞·歐德曼",
+      "安東尼·霍普金斯",
+      "布萊恩·考克斯"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7ef4efc3-14cb-48e4-b5ad-38eb6b3c77d8"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪個電影系列的主角叫凱妮絲·伊夫狄恩？",
+    "correct_answer": "《飢餓遊戲》",
+    "choices": [
+      "《暮光之城》",
+      "《分歧者》",
+      "《飢餓遊戲》",
+      "《移動迷宮》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b1c246c9-8373-4b90-bcbd-7722205c5faa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "誰導演了《2001太空漫遊》？",
+    "correct_answer": "史丹利·庫柏力克",
+    "choices": [
+      "雷利·史考特",
+      "安德烈·塔可夫斯基",
+      "史丹利·庫柏力克",
+      "克里斯多福·諾蘭"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5c6f2539-3448-4df6-8c9c-ea7ddf671841"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "哪部電影有一個名叫「蜜亞·華勒斯」的角色？",
+    "correct_answer": "《黑色追緝令》",
+    "choices": [
+      "《追殺比爾》",
+      "《霸道橫行》",
+      "《黑色追緝令》",
+      "《黑色終結令》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a57adfda-f696-44b6-928f-2d0ea3d4e92f"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "在《黑豹》中，瓦干達特有的虛構金屬叫什麼？",
+    "correct_answer": "汎合金",
+    "choices": [
+      "汎合金",
+      "亞德曼金屬",
+      "烏魯金屬",
+      "普羅米金屬"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b41b7e11-c4f1-47dd-babe-e1a234630724"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "哪一部電影是首部全球票房突破10億美元的電影？",
+    "correct_answer": "《鐵達尼號》",
+    "choices": [
+      "《哈利波特：神秘的魔法石》",
+      "《侏羅紀公園》",
+      "《星際大戰首部曲》",
+      "《鐵達尼號》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "0009ef90-12bb-436e-905a-643f84165f5a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部電影使用了歌曲《我的心裡只有你沒有他》？",
+    "correct_answer": "《鐵達尼號》",
+    "choices": [
+      "《終極保鑣》",
+      "《北非諜影》",
+      "《鐵達尼號》",
+      "《羅密歐與茱麗葉》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a10cb2a4-4186-4737-93e8-8a5e9e94cc7f"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "在《神鬼奇航》中，誰飾演傑克·史派羅船長？",
+    "correct_answer": "強尼·戴普",
+    "choices": [
+      "強尼·戴普",
+      "傑佛瑞·洛許",
+      "奧蘭多·布魯",
+      "凱文·麥克納利"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "05ced800-968d-4213-8469-9756dc0392a5"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "哪一部電影出現了虛構國家「基諾維亞」？",
+    "correct_answer": "《麻雀變公主》",
+    "choices": [
+      "《來去美國》",
+      "《麻雀變公主》",
+      "《歐洲派》",
+      "《羅馬假期》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "38cd1e93-709b-4d1f-8bfe-b9dcabf8ea07"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "哪位演員飾演過最多次詹姆斯·龐德？",
+    "correct_answer": "羅傑·摩爾",
+    "choices": [
+      "羅傑·摩爾",
+      "丹尼爾·克雷格",
+      "皮爾斯·布洛斯南",
+      "史恩·康納萊"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "63ee5421-2615-48f7-a612-b6e3cc7c4118"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "在《侏羅紀公園》中，會噴毒液的虛構恐龍叫什麼名字？",
+    "correct_answer": "雙脊龍",
+    "choices": [
+      "棘龍",
+      "迅猛龍",
+      "美頷龍",
+      "雙脊龍"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "95b18c03-af86-42bb-8d6b-294b3d920e3a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部電影有台詞「願原力與你同在」？",
+    "correct_answer": "《星際大戰》",
+    "choices": [
+      "《沙丘》",
+      "《星際大戰》",
+      "《星際異攻隊》",
+      "《星際爭霸戰》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3a2e30c5-5354-4117-8810-0eb366290c0c"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "哪位導演以在自己的電影中客串聞名，包括《迷魂記》和《驚魂記》？",
+    "correct_answer": "亞佛烈德·希區考克",
+    "choices": [
+      "昆汀·塔倫提諾",
+      "史丹利·庫柏力克",
+      "馬丁·史柯西斯",
+      "亞佛烈德·希區考克"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "4eefb8ef-fab2-4657-bb88-c2f232e5fd8a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部皮克斯電影講述一隻想成為廚師的老鼠？",
+    "correct_answer": "《料理鼠王》",
+    "choices": [
+      "《料理鼠王》",
+      "《超人特攻隊》",
+      "《天外奇蹟》",
+      "《海底總動員》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a98d0b0f-e405-413c-ae36-96f56c51e07b"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "蝙蝠俠所在的虛構城市叫什麼名字？",
+    "correct_answer": "高譚市",
+    "choices": [
+      "中心城",
+      "高譚市",
+      "大都會",
+      "星城"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "da9f51c8-e9c1-4c43-b82e-33a2ec79e96d"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "誰在2023年電影《奧本海默》中飾演主角？",
+    "correct_answer": "席尼·墨菲",
+    "choices": [
+      "湯姆·哈迪",
+      "麥特·戴蒙",
+      "席尼·墨菲",
+      "小勞勃·道尼"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "aff64c0a-a4ed-4561-b721-c64b34d9fcfa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "哪一部電影是史上第一部長篇動畫電影？",
+    "correct_answer": "《白雪公主與七個小矮人》",
+    "choices": [
+      "《小木偶奇遇記》",
+      "《幻想曲》",
+      "《白雪公主與七個小矮人》",
+      "《阿基米德王子歷險記》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "99fc4686-1568-4be3-8458-4812bb00e87e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部電影有台詞「你需要一艘更大的船」？",
+    "correct_answer": "《大白鯊》",
+    "choices": [
+      "《白鯨記》",
+      "《巨齒鯊》",
+      "《海神號》",
+      "《大白鯊》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "597f8f48-57f2-41b1-966a-4f28fb7ea86e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "在迪士尼《冰雪奇緣》中，王國叫什麼名字？",
+    "correct_answer": "艾倫戴爾",
+    "choices": [
+      "阿格拉巴",
+      "科羅納",
+      "艾倫戴爾",
+      "亞特蘭提卡"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5e8e78fd-ae79-4d89-9eab-fcd543b8dd00"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "誰導演了2021年的《沙丘》？",
+    "correct_answer": "丹尼·維勒納夫",
+    "choices": [
+      "詹姆斯·卡麥隆",
+      "丹尼·維勒納夫",
+      "雷利·史考特",
+      "克里斯多福·諾蘭"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "39915e53-6be9-45ed-91a3-b157efecff24"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "哪部電影講述一個主題樂園裡基因改造的恐龍失控？",
+    "correct_answer": "《侏羅紀公園》",
+    "choices": [
+      "《金剛》",
+      "《失落的世界》",
+      "《決戰猩球》",
+      "《侏羅紀公園》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3e97e217-5a6e-4ae5-a3c3-7dcba039f79c"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "在《哈利波特》中，騎著掃帚玩的虛構運動叫什麼？",
+    "correct_answer": "魁地奇",
+    "choices": [
+      "搏格球",
+      "金探子球",
+      "冰球",
+      "魁地奇"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "53027014-0441-4b52-94da-06d2606b78bb"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "哪部1999年的電影有台詞「我看見死人」？",
+    "correct_answer": "《靈異第六感》",
+    "choices": [
+      "《七夜怪談》",
+      "《靈異第六感》",
+      "《神鬼第六感》",
+      "《厄夜叢林》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1c66c1c8-28de-42b8-97b9-a3331e172351"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "誰為《玩具總動員》中的胡迪配音？",
+    "correct_answer": "湯姆·漢克斯",
+    "choices": [
+      "湯姆·漢克斯",
+      "約翰·古德曼",
+      "比利·克里斯托",
+      "提姆·艾倫"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7ea61de5-85dc-4fdd-a5c7-818f49d37cc3"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪位作曲家創作了《月光奏鳴曲》？",
+    "correct_answer": "貝多芬",
+    "choices": [
+      "貝多芬",
+      "巴哈",
+      "莫札特",
+      "蕭邦"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "c3446fce-848b-444e-ab10-a174ffc0b940"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "史上最暢銷的單曲是哪一首？",
+    "correct_answer": "《白色聖誕節》",
+    "choices": [
+      "《風中之燭1997》",
+      "《白色聖誕節》",
+      "《神聖之光》",
+      "《波希米亞狂想曲》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "c150c379-be62-423c-ba9e-52f09b9bfcdf"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪個搖滾樂團演唱了《天堂階梯》？",
+    "correct_answer": "齊柏林飛船",
+    "choices": [
+      "齊柏林飛船",
+      "誰人樂團",
+      "黑色安息日",
+      "深紫樂團"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6781ef4b-2d91-4b45-9337-b60fdc01247c"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "馬友友以演奏哪種樂器聞名？",
+    "correct_answer": "大提琴",
+    "choices": [
+      "低音提琴",
+      "小提琴",
+      "大提琴",
+      "鋼琴"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1238501b-5850-4b9f-b4c0-0e4085e689c8"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪位女歌手發行了專輯《21》？",
+    "correct_answer": "愛黛兒",
+    "choices": [
+      "諾拉·瓊絲",
+      "艾美·懷恩豪斯",
+      "愛黛兒",
+      "碧昂絲"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "0a79915b-8d69-441f-a3ac-d6fbfe0bf8a3"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "貓王艾維斯·普里斯萊主要表演哪種音樂類型？",
+    "correct_answer": "搖滾樂",
+    "choices": [
+      "福音音樂",
+      "鄉村音樂",
+      "藍調",
+      "搖滾樂"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3b2f70f0-d251-43d2-bc17-9accf6c6da10"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "五個樂章組成的音樂作品在音樂術語中叫什麼？",
+    "correct_answer": "五重奏",
+    "choices": [
+      "六重奏",
+      "四重奏",
+      "五重奏",
+      "組曲"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "aa8dc314-4533-4c4f-8c8f-7318742602a0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪位古典作曲家晚年失聰但仍持續創作？",
+    "correct_answer": "貝多芬",
+    "choices": [
+      "巴哈",
+      "莫札特",
+      "柴可夫斯基",
+      "貝多芬"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "c141af0a-8e58-46d2-a7a0-b526afa99ff4"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "披頭四的第一張專輯叫什麼？",
+    "correct_answer": "《請取悅我》",
+    "choices": [
+      "《請取悅我》",
+      "《比伯軍曹寂寞芳心俱樂部》",
+      "《救命！》",
+      "《一夜狂歡》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "25192e17-d34e-4bd4-8a7a-9748d73d28ae"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "薩克斯風屬於哪個樂器家族？",
+    "correct_answer": "木管樂器",
+    "choices": [
+      "銅管樂器",
+      "木管樂器",
+      "弦樂器",
+      "打擊樂器"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "326f4c2f-4a7b-413c-bfb4-0bc43e9a1983"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "2008年在瑞典推出的熱門音樂串流服務叫什麼？",
+    "correct_answer": "Spotify",
+    "choices": [
+      "Spotify",
+      "Apple Music",
+      "Pandora",
+      "Tidal"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3794fb14-3374-46d6-b05e-ca762f726794"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪位歌手被稱為「靈魂樂女王」？",
+    "correct_answer": "艾瑞莎·弗蘭克林",
+    "choices": [
+      "艾瑞莎·弗蘭克林",
+      "伊特·珍",
+      "惠妮·休斯頓",
+      "蒂娜·透納"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6e458d7d-00f6-4f1f-9da3-9019c309f606"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "男性最低的歌唱音域叫什麼？",
+    "correct_answer": "低音",
+    "choices": [
+      "男高音",
+      "男中音",
+      "低音",
+      "假聲男高音"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "80696fcb-a2db-40ae-8f4e-1cfbb5a72153"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪個樂團以《少年心氣》一曲走紅？",
+    "correct_answer": "涅槃樂團",
+    "choices": [
+      "愛麗絲囚徒",
+      "涅槃樂團",
+      "珍珠果醬",
+      "聲音花園"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "01e5e6e6-6c46-4ae1-95d4-216fef0b7080"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "哪種樂器有踏板可以改變音高，且通常用腳演奏？",
+    "correct_answer": "踏板豎琴",
+    "choices": [
+      "踏板豎琴",
+      "管風琴",
+      "大鍵琴",
+      "鋼片琴"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "4aabbe3a-f87b-47a3-b44b-ee60085cd102"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "每年在內華達沙漠舉辦的音樂節叫什麼？",
+    "correct_answer": "火人節",
+    "choices": [
+      "格拉斯頓伯里",
+      "火人節",
+      "Lollapalooza",
+      "科切拉"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "341ee300-754e-4857-ac4c-b1d16b72ab5a"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "誰創作了《胡桃鉗組曲》？",
+    "correct_answer": "柴可夫斯基",
+    "choices": [
+      "柴可夫斯基",
+      "史特拉汶斯基",
+      "林姆斯基-高沙可夫",
+      "普羅高菲夫"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "ae11a4e4-97cc-4605-acbc-063774cb2181"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "用輪唱方式演唱或演奏的旋律在音樂術語中叫什麼？",
+    "correct_answer": "卡農",
+    "choices": [
+      "輪旋曲",
+      "卡農",
+      "賦格",
+      "奏鳴曲"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "287c4fc4-9cea-4706-a908-8a90963dd644"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪位流行歌手發行了歌曲《壞人》？",
+    "correct_answer": "怪奇比莉",
+    "choices": [
+      "海爾希",
+      "麗珠",
+      "杜娃·黎波",
+      "怪奇比莉"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "38cd5ac6-3330-45ce-89cf-6e054eb0a2cb"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "四個人一起演奏的團體叫什麼？",
+    "correct_answer": "四重奏",
+    "choices": [
+      "三重奏",
+      "二重奏",
+      "四重奏",
+      "五重奏"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "a811efa0-6e64-4b3b-937b-29c774d41a4d"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪位饒舌歌手以專輯《好孩子，瘋狂城市》聞名？",
+    "correct_answer": "肯卓克·拉瑪",
+    "choices": [
+      "肯卓克·拉瑪",
+      "J·科爾",
+      "肯伊·威斯特",
+      "德瑞克"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "cea62b3e-2a35-467a-a761-be7c682960ba"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "19世紀末起源於阿根廷的舞蹈風格叫什麼？",
+    "correct_answer": "探戈",
+    "choices": [
+      "森巴",
+      "騷莎",
+      "探戈",
+      "佛朗明哥"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "fcfb4d52-272f-40fa-9297-0229ed74c5f0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "哪個英國搖滾樂團發行了專輯《月之暗面》？",
+    "correct_answer": "平克·佛洛伊德",
+    "choices": [
+      "齊柏林飛船",
+      "皇后樂團",
+      "誰人樂團",
+      "平克·佛洛伊德"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "81aef0ce-f6c9-4123-abf4-c806341d6716"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "比A高半音的音符是什麼？",
+    "correct_answer": "升A（A♯）",
+    "choices": [
+      "降B（B♭）",
+      "升G（G♯）",
+      "升A（A♯）",
+      "B"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "deb2e3cb-719d-45a1-ad46-a6ffec204fab"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪位歌手被稱為「搖滾樂之王」？",
+    "correct_answer": "貓王艾維斯·普里斯萊",
+    "choices": [
+      "巴迪·霍利",
+      "小理查",
+      "貓王艾維斯·普里斯萊",
+      "查克·貝瑞"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "47e0647f-2496-48b1-88c5-6b4182206fb7"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "哪種樂器通常用來在樂團中打節奏，並有木製或電子版本？",
+    "correct_answer": "鼓",
+    "choices": [
+      "貝斯",
+      "吉他",
+      "鋼琴",
+      "鼓"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "5999c4e0-72da-4a12-8c41-093a12a47497"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "弗雷迪·墨丘利是哪個樂團的主唱？",
+    "correct_answer": "皇后樂團",
+    "choices": [
+      "滾石樂團",
+      "皇后樂團",
+      "AC/DC",
+      "誰人樂團"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "43d57e41-db12-46a0-8c28-8cec5a29b8fc"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "音階模式為全-全-半-全-全-全-半的音階叫什麼？",
+    "correct_answer": "大調音階",
+    "choices": [
+      "五聲音階",
+      "半音音階",
+      "大調音階",
+      "小調音階"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "97b5b344-a039-4331-8131-17784126653e"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "誰發行了2016年的專輯《檸檬水》？",
+    "correct_answer": "碧昂絲",
+    "choices": [
+      "凱蒂·佩芮",
+      "碧昂絲",
+      "蕾哈娜",
+      "愛黛兒"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "e83e40fc-1155-401d-9ea6-8df80fa780e4"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "本質上是大型木琴的樂器叫什麼？",
+    "correct_answer": "馬林巴",
+    "choices": [
+      "馬林巴",
+      "鋼片琴",
+      "鐘琴",
+      "顫音琴"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "6ac06db6-4806-47f3-8f66-4c9d1b5972f3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇以虛構的紙業公司「鄧德·米夫林」為背景？",
+    "correct_answer": "《辦公室風雲》",
+    "choices": [
+      "《公園與遊憩》",
+      "《辦公室》",
+      "《辦公室風雲》",
+      "《超級製作人》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "63e9aaa6-424a-4aba-8b60-a9547eec074d"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "誰在《絕命毒師》中飾演華特·懷特？",
+    "correct_answer": "布萊恩·克蘭斯頓",
+    "choices": [
+      "喬恩·哈姆",
+      "凱文·史貝西",
+      "詹姆斯·甘多菲尼",
+      "布萊恩·克蘭斯頓"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7409fce5-2e7c-4ccf-96b8-99463ac4880d"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部英國電視劇講述一位名為博士的時間旅行外星人？",
+    "correct_answer": "《神秘博士》",
+    "choices": [
+      "《銀河便車指南》",
+      "《紅矮星號》",
+      "《星際爭霸戰》",
+      "《神秘博士》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "07ba91a2-e3dd-4674-bb33-b781d74bd6f2"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇改編自喬治·R·R·馬丁的小說？",
+    "correct_answer": "《權力遊戲》",
+    "choices": [
+      "《古戰場傳奇》",
+      "《獵魔士》",
+      "《權力遊戲》",
+      "《魔戒：力量之戒》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "c760ad79-2b14-4d1a-ba4f-be7db5fe82a0"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "《歡樂單身派對》中的咖啡店叫什麼？",
+    "correct_answer": "蒙克咖啡館",
+    "choices": [
+      "中央公園咖啡館",
+      "The Diner",
+      "湯姆餐廳",
+      "蒙克咖啡館"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b880739e-4141-4a26-a620-0d922aec5a20"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇講述一群朋友在紐約市度過二十多歲的生活？",
+    "correct_answer": "《六人行》",
+    "choices": [
+      "《俏妞報到》",
+      "《六人行》",
+      "《追愛總動員之相愛百分百》",
+      "《慾望城市》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f28bdcfe-c752-4049-91ab-a050d4e4262f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部劇集以虛構的印第安納州波尼公園管理部門為背景？",
+    "correct_answer": "《公園與遊憩》",
+    "choices": [
+      "《荒唐分局》",
+      "《公園與遊憩》",
+      "《廢柴聯盟》",
+      "《辦公室風雲》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7c7e6dda-5d4d-4b51-8dfd-99bcf5addfd3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "誰在《黑道家族》中飾演東尼·索普拉諾？",
+    "correct_answer": "詹姆斯·甘多菲尼",
+    "choices": [
+      "喬·佩西",
+      "雷·利奧塔",
+      "麥可·因佩里奧利",
+      "詹姆斯·甘多菲尼"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "dea180e3-b04e-44a4-ac26-579440df1844"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "哪部劇集以虛構的斯特林·庫珀廣告公司為背景？",
+    "correct_answer": "《廣告狂人》",
+    "choices": [
+      "《金裝律師》",
+      "《醜女貝蒂》",
+      "《白宮風雲》",
+      "《廣告狂人》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "b2ac393d-b234-4693-b6ec-10dc1c3137a2"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪個真人秀競賽系列有旋轉椅？",
+    "correct_answer": "《美國好聲音》",
+    "choices": [
+      "《美國達人秀》",
+      "《美國好聲音》",
+      "《X Factor》",
+      "《美國偶像》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f77ae607-0bb5-41a6-bc86-ed36abbddf42"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "電視史上播出時間最長的動畫節目是什麼？",
+    "correct_answer": "《辛普森家庭》",
+    "choices": [
+      "《海綿寶寶》",
+      "《南方公園》",
+      "《辛普森家庭》",
+      "《蓋酷家庭》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "f20e80e5-d642-4d6d-b914-4b49050df55b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部劇集講述一位高中化學老師和他的前學生傑西·平克曼？",
+    "correct_answer": "《絕命毒師》",
+    "choices": [
+      "《黑錢勝地》",
+      "《絕命毒師》",
+      "《毒梟》",
+      "《單身毒媽》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "ba31d4e2-8cc8-495d-98cb-74a6eadbedb8"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部電視劇以虛構小鎮星星谷為背景？",
+    "correct_answer": "《吉爾莫女孩》",
+    "choices": [
+      "《雙峰》",
+      "《雪山鎮》",
+      "《橘子郡男孩》",
+      "《吉爾莫女孩》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "63f9cc29-ec24-4efe-9808-d9bd18039291"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "《吸血鬼日記》中虛構的學校叫什麼？",
+    "correct_answer": "神秘瀑布高中",
+    "choices": [
+      "薩爾瓦多寄宿學校",
+      "西比佛利高中",
+      "桑尼戴爾高中",
+      "神秘瀑布高中"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "621324e0-79c9-4cb5-acce-7490b16ab0b5"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部情境喜劇中有一個名叫薛爾頓·庫珀的角色？",
+    "correct_answer": "《生活大爆炸》",
+    "choices": [
+      "《IT狂人》",
+      "《矽谷群瞎傳》",
+      "《生活大爆炸》",
+      "《廢柴聯盟》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "14816f51-3f53-46ca-ae35-aeeab2f40429"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部劇集有警探傑克·佩拉爾塔和羅莎·迪亞茲？",
+    "correct_answer": "《荒唐分局》",
+    "choices": [
+      "《荒唐分局》",
+      "《超級商店》",
+      "《公園與遊憩》",
+      "《辦公室風雲》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7c0cd304-1be8-4c8e-8c65-974656e40711"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部HBO系列設定在1960年代麥迪遜大道的廣告世界？",
+    "correct_answer": "《廣告狂人》",
+    "choices": [
+      "《海濱帝國》",
+      "《墮落街傳奇》",
+      "《了不起的麥瑟爾夫人》",
+      "《廣告狂人》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "70824c22-7348-415e-b3ae-f1589ccebb54"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇讓「凜冬將至」這句話廣為流行？",
+    "correct_answer": "《權力遊戲》",
+    "choices": [
+      "《古戰場傳奇》",
+      "《最後的王國》",
+      "《權力遊戲》",
+      "《維京傳奇》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "c11216ee-8bce-48da-9bfa-1b5bf5c6d677"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部Netflix影集講述一對兄弟在圖盧姆經營旅館？",
+    "correct_answer": "《度假勝地》",
+    "choices": [
+      "《度假勝地》",
+      "《菁英殺機》",
+      "《白蓮花度假村》",
+      "《外灘探秘》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1a81796f-59c6-44dd-a57e-81372a1971da"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "改編自羅伯特·柯克曼漫畫的殭屍末日電視劇叫什麼？",
+    "correct_answer": "《陰屍路》",
+    "choices": [
+      "《我是殭屍》",
+      "《殭屍國度》",
+      "《黑夏》",
+      "《陰屍路》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "507ce506-559b-4d7f-b7d0-ef23cdf434a5"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部電視劇有超級電腦「母親」和一艘殖民船？",
+    "correct_answer": "《地球百子》",
+    "choices": [
+      "《太空無垠》",
+      "《星际迷失》",
+      "《太空堡壘卡拉狄加》",
+      "《地球百子》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "364f1137-3ed6-4891-86f8-3499404a4947"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "哪部電視劇在2024年獲得艾美獎最佳劇情類影集獎？",
+    "correct_answer": "《幕府將軍》",
+    "choices": [
+      "《繼承之戰》",
+      "《幕府將軍》",
+      "《大熊餐廳》",
+      "《王冠》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "9d0ae308-d665-4821-933c-fef05557f41b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部電視劇設定在科羅拉多州格林代爾的社區大學？",
+    "correct_answer": "《廢柴聯盟》",
+    "choices": [
+      "《希臘英雄》",
+      "《大學新生》",
+      "《廢柴聯盟》",
+      "《生活大爆炸》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "93caa574-8f9d-40df-b7db-46d1fd086e8f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "電視劇《越獄風雲》中的監獄叫什麼？",
+    "correct_answer": "福克斯河州立監獄",
+    "choices": [
+      "利奇菲爾德監獄",
+      "福克斯河州立監獄",
+      "惡魔島",
+      "奧斯瓦德州立矯正中心"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "1fe84437-68e5-4b78-b76a-7593008933b3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部迷你劇集講述車諾比核災難？",
+    "correct_answer": "《車諾比》",
+    "choices": [
+      "《熔毀》",
+      "《災難》",
+      "《核》",
+      "《車諾比》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "68993b51-213c-43a1-9bdc-fc7b2779348b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "《辛普森家庭》中的虛構城市叫什麼？",
+    "correct_answer": "春田市",
+    "choices": [
+      "首都城",
+      "北港",
+      "春田市",
+      "謝爾比維爾"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "74b36ba4-0c3a-49de-a162-502036016ced"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "哪部電視劇講述一名叫星期三·阿達姆斯的青少年？",
+    "correct_answer": "《星期三》",
+    "choices": [
+      "《莎賓娜》",
+      "《莎賓娜的驚心冒險》",
+      "《星期三》",
+      "《阿達一族》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "3428d961-75f6-4c1d-878a-097b658e7a62"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "哪部系列講述皮爾森家族在多重時間線上的生活？",
+    "correct_answer": "《這就是我們》",
+    "choices": [
+      "《摩登家庭》",
+      "《為人父母》",
+      "《兄弟姐妹》",
+      "《這就是我們》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "7574aecc-fd83-4434-974e-852cc3fb9c5f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "哪部英國系列講述一群在愛丁堡大學的學生？",
+    "correct_answer": "《年輕一代》",
+    "choices": [
+      "《皮囊》",
+      "《中間人》",
+      "《年輕一代》",
+      "《新鮮肉》"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "zh-tw",
+    "translation_key": "ba6c7cea-649f-46bb-bbf0-a0b6b9ccd04f"
+  }
+]

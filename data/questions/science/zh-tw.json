@@ -1,0 +1,3826 @@
+[
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "離地球最近的恆星是什麼？",
+    "correct_answer": "太陽",
+    "choices": [
+      "半人馬座α星",
+      "天狼星",
+      "太陽",
+      "比鄰星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8104e8d5-0d9e-4e92-9d00-ce981555f2a5"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "地球位於哪個星系？",
+    "correct_answer": "銀河系",
+    "choices": [
+      "三角座星系",
+      "草帽星系",
+      "仙女座星系",
+      "銀河系"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a4a1dadf-3acc-46c8-bd14-4bf86163ef3a"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "太陽系中最大的行星是哪顆？",
+    "correct_answer": "木星",
+    "choices": [
+      "天王星",
+      "木星",
+      "土星",
+      "海王星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "4229f739-5c8e-4161-89bd-153cfa683791"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "被稱為「失敗的恆星」的天體是什麼？",
+    "correct_answer": "棕矮星",
+    "choices": [
+      "中子星",
+      "紅巨星",
+      "白矮星",
+      "棕矮星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "028dd544-a07b-40e2-8479-5eaff2c00b99"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "黑洞周圍任何東西都無法逃脫的邊界叫什麼？",
+    "correct_answer": "事件視界",
+    "choices": [
+      "事件視界",
+      "吸積盤",
+      "光子球",
+      "奇異點"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ad7ae448-7146-48dc-b14b-8bd5524ff06d"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "什麼導致了月相變化？",
+    "correct_answer": "月球繞地球的公轉",
+    "choices": [
+      "月球繞地球的公轉",
+      "雲層覆蓋",
+      "地球的影子",
+      "太陽的距離"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "4160443c-0f4d-47b1-b588-48c5f5c318f4"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "宇宙中最豐富的元素是什麼？",
+    "correct_answer": "氫",
+    "choices": [
+      "氧",
+      "氫",
+      "氦",
+      "碳"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ee04a9ab-d2b4-4690-8e3c-be51feeda6fe"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "描述宇宙起源的理論叫什麼？",
+    "correct_answer": "大霹靂理論",
+    "choices": [
+      "大霹靂理論",
+      "弦理論",
+      "穩態理論",
+      "星雲假說"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "4447c985-0884-43b1-ac2e-9de3d26b621a"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "什麼是超新星？",
+    "correct_answer": "恆星的爆炸",
+    "choices": [
+      "恆星的誕生",
+      "恆星的爆炸",
+      "彗星的碰撞",
+      "一種星系"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "fcfb6a2c-4aa3-49a2-934a-cc21157ac074"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "哪顆行星擁有最多確認的衛星？",
+    "correct_answer": "土星",
+    "choices": [
+      "木星",
+      "海王星",
+      "土星",
+      "天王星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "dee22934-da33-4ec7-bfc5-4bc895d72737"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "太陽光到達地球需要多長時間？",
+    "correct_answer": "約8分鐘",
+    "choices": [
+      "約8秒",
+      "約8天",
+      "約8分鐘",
+      "約8小時"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6337c80c-facd-43ef-981e-a1c1c9f61a46"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "夜空中最亮的恆星叫什麼？",
+    "correct_answer": "天狼星",
+    "choices": [
+      "織女星",
+      "北極星",
+      "天狼星",
+      "參宿四"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c7dff344-597a-4f05-8d0b-707c434a1526"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "銀河系是什麼類型的星系？",
+    "correct_answer": "螺旋星系",
+    "choices": [
+      "螺旋星系",
+      "透鏡星系",
+      "橢圓星系",
+      "不規則星系"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "7674a1be-8fee-45f5-b5d1-a7a138b671d5"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "被稱為「晨星」或「暮星」的行星是哪顆？",
+    "correct_answer": "金星",
+    "choices": [
+      "水星",
+      "火星",
+      "木星",
+      "金星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "aa00fd5c-6674-4074-add6-e6f0c1e39323"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "第一個離開太陽系的人造物體叫什麼？",
+    "correct_answer": "航海家一號",
+    "choices": [
+      "卡西尼號",
+      "航海家一號",
+      "先鋒十號",
+      "新視野號"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "09838392-fa5e-493e-bec8-40157882d6f0"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "哪個胞器負責在細胞中產生ATP？",
+    "correct_answer": "粒線體",
+    "choices": [
+      "高爾基體",
+      "細胞核",
+      "核醣體",
+      "粒線體"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ae63e4fa-3df0-4a9b-b1dd-0232869bca6f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "人體最大的器官是什麼？",
+    "correct_answer": "皮膚",
+    "choices": [
+      "心臟",
+      "大腦",
+      "皮膚",
+      "肝臟"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "9deda994-dcc2-4f88-9fe2-7daedbc8e77e"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "植物利用什麼過程將陽光轉化為能量？",
+    "correct_answer": "光合作用",
+    "choices": [
+      "發酵作用",
+      "細胞呼吸作用",
+      "光合作用",
+      "化學合成作用"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "7cab999d-4bec-4f8f-a169-5255510d2aaf"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "哪種血型被稱為萬能捐血者？",
+    "correct_answer": "O 型陰性",
+    "choices": [
+      "O 型陰性",
+      "A 型陽性",
+      "B 型陰性",
+      "AB 型陽性"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "17d961f4-b818-4259-949f-f3e1b1899a4c"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "人類通常有多少條染色體？",
+    "correct_answer": "46",
+    "choices": [
+      "48",
+      "46",
+      "44",
+      "23"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "d5ea6f83-d835-406f-8738-a0be59165198"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "分解乳糖的酶叫什麼？",
+    "correct_answer": "乳糖酶",
+    "choices": [
+      "澱粉酶",
+      "乳糖酶",
+      "脂肪酶",
+      "蛋白酶"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "aac4b5cb-ee4f-41b4-9ed5-1219182fe684"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "什麼術語描述能自己製造食物的生物？",
+    "correct_answer": "自營生物",
+    "choices": [
+      "異營生物",
+      "寄生生物",
+      "自營生物",
+      "分解者"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "eecdaf87-80f8-46ed-bf84-c325ff2d1215"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "人類皮膚接觸陽光時會產生哪種維生素？",
+    "correct_answer": "維生素D",
+    "choices": [
+      "維生素B12",
+      "維生素D",
+      "維生素C",
+      "維生素A"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a19e4559-04b3-4324-82fe-fc35221e54fa"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "真菌的科學研究叫什麼？",
+    "correct_answer": "真菌學",
+    "choices": [
+      "植物學",
+      "病毒學",
+      "昆蟲學",
+      "真菌學"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6396bd7a-ed79-495f-bcd1-31f80e3b36a9"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "鴨嘴獸屬於哪種動物？",
+    "correct_answer": "哺乳動物",
+    "choices": [
+      "鳥類",
+      "兩棲類",
+      "爬蟲類",
+      "哺乳動物"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "57cae2af-4204-44da-82a5-71043ad6d337"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "人體最大最堅硬的骨骼是？",
+    "correct_answer": "股骨",
+    "choices": [
+      "脛骨",
+      "脊椎",
+      "股骨",
+      "肱骨"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "7db7a13a-f4c5-4bab-a93c-53b15749105b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "細胞分裂產生兩個相同子細胞的過程叫什麼？",
+    "correct_answer": "有絲分裂",
+    "choices": [
+      "二分裂",
+      "減數分裂",
+      "有絲分裂",
+      "出芽生殖"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3a74dc78-317f-406a-8e59-37480cb8c850"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "下列哪種動物擁有藍色血液？",
+    "correct_answer": "章魚",
+    "choices": [
+      "章魚",
+      "蚯蚓",
+      "鯊魚",
+      "龍蝦"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "76225d36-15b6-4682-a9c5-d1069e832e1f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "人眼中負責聚焦光線的部分是？",
+    "correct_answer": "水晶體",
+    "choices": [
+      "視網膜",
+      "水晶體",
+      "角膜",
+      "虹膜"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "0bfb3e61-c1ed-4624-af88-2f6ef3d5f227"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "人體大約含有多少百分比的水？",
+    "correct_answer": "60%",
+    "choices": [
+      "95%",
+      "60%",
+      "80%",
+      "40%"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "f0199979-c340-47a0-9330-fa578db62d6f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "純水的pH值是多少？",
+    "correct_answer": "7",
+    "choices": [
+      "10",
+      "0",
+      "7",
+      "14"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "db63b748-fdf4-4b95-b974-a05043a44337"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "哪種元素的原子序數是1？",
+    "correct_answer": "氫",
+    "choices": [
+      "氧",
+      "氫",
+      "氦",
+      "碳"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "be381180-7beb-4a12-a44b-f755a60815d8"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "食鹽的化學式是什麼？",
+    "correct_answer": "NaCl",
+    "choices": [
+      "Na₂CO₃",
+      "KCl",
+      "NaOH",
+      "NaCl"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "fa470812-75d8-4938-9b66-25ef54bf013b"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "哪種化學鍵涉及電子共享？",
+    "correct_answer": "共價鍵",
+    "choices": [
+      "共價鍵",
+      "氫鍵",
+      "金屬鍵",
+      "離子鍵"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5d55993b-6fb7-4583-9034-d1ed77729266"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "地球大氣中最豐富的氣體是什麼？",
+    "correct_answer": "氮氣",
+    "choices": [
+      "氧氣",
+      "氮氣",
+      "氬氣",
+      "二氧化碳"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3966689a-9db6-4625-a26b-012197d5b7e4"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "化學符號為「Au」的元素是哪個？",
+    "correct_answer": "金",
+    "choices": [
+      "鋁",
+      "金",
+      "氬",
+      "銀"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c0e6b109-9097-472e-8966-f2328fa7c51a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "固體直接轉變為氣體的過程叫什麼？",
+    "correct_answer": "昇華",
+    "choices": [
+      "凝結",
+      "沉積",
+      "昇華",
+      "蒸發"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5a99afdd-97d0-4fcd-ab98-0c4c51a5be3a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "能加速化學反應但不被消耗的物質叫什麼？",
+    "correct_answer": "催化劑",
+    "choices": [
+      "產物",
+      "反應物",
+      "催化劑",
+      "抑制劑"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5e2a6fff-d200-42b8-9c3c-d4a115729f53"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "小蘇打的化學名稱是什麼？",
+    "correct_answer": "碳酸氫鈉",
+    "choices": [
+      "碳酸氫鈉",
+      "氯化鈉",
+      "氫氧化鈉",
+      "碳酸鈉"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "952a9d8a-920b-4d60-aebb-fc453b2c52ff"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "哪種元素在室溫下是液體？",
+    "correct_answer": "汞",
+    "choices": [
+      "汞",
+      "銀",
+      "鐵",
+      "鉛"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "68865f17-4a45-438d-9525-c0f474f9efce"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "元素週期表中最輕的元素是什麼？",
+    "correct_answer": "氫",
+    "choices": [
+      "氦",
+      "氧",
+      "氫",
+      "鋰"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "894dc9d2-697c-4c1c-98ed-3550fb2bf3f5"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "過氧化氫的化學式是什麼？",
+    "correct_answer": "H₂O₂",
+    "choices": [
+      "HO₂",
+      "H₂O₂",
+      "H₂SO₄",
+      "H₂O"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "402fc73a-fa20-4358-8322-d82f8d670ec2"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "哪種稀有氣體用於霓虹燈？",
+    "correct_answer": "氖",
+    "choices": [
+      "氪",
+      "氬",
+      "氙",
+      "氖"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "d7a9f3d0-ad31-4f37-917d-21722c3facab"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "研究含碳化合物的學科叫什麼？",
+    "correct_answer": "有機化學",
+    "choices": [
+      "無機化學",
+      "有機化學",
+      "物理化學",
+      "生物化學"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6b1c9889-a67c-4b38-97dc-7a189d0ba62f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "胃中幫助消化食物的酸是什麼？",
+    "correct_answer": "鹽酸",
+    "choices": [
+      "鹽酸",
+      "硝酸",
+      "硫酸",
+      "醋酸"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "008c4d33-73be-436c-a4b9-23a8d86fe3c3"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "是什麼力使行星繞著太陽運行？",
+    "correct_answer": "重力",
+    "choices": [
+      "摩擦力",
+      "重力",
+      "核力",
+      "磁力"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "894ba997-6943-456a-bf38-2299dc5fa5cc"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "真空中的光速大約等於多少？",
+    "correct_answer": "300,000 km/s",
+    "choices": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "1,000,000 km/s",
+      "500,000 km/s"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "0ae9d04c-e836-438f-86e2-d60e6ea112e8"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "哪種粒子負責傳遞電磁力？",
+    "correct_answer": "光子",
+    "choices": [
+      "介子",
+      "重力子",
+      "膠子",
+      "光子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8cc8999a-f8ee-4d57-80d2-1178c43a1b3f"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "在恆壓下，溫度升高時氣體的體積會如何？",
+    "correct_answer": "膨脹",
+    "choices": [
+      "保持不變",
+      "收縮",
+      "電離",
+      "膨脹"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "587a10eb-68c9-4e52-990e-982d38c7aacf"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "下列哪個是純量？",
+    "correct_answer": "質量",
+    "choices": [
+      "質量",
+      "加速度",
+      "力",
+      "速度"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "e37f2490-cf95-4ec7-8e3a-5b9dd2fe90f1"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "電流的國際單位(SI)是什麼？",
+    "correct_answer": "安培",
+    "choices": [
+      "伏特",
+      "安培",
+      "歐姆",
+      "瓦特"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "170a46ff-ee08-4179-b897-6c4e7f9abd75"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "當吸管放入水杯中看起來彎曲的現象是什麼？",
+    "correct_answer": "折射",
+    "choices": [
+      "吸收",
+      "繞射",
+      "反射",
+      "折射"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "20c2ccf9-073d-4f9d-91c4-3e3d0fb047ca"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "碳-14的半衰期大約多長？",
+    "correct_answer": "5,730年",
+    "choices": [
+      "10,000年",
+      "5,730年",
+      "1,000年",
+      "25,000年"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "612b0feb-90fa-443a-a7bf-621956081fe2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "行駛中的汽車主要具有什麼能量？",
+    "correct_answer": "動能",
+    "choices": [
+      "熱能",
+      "動能",
+      "位能",
+      "化學能"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "e2373e30-a270-4401-9a2a-055f16e26172"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "哪一條定律指出每一個作用力都有一個大小相等、方向相反的反作用力？",
+    "correct_answer": "牛頓第三運動定律",
+    "choices": [
+      "牛頓第二運動定律",
+      "牛頓第一運動定律",
+      "牛頓第三運動定律",
+      "萬有引力定律"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "e6c59eb8-be30-46ed-87e4-fa29955206b2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "賦予其他粒子質量的理論粒子叫什麼？",
+    "correct_answer": "希格斯玻色子",
+    "choices": [
+      "膠子",
+      "迅子",
+      "希格斯玻色子",
+      "微中子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c13fa813-4944-4f2b-be67-e62ef8d304e2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "由於大氣層散射陽光，天空是什麼顏色？",
+    "correct_answer": "藍色",
+    "choices": [
+      "紅色",
+      "藍色",
+      "紫色",
+      "綠色"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b95ca564-ad14-41f8-82b7-b17be02b474d"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "稜鏡對白光有什麼作用？",
+    "correct_answer": "將其分解成組成色",
+    "choices": [
+      "將其轉換為紫外線",
+      "吸收所有顏色",
+      "將其分解成組成色",
+      "使其強度加倍"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "fe285f15-348e-4bf0-a6dc-12004322e74b"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "攝氏溫標的絕對零度是多少？",
+    "correct_answer": "-273.15°C",
+    "choices": [
+      "-100°C",
+      "-200°C",
+      "-373.15°C",
+      "-273.15°C"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c1736bc4-dbe7-4436-ae12-9d7bb7b048db"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "聲音是什麼類型的波？",
+    "correct_answer": "縱波",
+    "choices": [
+      "表面波",
+      "電磁波",
+      "橫波",
+      "縱波"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8619172e-ed3d-4130-9e24-1507c0e50c95"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "水的化學符號是什麼？",
+    "correct_answer": "H₂O",
+    "choices": [
+      "CO₂",
+      "O₂",
+      "H₂O",
+      "NaCl"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "319bb4c7-f807-47ec-9057-d7b9956b6264"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "哪顆行星被稱為紅色行星？",
+    "correct_answer": "火星",
+    "choices": [
+      "火星",
+      "木星",
+      "金星",
+      "土星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "259cfeb7-05c5-4442-9dd9-f4559b7fe8fa"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "“CPU”代表什麼？",
+    "correct_answer": "中央處理單元",
+    "choices": [
+      "中央程式單元",
+      "電腦個人單元",
+      "核心處理工具",
+      "中央處理單元"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "79e08758-8085-489b-b2ba-1fc3285ecbdc"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "“HTTP”代表什麼？",
+    "correct_answer": "超文本傳輸協議",
+    "choices": [
+      "超文本傳輸協議",
+      "高傳輸文字協議",
+      "高科技轉移計畫",
+      "超文本傳送過程"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5e460a25-4e15-43b1-84ac-87f4ad1d6565"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "十進位數字15的二進位表示是什麼？",
+    "correct_answer": "1111",
+    "choices": [
+      "1000",
+      "1010",
+      "1111",
+      "1100"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8b49d59d-b38d-43d6-9513-62a62ce0e237"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "“RAM”代表什麼？",
+    "correct_answer": "隨機存取記憶體",
+    "choices": [
+      "隨機存取記憶體",
+      "執行應用程式管理員",
+      "讀取存取記憶體",
+      "快速應用程式模組"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a70fe002-1e73-482f-a0dd-279acae00d9d"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "誰被認為是電腦科學之父？",
+    "correct_answer": "艾倫·圖靈",
+    "choices": [
+      "史蒂夫·賈伯斯",
+      "比爾·蓋茲",
+      "艾倫·圖靈",
+      "查爾斯·巴貝奇"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "0bdce28c-e5a9-4155-bf5b-c4940ac25c6f"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "“HTTPS”中的“S”代表什麼？",
+    "correct_answer": "安全",
+    "choices": [
+      "伺服器",
+      "系統",
+      "安全",
+      "插座"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "64640910-85ad-4957-93a6-767238aeeb61"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "第一台電子通用計算機叫什麼名字？",
+    "correct_answer": "ENIAC",
+    "choices": [
+      "IBM 701",
+      "ENIAC",
+      "Colossus",
+      "UNIVAC"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "158b257c-cb3e-4dca-9fa8-5a58b5376864"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "“SQL”代表什麼？",
+    "correct_answer": "結構化查詢語言",
+    "choices": [
+      "簡單查詢語言",
+      "標準查詢邏輯",
+      "順序查詢語言",
+      "結構化查詢語言"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6184ec96-28f2-4383-858a-d785d22b3c92"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "全球資訊網是在哪一年發明的？",
+    "correct_answer": "1989",
+    "choices": [
+      "2001",
+      "1975",
+      "1989",
+      "1995"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "77224002-d05f-41d6-9ec4-ab1b85cccb20"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "在網路中，“IP”代表什麼？",
+    "correct_answer": "網際網路協議",
+    "choices": [
+      "資訊提供者",
+      "內部流程",
+      "整合平台",
+      "網際網路協議"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3f34b12e-cb19-4905-8ffd-b1058fe4e580"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "Python是用哪種程式語言編寫的？",
+    "correct_answer": "C",
+    "choices": [
+      "C",
+      "C++",
+      "Java",
+      "組合語言"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "0a6ebfef-8eda-41f1-ac5c-f16d9e84436b"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "在網頁開發中，“CSS”代表什麼？",
+    "correct_answer": "階層樣式表",
+    "choices": [
+      "階層樣式表",
+      "彩色樣式表",
+      "創意樣式表",
+      "電腦樣式系統"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3bde5d94-4f8c-43f2-a14c-0b061cfe3522"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "網頁伺服器最廣泛使用的作業系統是什麼？",
+    "correct_answer": "Linux",
+    "choices": [
+      "FreeBSD",
+      "macOS",
+      "Linux",
+      "Windows"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "75d8b86d-4b3b-4f69-a00e-ab725f1f2aa8"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "“API”代表什麼？",
+    "correct_answer": "應用程式介面",
+    "choices": [
+      "應用程式協議介面",
+      "自動程序指令",
+      "應用程式介面",
+      "進階程式整合"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "f508c712-4d20-40b8-9439-3b72193fd29c"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "第一個電腦病毒叫什麼名字？",
+    "correct_answer": "Creeper",
+    "choices": [
+      "Creeper",
+      "Morris蠕蟲",
+      "ILOVEYOU",
+      "Melissa"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "dee115b9-15ed-470c-bc2c-9ad84264d838"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "哪顆行星被稱為「紅色行星」？",
+    "correct_answer": "火星",
+    "choices": [
+      "金星",
+      "木星",
+      "水星",
+      "火星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "131f417f-c6b6-4fac-88a2-0384a3e0b8ed"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "土星最大的衛星是什麼？",
+    "correct_answer": "泰坦",
+    "choices": [
+      "瑞亞",
+      "泰坦",
+      "伊奧",
+      "恩克拉多斯"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "267cd44b-0376-46da-a98c-104783096a75"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "取代哈伯太空望遠鏡成為NASA旗艦的望遠鏡叫什麼？",
+    "correct_answer": "詹姆斯·韋伯太空望遠鏡",
+    "choices": [
+      "克卜勒太空望遠鏡",
+      "史匹哲太空望遠鏡",
+      "詹姆斯·韋伯太空望遠鏡",
+      "錢德拉X射線天文台"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "0f0215a7-a13f-4239-bfd3-e4d05a82805d"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "我們太陽系中最小的行星是什麼？",
+    "correct_answer": "水星",
+    "choices": [
+      "火星",
+      "冥王星",
+      "金星",
+      "水星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "382cf64e-dcbf-46b6-bb03-57fa92801a48"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "月球運行到太陽和地球之間發生的現象叫什麼？",
+    "correct_answer": "日食",
+    "choices": [
+      "環食",
+      "日食",
+      "半影月食",
+      "月食"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "029ace89-f47d-4a77-b243-fa74760a012e"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "宇宙大約有多少年歷史？",
+    "correct_answer": "138億年",
+    "choices": [
+      "45億年",
+      "138億年",
+      "1兆年",
+      "1000億年"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5ab949cf-67d2-4e13-b93b-6cebddc3b2c6"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "離銀河系最近的星系叫什麼？",
+    "correct_answer": "大犬座矮星系",
+    "choices": [
+      "三角座星系",
+      "大麥哲倫雲",
+      "仙女座星系",
+      "大犬座矮星系"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8d6e34b9-2029-4fc9-b29f-13f0a9f9aa40"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "哪顆行星有大紅斑？",
+    "correct_answer": "木星",
+    "choices": [
+      "木星",
+      "海王星",
+      "土星",
+      "火星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "93decd07-cb76-477c-b5b8-9362a2a4df7d"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "一顆恆星突然亮度大幅增加然後逐漸變暗的現象叫什麼？",
+    "correct_answer": "新星",
+    "choices": [
+      "超新星",
+      "耀星",
+      "新星",
+      "變星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "60cd9a01-8312-4798-b384-f740cea53b6c"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "2004年至2018年間運作、NASA最著名的火星探測車叫什麼？",
+    "correct_answer": "機會號",
+    "choices": [
+      "機會號",
+      "好奇號",
+      "精神號",
+      "毅力號"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a81927e7-c763-4bd1-8731-e255b428a686"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "太陽系中哪顆行星的溫度範圍最大？",
+    "correct_answer": "水星",
+    "choices": [
+      "海王星",
+      "水星",
+      "火星",
+      "金星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5bc28868-d08a-4b47-867e-2f975256ca33"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "宇宙正在膨脹的理論叫什麼？",
+    "correct_answer": "哈伯定律",
+    "choices": [
+      "克卜勒定律",
+      "牛頓定律",
+      "哈伯定律",
+      "愛因斯坦理論"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "55a67cbf-961b-4c2d-9032-7165abe54d07"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "地球夜空第二亮的物體是什麼（僅次於月球）？",
+    "correct_answer": "金星",
+    "choices": [
+      "火星",
+      "木星",
+      "天狼星",
+      "金星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "cc6ed3fb-713d-48c1-ac42-7d0524219832"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "太陽系中岩石質的內行星叫什麼？",
+    "correct_answer": "類地行星",
+    "choices": [
+      "矮行星",
+      "類木行星",
+      "類地行星",
+      "氣體巨行星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1ff5a29d-f668-401a-ad79-8b074d9abb81"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "太陽系中最大的火山位於火星上，叫什麼名字？",
+    "correct_answer": "奧林帕斯山",
+    "choices": [
+      "毛納基火山",
+      "奧林帕斯山",
+      "水手號峽谷",
+      "聖母峰"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "30d32f0e-45ee-4b5e-af34-ae76b2ba8752"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "地球到太陽的平均距離叫什麼？",
+    "correct_answer": "天文單位",
+    "choices": [
+      "秒差距",
+      "天文單位",
+      "公里",
+      "光年"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "bce0e10d-83a8-4f5e-97e4-c1c47954f14b"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "第一位在月球上行走的人是誰？",
+    "correct_answer": "尼爾·阿姆斯壯",
+    "choices": [
+      "約翰·格倫",
+      "巴茲·奧爾德林",
+      "尤里·加加林",
+      "尼爾·阿姆斯壯"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1f10f6b7-e785-43c1-a82c-8a3b106c84e7"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "地球運行到太陽和月球之間發生的日食叫什麼？",
+    "correct_answer": "月食",
+    "choices": [
+      "混合日食",
+      "月食",
+      "日食",
+      "環食"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "989359fa-d46c-43b7-9410-129e3ff7d15e"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "環繞太陽系的彗星雲叫什麼？",
+    "correct_answer": "歐特雲",
+    "choices": [
+      "歐特雲",
+      "太陽圈",
+      "古柏帶",
+      "小行星帶"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "243ffafe-93fb-4107-b90a-c398148d7a2e"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "哪顆行星側著旋轉？",
+    "correct_answer": "天王星",
+    "choices": [
+      "金星",
+      "冥王星",
+      "天王星",
+      "海王星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "78aa2098-8313-4223-8a75-c04cf8e26386"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "大約45億年後將與銀河系碰撞的星系叫什麼？",
+    "correct_answer": "仙女座星系",
+    "choices": [
+      "渦狀星系",
+      "草帽星系",
+      "三角座星系",
+      "仙女座星系"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b3ddba0a-318e-4150-af58-ed1435b11489"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "火星有幾個衛星？",
+    "correct_answer": "2",
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1eb1b2d6-ad27-4b16-aab6-87b3a3a1759a"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "2015年造訪冥王星的太空探測器叫什麼？",
+    "correct_answer": "新視野號",
+    "choices": [
+      "新視野號",
+      "卡西尼號",
+      "航海家1號",
+      "曙光號"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "dc9d97b1-22d8-4782-8acd-e5522c3b8dfe"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "土星環的主要成分是什麼？",
+    "correct_answer": "冰與岩石顆粒",
+    "choices": [
+      "冰與岩石顆粒",
+      "氣體",
+      "灰塵",
+      "電漿"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c0b6690a-96ac-405f-9b63-11023bf898c6"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "獵戶座中最亮的恆星叫什麼名字？",
+    "correct_answer": "參宿七",
+    "choices": [
+      "參宿七",
+      "參宿四",
+      "天狼星",
+      "北極星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8f9e1e79-b38c-41b6-bf0f-e37343e00702"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "中子星由什麼構成？",
+    "correct_answer": "中子",
+    "choices": [
+      "電子",
+      "夸克",
+      "質子",
+      "中子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "f0f531d1-f53f-4791-8c4d-425967dbfc64"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "地球繞太陽公轉需要多長時間？",
+    "correct_answer": "365.25天",
+    "choices": [
+      "370天",
+      "366天",
+      "360天",
+      "365.25天"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "379da05f-a7ea-4332-9bc5-cb629af9e368"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "第一顆發射到太空的人造衛星叫什麼名字？",
+    "correct_answer": "史普尼克1號",
+    "choices": [
+      "史普尼克1號",
+      "月球2號",
+      "探險者1號",
+      "先鋒1號"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1f3c3008-4f43-4aec-8e8a-43179997cd20"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "太陽被歸類為哪一種恆星？",
+    "correct_answer": "黃矮星",
+    "choices": [
+      "紅巨星",
+      "藍超巨星",
+      "黃矮星",
+      "白矮星"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "94d05003-59e4-4a45-9e07-07677b626347"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "太陽系中最大的峽谷叫什麼名字，位於火星上？",
+    "correct_answer": "水手號峽谷",
+    "choices": [
+      "水手號峽谷",
+      "馬沃斯谷",
+      "科柏特斯峽谷",
+      "大峽谷"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "f7ac5b6f-0e84-4301-b321-91b66f3f184f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "紅血球的主要功能是什麼？",
+    "correct_answer": "攜帶氧氣",
+    "choices": [
+      "凝血",
+      "攜帶氧氣",
+      "對抗感染",
+      "產生抗體"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "60b7ad1a-944a-405b-815b-222e2ba6cd6b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "人體內最大的器官是什麼？",
+    "correct_answer": "肝臟",
+    "choices": [
+      "大腦",
+      "心臟",
+      "肺",
+      "肝臟"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "df633b16-7f9e-4b8b-a3c3-6ca2b7e2e633"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "「喉嚨」的學名是什麼？",
+    "correct_answer": "喉頭",
+    "choices": [
+      "食道",
+      "咽",
+      "氣管",
+      "喉頭"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "96ef5a6c-29cd-417c-91e5-759e4c235eec"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "DNA的兩條鏈之間靠什麼鍵結合？",
+    "correct_answer": "氫鍵",
+    "choices": [
+      "氫鍵",
+      "肽鍵",
+      "離子鍵",
+      "共價鍵"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "d6b44a39-4e5a-4c49-ac79-e8cb5a384508"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "哪種動物被稱為「沙漠之舟」？",
+    "correct_answer": "駱駝",
+    "choices": [
+      "駱駝",
+      "驢",
+      "羊駝",
+      "馬"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "01df3d0a-cb49-4bee-ba29-7005bf90ca14"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "哪一種維生素又稱為抗壞血酸？",
+    "correct_answer": "維生素C",
+    "choices": [
+      "維生素A",
+      "維生素C",
+      "維生素E",
+      "維生素B"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b02580d5-a2dc-4497-bae2-d7bc7e7217fa"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "植物的哪個部位進行光合作用？",
+    "correct_answer": "葉子",
+    "choices": [
+      "葉子",
+      "莖",
+      "根",
+      "花朵"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "2647f122-fab3-45ef-9bde-3514f90894b7"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "研究遺傳和變異的學科叫什麼？",
+    "correct_answer": "遺傳學",
+    "choices": [
+      "生態學",
+      "胚胎學",
+      "遺傳學",
+      "演化論"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ee8db30d-7252-4165-81dd-a34cdc8353fd"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "下列哪種動物是有袋類？",
+    "correct_answer": "袋鼠",
+    "choices": [
+      "企鵝",
+      "大象",
+      "袋鼠",
+      "北極熊"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "379d9538-a1b3-4e65-aab2-f29a3e25ce73"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "人體最小的骨頭是什麼？",
+    "correct_answer": "鐙骨（位於耳朵內）",
+    "choices": [
+      "尾骨",
+      "指骨",
+      "鐙骨（位於耳朵內）",
+      "舌骨（位於頸部）"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8ff48d33-4baf-465c-b63b-4ee069187d4c"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "我們稱夜間活動的動物為什麼？",
+    "correct_answer": "夜行性",
+    "choices": [
+      "夜行性",
+      "晝行性",
+      "晨昏性",
+      "冬眠"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "4a4d5118-cf23-47eb-a4f9-687227d02b7e"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "植物通過葉片釋放水蒸氣的過程叫什麼？",
+    "correct_answer": "蒸散作用",
+    "choices": [
+      "蒸發",
+      "凝結",
+      "蒸散作用",
+      "呼吸作用"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "feb5d53e-1a6e-4b71-b4c7-195bfe2cfe73"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "哪一種血型是萬用受血者？",
+    "correct_answer": "AB型陽性",
+    "choices": [
+      "AB型陰性",
+      "A型陽性",
+      "AB型陽性",
+      "O型陽性"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c8dcff72-2f3d-4327-9342-28042a4d634b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "成人通常有多少顆牙齒？",
+    "correct_answer": "32",
+    "choices": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "53f99f20-ee89-42eb-ad9d-bdcb55c31fd5"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "將食物從口腔運送到胃的管道叫什麼？",
+    "correct_answer": "食道",
+    "choices": [
+      "食道",
+      "咽",
+      "腸道",
+      "氣管"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "72466c8d-78d5-4fe7-8de9-2bda473ec2ec"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "最大的鯊魚物種是什麼？",
+    "correct_answer": "鯨鯊",
+    "choices": [
+      "巨齒鯊",
+      "鎚頭鯊",
+      "大白鯊",
+      "鯨鯊"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "7468b160-3983-4148-9f26-8cdab762ad6c"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "被稱為細胞能量工廠的是什麼？",
+    "correct_answer": "粒線體",
+    "choices": [
+      "細胞膜",
+      "粒線體",
+      "細胞核",
+      "核糖體"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "28814015-de28-4dda-bb7b-9910e6b85850"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "耳蝸與哪種感官相關？",
+    "correct_answer": "聽覺",
+    "choices": [
+      "聽覺",
+      "視覺",
+      "味覺",
+      "嗅覺"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "954d7827-7a18-4e1d-b1bd-98cfcee55bc1"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "同時吃植物和動物的生物叫什麼？",
+    "correct_answer": "雜食動物",
+    "choices": [
+      "雜食動物",
+      "碎屑食性動物",
+      "草食動物",
+      "肉食動物"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "13a7afe5-b717-4959-a445-610cf30db0bb"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "賦予皮膚顏色的色素叫什麼？",
+    "correct_answer": "黑色素",
+    "choices": [
+      "黑色素",
+      "膠原蛋白",
+      "胡蘿蔔素",
+      "角蛋白"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ea045d27-df8f-4cfb-a552-27e7e4e5b1e9"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "當今最大的陸地動物是什麼？",
+    "correct_answer": "非洲象",
+    "choices": [
+      "長頸鹿",
+      "白犀牛",
+      "河馬",
+      "非洲象"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "0b2a1dca-977a-4242-a53e-2f5526264f39"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "生命的最小單位是什麼？",
+    "correct_answer": "細胞",
+    "choices": [
+      "組織",
+      "原子",
+      "細胞",
+      "分子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1f4ffe79-ec8f-4921-89ff-1a849f7d6c4a"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "胰島素缺乏會導致哪種疾病？",
+    "correct_answer": "糖尿病",
+    "choices": [
+      "糖尿病",
+      "貧血",
+      "氣喘",
+      "關節炎"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3ef6d32e-a57f-4ab3-a37a-ed1d374a6311"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "包圍肺部的雙層膜叫什麼？",
+    "correct_answer": "肋膜",
+    "choices": [
+      "腦膜",
+      "心包膜",
+      "腹膜",
+      "肋膜"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "2bada20c-eac1-4fbb-aaea-1fa9aa68b997"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "水穿過半透膜的過程叫什麼？",
+    "correct_answer": "滲透作用",
+    "choices": [
+      "滲透作用",
+      "擴散",
+      "促進擴散",
+      "主動運輸"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "4ee2eed4-5b03-4f84-b0be-d02f85960059"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "哪種動物可以改變顏色以融入周圍環境？",
+    "correct_answer": "變色龍",
+    "choices": [
+      "斑馬",
+      "孔雀",
+      "章魚",
+      "變色龍"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ac6bf00f-fad2-4460-b397-4a0d1a64158f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "第一種發現的抗生素叫什麼？",
+    "correct_answer": "青黴素",
+    "choices": [
+      "四環黴素",
+      "青黴素",
+      "鏈黴素",
+      "紅黴素"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "833f7a68-4a5d-47b0-9455-453838fecc4f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "大腦中負責平衡與協調的部位是什麼？",
+    "correct_answer": "小腦",
+    "choices": [
+      "大腦",
+      "下視丘",
+      "腦幹",
+      "小腦"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "da8c0b86-41eb-46ae-a5dc-7daace881664"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "產卵的動物叫什麼？",
+    "correct_answer": "卵生動物",
+    "choices": [
+      "胎生動物",
+      "卵胎生動物",
+      "有袋類動物",
+      "卵生動物"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8cbf70c7-aabf-42d6-af97-02e93f46fe1b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "人體最長的骨頭是什麼？",
+    "correct_answer": "股骨",
+    "choices": [
+      "腓骨",
+      "脛骨",
+      "肱骨",
+      "股骨"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "73d8266d-0ada-461f-9bd2-268c903779c2"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "人體中負責過濾血液的器官是什麼？",
+    "correct_answer": "腎臟",
+    "choices": [
+      "心臟",
+      "肝臟",
+      "肺",
+      "腎臟"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "11903b0a-3ba8-4f43-9495-78758f7d0d1a"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "研究昆蟲的學科叫什麼？",
+    "correct_answer": "昆蟲學",
+    "choices": [
+      "鳥類學",
+      "昆蟲學",
+      "爬蟲學",
+      "魚類學"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "cc485c72-c541-41d3-be34-6d39a3f27b5f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "哪種生物負責產生地球大部分的氧氣？",
+    "correct_answer": "浮游植物",
+    "choices": [
+      "浮游植物",
+      "草",
+      "雨林",
+      "樹木"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "e5155b9c-19f7-4452-a50b-101ce3d5e2e0"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "毛毛蟲變成蝴蝶的過程叫什麼？",
+    "correct_answer": "變態",
+    "choices": [
+      "變態",
+      "演化",
+      "冬眠",
+      "發芽"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "fca1ba51-bffe-43e3-86b9-0e0eacecf3b7"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "碳的原子序數是多少？",
+    "correct_answer": "6",
+    "choices": [
+      "6",
+      "12",
+      "8",
+      "4"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b22cbf56-da81-42bd-b4e2-5f181f3f1b09"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "鉀的化學符號是什麼？",
+    "correct_answer": "K",
+    "choices": [
+      "Pt",
+      "K",
+      "P",
+      "Po"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "7c4c7335-a432-4950-bad8-4e22011bea4a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "釋放熱量的反應類型是什麼？",
+    "correct_answer": "放熱反應",
+    "choices": [
+      "放熱反應",
+      "合成反應",
+      "吸熱反應",
+      "分解反應"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a1da03c2-4a44-4d27-b030-bee9b073614c"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "燃燒需要哪種元素？",
+    "correct_answer": "氧",
+    "choices": [
+      "氧",
+      "氮",
+      "碳",
+      "氫"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "598d6495-9553-438f-a382-9cce244de63d"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "笑氣的化學名稱是什麼？",
+    "correct_answer": "一氧化二氮",
+    "choices": [
+      "二氧化氮",
+      "一氧化二氮",
+      "氮氣",
+      "一氧化氮"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "d08c7d9c-b6cd-47c9-9739-0d5febf776b5"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "地殼中最豐富的元素是什麼？",
+    "correct_answer": "氧",
+    "choices": [
+      "鐵",
+      "矽",
+      "氧",
+      "鋁"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a1c4208c-f94f-46eb-933e-90ba5936d9b1"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "石蕊試紙遇酸會變成什麼顏色？",
+    "correct_answer": "紅色",
+    "choices": [
+      "藍色",
+      "黃色",
+      "紅色",
+      "綠色"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b607f26d-12e5-4bec-9b40-253706875400"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "鑽石由哪種元素構成？",
+    "correct_answer": "碳",
+    "choices": [
+      "矽",
+      "碳",
+      "鑽石",
+      "石墨"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "314549b1-40cc-46ba-8aaa-7876be227ed6"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "銀的週期表符號是什麼？",
+    "correct_answer": "Ag",
+    "choices": [
+      "Sl",
+      "Ag",
+      "Si",
+      "Sv"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "593ea5e6-2a64-4a44-94d2-53c333352c45"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "哪種混合物的粒子不會沉降？",
+    "correct_answer": "膠體",
+    "choices": [
+      "溶液",
+      "懸浮液",
+      "乳化液",
+      "膠體"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "14836806-d3a9-406a-adef-8672b30a6d78"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "天然氣的主要成分是什麼？",
+    "correct_answer": "甲烷",
+    "choices": [
+      "丙烷",
+      "丁烷",
+      "乙烷",
+      "甲烷"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6ef030ea-14ae-4dee-bc1e-54b694b0f633"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "氨的化學式是什麼？",
+    "correct_answer": "NH₃",
+    "choices": [
+      "N₂H₃",
+      "NH₃",
+      "NH₄",
+      "NH₂"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "aec30c94-9e28-4e01-87aa-6ff1f631d8c7"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "哪種元素的熔點最高？",
+    "correct_answer": "鎢",
+    "choices": [
+      "鉑",
+      "鐵",
+      "碳",
+      "鎢"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "2e20b460-6da2-429f-adb3-ea8e76a00a84"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "強酸的pH值通常是多少？",
+    "correct_answer": "0-1",
+    "choices": [
+      "0-1",
+      "12-14",
+      "5-6",
+      "7-8"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6f858768-29f0-4932-92b3-45922f0a1065"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "使鐵生鏽的化學過程叫什麼？",
+    "correct_answer": "氧化",
+    "choices": [
+      "氧化",
+      "昇華",
+      "水合",
+      "還原"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "515ccb9d-b083-4381-bf19-77c97f2f5d85"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "哪種元素用於製造煙火中的藍色？",
+    "correct_answer": "銅",
+    "choices": [
+      "鍶",
+      "鈉",
+      "鋇",
+      "銅"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "69a3d229-b586-465f-9f6b-a6fc9970a9f0"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "保留元素化學性質的最小粒子是什麼？",
+    "correct_answer": "原子",
+    "choices": [
+      "質子",
+      "電子",
+      "分子",
+      "原子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3081dafd-f641-45ed-89c5-8142a44ba9cf"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "乾冰的化學名稱是什麼？",
+    "correct_answer": "固態二氧化碳",
+    "choices": [
+      "固態氮",
+      "固態水",
+      "固態氧",
+      "固態二氧化碳"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "120a0c27-3691-4ed3-a4ed-0e2cbebab28e"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "根據沸點分離混合物的過程叫什麼？",
+    "correct_answer": "蒸餾",
+    "choices": [
+      "蒸發",
+      "蒸餾",
+      "色譜法",
+      "過濾"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "0d7b0fa8-7379-48e6-a80d-068dd6379cbc"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "除了汞之外，哪種元素在室溫下是液體？",
+    "correct_answer": "溴",
+    "choices": [
+      "溴",
+      "氯",
+      "碘",
+      "氟"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "74f99535-a696-4420-a2df-1e98a777ab0c"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "金屬與非金屬之間形成的化學鍵類型是什麼？",
+    "correct_answer": "離子鍵",
+    "choices": [
+      "金屬鍵",
+      "氫鍵",
+      "離子鍵",
+      "共價鍵"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c512bea0-8d10-45b6-b14e-ccb7de53248f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "甲烷的化學式是什麼？",
+    "correct_answer": "CH₄",
+    "choices": [
+      "C₂H₆",
+      "CH₄",
+      "CO₂",
+      "C₃H₈"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b31503a3-273c-4c95-9b2a-abcfb9fe30d0"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "原子符號 'Fe' 代表哪種元素？",
+    "correct_answer": "鐵",
+    "choices": [
+      "鐵",
+      "鐨",
+      "氟",
+      "鈁"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "027e6dd3-a268-4da6-8f45-c5f1200c4947"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "研究化學反應速率的學科叫什麼？",
+    "correct_answer": "化學動力學",
+    "choices": [
+      "熱化學",
+      "化學動力學",
+      "電化學",
+      "化學計量學"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8208d5cb-d9be-45ca-ab8c-8de6a72f0eda"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "除了水蒸氣之外，火山產生的主要氣體是什麼？",
+    "correct_answer": "二氧化碳",
+    "choices": [
+      "硫化氫",
+      "二氧化碳",
+      "氮氣",
+      "二氧化硫"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "030396f8-ce7d-4bc0-883b-b284c1aead9b"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "週期表上唯一沒有出現的字母是？",
+    "correct_answer": "J",
+    "choices": [
+      "X",
+      "Z",
+      "J",
+      "Q"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "56ee33f8-50b4-4750-831a-213c3e3dfce6"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "帶負電的離子叫什麼？",
+    "correct_answer": "陰離子",
+    "choices": [
+      "同位素",
+      "陰離子",
+      "離子",
+      "陽離子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a322e7fb-e12b-4b74-a74e-881b64a2d9cf"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "金的原子序數是多少？",
+    "correct_answer": "79",
+    "choices": [
+      "92",
+      "47",
+      "79",
+      "82"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6fa94347-30b3-4252-abb4-94beb14651c7"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "哪種酸用於汽車電池？",
+    "correct_answer": "硫酸",
+    "choices": [
+      "硫酸",
+      "硝酸",
+      "乙酸",
+      "鹽酸"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "e6e6ebd6-c553-4c50-ade0-960a982cc032"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "氣體變成液體的過程叫什麼？",
+    "correct_answer": "凝結",
+    "choices": [
+      "凝華",
+      "昇華",
+      "蒸發",
+      "凝結"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "181afd68-313b-4108-978f-a9bad6026f8b"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "太陽的主要成分是什麼元素？",
+    "correct_answer": "氫",
+    "choices": [
+      "氦",
+      "氫",
+      "碳",
+      "氧"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b31aaeb1-bad0-40af-bf76-9d0a6f755ea8"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "氯化鈉的俗稱是什麼？",
+    "correct_answer": "食鹽",
+    "choices": [
+      "食鹽",
+      "小蘇打",
+      "瀉鹽",
+      "岩鹽"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8444e411-59f5-44ee-b62c-83935252b7ee"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "錫的化學符號是什麼？",
+    "correct_answer": "Sn",
+    "choices": [
+      "Tn",
+      "Ti",
+      "Sn",
+      "Si"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5ccc08f7-6c73-45e3-93eb-56396a826241"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "亞佛加厥數是多少？",
+    "correct_answer": "6.022 × 10²³",
+    "choices": [
+      "1.602 × 10¹⁹",
+      "3.141 × 10²³",
+      "6.022 × 10²³",
+      "9.81 × 10²³"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b59ddf1a-2077-475e-9850-477357877901"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "力的SI單位是什麼？",
+    "correct_answer": "牛頓",
+    "choices": [
+      "瓦特",
+      "焦耳",
+      "牛頓",
+      "帕斯卡"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "935bbaba-442b-4997-81fb-6fc9da7bd02a"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "海平面空氣中的聲速約為多少？",
+    "correct_answer": "343 m/s",
+    "choices": [
+      "343 m/s",
+      "1,000 m/s",
+      "700 m/s",
+      "150 m/s"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "c93068a5-5c4f-4c7a-85c0-0403f15cca18"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "汽車側視鏡上標有「物體比實際看起來更近」的是哪種鏡子？",
+    "correct_answer": "凸面鏡",
+    "choices": [
+      "平面鏡",
+      "凹面鏡",
+      "凸面鏡",
+      "拋物面鏡"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ab143054-a0ab-431f-a6e4-fed751c36bea"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "哪位物理學家提出了廣義相對論？",
+    "correct_answer": "阿爾伯特·愛因斯坦",
+    "choices": [
+      "尼爾斯·波耳",
+      "理查·費曼",
+      "艾薩克·牛頓",
+      "阿爾伯特·愛因斯坦"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b1ed79f7-ec37-4b18-86d2-263cd569acfc"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "振動系統在特定頻率下反應更強的現象是什麼？",
+    "correct_answer": "共振",
+    "choices": [
+      "偏振",
+      "繞射",
+      "干涉",
+      "共振"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "fd24b76d-b586-4494-a471-212f3a8198ea"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "哪種亞原子粒子帶負電？",
+    "correct_answer": "電子",
+    "choices": [
+      "中子",
+      "質子",
+      "正子",
+      "電子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b5d977d8-ebf0-4a52-8be8-afdd4e3bd310"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "能量的SI單位是什麼？",
+    "correct_answer": "焦耳",
+    "choices": [
+      "瓦特",
+      "牛頓",
+      "焦耳",
+      "伏特"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "74a80a99-6e12-4491-ac2b-d90d1488f8f4"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "物體抗拒運動狀態改變的性質叫什麼？",
+    "correct_answer": "慣性",
+    "choices": [
+      "加速度",
+      "慣性",
+      "摩擦力",
+      "動量"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "de197a80-7773-4184-a788-92ffa99f1ff2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "哪個定律描述了電壓、電流和電阻之間的關係？",
+    "correct_answer": "歐姆定律",
+    "choices": [
+      "法拉第定律",
+      "庫侖定律",
+      "安培定律",
+      "歐姆定律"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "cb335d81-971d-4686-a20b-68f1a17a4f93"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "由兩個夸克組成的粒子是什麼？",
+    "correct_answer": "介子",
+    "choices": [
+      "質子",
+      "中子",
+      "重子",
+      "介子"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "936b1c68-62d5-41b7-ad7f-be5da65d361c"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "變壓器的作用是什麼？",
+    "correct_answer": "改變交流電的電壓",
+    "choices": [
+      "改變交流電的電壓",
+      "改變直流電的電壓",
+      "儲存電能",
+      "將交流轉換為直流"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "d44b0f9e-9a02-4d52-aae2-348a46b49a2e"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "研究熱量及其轉換的學科叫什麼？",
+    "correct_answer": "熱力學",
+    "choices": [
+      "熱力學",
+      "電磁學",
+      "運動學",
+      "量子力學"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "598c963b-7896-4c1b-aa12-e7195247f193"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "測量電流的儀器叫什麼？",
+    "correct_answer": "安培計",
+    "choices": [
+      "檢流計",
+      "安培計",
+      "歐姆計",
+      "伏特計"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "2ad49533-4416-4d3a-b3e5-e7e6abc8fa67"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "原子核分裂成較小原子核的過程叫什麼？",
+    "correct_answer": "核分裂",
+    "choices": [
+      "放射性衰變",
+      "核融合",
+      "核分裂",
+      "電離"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "50b2bf25-3e11-440c-a878-aae71ca069f6"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "沒有兩個費米子能佔據相同量子態的原理叫什麼？",
+    "correct_answer": "包利不相容原理",
+    "choices": [
+      "包利不相容原理",
+      "構造原理",
+      "海森堡測不準原理",
+      "對應原理"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "bf5932c8-ed32-482b-b812-51041660bbb1"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "可見光中波長最長的顏色是什麼？",
+    "correct_answer": "紅色",
+    "choices": [
+      "紫色",
+      "藍色",
+      "綠色",
+      "紅色"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "2052c151-588c-4298-a07e-a25b6ffb1c4e"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "在臨界溫度以下電阻為零的材料叫什麼？",
+    "correct_answer": "超導體",
+    "choices": [
+      "導體",
+      "超導體",
+      "絕緣體",
+      "半導體"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3c5f562a-727c-408a-8913-562307a82175"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "哪種簡單機械是傾斜的表面？",
+    "correct_answer": "斜面",
+    "choices": [
+      "楔形",
+      "斜面",
+      "槓桿",
+      "螺絲"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "25b613e1-a08c-4ade-9221-d97fcca09e43"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "頻率的SI單位是什麼？",
+    "correct_answer": "赫茲",
+    "choices": [
+      "瓦特",
+      "特斯拉",
+      "赫茲",
+      "分貝"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "35945a1b-7330-4ed6-bef9-a03fa3e83109"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "天空呈現藍色是由於哪種現象？",
+    "correct_answer": "瑞利散射",
+    "choices": [
+      "康普頓散射",
+      "米氏散射",
+      "瑞利散射",
+      "拉曼散射"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "cb3265e9-b69c-49d4-84f2-6a8bcc05a22b"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "以10 m/s向上拋出的球返回起點。忽略空氣阻力，其最終速度是多少？",
+    "correct_answer": "10 m/s",
+    "choices": [
+      "5 m/s",
+      "10 m/s",
+      "0 m/s",
+      "20 m/s"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "61c42065-8ad7-4afe-b775-9a1647779569"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "壓力的SI單位是什麼？",
+    "correct_answer": "帕斯卡",
+    "choices": [
+      "帕斯卡",
+      "大氣壓",
+      "巴",
+      "PSI"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8c46fe5e-3b4e-4290-bc76-404f5a0a20bd"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "中間比邊緣厚的透鏡叫什麼？",
+    "correct_answer": "凸透鏡",
+    "choices": [
+      "圓柱透鏡",
+      "雙焦透鏡",
+      "凹透鏡",
+      "凸透鏡"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "eaa3a384-41b7-44c1-84db-7ff1db9e3579"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "當頻率增加時，聲音的音調會怎樣？",
+    "correct_answer": "變高",
+    "choices": [
+      "消失",
+      "變高",
+      "保持不變",
+      "變低"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6345a6ed-4699-4fb1-a62b-4ce3876b2921"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "哪種基本力負責將原子核維持在一起？",
+    "correct_answer": "強核力",
+    "choices": [
+      "弱核力",
+      "電磁力",
+      "重力",
+      "強核力"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "9bf90f31-28c8-453e-b600-9ac2b977f0ba"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "從原子中移去一個電子所需的最小能量叫什麼？",
+    "correct_answer": "游離能",
+    "choices": [
+      "結合能",
+      "游離能",
+      "電子親和力",
+      "活化能"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "4aa0ce8d-4df4-4730-aec3-33e4399245b7"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "動能的公式是什麼？",
+    "correct_answer": "½ mv²",
+    "choices": [
+      "mgh",
+      "mv",
+      "½ mv²",
+      "½ kx²"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "be011162-c981-46a3-901d-6be2260ec702"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "什麼現象導致警笛聲經過時音調發生變化？",
+    "correct_answer": "都卜勒效應",
+    "choices": [
+      "蝴蝶效應",
+      "光電效應",
+      "都卜勒效應",
+      "溫室效應"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1da28f89-1472-47d5-9f3c-64d4f7aeb2ab"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "光是什麼類型的波？",
+    "correct_answer": "電磁波",
+    "choices": [
+      "重力波",
+      "機械波",
+      "縱波",
+      "電磁波"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "db597b03-e3f7-4d31-b61d-888e41150e10"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "電荷的SI單位是什麼？",
+    "correct_answer": "庫侖",
+    "choices": [
+      "安培",
+      "伏特",
+      "法拉",
+      "庫侖"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "39be0cf7-66e7-4b1d-8ab3-f82cbf0df39a"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "氣壓計測量什麼？",
+    "correct_answer": "大氣壓力",
+    "choices": [
+      "溫度",
+      "風速",
+      "濕度",
+      "大氣壓力"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "951e1a3c-f5d2-4619-a36d-fb252839dbf8"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "研究原子和亞原子層級粒子行為的物理學分支叫什麼？",
+    "correct_answer": "量子力學",
+    "choices": [
+      "量子力學",
+      "相對論",
+      "熱力學",
+      "古典力學"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1debe863-ed4d-4074-a288-e349e8404e20"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "哪種裝置將機械能轉換為電能？",
+    "correct_answer": "發電機",
+    "choices": [
+      "變壓器",
+      "發電機",
+      "整流器",
+      "馬達"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "5f1d5342-ac08-47cd-a269-7ac735ff82e1"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "聲音強度的測量單位是什麼？",
+    "correct_answer": "分貝",
+    "choices": [
+      "赫茲",
+      "瓦特每平方公尺",
+      "流明",
+      "分貝"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b27b0dad-64e7-4abb-a173-58b89a851bfe"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「URL」代表什麼？",
+    "correct_answer": "統一資源定位器",
+    "choices": [
+      "統一資源定位器",
+      "統一資源語言",
+      "通用資源定位器",
+      "通用參考連結"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3f41756f-758f-46d8-8eca-fc07aa985561"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "James Gosling在Sun Microsystems創造了哪種程式語言？",
+    "correct_answer": "Java",
+    "choices": [
+      "Ruby",
+      "Python",
+      "C++",
+      "Java"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "9e5846ce-1b08-4f1d-8fd2-c490974c246a"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「SSD」代表什麼？",
+    "correct_answer": "固態硬碟",
+    "choices": [
+      "系統儲存裝置",
+      "固態硬碟",
+      "超級速度磁碟",
+      "固態儲存磁碟"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "eb4cf084-1c68-48e8-822b-2ef738550512"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Google在哪一年成立？",
+    "correct_answer": "1998",
+    "choices": [
+      "2004",
+      "1998",
+      "2000",
+      "1995"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8b41cf17-c717-4476-925b-91f8f4d4d345"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "「DNS」代表什麼？",
+    "correct_answer": "網域名稱系統",
+    "choices": [
+      "資料網路安全",
+      "網域名稱系統",
+      "動態名稱伺服器",
+      "數位網路服務"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "36718c86-0177-4a5c-b9d4-feb690ac7170"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "截至2024年，最受歡迎的程式語言是哪一種？",
+    "correct_answer": "Python",
+    "choices": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "44af75a4-533c-425a-adfa-befef30eaed4"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「VPN」代表什麼？",
+    "correct_answer": "虛擬私人網路",
+    "choices": [
+      "非常私人網路",
+      "虛擬公共網路",
+      "驗證私人網路",
+      "虛擬私人網路"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "9a0c98c6-55b0-4aa0-b732-e3c49af4f796"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "誰與Steve Jobs共同創立了蘋果電腦？",
+    "correct_answer": "Steve Wozniak",
+    "choices": [
+      "Tim Cook",
+      "Bill Gates",
+      "Steve Wozniak",
+      "Jony Ive"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a7e077a0-6198-442c-b066-3a96b6a931b5"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「IoT」代表什麼？",
+    "correct_answer": "物聯網",
+    "choices": [
+      "內部物件追蹤",
+      "整合操作技術",
+      "物聯網",
+      "輸入輸出終端"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "078e5e35-bfbf-4486-aa35-0c0b764c20f0"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "哪種快取系統常用於PHP作為鍵值儲存？",
+    "correct_answer": "Redis",
+    "choices": [
+      "Redis",
+      "MongoDB",
+      "MySQL",
+      "SQLite"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ac2bc60b-1182-4c17-9d00-e45c8c826c26"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「HTML」代表什麼？",
+    "correct_answer": "超文本標記語言",
+    "choices": [
+      "家用工具標記語言",
+      "超文本標記語言",
+      "超傳輸標記語言",
+      "高科技現代語言"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1399ac12-85fe-497c-b8e5-3a1e736ff612"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "第一個網路瀏覽器的名稱是什麼？",
+    "correct_answer": "WorldWideWeb",
+    "choices": [
+      "Mosaic",
+      "Netscape",
+      "WorldWideWeb",
+      "Internet Explorer"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "d6007243-2936-4e97-929a-01e980017962"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「JSON」代表什麼？",
+    "correct_answer": "JavaScript物件表示法",
+    "choices": [
+      "Java序列化物件節點",
+      "Java標準輸出網路",
+      "JavaScript物件表示法",
+      "JavaScript線上表示法"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "6bdc2ba2-d233-4268-96bf-2a513f9c2355"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "哪家公司開發了Android作業系統？",
+    "correct_answer": "Google",
+    "choices": [
+      "Google",
+      "Microsoft",
+      "Samsung",
+      "Apple"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1f8661ba-919e-4b37-a62d-a25dd5d22267"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "一種加密文件並要求付款的惡意軟體術語是什麼？",
+    "correct_answer": "勒索軟體",
+    "choices": [
+      "木馬",
+      "間諜軟體",
+      "病毒",
+      "勒索軟體"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "1ee0be38-ae96-481d-8d1b-926e6cccedb2"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「AI」代表什麼？",
+    "correct_answer": "人工智慧",
+    "choices": [
+      "自動化介面",
+      "先進整合",
+      "人工智慧",
+      "自動化智慧"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3eeda26e-888f-40a5-a3db-9d55c6f21eb6"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "哪家公司創造了第一款商業上成功的智慧型手機？",
+    "correct_answer": "Apple",
+    "choices": [
+      "IBM",
+      "BlackBerry",
+      "Apple",
+      "Nokia"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "a2eb7ef6-7a9c-46d7-90c9-7981141725b3"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「USB」代表什麼？",
+    "correct_answer": "通用序列匯流排",
+    "choices": [
+      "統一序列匯流排",
+      "通用系統主機板",
+      "通用序列匯流排",
+      "通用訊號橋接器"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "3fd6d48f-19de-4b9d-b9cf-29888a3244f3"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "哪種程式設計範式基於包含數據和程式碼的「物件」概念？",
+    "correct_answer": "物件導向程式設計",
+    "choices": [
+      "物件導向程式設計",
+      "函數式程式設計",
+      "程序式程式設計",
+      "宣告式程式設計"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "8d585da7-ed40-48cd-97fd-ac62a0b2cd6b"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "「BIOS」代表什麼？",
+    "correct_answer": "基本輸入輸出系統",
+    "choices": [
+      "基本整合作業系統",
+      "二進位輸入輸出系統",
+      "基本輸入輸出系統",
+      "開機整合作業系統"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "f059a5fc-b74e-49c2-b383-aa507b7aea94"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "哪家公司開發了Swift程式語言？",
+    "correct_answer": "Apple",
+    "choices": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "JetBrains"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "dbafd7dc-50c1-4773-967f-ac5b2863a8f1"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "限制在單一建築物或園區內的電腦網路術語是什麼？",
+    "correct_answer": "區域網路（LAN）",
+    "choices": [
+      "都會網路（MAN）",
+      "個人區域網路（PAN）",
+      "廣域網路（WAN）",
+      "區域網路（LAN）"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "94029f7a-b574-41f7-90d2-72b37a97423d"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "「YAML」代表什麼？",
+    "correct_answer": "YAML Ain't Markup Language",
+    "choices": [
+      "YAML高級標記語言",
+      "YAML Ain't Markup Language",
+      "Yet Another Markup Language",
+      "Yet Another Modeling Language"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "e20b353b-1d9e-4a1f-b9e3-37a4dab792dd"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "哪家公司擁有GitHub平台？",
+    "correct_answer": "Microsoft",
+    "choices": [
+      "Google",
+      "Microsoft",
+      "IBM",
+      "Amazon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ab01e416-79bb-4b62-9af5-162fbe5c201c"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "在Android中，「APK」代表什麼？",
+    "correct_answer": "Android套件包",
+    "choices": [
+      "Android套件包",
+      "Android平台套件",
+      "應用程式套件金鑰",
+      "Android程式核心"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "55bbc85e-a179-406a-8fb3-6af26bc07258"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "哪種程式語言主要用於iOS應用程式開發？",
+    "correct_answer": "Swift",
+    "choices": [
+      "Kotlin",
+      "Swift",
+      "Java",
+      "C#"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "feabfba2-04d7-4881-bcef-bd01be87a960"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "將程式拆分為小型可重用片段的觀念叫什麼？",
+    "correct_answer": "模組化程式設計",
+    "choices": [
+      "模組化程式設計",
+      "義大利麵式程式碼",
+      "單體架構",
+      "事件驅動程式設計"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "b0079a0d-5f8c-4569-aa2d-8666b8b8eb36"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "「CLI」代表什麼？",
+    "correct_answer": "命令列介面",
+    "choices": [
+      "命令列介面",
+      "電腦語言直譯器",
+      "程式碼語言整合",
+      "中央邏輯介面"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "ce0a7b32-c09f-45fe-827a-fcdb762ff480"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "第一款商業上成功的遊戲主機是什麼？",
+    "correct_answer": "Atari 2600",
+    "choices": [
+      "任天堂娛樂系統",
+      "Atari 2600",
+      "ColecoVision",
+      "Magnavox Odyssey"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "546c9a03-0bc1-4b4c-bf1e-810dd1b3d976"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "「SSL」代表什麼？",
+    "correct_answer": "安全通訊端層",
+    "choices": [
+      "安全系統連結",
+      "安全通訊端登入",
+      "伺服器端邏輯",
+      "安全通訊端層"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "zh-tw",
+    "translation_key": "4a26dba2-04ca-4014-984a-0973f3c2ef51"
+  }
+]

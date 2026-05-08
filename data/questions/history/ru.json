@@ -1,0 +1,4882 @@
+[
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какое сооружение было построено как гробница для фараона Хуфу?",
+    "correct_answer": "Великая пирамида Гизы",
+    "choices": [
+      "Великая пирамида Гизы",
+      "Храм Артемиды",
+      "Висячие сады Семирамиды",
+      "Колосс Родосский"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e0cc954b-c662-4c9b-9eba-351252d003af"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой древнегреческий философ был приговорен к смерти через выпивку цикуты?",
+    "correct_answer": "Сократ",
+    "choices": [
+      "Аристотель",
+      "Пифагор",
+      "Платон",
+      "Сократ"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6d8051ec-fe38-4a9c-b427-98d4a704bd69"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "В какой современной стране находилась древняя цивилизация Месопотамии?",
+    "correct_answer": "Ирак",
+    "choices": [
+      "Египет",
+      "Турция",
+      "Ирак",
+      "Иран"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "65183565-c74b-447a-970a-ae3bf32d311e"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой римский правитель был знаменито убит в мартовские иды?",
+    "correct_answer": "Юлий Цезарь",
+    "choices": [
+      "Август",
+      "Юлий Цезарь",
+      "Нерон",
+      "Калигула"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d1ba501d-bc9e-41f9-a8bd-2bdb68371b3b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Как называлось демократическое собрание в древних Афинах?",
+    "correct_answer": "Экклесия",
+    "choices": [
+      "Буле",
+      "Экклесия",
+      "Ареопаг",
+      "Сенат"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "05dd6117-25e1-4bf5-bf0d-5b8ded70cc11"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какое древнее чудо света находилось в городе Вавилон?",
+    "correct_answer": "Висячие сады",
+    "choices": [
+      "Колосс Родосский",
+      "Александрийский маяк",
+      "Статуя Зевса",
+      "Висячие сады"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e615a5b2-ce98-4c3a-bc65-eae602a8b424"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какую систему письма использовали древние египтяне?",
+    "correct_answer": "Иероглифы",
+    "choices": [
+      "Санскрит",
+      "Латынь",
+      "Клинопись",
+      "Иероглифы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5c53e601-39d2-4564-9fbc-1e8b86feab38"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какая знаменитая древнегреческая поэма рассказывает историю Троянской войны?",
+    "correct_answer": "Илиада",
+    "choices": [
+      "Энеида",
+      "Одиссея",
+      "Илиада",
+      "Теогония"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4f8cb0b9-3678-4d5e-ae06-38364d5891f6"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Каким был основной язык Римской империи?",
+    "correct_answer": "Латынь",
+    "choices": [
+      "Латынь",
+      "Арамейский",
+      "Греческий",
+      "Этрусский"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "7ff306f4-3a89-4ec0-ab50-28471f27474c"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какая древняя цивилизация построила город Мачу-Пикчу?",
+    "correct_answer": "Инки",
+    "choices": [
+      "Инки",
+      "Майя",
+      "Ацтеки",
+      "Ольмеки"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9ed021b1-c290-4bf0-bc34-f4cd878d4631"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Как звали первого императора Китая?",
+    "correct_answer": "Цинь Шихуанди",
+    "choices": [
+      "Хубилай-хан",
+      "Конфуций",
+      "Цинь Шихуанди",
+      "Сунь Цзы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6d479c9a-2c45-40da-a9a2-329e0215b94f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какой персидский царь построил великий город Персеполь?",
+    "correct_answer": "Дарий Великий",
+    "choices": [
+      "Дарий Великий",
+      "Ксеркс I",
+      "Кир Великий",
+      "Камбиз II"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "ee224bde-0d58-4cab-838b-0828bb2c6570"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "В греческой мифологии кто был царём богов?",
+    "correct_answer": "Зевс",
+    "choices": [
+      "Аид",
+      "Зевс",
+      "Арес",
+      "Посейдон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "7d439483-402b-4c24-a229-f3d4e01f3871"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Как называлась арена гладиаторских боёв в Древнем Риме?",
+    "correct_answer": "Колизей",
+    "choices": [
+      "Колизей",
+      "Термы Каракаллы",
+      "Цирк Максимус",
+      "Пантеон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b52f7a85-eba8-49a8-a476-ca3145a27a8b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какая древняя цивилизация известна своей развитой системой водоснабжения и Большой баней?",
+    "correct_answer": "Цивилизация долины Инда",
+    "choices": [
+      "Цивилизация долины Инда",
+      "Древняя Греция",
+      "Древний Китай",
+      "Древний Египет"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "ad3f709b-9ac9-4182-904a-926fee3aa25b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Кто, согласно мифу, был легендарным основателем Рима?",
+    "correct_answer": "Ромул",
+    "choices": [
+      "Ромул",
+      "Юлий Цезарь",
+      "Рем",
+      "Эней"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8f72f977-db52-4168-a213-f3c8c0426583"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Как называлось элитное подразделение пехоты в армии Александра Македонского?",
+    "correct_answer": "Гетайры (дружеская кавалерия)",
+    "choices": [
+      "Фаланга",
+      "Бессмертные",
+      "Гетайры (дружеская кавалерия)",
+      "Преторианская гвардия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8fb545b9-f24b-462b-bfec-3802a6a3abd4"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой древнегреческий город-государство был известен своим милитаристским обществом?",
+    "correct_answer": "Спарта",
+    "choices": [
+      "Афины",
+      "Фивы",
+      "Коринф",
+      "Спарта"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "11d8974d-4e6b-4815-a51d-051a6ed8db1f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой материал использовали древние китайцы для создания терракотовой армии?",
+    "correct_answer": "Терракотовая глина",
+    "choices": [
+      "Терракотовая глина",
+      "Мрамор",
+      "Бронза",
+      "Нефрит"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9dc82601-77d4-4c60-8f3f-9c69cd9235c6"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какой карфагенский полководец провёл слонов через Альпы для нападения на Рим?",
+    "correct_answer": "Ганнибал",
+    "choices": [
+      "Гасдрубал",
+      "Сципион Африканский",
+      "Гамилькар Барка",
+      "Ганнибал"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0ec0d61b-b96b-4d03-bc90-681099b78361"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Как называется самый ранний известный письменный свод законов?",
+    "correct_answer": "Законы Хаммурапи",
+    "choices": [
+      "Законы Двенадцати таблиц",
+      "Законы Драконта",
+      "Законы Хаммурапи",
+      "Эдикты Ашоки"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1fb606e7-41eb-423b-9b5c-70f8e7f83505"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какая египетская царица была известна своими отношениями с Юлием Цезарем и Марком Антонием?",
+    "correct_answer": "Клеопатра",
+    "choices": [
+      "Нефертити",
+      "Анхесенамон",
+      "Хатшепсут",
+      "Клеопатра"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f8586b3e-8e70-4f3b-bb35-8964572b5975"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "В каком сражении 300 спартанцев совершили легендарное последнее стояние против персов?",
+    "correct_answer": "Фермопилы",
+    "choices": [
+      "Саламин",
+      "Платеи",
+      "Марафон",
+      "Фермопилы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "994ca65f-efda-474e-adb3-9f50ac6c6e5a"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой был главный торговый путь, соединяющий Китай со Средиземноморьем?",
+    "correct_answer": "Шёлковый путь",
+    "choices": [
+      "Путь благовоний",
+      "Царская дорога",
+      "Янтарный путь",
+      "Шёлковый путь"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8c871f32-5765-4180-a48b-250e6769aa94"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какой римский император первым принял христианство?",
+    "correct_answer": "Константин Великий",
+    "choices": [
+      "Константин Великий",
+      "Феодосий I",
+      "Юстиниан",
+      "Диоклетиан"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "86bad4b2-b332-4104-a92d-80fdced3dc81"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какое изобретение прославило древнегреческого математика Архимеда?",
+    "correct_answer": "Архимедов винт",
+    "choices": [
+      "Система блоков",
+      "Катапульта",
+      "Водяное колесо",
+      "Архимедов винт"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d70317c5-bdc4-48c0-a13c-764b89a127d8"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Кто был последним фараоном Древнего Египта?",
+    "correct_answer": "Клеопатра VII",
+    "choices": [
+      "Клеопатра VII",
+      "Нефертити",
+      "Рамсес II",
+      "Хатшепсут"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "718da4e5-5021-4588-9778-7b1eecae67d6"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой древнегреческий математик известен как отец геометрии?",
+    "correct_answer": "Евклид",
+    "choices": [
+      "Пифагор",
+      "Евклид",
+      "Аристотель",
+      "Архимед"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f6e1e349-7c6e-4cf9-b4c9-5ada7522f092"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Как назывался римский общественный банный комплекс, который также служил социальным центром?",
+    "correct_answer": "Термы",
+    "choices": [
+      "Форумы",
+      "Акведуки",
+      "Термы",
+      "Инсулы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "74cecdf2-bc90-4dfb-8f88-dccdfbbe0848"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какая древняя цивилизация построила ступенчатые пирамиды в Тикале?",
+    "correct_answer": "Майя",
+    "choices": [
+      "Ацтеки",
+      "Майя",
+      "Инки",
+      "Ольмеки"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d275927e-5538-4aab-acb7-de808d50a40f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Как древние китайцы называли свою империю?",
+    "correct_answer": "Срединное царство",
+    "choices": [
+      "Великая нация",
+      "Царство драконов",
+      "Небесная империя",
+      "Срединное царство"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "14c25065-5bb1-4ee1-a9aa-60ebf2fb04f7"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Кто была греческая богиня мудрости и войны?",
+    "correct_answer": "Афина",
+    "choices": [
+      "Гера",
+      "Афина",
+      "Афродита",
+      "Артемида"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f2fde595-d6ef-41c6-991a-d744cc57fc3b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какой персидский царь вторгся в Грецию и потерпел поражение в битве при Марафоне?",
+    "correct_answer": "Дарий I",
+    "choices": [
+      "Артаксеркс I",
+      "Дарий I",
+      "Ксеркс I",
+      "Кир Великий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e5374a16-beda-4605-bf53-93c251de2b9b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Как называлось профессиональное римское армейское подразделение, служившее телохранителями императора?",
+    "correct_answer": "Преторианская гвардия",
+    "choices": [
+      "Преторианская гвардия",
+      "Римский легион",
+      "Когорта",
+      "Эквиты"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a0c6bd47-15eb-4b7d-9a62-6a7360b71bed"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "Как древние египтяне называли свою форму письма на папирусе?",
+    "correct_answer": "Иератическое письмо",
+    "choices": [
+      "Клинопись",
+      "Коптское письмо",
+      "Демотическое письмо",
+      "Иератическое письмо"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4ab4af03-b25e-4b89-b75c-e4c7b2c7594f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой римский император знаменито построил стену через северную Британию?",
+    "correct_answer": "Адриан",
+    "choices": [
+      "Антонин Пий",
+      "Адриан",
+      "Август",
+      "Траян"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a0636d23-3f68-4101-9269-646bb4cf3d4b"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "Какой была основная еда простых людей в Древнем Риме?",
+    "correct_answer": "Пульс (каша из полбы)",
+    "choices": [
+      "Чечевичный суп",
+      "Рыбный соус",
+      "Хлеб с оливками",
+      "Пульс (каша из полбы)"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5970b273-8438-45f8-96c0-35ce6c9b0a9f"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Кто был легендарным царём Итаки в греческой мифологии?",
+    "correct_answer": "Одиссей",
+    "choices": [
+      "Менелай",
+      "Одиссей",
+      "Ахилл",
+      "Агамемнон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "eab6b8ac-833d-47a1-ba3e-92ad23d04b5c"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какая древняя цивилизация изобрела самую раннюю известную форму письма — клинопись?",
+    "correct_answer": "Шумеры",
+    "choices": [
+      "Вавилоняне",
+      "Шумеры",
+      "Египтяне",
+      "Ассирийцы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b21ff9ea-b9bd-48e9-95b6-39dbd1af4f5c"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "Как называлось элитное персидское пехотное подразделение, известное как «Десять тысяч»?",
+    "correct_answer": "Бессмертные",
+    "choices": [
+      "Бессмертные",
+      "Спарабары",
+      "Гетайры",
+      "Преторианская гвардия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "48659075-636c-4d19-a0d4-b134c04d97ad"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "В каком сражении Александр Македонский разгромил персидского царя Дария III?",
+    "correct_answer": "Битва при Гавгамелах",
+    "choices": [
+      "Битва при Гранике",
+      "Битва при Гидаспе",
+      "Битва при Гавгамелах",
+      "Битва при Иссе"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "15fcbd67-0ca2-4207-aee6-bc732a67fa02"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Для чего в основном использовался Римский форум?",
+    "correct_answer": "Общественный рынок и место встреч",
+    "choices": [
+      "Храмовый комплекс",
+      "Общественный рынок и место встреч",
+      "Военный учебный полигон",
+      "Императорский дворец"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "cbee2549-b85a-48c3-b4bf-f3c6bf6c6995"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Какой древнекитайский философ написал «Искусство войны»?",
+    "correct_answer": "Сунь Цзы",
+    "choices": [
+      "Конфуций",
+      "Лао-цзы",
+      "Мэн-цзы",
+      "Сунь Цзы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4217497d-8349-4382-b78e-5465d985a78a"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "Как называлась греческая торговая колония, соперничавшая с Римом и разрушенная в 146 году до н. э.?",
+    "correct_answer": "Карфаген",
+    "choices": [
+      "Массалия",
+      "Коринф",
+      "Карфаген",
+      "Сиракузы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5d4d98ac-4afc-40fe-b5cc-14228302b9cd"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какой древний правитель построил Висячие сады Вавилона?",
+    "correct_answer": "Навуходоносор II",
+    "choices": [
+      "Саргон Аккадский",
+      "Хаммурапи",
+      "Навуходоносор II",
+      "Ашшурбанипал"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a7e723ad-69b8-4806-9207-8ec3a5ed6cea"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Как называлась трёхчастная система правления в Древнем Риме?",
+    "correct_answer": "Римская республика",
+    "choices": [
+      "Римская республика",
+      "Римский сенат",
+      "Римское царство",
+      "Римская империя"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "26b75685-1920-423f-a4cf-6f8acdd17eb8"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Какой древнегреческий врач считается отцом медицины?",
+    "correct_answer": "Гиппократ",
+    "choices": [
+      "Аристотель",
+      "Гален",
+      "Гиппократ",
+      "Пифагор"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1147595d-2750-4822-993b-9a2a4c86ed26"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "Каким типом сооружения был Александрийский маяк?",
+    "correct_answer": "Фарос (высокая башня с огненным маяком)",
+    "choices": [
+      "Фарос (высокая башня с огненным маяком)",
+      "Храм Посейдона",
+      "Военное укрепление",
+      "Царский дворец"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0add73f0-51c5-4b27-9770-b237a4d0241d"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "Какой римский император разделил империю на Восточную и Западную половины?",
+    "correct_answer": "Диоклетиан",
+    "choices": [
+      "Константин",
+      "Диоклетиан",
+      "Феодосий I",
+      "Август"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "093f1a1d-c03b-4d23-8785-c980e512d8f5"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Как назывался греческий город, в котором находился знаменитый оракул?",
+    "correct_answer": "Дельфы",
+    "choices": [
+      "Коринф",
+      "Дельфы",
+      "Олимпия",
+      "Эфес"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "dcc49fd8-e523-4753-8813-8713d5c84f08"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какая чума, по оценкам, уничтожила треть населения Европы в 14 веке?",
+    "correct_answer": "Черная смерть",
+    "choices": [
+      "Великая чума",
+      "Черная смерть",
+      "Испанский грипп",
+      "Чума Юстиниана"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0cc7c6ab-26b2-4f0b-be1c-91ef9b4390e0"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какой монгольский правитель основал крупнейшую континентальную империю в истории?",
+    "correct_answer": "Чингисхан",
+    "choices": [
+      "Кубилай-хан",
+      "Тамерлан",
+      "Чингисхан",
+      "Аттила"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8a597664-cdce-4e8f-8a66-3f1e71fe87e4"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Как назывался кодекс поведения, которому следовали средневековые рыцари?",
+    "correct_answer": "Рыцарский кодекс чести",
+    "choices": [
+      "Феодальное право",
+      "Рыцарская клятва",
+      "Рыцарский кодекс чести",
+      "Кодекс чести"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f54b7b36-9d7b-49df-bd30-fe616b75600d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какой город был столицей Византийской империи?",
+    "correct_answer": "Константинополь",
+    "choices": [
+      "Александрия",
+      "Константинополь",
+      "Афины",
+      "Рим"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3b52cbb7-2fa1-4b5b-b000-55c0e308b134"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какой документ, подписанный в 1215 году, ограничил власть английского короля?",
+    "correct_answer": "Великая хартия вольностей",
+    "choices": [
+      "Акт о неприкосновенности личности",
+      "Билль о правах",
+      "Великая хартия вольностей",
+      "Петиция о праве"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a51811ee-19e8-4165-80ef-860ead64e56b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой викинг-исследователь, как полагают, достиг Северной Америки около 1000 года н.э.?",
+    "correct_answer": "Лейф Эриксон",
+    "choices": [
+      "Бьёрн Железнобокий",
+      "Лейф Эриксон",
+      "Рагнар Лодброк",
+      "Эрик Рыжий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9d3c8d06-fffb-45a4-bd07-4af733722daa"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какова была основная экономическая система в средневековой Европе?",
+    "correct_answer": "Феодализм",
+    "choices": [
+      "Манориализм",
+      "Меркантилизм",
+      "Капитализм",
+      "Феодализм"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e851afc9-3af0-4f70-abe3-31c6e0b795f6"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какая серия религиозных войн велась между христианами и мусульманами за контроль над Святой Землей?",
+    "correct_answer": "Крестовые походы",
+    "choices": [
+      "Реконкиста",
+      "Священные войны",
+      "Инквизиция",
+      "Крестовые походы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "497e90c3-895e-40a6-885a-5613f38953ad"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как называлась монгольская столица, построенная Кубилай-ханом?",
+    "correct_answer": "Шанду (Ксанаду)",
+    "choices": [
+      "Шанду (Ксанаду)",
+      "Пекин",
+      "Самарканд",
+      "Каракорум"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "557af6a7-c098-40a8-8bca-b7afedb08ae5"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой франкский король был коронован императором римлян в Рождество 800 года н.э.?",
+    "correct_answer": "Карл Великий",
+    "choices": [
+      "Хлодвиг I",
+      "Карл Мартелл",
+      "Карл Великий",
+      "Пипин Короткий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8d81eeec-648f-46a7-aed5-d604c1ba4402"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какое оружие стало культовым для английской армии во время Столетней войны?",
+    "correct_answer": "Длинный лук",
+    "choices": [
+      "Боевой топор",
+      "Длинный лук",
+      "Требушет",
+      "Арбалет"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "870e38fe-eb49-43d8-8180-b0810d6f6973"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какая мезоамериканская цивилизация построила город Теночтитлан?",
+    "correct_answer": "Ацтеки",
+    "choices": [
+      "Майя",
+      "Ацтеки",
+      "Инки",
+      "Тольтеки"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "bd907cd8-cb77-4677-8b57-f6f946fc7090"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Как называлась сеть торговых путей, соединявшая Европу и Азию?",
+    "correct_answer": "Шелковый путь",
+    "choices": [
+      "Шелковый путь",
+      "Янтарный путь",
+      "Чайный путь",
+      "Пряный путь"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "305bdaeb-68de-4321-b875-23810b42a0dd"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какое знаменитое сражение 1066 года ознаменовало нормандское завоевание Англии?",
+    "correct_answer": "Битва при Гастингсе",
+    "choices": [
+      "Битва при Фулфорде",
+      "Битва при Стамфорд-Бридже",
+      "Битва при Азенкуре",
+      "Битва при Гастингсе"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "fa9893e5-f7ee-49e8-ab9b-67fce591ab5a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какое архитектурное сооружение было центром обороны средневекового замка?",
+    "correct_answer": "Донжон",
+    "choices": [
+      "Донжон",
+      "Ров",
+      "Барбакан",
+      "Подъемный мост"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0508ed0c-ab64-4247-aea0-1c6583340b32"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Кто была французская крестьянская девушка, которая привела французскую армию к победе при Орлеане?",
+    "correct_answer": "Жанна д'Арк",
+    "choices": [
+      "Екатерина Медичи",
+      "Мария-Антуанетта",
+      "Алиенора Аквитанская",
+      "Жанна д'Арк"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "75b4f5f6-d4b9-41c4-89f1-01ff2db3d418"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какой исламский ученый написал «Канон врачебной науки», который веками был стандартным медицинским текстом?",
+    "correct_answer": "Авиценна (Ибн Сина)",
+    "choices": [
+      "Альхазен (Ибн аль-Хайтам)",
+      "Аверроэс (Ибн Рушд)",
+      "Ар-Рази (Разес)",
+      "Авиценна (Ибн Сина)"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b2443b0b-a0fb-4b47-b8dd-72edc8c1e339"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как назывался викингский парламент или собрание?",
+    "correct_answer": "Тинг",
+    "choices": [
+      "Витенагемот",
+      "Тинг",
+      "Риксдаг",
+      "Альтинг"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d5ad08dd-a828-4922-a693-5f8cf57ef714"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой византийский император кодифицировал римское право в всеобъемлющую правовую систему?",
+    "correct_answer": "Юстиниан I",
+    "choices": [
+      "Василий II",
+      "Юстиниан I",
+      "Константин Великий",
+      "Ираклий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "978e2331-2b56-4527-a9b2-7018c77e2685"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какое изобретение Иоганн Гутенберг представил в Европе около 1440 года?",
+    "correct_answer": "Печатный станок",
+    "choices": [
+      "Телескоп",
+      "Печатный станок",
+      "Компас",
+      "Астролябия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0af54b69-eb31-4d6a-b584-12c952a83f0a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой английский король возглавил Третий крестовый поход против Саладина?",
+    "correct_answer": "Ричард Львиное Сердце",
+    "choices": [
+      "Ричард Львиное Сердце",
+      "Эдуард I",
+      "Король Иоанн",
+      "Генрих II"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3ce0f96e-33a9-4d99-8dae-65ee8516d14f"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как называлась система связи инков с использованием бегунов?",
+    "correct_answer": "Часки",
+    "choices": [
+      "Часки",
+      "Кипу",
+      "Айлью",
+      "Митма"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "489b27a3-e280-41c7-b383-9588c09f672c"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какая битва 1415 года была крупной победой англичан во время Столетней войны?",
+    "correct_answer": "Битва при Азенкуре",
+    "choices": [
+      "Битва при Слейсе",
+      "Битва при Креси",
+      "Битва при Азенкуре",
+      "Битва при Пуатье"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "73e827dd-bfbe-4f89-84ee-9e932cb2fe43"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как назывался средневековый испанский христианский процесс отвоевания Пиренейского полуострова?",
+    "correct_answer": "Реконкиста",
+    "choices": [
+      "Инквизиция",
+      "Изгнание",
+      "Крестовый поход",
+      "Реконкиста"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "76c42681-379b-43ab-a83b-451f1f640743"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой монгольский хан завоевал династию Сун и основал династию Юань в Китае?",
+    "correct_answer": "Кубилай-хан",
+    "choices": [
+      "Чингисхан",
+      "Угэдэй-хан",
+      "Мункэ-хан",
+      "Кубилай-хан"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "fe358de2-9de5-4173-8793-1f667620a136"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как называлось типичное жилище средневекового крепостного?",
+    "correct_answer": "Хижина с участком",
+    "choices": [
+      "Хижина с участком",
+      "Длинный дом",
+      "Коттедж",
+      "Лачуга"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "969f8f22-5cb3-4652-ae93-480022ec48df"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой знаменитый путешественник из Венеции рассказал о своем путешествии ко двору Кубилай-хана?",
+    "correct_answer": "Марко Поло",
+    "choices": [
+      "Марко Поло",
+      "Вильгельм Рубруквис",
+      "Джованни Плано Карпини",
+      "Ибн Баттута"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "7e2c47d2-8258-4c2c-9111-0104956cd09b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как звали императора ацтеков, который столкнулся с Эрнаном Кортесом?",
+    "correct_answer": "Монтесума II",
+    "choices": [
+      "Ауисотль",
+      "Монтесума II",
+      "Куаутемок",
+      "Ицкоатль"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f69a9ddb-ef5e-4169-9f4a-22dfff08cccf"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какое королевство в Западной Африке было знаменито своим богатством и хадшем своего правителя Мансы Мусы?",
+    "correct_answer": "Империя Мали",
+    "choices": [
+      "Империя Мали",
+      "Империя Канем",
+      "Империя Гана",
+      "Империя Сонгай"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "097e7685-4b98-4c0e-9f4e-cf76b8e48ce6"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как назывался специальный суд, учрежденный католической церковью для искоренения ереси?",
+    "correct_answer": "Инквизиция",
+    "choices": [
+      "Совет",
+      "Синод",
+      "Трибунал",
+      "Инквизиция"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5020de66-5378-481d-93f6-7f76ba8ac34f"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какого английского короля его мятежные бароны вынудили подписать Великую хартию вольностей?",
+    "correct_answer": "Король Иоанн",
+    "choices": [
+      "Ричард Львиное Сердце",
+      "Эдуард II",
+      "Генрих III",
+      "Король Иоанн"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c91c2e5c-b5ae-4763-8574-075ccbb1174d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какова была основная цель средневекового монастыря?",
+    "correct_answer": "Место для жизни монахов в религиозном уединении",
+    "choices": [
+      "Королевская резиденция",
+      "Военная крепость",
+      "Место для жизни монахов в религиозном уединении",
+      "Рынок и торговый центр"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "63b3e408-a22b-49f0-a5f1-fa969d51b71e"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой город был разграблен Четвертым крестовым походом в 1204 году вместо Иерусалима?",
+    "correct_answer": "Константинополь",
+    "choices": [
+      "Дамаск",
+      "Александрия",
+      "Константинополь",
+      "Антиохия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b9e3f29b-ccdc-4257-804f-97fae481d69b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Как называлась знаменитая цитадель инков высоко в Андах?",
+    "correct_answer": "Мачу-Пикчу",
+    "choices": [
+      "Куско",
+      "Ольянтайтамбо",
+      "Саксайуаман",
+      "Мачу-Пикчу"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5e33798d-aff6-4ecf-9121-436a39960827"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Кто короновал Карла Великого императором Священной Римской империи в 800 году н.э.?",
+    "correct_answer": "Папа Лев III",
+    "choices": [
+      "Папа Григорий VII",
+      "Папа Лев III",
+      "Папа Иннокентий III",
+      "Папа Урбан II"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b822568f-24f6-4f1b-808d-a984a23fa15a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Как назывался длинный узкий боевой корабль викингов?",
+    "correct_answer": "Драккар",
+    "choices": [
+      "Когг",
+      "Каравелла",
+      "Галера",
+      "Драккар"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "92dd7375-65e7-4fd3-90df-2b27753cf72b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какая династия правила Китаем в его золотой век эпохи Тан?",
+    "correct_answer": "Династия Тан",
+    "choices": [
+      "Династия Тан",
+      "Династия Сун",
+      "Династия Юань",
+      "Династия Мин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4430989a-77d4-4b29-bcb2-c37e058f41dd"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как называлась практика предоставления земли в обмен на военную службу?",
+    "correct_answer": "Феодальное держание",
+    "choices": [
+      "Бенефиций",
+      "Фьеф",
+      "Феодальное держание",
+      "Крепостничество"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "92ef4d28-995e-452e-81db-71f13cb3b7e1"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой нормандский король заказал «Книгу Судного дня»?",
+    "correct_answer": "Вильгельм Завоеватель",
+    "choices": [
+      "Генрих I",
+      "Гарольд Годвинсон",
+      "Эдуард Исповедник",
+      "Вильгельм Завоеватель"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8a99c2c5-e082-47c3-ba4a-e32a60c15b39"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как назывался знаменитый университет, основанный в Болонье в 1088 году?",
+    "correct_answer": "Болонский университет",
+    "choices": [
+      "Парижский университет",
+      "Салернский университет",
+      "Болонский университет",
+      "Оксфордский университет"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1901c455-fbb1-4381-9073-269233f52807"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какой монгольский полководец разграбил Багдад в 1258 году, положив конец исламскому золотому веку?",
+    "correct_answer": "Хулагу-хан",
+    "choices": [
+      "Хулагу-хан",
+      "Субэдэй",
+      "Чингисхан",
+      "Тамерлан"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "ca8eb80c-c61c-45bb-ab8b-bda9bc97ee77"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как назывались ацтекские плавучие сады, использовавшиеся для сельского хозяйства?",
+    "correct_answer": "Чинампы",
+    "choices": [
+      "Террасы",
+      "Милпас",
+      "Чинампы",
+      "Уэртас"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b87134e2-80d1-4e95-9bbc-86deff4e29a1"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой английский король умер от стрелы, попавшей в глаз, в битве при Гастингсе?",
+    "correct_answer": "Гарольд Годвинсон",
+    "choices": [
+      "Эдуард Исповедник",
+      "Вильгельм Завоеватель",
+      "Харальд Суровый",
+      "Гарольд Годвинсон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b0710b73-ef6d-4856-90f8-e3c38fe2398d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как называлось религиозное движение, стремившееся реформировать католическую церковь начиная с 14 века?",
+    "correct_answer": "Лоллардское движение",
+    "choices": [
+      "Великий раскол",
+      "Гуситское движение",
+      "Реформация",
+      "Лоллардское движение"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e665273c-c0b8-4b0d-b004-e0307e3f47cc"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какой викингский вождь основал поселение Дублин в 841 году н.э.?",
+    "correct_answer": "Тургейс",
+    "choices": [
+      "Олаф Трюггвасон",
+      "Тургейс",
+      "Ивар Бескостный",
+      "Свен Вилобородый"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3397a741-2703-46ae-819c-592ab8aa70be"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какое сооружение было построено для защиты Китая от северных захватчиков и позже стало главной туристической достопримечательностью?",
+    "correct_answer": "Великая Китайская стена",
+    "choices": [
+      "Великая Китайская стена",
+      "Гробницы Мин",
+      "Запретный город",
+      "Храм Неба"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "dcb2a39d-3c9a-4a09-bdb9-96b29aec7106"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какая средневековая королева правила графством Пуату и герцогством Аквитания?",
+    "correct_answer": "Алиенора Аквитанская",
+    "choices": [
+      "Изабелла Французская",
+      "Бланка Кастильская",
+      "Матильда Английская",
+      "Алиенора Аквитанская"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c5ad07de-2191-47d9-92c1-4731e7b43260"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как называлась книга, которая записывала всю собственность и землю в Англии для налоговых целей?",
+    "correct_answer": "Книга Судного дня",
+    "choices": [
+      "Великая хартия вольностей",
+      "Кентерберийские рассказы",
+      "Книга Судного дня",
+      "Англосаксонская хроника"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "72b140bc-97d1-44b7-b043-0e7530b82fd6"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какой средневековый исследователь путешествовал по Африке и Азии, посетив более 40 современных стран?",
+    "correct_answer": "Ибн Баттута",
+    "choices": [
+      "Чжэн Хэ",
+      "Марко Поло",
+      "Ибн Баттута",
+      "Васко да Гама"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e0da2255-ec0c-42a9-8da8-b7552b358ad0"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какая болезнь ассоциируется с Черной смертью?",
+    "correct_answer": "Бубонная чума",
+    "choices": [
+      "Холера",
+      "Оспа",
+      "Тиф",
+      "Бубонная чума"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c4c76127-fd01-46e7-b3f7-a1cb2c32c145"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году Христофор Колумб впервые достиг Америки?",
+    "correct_answer": "1492",
+    "choices": [
+      "1501",
+      "1492",
+      "1476",
+      "1488"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "2575f741-1593-403f-a9e6-bad238ba6bf6"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой монарх был казнён во время Французской революции?",
+    "correct_answer": "Людовик XVI",
+    "choices": [
+      "Мария-Антуанетта",
+      "Людовик XVI",
+      "Карл X",
+      "Наполеон Бонапарт"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "98a41c1d-bff7-4819-bd8e-a2807c992f92"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какое изобретение считается началом Промышленной революции?",
+    "correct_answer": "Паровой двигатель",
+    "choices": [
+      "Механический ткацкий станок",
+      "Паровой двигатель",
+      "Прялка \"Дженни\"",
+      "Хлопкоочистительная машина"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "da678e67-fecb-4e24-ad8b-3554dceea6cf"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой учёный предложил гелиоцентрическую модель Солнечной системы?",
+    "correct_answer": "Николай Коперник",
+    "choices": [
+      "Исаак Ньютон",
+      "Иоганн Кеплер",
+      "Николай Коперник",
+      "Галилео Галилей"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9a64e713-bbfb-415f-ab64-a33115ccac2c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какое событие считается началом Первой мировой войны?",
+    "correct_answer": "Убийство эрцгерцога Франца Фердинанда",
+    "choices": [
+      "Битва на Марне",
+      "Вторжение Германии в Польшу",
+      "Убийство эрцгерцога Франца Фердинанда",
+      "Потопление «Лузитании»"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "520a16c0-317f-4a9e-96ea-a35151c9d640"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой договор завершил Первую мировую войну?",
+    "correct_answer": "Версальский договор",
+    "choices": [
+      "Брест-Литовский договор",
+      "Парижский договор",
+      "Версальский договор",
+      "Гентский договор"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9b0c5ea9-335b-4489-a199-4d90f0f531b0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какая страна сбросила первую атомную бомбу в военное время?",
+    "correct_answer": "Соединённые Штаты",
+    "choices": [
+      "Соединённые Штаты",
+      "Германия",
+      "Великобритания",
+      "Советский Союз"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a1528cf9-92cd-41f6-9b46-bd0b8ff901e2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году пала Берлинская стена?",
+    "correct_answer": "1989",
+    "choices": [
+      "1991",
+      "1989",
+      "1987",
+      "1985"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0684df41-1a8c-461f-b449-ed8bff6c19da"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто был первым человеком, совершившим полёт в космос?",
+    "correct_answer": "Юрий Гагарин",
+    "choices": [
+      "Джон Гленн",
+      "Базз Олдрин",
+      "Юрий Гагарин",
+      "Нил Армстронг"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "23947243-db2d-4f53-aecc-ea22f56d2f44"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой исследователь совершил первое кругосветное плавание?",
+    "correct_answer": "Фердинанд Магеллан",
+    "choices": [
+      "Христофор Колумб",
+      "Васко да Гама",
+      "Джеймс Кук",
+      "Фердинанд Магеллан"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "893637d5-bca2-4a60-a941-637696fe899d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как называлась первая пилотируемая миссия по высадке на Луну?",
+    "correct_answer": "Аполлон-11",
+    "choices": [
+      "Аполлон-8",
+      "Аполлон-13",
+      "Аполлон-10",
+      "Аполлон-11"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "02c2f34b-cf03-4f72-b86b-2e2f965ba4ad"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какой философ Просвещения выступал за разделение властей в правительстве?",
+    "correct_answer": "Монтескьё",
+    "choices": [
+      "Джон Локк",
+      "Жан-Жак Руссо",
+      "Вольтер",
+      "Монтескьё"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3688c26f-e576-436b-b69e-45ac4642cdc0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какова была основная цель плана Маршалла?",
+    "correct_answer": "Восстановление экономики Западной Европы после Второй мировой войны",
+    "choices": [
+      "Финансирование вторжения союзников в Нормандию",
+      "Предоставление кредитов Советскому Союзу",
+      "Восстановление экономики Западной Европы после Второй мировой войны",
+      "Сдерживание распространения коммунизма в Азии"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "99a99a2d-140e-4593-8ce9-2b9d5eaa2801"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как называлась советская политика экономической перестройки в 1980-х годах?",
+    "correct_answer": "Перестройка",
+    "choices": [
+      "Гласность",
+      "Разрядка",
+      "Перестройка",
+      "Коллективизация"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a10274da-3c86-4705-84e6-eba5694072f9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой город был разделён стеной во время Холодной войны?",
+    "correct_answer": "Берлин",
+    "choices": [
+      "Прага",
+      "Будапешт",
+      "Вена",
+      "Берлин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "90812a5b-1bb1-42b9-8677-7c2e3a177f27"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто был лидером большевистской революции 1917 года?",
+    "correct_answer": "Владимир Ленин",
+    "choices": [
+      "Лев Троцкий",
+      "Владимир Ленин",
+      "Иосиф Сталин",
+      "Карл Маркс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "be17f228-81a5-4164-a638-3bb126d2d722"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году закончилась Вторая мировая война?",
+    "correct_answer": "1945",
+    "choices": [
+      "1944",
+      "1946",
+      "1943",
+      "1945"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "af1c48bc-5f8f-4e5f-a829-9b5d68e13e67"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой художник эпохи Возрождения расписал потолок Сикстинской капеллы?",
+    "correct_answer": "Микеланджело",
+    "choices": [
+      "Леонардо да Винчи",
+      "Донателло",
+      "Рафаэль",
+      "Микеланджело"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6c278572-7ef7-4692-9c2b-7cc971288ae3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как назывался первый искусственный спутник, запущенный в космос?",
+    "correct_answer": "Спутник-1",
+    "choices": [
+      "Спутник-2",
+      "Спутник-1",
+      "Explorer 1",
+      "Vanguard 1"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "fd84e1d5-c93a-46b0-b6f2-4d2fe64ff85a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какая европейская страна колонизировала Бразилию?",
+    "correct_answer": "Португалия",
+    "choices": [
+      "Испания",
+      "Португалия",
+      "Франция",
+      "Англия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "dd0cad7d-9a85-46ee-b331-2be180df4da5"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Что такое Манхэттенский проект?",
+    "correct_answer": "Разработка первого ядерного оружия",
+    "choices": [
+      "Секретная программа по взлому кодов в Блетчли-парке",
+      "Разработка первого ядерного оружия",
+      "Строительство первой трансконтинентальной железной дороги",
+      "Вторжение союзников в Нормандию"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "17718c87-b011-48e1-a337-703d505e7a50"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какая страна подарила Статую Свободы Соединённым Штатам?",
+    "correct_answer": "Франция",
+    "choices": [
+      "Англия",
+      "Германия",
+      "Испания",
+      "Франция"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f432220c-b6dc-45fa-9b26-94183e4b34b3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто разработал теорию эволюции путём естественного отбора?",
+    "correct_answer": "Чарльз Дарвин",
+    "choices": [
+      "Жан-Батист Ламарк",
+      "Альфред Рассел Уоллес",
+      "Грегор Мендель",
+      "Чарльз Дарвин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3c55af58-bd0c-40e1-93f6-8d475bbec3c4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как назывался кризис 1962 года, который едва не привёл к ядерной войне?",
+    "correct_answer": "Карибский кризис",
+    "choices": [
+      "Карибский кризис",
+      "Суэцкий кризис",
+      "Берлинская блокада",
+      "Корейская война"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a2313682-3d60-4f30-985a-4cd7fddc4778"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какая страна подписала пакт о ненападении с Германией в 1939 году, прежде чем была захвачена?",
+    "correct_answer": "Советский Союз",
+    "choices": [
+      "Советский Союз",
+      "Франция",
+      "Польша",
+      "Великобритания"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "22b76462-30df-4cdd-95dc-f8fe4773ff83"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какое знаковое дело Верховного суда 1973 года легализовало аборты в США?",
+    "correct_answer": "Роу против Уэйда",
+    "choices": [
+      "Браун против Совета по образованию",
+      "Миранда против Аризоны",
+      "Роу против Уэйда",
+      "Плесси против Фергюсона"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "ca675eac-0ca7-4e9f-8cb4-92bae651b8c7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Кто была первой женщиной, совершившей одиночный перелёт через Атлантический океан?",
+    "correct_answer": "Амелия Эрхарт",
+    "choices": [
+      "Харриет Квимби",
+      "Жаклин Кокран",
+      "Амелия Эрхарт",
+      "Бесси Коулман"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a2da2b86-728d-4d49-987c-bb865a39fdbe"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какая европейская страна первой установила морской путь в Индию?",
+    "correct_answer": "Португалия",
+    "choices": [
+      "Испания",
+      "Португалия",
+      "Нидерланды",
+      "Англия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c0e6e662-f0f8-4b94-ad5d-5223c2f41833"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "В каком году Великобритания вступила в Европейское экономическое сообщество?",
+    "correct_answer": "1973",
+    "choices": [
+      "1957",
+      "1964",
+      "1973",
+      "1981"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "2895c22a-cc51-41e4-b329-8dd48602a9f4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто стала первой женщиной-премьер-министром Великобритании?",
+    "correct_answer": "Маргарет Тэтчер",
+    "choices": [
+      "Индира Ганди",
+      "Тереза Мэй",
+      "Ангела Меркель",
+      "Маргарет Тэтчер"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0253be6f-5b7e-448c-acee-a8949cfe35e3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какая битва считается переломным моментом Второй мировой войны в Европе?",
+    "correct_answer": "Сталинградская битва",
+    "choices": [
+      "Битва при Арденнах",
+      "День Д",
+      "Битва за Британию",
+      "Сталинградская битва"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "70cb0bf2-fa1a-41ba-ba53-3d18c282a22e"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какова была основная причина Тридцатилетней войны?",
+    "correct_answer": "Религиозный конфликт между католиками и протестантами",
+    "choices": [
+      "Торговые соперничества между Англией и Испанией",
+      "Кризис престолонаследия в Священной Римской империи",
+      "Религиозный конфликт между католиками и протестантами",
+      "Территориальные споры за Эльзас-Лотарингию"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "431ce107-ff9a-4639-8815-887cde6ec682"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто изобрёл печатный станок около 1440 года?",
+    "correct_answer": "Иоганн Гутенберг",
+    "choices": [
+      "Альд Мануций",
+      "Альбрехт Дюрер",
+      "Уильям Кэкстон",
+      "Иоганн Гутенберг"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e559ffb5-8dba-43cd-8aec-181542ad762c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какую империю называли «больным человеком Европы» перед Первой мировой войной?",
+    "correct_answer": "Османская империя",
+    "choices": [
+      "Российская империя",
+      "Византийская империя",
+      "Австро-Венгерская империя",
+      "Османская империя"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "de9754b4-f4d7-4e30-8a64-ea71ffe78e53"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как назывался британский океанский лайнер, потопленный немецкой подводной лодкой в 1915 году?",
+    "correct_answer": "RMS Lusitania",
+    "choices": [
+      "RMS Titanic",
+      "HMS Dreadnought",
+      "RMS Lusitania",
+      "RMS Mauretania"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "ecda4d5f-8e9b-4ae5-9ad3-c065de0875f7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какая страна была разделена на Север и Юг после Второй мировой войны?",
+    "correct_answer": "Корея",
+    "choices": [
+      "Германия",
+      "Китай",
+      "Вьетнам",
+      "Корея"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1127eb29-27fe-4df4-a834-7469351e8e3e"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Кто был последним императором Китая?",
+    "correct_answer": "Пу И",
+    "choices": [
+      "Чан Кайши",
+      "Мао Цзэдун",
+      "Пу И",
+      "Сунь Ятсен"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "77fdd450-ed6d-46c2-b68c-69eadd2dd873"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Как называлась сеть безопасных домов, использовавшаяся для помощи рабам, бежавшим с Юга США?",
+    "correct_answer": "Подземная железная дорога",
+    "choices": [
+      "Тропа свободы",
+      "Линия свободы",
+      "Подземная железная дорога",
+      "Северный проход"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "2a3828f8-8833-4bd6-a3c7-e5be64c53c99"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какой философ написал «Общественный договор»?",
+    "correct_answer": "Жан-Жак Руссо",
+    "choices": [
+      "Джон Локк",
+      "Томас Гоббс",
+      "Вольтер",
+      "Жан-Жак Руссо"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0843c441-6205-44e0-94d3-2566f5fd8596"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году произошла Чернобыльская ядерная катастрофа?",
+    "correct_answer": "1986",
+    "choices": [
+      "1989",
+      "1984",
+      "1982",
+      "1986"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5d38718b-3aed-4351-b266-b7e86802d410"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какое изобретение приписывается Александру Грэму Беллу?",
+    "correct_answer": "Телефон",
+    "choices": [
+      "Лампочка",
+      "Телеграф",
+      "Радио",
+      "Телефон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "064e7f10-4091-4839-9a0c-477de2e7cadb"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Что такое «Гонка за Африку»?",
+    "correct_answer": "Колонизация и раздел Африки европейскими державами",
+    "choices": [
+      "Гонка за поиском истока Нила",
+      "Колонизация и раздел Африки европейскими державами",
+      "Золотая лихорадка в Южной Африке",
+      "Конкуренция за африканские ресурсы во время Второй мировой войны"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0e1c4063-587f-4310-949d-3f520d953129"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто возглавлял ненасильственное движение за независимость Индии?",
+    "correct_answer": "Махатма Ганди",
+    "choices": [
+      "Рабиндранат Тагор",
+      "Субхас Чандра Бос",
+      "Джавахарлал Неру",
+      "Махатма Ганди"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4c15af10-cc2b-40a3-bda0-200ef506032c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какая страна первой предоставила женщинам право голоса?",
+    "correct_answer": "Новая Зеландия",
+    "choices": [
+      "Новая Зеландия",
+      "Соединённые Штаты",
+      "Австралия",
+      "Финляндия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8a005ec2-9fe5-4c43-a148-1fedf11aff64"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как называлась американская программа поставок в Берлин во время советской блокады?",
+    "correct_answer": "Берлинский воздушный мост",
+    "choices": [
+      "Операция «Оверлорд»",
+      "Берлинский воздушный мост",
+      "План Маршалла",
+      "Операция «Барбаросса»"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5a6159b6-c645-48e4-b5cd-2be530051631"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какая европейская страна разделила Польшу с Германией в 1939 году?",
+    "correct_answer": "Советский Союз",
+    "choices": [
+      "Советский Союз",
+      "Франция",
+      "Австрия",
+      "Италия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d5944b2a-5d53-4dbc-a27d-7060bd90d70f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто открыл пенициллин?",
+    "correct_answer": "Александр Флеминг",
+    "choices": [
+      "Александр Флеминг",
+      "Джозеф Листер",
+      "Луи Пастер",
+      "Роберт Кох"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0194838d-7fb2-498a-9ad1-5367b721afa9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году был основан Европейский союз по Маастрихтскому договору?",
+    "correct_answer": "1993",
+    "choices": [
+      "1993",
+      "1991",
+      "1995",
+      "1989"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6988161c-ee17-47e1-95f2-5f63c8447a28"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какой итальянский исследователь плавал за Англию и объявил Ньюфаундленд владением Англии?",
+    "correct_answer": "Джон Кабот",
+    "choices": [
+      "Джованни да Верраццано",
+      "Америго Веспуччи",
+      "Генри Гудзон",
+      "Джон Кабот"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "746b75e1-aa97-48f7-b877-ae9589c8b811"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какое было кодовое название вторжения союзников в Нормандию?",
+    "correct_answer": "Операция «Оверлорд»",
+    "choices": [
+      "Операция «Торч»",
+      "Операция «Оверлорд»",
+      "Операция «Маркет Гарден»",
+      "Операция «Барбаросса»"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b1358ca4-3ca8-4be0-a7d6-a7e183084c2f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Кто был первым демократически избранным президентом России?",
+    "correct_answer": "Борис Ельцин",
+    "choices": [
+      "Владимир Путин",
+      "Борис Ельцин",
+      "Дмитрий Медведев",
+      "Михаил Горбачев"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "951a916d-b4fa-48a0-a585-c778187edc0e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "В каком году была подписана Декларация независимости?",
+    "correct_answer": "1776",
+    "choices": [
+      "1776",
+      "1775",
+      "1781",
+      "1783"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "883cb6af-29ea-4526-9d3a-f013814c5da7"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Кто был первым президентом Соединенных Штатов?",
+    "correct_answer": "Джордж Вашингтон",
+    "choices": [
+      "Бенджамин Франклин",
+      "Джордж Вашингтон",
+      "Джон Адамс",
+      "Томас Джефферсон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6eb4cbf4-1710-4684-982e-4d1b6e6082a4"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какая война велась между Севером и Югом в Соединенных Штатах?",
+    "correct_answer": "Гражданская война",
+    "choices": [
+      "Война 1812 года",
+      "Американо-мексиканская война",
+      "Гражданская война",
+      "Война за независимость"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e6c8e059-53af-483b-9b01-0794e3caab7a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Кто написал Прокламацию об освобождении?",
+    "correct_answer": "Авраам Линкольн",
+    "choices": [
+      "Эндрю Джонсон",
+      "Авраам Линкольн",
+      "Фредерик Дуглас",
+      "Улисс С. Грант"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "65296004-ad8f-49f5-a76b-b5e83d550b5a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "От какой страны Соединенные Штаты получили независимость?",
+    "correct_answer": "Великобритания",
+    "choices": [
+      "Франция",
+      "Нидерланды",
+      "Испания",
+      "Великобритания"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "39a3af59-7f7b-42a4-9b9a-917450f2d409"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какой последний штат присоединился к Соединенным Штатам?",
+    "correct_answer": "Гавайи",
+    "choices": [
+      "Аризона",
+      "Нью-Мексико",
+      "Аляска",
+      "Гавайи"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a1eead68-8064-44e7-9b8b-6913f19fbec5"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Кто был основным автором Декларации независимости?",
+    "correct_answer": "Томас Джефферсон",
+    "choices": [
+      "Томас Джефферсон",
+      "Джеймс Мэдисон",
+      "Бенджамин Франклин",
+      "Джон Адамс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b5ca3fee-0fa1-4e13-ba7b-f56221743638"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "В каком году началась Гражданская война в США?",
+    "correct_answer": "1861",
+    "choices": [
+      "1859",
+      "1861",
+      "1863",
+      "1860"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9d9d27f4-04ca-4b65-b08e-ab90c9d618f9"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какая поправка к Конституции США отменила рабство?",
+    "correct_answer": "13-я поправка",
+    "choices": [
+      "15-я поправка",
+      "12-я поправка",
+      "13-я поправка",
+      "14-я поправка"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f8406b74-e458-4364-97fc-a95253f68f0e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Кто сказал: «Дайте мне свободу или смерть!»?",
+    "correct_answer": "Патрик Генри",
+    "choices": [
+      "Сэмюэл Адамс",
+      "Патрик Генри",
+      "Томас Пейн",
+      "Джон Хэнкок"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3417ac5b-0995-48c7-96f2-e286bf95cbb9"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какое событие положило начало Великой депрессии?",
+    "correct_answer": "Биржевой крах 1929 года",
+    "choices": [
+      "Закон Смута-Хоули о тарифах",
+      "Пыльный котел",
+      "Биржевой крах 1929 года",
+      "Банкротство Банка Соединенных Штатов"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4453486f-92b8-4649-a29b-ce684c53f238"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Кто был лидером движения за гражданские права, известным речью «У меня есть мечта»?",
+    "correct_answer": "Мартин Лютер Кинг мл.",
+    "choices": [
+      "Мартин Лютер Кинг мл.",
+      "Малкольм Икс",
+      "Роза Паркс",
+      "Фредерик Дуглас"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "739abac5-36cb-4fa7-8c16-5e3fa85c9307"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какой акт неповиновения Розы Паркс спровоцировал автобусный бойкот в Монтгомери?",
+    "correct_answer": "Отказ уступить место в автобусе белому пассажиру",
+    "choices": [
+      "Отказ уступить место в автобусе белому пассажиру",
+      "Отказ платить избирательный налог",
+      "Организация сидячей забастовки в сегрегированном кафе",
+      "Руководство маршем на Вашингтон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1004b588-c27a-416c-ad8c-c6a41d2beaff"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Как называлось первое постоянное английское поселение в Америке?",
+    "correct_answer": "Джеймстаун",
+    "choices": [
+      "Роанок",
+      "Сент-Огастин",
+      "Плимут",
+      "Джеймстаун"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "64b93f74-f8fb-406a-b363-6b7454ce7d4e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Кто был президентом Соединенных Штатов во время Первой мировой войны?",
+    "correct_answer": "Вудро Вильсон",
+    "choices": [
+      "Вудро Вильсон",
+      "Теодор Рузвельт",
+      "Уоррен Г. Хардинг",
+      "Уильям Говард Тафт"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "765394f5-253f-4c68-b97f-dd0dd988898d"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какой крупный строительный проект соединил Атлантический и Тихий океаны?",
+    "correct_answer": "Панамский канал",
+    "choices": [
+      "Плотина Гувера",
+      "Канал Эри",
+      "Панамский канал",
+      "Трансконтинентальная железная дорога"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6478ba33-9dab-419c-9fcd-5246cdde7c2d"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какой президент издал Прокламацию об освобождении?",
+    "correct_answer": "Авраам Линкольн",
+    "choices": [
+      "Эндрю Джонсон",
+      "Авраам Линкольн",
+      "Улисс С. Грант",
+      "Джеймс Бьюкенен"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f08d5bae-90ce-480a-ac16-9b48b6786a85"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Как назывался корабль, доставивший пилигримов в Америку?",
+    "correct_answer": "Мэйфлауэр",
+    "choices": [
+      "Сьюзан Констант",
+      "Мэйфлауэр",
+      "Санта-Мария",
+      "Спидвелл"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5ef26a4d-5bdb-4d32-a4c3-dfd2c0c88b77"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Кто был единственным президентом, ушедшим в отставку?",
+    "correct_answer": "Ричард Никсон",
+    "choices": [
+      "Ричард Никсон",
+      "Эндрю Джонсон",
+      "Уоррен Г. Хардинг",
+      "Билл Клинтон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "ae088f76-0bd6-4798-9f84-aa83d13ad76e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Какое решение Верховного суда признало расовую сегрегацию конституционной?",
+    "correct_answer": "Плесси против Фергюсона",
+    "choices": [
+      "Дред Скотт против Сэндфорда",
+      "Марбери против Мэдисона",
+      "Плесси против Фергюсона",
+      "Браун против Совета по образованию"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "79b50a02-2fb3-44ec-aec4-901b8f0e7f3e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какое сражение считается переломным моментом Гражданской войны в США?",
+    "correct_answer": "Битва при Геттисберге",
+    "choices": [
+      "Битва при Энтитеме",
+      "Битва при Геттисберге",
+      "Битва при Булл-Ран",
+      "Битва при Шайло"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "120c075b-2ea3-4456-b235-cc609264b660"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Как называлась программа США по отправке астронавтов на Луну?",
+    "correct_answer": "Программа «Аполлон»",
+    "choices": [
+      "Программа «Джемини»",
+      "Программа «Спейс Шаттл»",
+      "Программа «Аполлон»",
+      "Программа «Меркурий»"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "ca3c458f-431b-4028-85be-a51ec90e7158"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Кто была первой женщиной, назначенной в Верховный суд США?",
+    "correct_answer": "Сандра Дэй О'Коннор",
+    "choices": [
+      "Елена Каган",
+      "Сандра Дэй О'Коннор",
+      "Соня Сотомайор",
+      "Рут Бейдер Гинзбург"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f19ca83a-ae37-4f92-9a1a-b918539e6a99"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "В каком году Соединенные Штаты вступили во Вторую мировую войну?",
+    "correct_answer": "1941",
+    "choices": [
+      "1940",
+      "1939",
+      "1941",
+      "1942"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5358a4cf-ee9f-4fdc-975f-c5cb36b3b4db"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какой президент был убит в театре Форда?",
+    "correct_answer": "Авраам Линкольн",
+    "choices": [
+      "Авраам Линкольн",
+      "Джеймс А. Гарфилд",
+      "Уильям Мак-Кинли",
+      "Джон Ф. Кеннеди"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d1a3b67c-ced4-4337-84c0-76d644bbaca6"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Как назывались террористические акты 11 сентября 2001 года?",
+    "correct_answer": "Атаки 11 сентября",
+    "choices": [
+      "Взрыв в Оклахома-Сити",
+      "Атаки 11 сентября",
+      "Взрыв Всемирного торгового центра",
+      "Взрыв на Бостонском марафоне"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1b11d1f0-7f59-4dca-8c2a-b9c1062a0159"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Кто был командующим Континентальной армии?",
+    "correct_answer": "Джордж Вашингтон",
+    "choices": [
+      "Джордж Вашингтон",
+      "Томас Джефферсон",
+      "Бенджамин Франклин",
+      "Джон Адамс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d2ee61a0-0151-45a2-bd9b-3a5e5eab39af"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какая покупка удвоила размер Соединенных Штатов в 1803 году?",
+    "correct_answer": "Луизианская покупка",
+    "choices": [
+      "Покупка Аляски",
+      "Мексиканская уступка",
+      "Покупка Гадсдена",
+      "Луизианская покупка"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4d0719ae-4d6e-4d1b-bfe5-c000d34e332c"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Кто руководил знаменитым «Маршем к морю» во время Гражданской войны?",
+    "correct_answer": "Уильям Текумсе Шерман",
+    "choices": [
+      "Уильям Текумсе Шерман",
+      "Улисс С. Грант",
+      "Роберт Э. Ли",
+      "Стоунволл Джексон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "34180f52-6fcc-479e-a404-1650dc059484"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "В каком году женщины получили право голоса в Соединенных Штатах?",
+    "correct_answer": "1920",
+    "choices": [
+      "1918",
+      "1920",
+      "1922",
+      "1916"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "de73874b-43a5-4b34-8037-0031ab457071"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какой президент известен программой «Новый курс»?",
+    "correct_answer": "Франклин Д. Рузвельт",
+    "choices": [
+      "Гарри С. Трумэн",
+      "Герберт Гувер",
+      "Теодор Рузвельт",
+      "Франклин Д. Рузвельт"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "75316659-7d13-4385-b211-e74254e98cfb"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Как назывался секретный проект США по созданию атомной бомбы?",
+    "correct_answer": "Манхэттенский проект",
+    "choices": [
+      "Операция «Оверлорд»",
+      "Манхэттенский проект",
+      "План Маршалла",
+      "Программа «Аполлон»"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b21dc8cd-b87b-4a84-863e-aaf3a9fd3677"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Кто был первым афроамериканцем, поступившим в чисто белую школу на юге США?",
+    "correct_answer": "Руби Бриджес",
+    "choices": [
+      "Линда Браун",
+      "Клодетт Колвин",
+      "Руби Бриджес",
+      "Дороти Каунтс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b8dc5de8-b5ae-4c78-bd9e-43d35504ce6b"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какая конституционная поправка гарантирует право на ношение оружия?",
+    "correct_answer": "Вторая поправка",
+    "choices": [
+      "Четвертая поправка",
+      "Первая поправка",
+      "Пятая поправка",
+      "Вторая поправка"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3246b884-0b6e-4bab-bae6-e4901b2d4169"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Какой форт в Южной Каролине был местом первого сражения Гражданской войны?",
+    "correct_answer": "Форт Самтер",
+    "choices": [
+      "Форт Самтер",
+      "Форт Мак-Генри",
+      "Форт Тикондерога",
+      "Форт Нокс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "13005543-4a62-48eb-ae3e-6668e5f3c2f8"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Кто изобрел хлопкоочистительную машину?",
+    "correct_answer": "Эли Уитни",
+    "choices": [
+      "Сайрус Маккормик",
+      "Эли Уитни",
+      "Сэмюэл Слейтер",
+      "Джон Дир"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "da76c9db-9572-429a-a979-5820f8c4778a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Что такое Эра добрых чувств в истории США?",
+    "correct_answer": "Период национального единства после войны 1812 года",
+    "choices": [
+      "Период национального единства после войны 1812 года",
+      "Период быстрого расширения на запад",
+      "Экономический бум «ревущих двадцатых»",
+      "Период реконструкции после Гражданской войны"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4029489d-f9ac-41c3-b4db-bddbe8143a18"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Какой президент пробыл на посту самый короткий срок?",
+    "correct_answer": "Уильям Генри Гаррисон",
+    "choices": [
+      "Джеймс А. Гарфилд",
+      "Джон Ф. Кеннеди",
+      "Уильям Генри Гаррисон",
+      "Закари Тейлор"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "774ed917-feb1-4648-be34-7cf402db4bb3"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какой документ является верховным законом Соединенных Штатов?",
+    "correct_answer": "Конституция США",
+    "choices": [
+      "Конституция США",
+      "Билль о правах",
+      "Статьи Конфедерации",
+      "Декларация независимости"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "cb62b3d2-3303-4688-9f8f-ccf0144b4c4e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какое индейское племя было вынуждено пройти «Дорогой слез»?",
+    "correct_answer": "Чероки",
+    "choices": [
+      "Апачи",
+      "Сиу",
+      "Чероки",
+      "Ирокезы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8e75f6e2-2eb0-404c-a45f-b04cc4b624d2"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Кто был президентом США во время Карибского кризиса?",
+    "correct_answer": "Джон Ф. Кеннеди",
+    "choices": [
+      "Ричард Никсон",
+      "Линдон Б. Джонсон",
+      "Джон Ф. Кеннеди",
+      "Дуайт Д. Эйзенхауэр"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "26112d5d-4b48-4068-a5cf-bdeb2c9fc8ba"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Как называлась первая успешная английская колония в Америке?",
+    "correct_answer": "Джеймстаун",
+    "choices": [
+      "Плимут",
+      "Уильямсберг",
+      "Роанок",
+      "Джеймстаун"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d859aa2e-0a52-4839-ba7a-3d18afec9f31"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какова была основная цель экспедиции Льюиса и Кларка?",
+    "correct_answer": "Исследовать Луизианскую покупку",
+    "choices": [
+      "Найти северо-западный проход в Азию",
+      "Установить торговые пути с индейцами",
+      "Исследовать Луизианскую покупку",
+      "Нанести на карту Скалистые горы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6d6b7e27-d2d6-45a4-b87e-c85297d0712f"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Какой штат США был изначально куплен у России?",
+    "correct_answer": "Аляска",
+    "choices": [
+      "Аляска",
+      "Калифорния",
+      "Гавайи",
+      "Флорида"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3ab28cfe-bfbc-4856-a351-832bca7a3a51"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Кто убил президента Авраама Линкольна?",
+    "correct_answer": "Джон Уилкс Бут",
+    "choices": [
+      "Леон Чолгош",
+      "Чарльз Гито",
+      "Ли Харви Освальд",
+      "Джон Уилкс Бут"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b07aabef-da04-4677-a2df-ef381c47a0f3"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "В каком году США сбросили атомные бомбы на Хиросиму и Нагасаки?",
+    "correct_answer": "1945",
+    "choices": [
+      "1945",
+      "1946",
+      "1944",
+      "1943"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "95d974fa-8e53-44b0-8cca-a1003dadeb22"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Кто был первым председателем Верховного суда США?",
+    "correct_answer": "Джон Джей",
+    "choices": [
+      "Джон Маршалл",
+      "Оливер Элсворт",
+      "Роджер Б. Тейни",
+      "Джон Джей"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "cecac859-cc7f-4179-84aa-48d3494d82fa"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Как называлась миграция 1849 года людей, ищущих золото в Калифорнии?",
+    "correct_answer": "Калифорнийская золотая лихорадка",
+    "choices": [
+      "Калифорнийская золотая лихорадка",
+      "Клондайкская золотая лихорадка",
+      "Экспансия на Запад",
+      "Великое переселение"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8ad68739-2fa7-4eda-b15f-d5c235baf4b1"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какая конституционная поправка дала женщинам право голоса?",
+    "correct_answer": "19-я поправка",
+    "choices": [
+      "18-я поправка",
+      "21-я поправка",
+      "19-я поправка",
+      "15-я поправка"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1ea55b3e-75a7-4a98-974b-b26fa8ad524a"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Кто был первым президентом США, жившим в Белом доме?",
+    "correct_answer": "Джон Адамс",
+    "choices": [
+      "Джон Адамс",
+      "Джеймс Мэдисон",
+      "Томас Джефферсон",
+      "Джордж Вашингтон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "148b68ab-8550-44f5-a68e-bb73d92e308e"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Какое событие побудило Соединенные Штаты вступить в Первую мировую войну?",
+    "correct_answer": "Неограниченная подводная война Германии",
+    "choices": [
+      "Потопление «Лузитании»",
+      "Телеграмма Циммермана",
+      "Убийство эрцгерцога Франца Фердинанда",
+      "Неограниченная подводная война Германии"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "2bbe3fc3-a945-4ad3-a49b-67e539060e48"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как долго коренные австралийцы населяют континент?",
+    "correct_answer": "Более 60 000 лет",
+    "choices": [
+      "Более 10 000 лет",
+      "Более 20 000 лет",
+      "Более 60 000 лет",
+      "Более 100 000 лет"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "29fbfcc5-3e69-4efe-893b-3307e4a9cfd8"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как называется концепция периода творения у аборигенов Австралии?",
+    "correct_answer": "Время снов",
+    "choices": [
+      "Песни троп",
+      "Великий дух",
+      "Эпоха предков",
+      "Время снов"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5188e5e0-72d5-468c-aaf7-4c12d0357cd9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Как называются традиционные песенные карты аборигенов по всей земле?",
+    "correct_answer": "Песни троп",
+    "choices": [
+      "Пути странствий",
+      "Песни троп",
+      "Следы снов",
+      "Духовные дороги"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0a825589-f704-4b3a-8e88-fb1024fe3b4b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году капитан Джеймс Кук высадился на восточном побережье Австралии?",
+    "correct_answer": "1770",
+    "choices": [
+      "1768",
+      "1770",
+      "1788",
+      "1778"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d210b58c-fd57-452d-9f86-10dd55a060b0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Как назывался корабль капитана Кука, достигший Австралии?",
+    "correct_answer": "HMS Endeavour",
+    "choices": [
+      "HMS Discovery",
+      "HMS Beagle",
+      "HMS Resolution",
+      "HMS Endeavour"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "66ad4de2-84da-4e75-9594-d578180eca26"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Где капитан Кук впервые высадился на австралийском континенте?",
+    "correct_answer": "Ботани-Бей",
+    "choices": [
+      "Порт-Филлип",
+      "Ботани-Бей",
+      "Кейп-Йорк",
+      "Сидней-Коув"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a61b1d87-2a52-4c29-b121-bd50862cb3e2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году Первый флот прибыл в Австралию для создания колонии каторжников?",
+    "correct_answer": "1788",
+    "choices": [
+      "1800",
+      "1770",
+      "1788",
+      "1790"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e15f386a-1cc0-440b-85d3-bb683f246650"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Кто командовал Первым флотом в Австралию?",
+    "correct_answer": "Капитан Артур Филлип",
+    "choices": [
+      "Капитан Артур Филлип",
+      "Капитан Джеймс Кук",
+      "Капитан Уильям Блай",
+      "Губернатор Лаклан Маккуори"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0cec2c46-08a6-4e6b-965a-dc480b00bb6b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Первый флот первоначально намеревался поселиться в Ботани-Бей, но переместился. Где они в итоге поселились?",
+    "correct_answer": "Сидней-Коув",
+    "choices": [
+      "Хобарт",
+      "Река Брисбен",
+      "Сидней-Коув",
+      "Порт-Филлип"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "08a204df-2615-416d-aed2-e611ddf9385a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Как назывался корабль, возглавлявший Первый флот?",
+    "correct_answer": "HMS Sirius",
+    "choices": [
+      "HMS Endeavour",
+      "HMS Sirius",
+      "HMS Victory",
+      "HMS Supply"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f8200aa1-4ecb-41c4-bf7f-6fdae0b485f1"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какой английский исследователь известен картографированием австралийского побережья после Кука?",
+    "correct_answer": "Мэтью Флиндерс",
+    "choices": [
+      "Джордж Басс",
+      "Уильям Блай",
+      "Джон Макдуалл Стюарт",
+      "Мэтью Флиндерс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "aec19969-1d58-4c69-973b-7d3ff91937a4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какое название трагически пытались пересечь исследователи Берк и Уиллс?",
+    "correct_answer": "Австралийский континент с юга на север",
+    "choices": [
+      "Австралийский континент с юга на север",
+      "Равнина Налларбор",
+      "Большой Водораздельный хребет",
+      "Пустыня Симпсон"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c83ed7df-53c6-4327-8e93-227b78b51e09"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году началась австралийская золотая лихорадка?",
+    "correct_answer": "1851",
+    "choices": [
+      "1854",
+      "1860",
+      "1849",
+      "1851"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "2ba67eb2-e74b-433c-88bc-20c85f9c1d09"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Где было первое крупное месторождение золота в Австралии, положившее начало золотой лихорадке?",
+    "correct_answer": "Батерст, Новый Южный Уэльс",
+    "choices": [
+      "Бендиго, Виктория",
+      "Балларат, Виктория",
+      "Батерст, Новый Южный Уэльс",
+      "Калгурли, Западная Австралия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "29847d35-eaa5-4f79-99df-e88aa11fbf01"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Что такое Эврика Стокейд?",
+    "correct_answer": "Восстание золотодобытчиков против колониальной власти",
+    "choices": [
+      "Форт для защиты перевозок золота",
+      "Восстание золотодобытчиков против колониальной власти",
+      "Тюрьма для каторжников",
+      "Торговый пост для золотодобытчиков"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1d917a79-5c59-4be4-9693-f0fffb1bd3a9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году произошло событие Эврика Стокейд?",
+    "correct_answer": "1854",
+    "choices": [
+      "1851",
+      "1860",
+      "1848",
+      "1854"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1d60d9cb-1290-45e1-adf8-58cb71641a11"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какой флаг развевался над шахтерами во время Эврика Стокейд?",
+    "correct_answer": "Флаг Эврики",
+    "choices": [
+      "Австралийский флаг",
+      "Флаг Южного Креста",
+      "Юнион Джек",
+      "Флаг Эврики"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "dfa38918-f3a5-46b7-bc85-f6aa7d9f146a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году шесть австралийских колоний объединились в Австралийский Союз?",
+    "correct_answer": "1901",
+    "choices": [
+      "1889",
+      "1910",
+      "1901",
+      "1891"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d26c73b8-9a38-4b3a-94a5-9aa632d41f64"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто был первым премьер-министром Австралии?",
+    "correct_answer": "Эдмунд Бартон",
+    "choices": [
+      "Джон Кертин",
+      "Эдмунд Бартон",
+      "Генри Паркс",
+      "Альфред Дикин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "08e96cba-5d64-4a76-897c-4fdd38f08559"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какого политика называют «Отцом федерации»?",
+    "correct_answer": "Генри Паркс",
+    "choices": [
+      "Эдмунд Бартон",
+      "Сэмюэль Гриффит",
+      "Альфред Дикин",
+      "Генри Паркс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "25cb9a12-e045-45e7-9e60-d173235ab972"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой город является столицей Австралии?",
+    "correct_answer": "Канберра",
+    "choices": [
+      "Канберра",
+      "Сидней",
+      "Мельбурн",
+      "Брисбен"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "64afb093-418e-42e3-b0d5-f24ebe0588d9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Конституция Австралии была принята каким актом британского парламента?",
+    "correct_answer": "Акт о Конституции Австралийского Союза 1900 года",
+    "choices": [
+      "Акт о действительности колониальных законов 1865 года",
+      "Вестминстерский статут 1931 года",
+      "Акт о Конституции Австралийского Союза 1900 года",
+      "Акт об Австралии 1986 года"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "28fb7162-1627-4f32-905f-0434671dab5e"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году австралийский флаг официально стал национальным флагом?",
+    "correct_answer": "1954",
+    "choices": [
+      "1934",
+      "1962",
+      "1901",
+      "1954"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c4692685-53bc-405f-a5db-e32741abd1d7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Что означает самая большая звезда на австралийском флаге?",
+    "correct_answer": "Звезда Федерации",
+    "choices": [
+      "Южный Крест",
+      "Звезда Союза",
+      "Звезда Федерации",
+      "Звезда Содружества"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "70fc4a17-d8ba-4113-a961-1476c49f0015"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Как звали печально известного разбойника, пойманного в Гленроуэне в 1880 году?",
+    "correct_answer": "Нед Келли",
+    "choices": [
+      "Нед Келли",
+      "Бен Холл",
+      "Дэн Морган",
+      "Капитан Тандерболт"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4c7ce2a9-d084-4ed6-9e9f-9fa9e11f9efa"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой отличительный предмет доспехов был известен Нед Келли?",
+    "correct_answer": "Самодельный железный шлем и нагрудник",
+    "choices": [
+      "Костюм из стальной кольчуги",
+      "Пуленепробиваемая кожаная куртка",
+      "Медная маска",
+      "Самодельный железный шлем и нагрудник"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b0bd2ebe-6f97-45d6-b69c-5787c5dbeb4d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Что знаменито сказал Нед Келли перед казнью?",
+    "correct_answer": "Такова жизнь",
+    "choices": [
+      "Игра окончена",
+      "Боже, прости меня",
+      "Я умираю за свой народ",
+      "Такова жизнь"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "477632e0-27ee-457b-b7c4-38480388189a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году австралийские и новозеландские войска высадились в Галлиполи?",
+    "correct_answer": "1915",
+    "choices": [
+      "1915",
+      "1917",
+      "1914",
+      "1916"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1e8b74b1-a56d-4746-96a6-c7dc1b4c47e2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура АНЗАК?",
+    "correct_answer": "Австралийский и Новозеландский армейский корпус",
+    "choices": [
+      "Союзный военно-морской и армейский корпус",
+      "Австралийский и Новозеландский армейский корпус",
+      "Австралийское и Новозеландское союзное командование",
+      "Австралийский национальный армейский корпус"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "75c37f0d-16b9-453a-a7ee-5976689639d9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "День АНЗАК отмечается каждый год в какую дату?",
+    "correct_answer": "25 апреля",
+    "choices": [
+      "4 июля",
+      "8 мая",
+      "11 ноября",
+      "25 апреля"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "7afc0605-bc2a-4917-b112-ed7ca99b24d4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Кто был австралийским генералом, командовавшим АНЗАК в Галлиполи?",
+    "correct_answer": "Сэр Уильям Бёрдвуд",
+    "choices": [
+      "Сэр Уильям Бёрдвуд",
+      "Сэр Джон Монаш",
+      "Сэр Томас Блейми",
+      "Сэр Генри Шовель"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "72dfa345-9c4d-42d3-bf59-1f3bd2e2c355"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Что такое Битва на трассе Кокода?",
+    "correct_answer": "Кампания Второй мировой войны в Папуа-Новой Гвинее против Японии",
+    "choices": [
+      "Сражение Англо-бурской войны в Южной Африке",
+      "Пограничный конфликт с коренными австралийцами",
+      "Битва Первой мировой войны во Франции",
+      "Кампания Второй мировой войны в Папуа-Новой Гвинее против Японии"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "079c5546-291f-41e0-93b8-0b008dfa64be"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году японские силы бомбили Дарвин во время Второй мировой войны?",
+    "correct_answer": "1942",
+    "choices": [
+      "1942",
+      "1944",
+      "1941",
+      "1943"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "2ad02aa5-bdf5-4142-870c-0cfcc9c15ba7"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какой премьер-министр Австралии знаменито заявил: «Мензиса запомнят, а меня забудут» после санкционирования бомбардировки Дарвина?",
+    "correct_answer": "Джон Кертин",
+    "choices": [
+      "Роберт Мензис",
+      "Артур Фадден",
+      "Бен Чифли",
+      "Джон Кертин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "093c04ce-63ed-4fb5-a0fb-366ae4d3cb2b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто считается величайшим игроком в крикет в истории Австралии?",
+    "correct_answer": "Сэр Дональд Брэдман",
+    "choices": [
+      "Стив Во",
+      "Сэр Дональд Брэдман",
+      "Шейн Уорн",
+      "Рики Понтинг"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c8df39c8-2f37-4f2a-8813-6e825f04ed2d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Каков был средний показатель Сэра Дональда Брэдмана в тестовом крикете?",
+    "correct_answer": "99,94",
+    "choices": [
+      "95,50",
+      "89,76",
+      "101,23",
+      "99,94"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "41517677-8c7a-4fdc-b29f-c1eee90210c3"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году Мельбурн принимал летние Олимпийские игры?",
+    "correct_answer": "1956",
+    "choices": [
+      "1964",
+      "1960",
+      "1952",
+      "1956"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "32c4ba37-4b32-496b-90cd-e697a3ffdf54"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году Сидней принимал летние Олимпийские игры?",
+    "correct_answer": "2000",
+    "choices": [
+      "2008",
+      "1996",
+      "2004",
+      "2000"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a869dbdb-752c-4624-8dd7-3626e9baaa79"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как зовут знаменитого архитектора, спроектировавшего Сиднейский оперный театр?",
+    "correct_answer": "Йорн Утзон",
+    "choices": [
+      "Фрэнк Ллойд Райт",
+      "Ле Корбюзье",
+      "Йорн Утзон",
+      "Сидни Нолан"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "dc1efc79-7a5c-4ad5-ae64-5f3359323ee4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком году Сиднейский оперный театр был официально открыт?",
+    "correct_answer": "1973",
+    "choices": [
+      "1967",
+      "1975",
+      "1973",
+      "1981"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "eec87f11-bd37-4cdc-abaf-65b8174a3da9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как обычно назывался конституционный кризис 1975 года в Австралии?",
+    "correct_answer": "Увольнение",
+    "choices": [
+      "Увольнение",
+      "Переворот",
+      "Кризис",
+      "Роспуск"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "96fd8ebc-0b3f-433e-bbf1-1fa8c3bfe1fc"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Кто был премьер-министром Австралии, уволенным генерал-губернатором в 1975 году?",
+    "correct_answer": "Гоф Уитлэм",
+    "choices": [
+      "Гоф Уитлэм",
+      "Уильям Макмэхон",
+      "Джон Гортон",
+      "Малкольм Фрейзер"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "10420f6a-8211-42c3-a229-50940c6d4933"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Кто был генерал-губернатором, уволившим правительство Уитлэма?",
+    "correct_answer": "Сэр Джон Керр",
+    "choices": [
+      "Сэр Джон Керр",
+      "Сэр Пол Хэзлак",
+      "Сэр Ниньян Стивен",
+      "Сэр Уильям Дин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "aaaa7cb1-987d-438b-b20b-3c3a746b4032"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году премьер-министр Кевин Радд принес извинения коренным австралийцам?",
+    "correct_answer": "2008",
+    "choices": [
+      "2010",
+      "2007",
+      "2008",
+      "2009"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9c047d8a-de88-4bf3-b7f3-1455fb283367"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как называлась политика насильственного изъятия детей коренных народов из семей?",
+    "correct_answer": "Украденные поколения",
+    "choices": [
+      "Программа ассимиляции",
+      "Закон об изъятии",
+      "Украденные поколения",
+      "Потерянные дети"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "9a67b249-11ef-41c9-9628-ef7532a47c84"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Кто является самым долго служащим премьер-министром в истории Австралии?",
+    "correct_answer": "Сэр Роберт Мензис",
+    "choices": [
+      "Пол Китинг",
+      "Сэр Роберт Мензис",
+      "Боб Хоук",
+      "Джон Говард"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3d301047-aad6-4498-9f78-d198fc7f006f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какой премьер-министр Австралии был замечен плачущим на публике?",
+    "correct_answer": "Боб Хоук",
+    "choices": [
+      "Джон Говард",
+      "Боб Хоук",
+      "Кевин Радд",
+      "Пол Китинг"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "18768a09-9653-4594-ae05-173b9b5e7346"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какова приблизительная длина Большого Барьерного рифа?",
+    "correct_answer": "Более 2300 километров",
+    "choices": [
+      "Более 3500 километров",
+      "Более 800 километров",
+      "Более 1000 километров",
+      "Более 2300 километров"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "66c48a43-b31e-4541-842b-917b9f5da477"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Кто был австралийским защитником природы и «Охотником на крокодилов», умершим в 2006 году?",
+    "correct_answer": "Стив Ирвин",
+    "choices": [
+      "Боб Ирвин",
+      "Стив Ирвин",
+      "Терри Ирвин",
+      "Джон Батлер"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "fb083e13-00a5-4192-804f-b3032028732b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какая австралийская спортсменка-аборигенка выиграла женский бег на 400 метров на Олимпийских играх в Сиднее в 2000 году?",
+    "correct_answer": "Кэти Фриман",
+    "choices": [
+      "Нова Перис",
+      "Лорен Джексон",
+      "Мелани Шлангер",
+      "Кэти Фриман"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "d479c9d2-234d-4969-a504-879657d6455b"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "В каком году Австралийский акт разорвал оставшиеся юридические связи с британским парламентом?",
+    "correct_answer": "1986",
+    "choices": [
+      "1982",
+      "1986",
+      "1975",
+      "1990"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c2945ecf-f869-4733-91fe-7c2e9ae6473d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какой исследователь успешно совершил первый переход Австралийского континента с юга на север в 1862 году?",
+    "correct_answer": "Джон Макдуалл Стюарт",
+    "choices": [
+      "Уильям Джон Уиллс",
+      "Джон Макдуалл Стюарт",
+      "Роберт О'Хара Берк",
+      "Эрнест Джайлс"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8ba80ab3-f99e-4dcd-aba9-001e06ae1816"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Как называлось пассажирское судно, торпедированное у побережья Сиднея в 1942 году?",
+    "correct_answer": "HMAS Sydney",
+    "choices": [
+      "HMAS Canberra",
+      "HMAS Australia",
+      "HMAS Perth",
+      "HMAS Sydney"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "68937031-aad0-4449-9f40-434cbb3e145d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какая династия викингов правила Киевской Русью?",
+    "correct_answer": "Династия Рюриковичей",
+    "choices": [
+      "Династия Рюриковичей",
+      "Династия Годуновых",
+      "Династия Романовых",
+      "Династия Шуйских"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6658fa48-3ae7-480b-b882-5c3710419dcf"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "В каком году Владимир Великий крестил Киевскую Русь?",
+    "correct_answer": "988",
+    "choices": [
+      "862",
+      "1054",
+      "1240",
+      "988"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "0deb2b86-04fa-46e7-add4-10898c2e438d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какой монгольский полководец вторгся на Русь в XIII веке?",
+    "correct_answer": "Бату-хан",
+    "choices": [
+      "Хубилай-хан",
+      "Тамерлан",
+      "Бату-хан",
+      "Чингисхан"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a748d662-6e0d-4dd9-ba31-9febfa87bb63"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как называлось монгольское государство, веками правившее Россией?",
+    "correct_answer": "Золотая Орда",
+    "choices": [
+      "Золотая Орда",
+      "Ильханат",
+      "Белая Орда",
+      "Чагатайский улус"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4afee774-d6b4-411f-8112-a4b132c30229"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какой русский князь разгромил Тевтонских рыцарей на льду Чудского озера?",
+    "correct_answer": "Александр Невский",
+    "choices": [
+      "Дмитрий Донской",
+      "Ярослав Мудрый",
+      "Александр Невский",
+      "Владимир Мономах"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "11c16d3b-06c6-414f-960f-f668fe1902c0"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Кто был первым правителем, коронованным как Царь всея Руси?",
+    "correct_answer": "Иван IV (Грозный)",
+    "choices": [
+      "Василий III",
+      "Пётр Великий",
+      "Иван III (Великий)",
+      "Иван IV (Грозный)"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "28b56b95-7496-4a7b-8c4c-aa8abf9301cc"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какой собор на Красной площади был построен по приказу Ивана Грозного?",
+    "correct_answer": "Собор Василия Блаженного",
+    "choices": [
+      "Храм Христа Спасителя",
+      "Исаакиевский собор",
+      "Казанский собор",
+      "Собор Василия Блаженного"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8c906078-39e3-4a28-909a-39d5f199f5fa"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как называлась тайная полиция Ивана Грозного?",
+    "correct_answer": "Опричнина",
+    "choices": [
+      "ЧК",
+      "Опричнина",
+      "КГБ",
+      "Стрельцы"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "c141f900-a01c-44e6-8091-71f20f719c3d"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какая битва стала первой крупной победой русских над Золотой Ордой?",
+    "correct_answer": "Куликовская битва",
+    "choices": [
+      "Невская битва",
+      "Ледовое побоище",
+      "Грюнвальдская битва",
+      "Куликовская битва"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6b4adf4b-f83e-48fa-b233-101f486db6af"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Кто возглавлял русские войска в Куликовской битве?",
+    "correct_answer": "Дмитрий Донской",
+    "choices": [
+      "Александр Невский",
+      "Дмитрий Донской",
+      "Юрий Долгорукий",
+      "Иван Калита"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "7be36ede-6560-4811-8c69-a83adc624057"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Какой город был столицей Киевской Руси?",
+    "correct_answer": "Киев",
+    "choices": [
+      "Владимир",
+      "Москва",
+      "Киев",
+      "Новгород"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "888c5fac-c372-4ee2-8d16-4a4174cc4e36"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какой свод законов установил Ярослав Мудрый?",
+    "correct_answer": "Русская Правда",
+    "choices": [
+      "Судебник 1497 года",
+      "Соборное уложение",
+      "Русская Правда",
+      "Судебник"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "cc91adbe-6be3-45af-819b-7a5f2d97b20b"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Кто основал город Москву?",
+    "correct_answer": "Юрий Долгорукий",
+    "choices": [
+      "Александр Невский",
+      "Иван Калита",
+      "Андрей Боголюбский",
+      "Юрий Долгорукий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "5d9c81d8-8cbb-42d9-9df5-4e731c264d89"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какой царь положил конец монгольскому игу, отказавшись платить дань?",
+    "correct_answer": "Иван III (Великий)",
+    "choices": [
+      "Иван III (Великий)",
+      "Василий II",
+      "Иван IV (Грозный)",
+      "Дмитрий Донской"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "4847e708-c088-4f25-831f-db08a8e33031"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как называлось выборное собрание, избравшее Михаила Романова царём?",
+    "correct_answer": "Земский собор",
+    "choices": [
+      "Вече",
+      "Земский собор",
+      "Боярская дума",
+      "Тайный совет"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "7f75f500-0ea1-45c6-9d5b-8ecb280c620e"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Кем был поддерживаемый поляками самозванец, претендовавший на русский престол в Смутное время?",
+    "correct_answer": "Лжедмитрий I",
+    "choices": [
+      "Иван Болотников",
+      "Лжедмитрий I",
+      "Григорий Отрепьев",
+      "Прокопий Ляпунов"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f39085bd-7f9a-458c-bf48-b1ca372ef961"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какие купец и князь возглавили освобождение Москвы от польских оккупантов в 1612 году?",
+    "correct_answer": "Минин и Пожарский",
+    "choices": [
+      "Сусанин и Романов",
+      "Хмельницкий и Трубецкой",
+      "Минин и Пожарский",
+      "Болотников и Шуйский"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3b76248c-cfd1-4f20-b5d3-d231ed641a67"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "В каком году началась династия Романовых?",
+    "correct_answer": "1613",
+    "choices": [
+      "1613",
+      "1598",
+      "1682",
+      "1645"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "74c9ad08-33f4-4bd6-b31f-d34adb120a14"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Как звали казачьего атамана, начавшего русское завоевание Сибири?",
+    "correct_answer": "Ермак Тимофеевич",
+    "choices": [
+      "Емельян Пугачёв",
+      "Степан Разин",
+      "Ермак Тимофеевич",
+      "Богдан Хмельницкий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "b82ef14d-c2a0-4509-bf66-8d46198622ea"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "В каком городе вече (народное собрание) управляло республикой в Средние века?",
+    "correct_answer": "Новгород",
+    "choices": [
+      "Владимир",
+      "Москва",
+      "Новгород",
+      "Псков"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "796f7c12-b626-4045-b8d3-3784eb6c208a"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какой великий князь литовский и король польский разгромил Тевтонский орден при Грюнвальде, при участии русских полков?",
+    "correct_answer": "Витовт (Витольд)",
+    "choices": [
+      "Витовт (Витольд)",
+      "Казимир IV",
+      "Миндовг",
+      "Ягайло (Ягелло)"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "bb6f38b4-9272-4916-84d9-42c38f03b5f1"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Как назывались сборщики налогов, нанятые монголами на Руси?",
+    "correct_answer": "Баскаки",
+    "choices": [
+      "Дружина",
+      "Стрельцы",
+      "Опричники",
+      "Баскаки"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a3eab8dd-0b79-43c2-aace-d206745195e9"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какой князь перенёс резиденцию митрополита из Киева во Владимир?",
+    "correct_answer": "Андрей Боголюбский",
+    "choices": [
+      "Юрий Долгорукий",
+      "Всеволод Большое Гнездо",
+      "Андрей Боголюбский",
+      "Михаил Тверской"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3a611165-a352-44ec-933a-58674a427b44"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Какое ханство на Волге завоевал Иван Грозный в 1552 году?",
+    "correct_answer": "Казанское",
+    "choices": [
+      "Сибирское",
+      "Крымское",
+      "Казанское",
+      "Астраханское"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e69fc8d0-c719-4ceb-b92c-251bb92c7c7f"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Какого монарха называли «собирателем русских земель»?",
+    "correct_answer": "Иван III (Великий)",
+    "choices": [
+      "Дмитрий Донской",
+      "Василий II",
+      "Иван III (Великий)",
+      "Иван IV (Грозный)"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "42ec557a-1697-4fd2-8c52-511ef9733b41"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой царь основал российский флот и построил первый русский корабль?",
+    "correct_answer": "Пётр Великий",
+    "choices": [
+      "Иван Грозный",
+      "Екатерина Великая",
+      "Александр I",
+      "Пётр Великий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a6ebb458-0d64-4d2c-9eee-191c9c0d5a00"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году был основан Санкт-Петербург?",
+    "correct_answer": "1703",
+    "choices": [
+      "1725",
+      "1697",
+      "1712",
+      "1703"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "82380151-3a7a-4b6f-b1dd-68ab4ce007fa"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какую войну выиграл Пётр Великий, чтобы получить выход к Балтийскому морю?",
+    "correct_answer": "Северная война",
+    "choices": [
+      "Семилетняя война",
+      "Ливонская война",
+      "Северная война",
+      "Русско-шведская война 1741 г."
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e4a954c1-8544-4f83-9dc1-b8bd7e8f4ae2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Кто был первым русским монархом, названным «Великим»?",
+    "correct_answer": "Пётр Великий",
+    "choices": [
+      "Александр Великий",
+      "Екатерина Великая",
+      "Пётр Великий",
+      "Иван Великий"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "a0d7adf2-7ccf-4ad5-b993-4b57bafcc1d1"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какой казачий бунтарь возглавил массовое крестьянское восстание против Екатерины Великой?",
+    "correct_answer": "Емельян Пугачёв",
+    "choices": [
+      "Степан Разин",
+      "Емельян Пугачёв",
+      "Иван Болотников",
+      "Кондратий Булавин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1e086258-db6d-464b-b0fc-b343dc54e358"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Чем закончилось вторжение Наполеона в Россию в 1812 году?",
+    "correct_answer": "Катастрофическим отступлением с огромными потерями",
+    "choices": [
+      "Наполеон был схвачен и сослан",
+      "Ничья и мирный договор",
+      "Решительная победа французов под Москвой",
+      "Катастрофическим отступлением с огромными потерями"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6de02526-78a8-4132-b44c-6db54d1ac062"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какое сражение во время вторжения Наполеона считается самым кровопролитным однодневным сражением кампании?",
+    "correct_answer": "Бородинское сражение",
+    "choices": [
+      "Сражение при Малоярославце",
+      "Сражение под Смоленском",
+      "Битва при Аустерлице",
+      "Бородинское сражение"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8155d0f7-1661-422c-bce5-e60d4a6a36ba"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году царь Александр II освободил русских крестьян?",
+    "correct_answer": "1861",
+    "choices": [
+      "1825",
+      "1881",
+      "1861",
+      "1905"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "2bd48a89-69f6-4558-ae5b-7ada18a11743"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как называлось неудачное восстание 1825 года против Николая I?",
+    "correct_answer": "Восстание декабристов",
+    "choices": [
+      "Восстание декабристов",
+      "Кронштадтский мятеж",
+      "Январское восстание",
+      "Боксёрское восстание"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6f310208-788a-49c6-9944-bab54537380c"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "В каком городе произошло «Кровавое воскресенье» в 1905 году?",
+    "correct_answer": "Санкт-Петербург",
+    "choices": [
+      "Санкт-Петербург",
+      "Москва",
+      "Киев",
+      "Варшава"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "dbd39c94-54b1-4755-aa88-a87adbda88de"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Как звали сибирского мистика, влиявшего на двор Романовых?",
+    "correct_answer": "Григорий Распутин",
+    "choices": [
+      "Пётр Столыпин",
+      "Сергей Витте",
+      "Владимир Пуришкевич",
+      "Григорий Распутин"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "575a0c96-bea8-44e4-99f1-c32e7e8943fe"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году большевистская революция свергла Временное правительство?",
+    "correct_answer": "1917",
+    "choices": [
+      "1921",
+      "1905",
+      "1917",
+      "1918"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1bdf7282-9ba1-42d5-b85c-20f1d881a4f0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как называлась тайная полиция Ленина?",
+    "correct_answer": "ЧК",
+    "choices": [
+      "НКВД",
+      "КГБ",
+      "ЧК",
+      "Опричнина"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "eda3177e-ae97-4ff8-af20-5179c1208446"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Где были расстреляны царь Николай II и его семья в 1918 году?",
+    "correct_answer": "Екатеринбург",
+    "choices": [
+      "Санкт-Петербург",
+      "Москва",
+      "Екатеринбург",
+      "Тобольск"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "3f396259-bb06-46f9-9c7f-53d43626153a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какая сторона победила в Гражданской войне в России (1918–1921)?",
+    "correct_answer": "Большевики (красные)",
+    "choices": [
+      "Большевики (красные)",
+      "Польские войска",
+      "Зелёная армия",
+      "Белая армия"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "72b29546-f794-4052-b887-f6ca652b6331"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Как называлась кампания политических репрессий Сталина в конце 1930-х годов?",
+    "correct_answer": "Большая чистка",
+    "choices": [
+      "Большая чистка",
+      "Культурная революция",
+      "Красный террор",
+      "Десталинизация"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "6e151206-d74c-45a4-9aac-2f8660276cc6"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Как называлась система советских трудовых лагерей?",
+    "correct_answer": "ГУЛАГ",
+    "choices": [
+      "Совнархоз",
+      "Колхоз",
+      "ГУЛАГ",
+      "Голодомор"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "59b39f11-12f1-4da4-99d6-27d03f88ad1d"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Какое сражение 1941 года остановило наступление немцев на Москву?",
+    "correct_answer": "Битва за Москву",
+    "choices": [
+      "Смоленское сражение",
+      "Курская битва",
+      "Ржевская битва",
+      "Битва за Москву"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "44d5eb59-6c36-4861-9190-15af4fafb70f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Какой советский город выдержал 872-дневную блокаду во время Второй мировой войны?",
+    "correct_answer": "Ленинград",
+    "choices": [
+      "Москва",
+      "Ленинград",
+      "Киев",
+      "Сталинград"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "e36745f0-a5c0-4e50-8909-1a6d3e0364c0"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Какое сражение 1943 года стало крупнейшим танковым сражением в истории?",
+    "correct_answer": "Курская битва",
+    "choices": [
+      "Сталинградская битва",
+      "Битва за Берлин",
+      "Битва за Москву",
+      "Курская битва"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "8326ab35-a2ec-45e7-b1f0-21caa55554f2"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Кто был советским маршалом, захватившим Берлин в 1945 году?",
+    "correct_answer": "Георгий Жуков",
+    "choices": [
+      "Иван Конев",
+      "Константин Рокоссовский",
+      "Александр Василевский",
+      "Георгий Жуков"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "f2f4cb28-dd2d-44b7-9f57-ff8d755711c4"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Как назывался первый искусственный спутник, запущенный Советским Союзом в 1957 году?",
+    "correct_answer": "Спутник",
+    "choices": [
+      "Союз",
+      "Спутник",
+      "Восток",
+      "Луна"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "43166602-a19b-47bb-a001-70111a30c13f"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Как звали первую собаку, совершившую орбитальный полёт на советском космическом корабле?",
+    "correct_answer": "Лайка",
+    "choices": [
+      "Лайка",
+      "Звёздочка",
+      "Стрелка",
+      "Белка"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "cf64a54c-ab8f-4e23-90b9-a7a78c3043e9"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Как Горбачёв назвал свою политику экономической перестройки?",
+    "correct_answer": "Перестройка",
+    "choices": [
+      "Гласность",
+      "Перестройка",
+      "Ускорение",
+      "Новое мышление"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "1ccd79bf-1da4-4a4a-9998-961bf2faa06a"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "В каком году Советский Союз официально распался?",
+    "correct_answer": "1991",
+    "choices": [
+      "1993",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "language": "ru",
+    "translation_key": "7653a912-6aec-4978-ade1-0dcaef169d4b"
+  }
+]

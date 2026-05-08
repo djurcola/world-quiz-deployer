@@ -1,0 +1,3218 @@
+[
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какая команда НБА выиграла больше всего чемпионатов?",
+    "correct_answer": "Бостон Селтикс",
+    "choices": [
+      "Голден Стэйт Уорриорз",
+      "Бостон Селтикс",
+      "Лос-Анджелес Лейкерс",
+      "Чикаго Буллз"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5164a108-b6b4-4324-aecd-c128112df450"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Сколько очков даёт трёхочковый бросок в НБА?",
+    "correct_answer": "3",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f34207fe-4d67-4a79-8b2c-010eb782808a"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какого игрока называют «Его Воздушество»?",
+    "correct_answer": "Майкл Джордан",
+    "choices": [
+      "Коби Брайант",
+      "Майкл Джордан",
+      "Мэджик Джонсон",
+      "Леброн Джеймс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "56e5853e-33e7-4b0b-859c-f9f6d610bdae"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какова высота стандартного баскетбольного кольца в НБА?",
+    "correct_answer": "10 футов",
+    "choices": [
+      "10 футов",
+      "12 футов",
+      "11 футов",
+      "9 футов"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "03dcc37d-7e1c-4dec-8d72-573162d00ed9"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какая страна изобрела баскетбол?",
+    "correct_answer": "США",
+    "choices": [
+      "Канада",
+      "Австралия",
+      "Англия",
+      "США"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "596c90cb-d6bb-45fd-bdc9-7ee4cacd942b"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Сколько игроков от каждой команды находятся на площадке во время игры НБА?",
+    "correct_answer": "5",
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "cf8012f5-3d39-4013-bdd5-f17e85c03e12"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Каков диаметр баскетбольного кольца в дюймах?",
+    "correct_answer": "18 дюймов",
+    "choices": [
+      "18 дюймов",
+      "20 дюймов",
+      "22 дюйма",
+      "16 дюймов"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "1190e2f6-2e31-4c02-834a-780cd5cb6d69"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "С какой командой Майкл Джордан выиграл свои шесть чемпионатов НБА?",
+    "correct_answer": "Чикаго Буллз",
+    "choices": [
+      "Детройт Пистонс",
+      "Бостон Селтикс",
+      "Чикаго Буллз",
+      "Лос-Анджелес Лейкерс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "03afb46c-9adc-4c54-84fc-5548f18d1b65"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какова продолжительность стандартной четверти в НБА?",
+    "correct_answer": "12 минут",
+    "choices": [
+      "12 минут",
+      "15 минут",
+      "20 минут",
+      "10 минут"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c1689a73-9748-470d-aea5-1246546ec90e"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какой игрок удерживает рекорд по наибольшему количеству очков за карьеру в истории НБА?",
+    "correct_answer": "Леброн Джеймс",
+    "choices": [
+      "Майкл Джордан",
+      "Карим Абдул-Джаббар",
+      "Коби Брайант",
+      "Леброн Джеймс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "19816de9-6bbb-4da5-81b4-d42c93e49bf9"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Сколько чемпионатов НБА выиграл Билл Расселл как игрок?",
+    "correct_answer": "11",
+    "choices": [
+      "10",
+      "9",
+      "8",
+      "11"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a3d4ae6e-6663-4a58-a56b-961cc23894d9"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какой игрок набрал 100 очков в одной игре НБА?",
+    "correct_answer": "Уилт Чемберлен",
+    "choices": [
+      "Майкл Джордан",
+      "Коби Брайант",
+      "Ларри Бёрд",
+      "Уилт Чемберлен"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "10e92193-6d0e-486f-8d5e-3ee7576a3062"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "В каком году была основана НБА?",
+    "correct_answer": "1946",
+    "choices": [
+      "1954",
+      "1950",
+      "1946",
+      "1960"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "9492a58b-6781-4ce5-a053-ad5a0ab54c36"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какого игрока называют «Король Джеймс»?",
+    "correct_answer": "Леброн Джеймс",
+    "choices": [
+      "Джеймс Харден",
+      "Ларри Бёрд",
+      "Мэджик Джонсон",
+      "Леброн Джеймс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "4d501b81-3ff8-4e04-a462-268001cd0e56"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Как называлась команда колледжа Майкла Джордана?",
+    "correct_answer": "Северная Каролина Тар Хилс",
+    "choices": [
+      "Северная Каролина Тар Хилс",
+      "Дьюк Блю Девилз",
+      "Кентукки Уайлдкэтс",
+      "Канзас Джейхокс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f92ab02d-48d1-465b-bb00-0d205edc6760"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Сколько секунд составляет время на атаку в НБА?",
+    "correct_answer": "24 секунды",
+    "choices": [
+      "30 секунд",
+      "24 секунды",
+      "35 секунд",
+      "45 секунд"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "cacd2ab1-9db2-40a1-8fb0-5bb0ebfd9952"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "За какую команду Коби Брайант провёл всю свою карьеру в НБА?",
+    "correct_answer": "Лос-Анджелес Лейкерс",
+    "choices": [
+      "Чикаго Буллз",
+      "Бостон Селтикс",
+      "Майами Хит",
+      "Лос-Анджелес Лейкерс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "808be162-5711-47a3-8224-158cf6332c89"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Кто является лидером НБА по передачам за всю историю?",
+    "correct_answer": "Джон Стоктон",
+    "choices": [
+      "Крис Пол",
+      "Джейсон Кидд",
+      "Мэджик Джонсон",
+      "Джон Стоктон"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f614f656-822f-4f67-b6c9-0f7c3541939a"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Как называется ежегодный чемпионский трофей НБА?",
+    "correct_answer": "Трофей Ларри О'Брайена",
+    "choices": [
+      "Трофей Билла Расселла",
+      "Чемпионский трофей НБА",
+      "Трофей Уолтера А. Брауна",
+      "Трофей Ларри О'Брайена"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7f10cc4d-a9ac-4c09-b718-d5484ad46e36"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какая команда НБА известна как «Селтикс»?",
+    "correct_answer": "Бостон Селтикс",
+    "choices": [
+      "Бруклин Нетс",
+      "Нью-Йорк Никс",
+      "Бостон Селтикс",
+      "Филадельфия Севенти Сиксерс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "742e6429-1a90-43c9-8c23-6ff88b7d4734"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Кто был выбран под первым номером на драфте НБА 2003 года?",
+    "correct_answer": "Леброн Джеймс",
+    "choices": [
+      "Крис Бош",
+      "Леброн Джеймс",
+      "Кармело Энтони",
+      "Дуэйн Уэйд"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "8320edb7-96ed-4438-9e03-060f55b3028c"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Какой игрок завоевал награду MVP НБА единогласно в 2016 году?",
+    "correct_answer": "Стефен Карри",
+    "choices": [
+      "Стефен Карри",
+      "Кевин Дюрант",
+      "Леброн Джеймс",
+      "Расселл Уэстбрук"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7279da86-65f8-46c7-9ab3-484b49fff18f"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Сколько фолов нужно игроку НБА, чтобы покинуть игру?",
+    "correct_answer": "6",
+    "choices": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "1b63c211-1c25-476f-81c3-be9e93e2771a"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Кого называют «Чёрная Мамба»?",
+    "correct_answer": "Коби Брайант",
+    "choices": [
+      "Леброн Джеймс",
+      "Майкл Джордан",
+      "Кевин Дюрант",
+      "Коби Брайант"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "291980f3-1573-4eb9-8bee-6170c79bbdd4"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Какова ширина трёхочковой линии НБА в самой дальней точке?",
+    "correct_answer": "23 фута 9 дюймов",
+    "choices": [
+      "25 футов",
+      "22 фута",
+      "24 фута",
+      "23 фута 9 дюймов"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ba34e433-7839-4242-af6e-be12bc0e659e"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Какая команда выиграла первый чемпионат НБА в 1947 году?",
+    "correct_answer": "Филадельфия Уорриорз",
+    "choices": [
+      "Миннеаполис Лейкерс",
+      "Нью-Йорк Никс",
+      "Филадельфия Уорриорз",
+      "Бостон Селтикс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "0b9a0d5e-8b31-49d7-8050-86164b5b4b41"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Кто единственный игрок, выигравший MVP НБА и чемпионат NCAA в одном году?",
+    "correct_answer": "Мэджик Джонсон",
+    "choices": [
+      "Ларри Бёрд",
+      "Мэджик Джонсон",
+      "Майкл Джордан",
+      "Билл Уолтон"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "82265e80-6d5a-467b-b2fb-7b208bd2e3ba"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Сколько сезонов Майкл Джордан провёл за Чикаго Буллз?",
+    "correct_answer": "13",
+    "choices": [
+      "15",
+      "11",
+      "10",
+      "13"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e7e4f272-82d1-4916-a3a2-a68ac46fd3f8"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какая команда НБА удерживает рекорд по количеству побед в регулярном сезоне?",
+    "correct_answer": "Голден Стэйт Уорриорз",
+    "choices": [
+      "Чикаго Буллз",
+      "Бостон Селтикс",
+      "Голден Стэйт Уорриорз",
+      "Лос-Анджелес Лейкерс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c3d88b32-6006-474e-8321-05c2ffc5068a"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какой номер носил Коби Брайант большую часть своей карьеры?",
+    "correct_answer": "24",
+    "choices": [
+      "23",
+      "24",
+      "33",
+      "8"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a62d0476-cf86-44f4-98a9-e39bbb55206d"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Кто тренировал Чикаго Буллз, когда они выиграли свои шесть чемпионатов НБА?",
+    "correct_answer": "Фил Джексон",
+    "choices": [
+      "Грегг Попович",
+      "Фил Джексон",
+      "Пэт Райли",
+      "Ред Ауэрбах"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "57ac6f94-56e7-4834-97d7-fcb249b21fd2"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какая страна выиграла больше всего олимпийских золотых медалей в мужском баскетболе?",
+    "correct_answer": "США",
+    "choices": [
+      "СССР",
+      "Испания",
+      "Аргентина",
+      "США"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "efe23be2-f5b1-4470-8b5d-b4cfa4bbdc92"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Как называется награда самому ценному игроку WNBA?",
+    "correct_answer": "Награда MVP WNBA",
+    "choices": [
+      "MVP Кубка комиссара",
+      "Кубок Лизы Лесли",
+      "Трофей Шерил Свупс",
+      "Награда MVP WNBA"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e9c2aa8e-6f9a-4c68-88b1-9228690353a0"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Какая игрок WNBA набрала больше всего очков за карьеру?",
+    "correct_answer": "Дайана Таурази",
+    "choices": [
+      "Тина Томпсон",
+      "Дайана Таурази",
+      "Лиза Лесли",
+      "Тамика Кэтчингс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c780ab3c-347d-4b63-aada-d510ab55aca7"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Кто был первым игроком, задрафтованным в истории НБА?",
+    "correct_answer": "Клифтон Макнили",
+    "choices": [
+      "Клифтон Макнили",
+      "Джордж Майкан",
+      "Боб Коузи",
+      "Чак Шэр"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "2a6219c7-6312-4418-b2a2-07638dd37419"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какова максимальная ширина площадки НБА?",
+    "correct_answer": "50 футов",
+    "choices": [
+      "50 футов",
+      "45 футов",
+      "60 футов",
+      "55 футов"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "50fea5f5-6cc0-48d2-88ad-4f2a4139b8b9"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "За какую команду Ларри Бёрд провёл всю карьеру?",
+    "correct_answer": "Бостон Селтикс",
+    "choices": [
+      "Лос-Анджелес Лейкерс",
+      "Бостон Селтикс",
+      "Чикаго Буллз",
+      "Индиана Пэйсерс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "36f58f6f-3120-4bec-b70c-4e8d558d47a6"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Кто единственный игрок, оформивший трипл-дабл в Матче всех звёзд НБА?",
+    "correct_answer": "Леброн Джеймс",
+    "choices": [
+      "Мэджик Джонсон",
+      "Майкл Джордан",
+      "Расселл Уэстбрук",
+      "Леброн Джеймс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5ec1642c-e5d6-46fe-a14e-2674346be600"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Как обычно называют формат турнира NCAA Division I по мужскому баскетболу?",
+    "correct_answer": "Мартовское безумие",
+    "choices": [
+      "Большой танец",
+      "Мартовское безумие",
+      "Финал четырёх",
+      "Sweet Sixteen"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e07caa52-5c79-4c3c-a57c-93d87d7a8f9b"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Сколько команд участвуют в мужском баскетбольном турнире NCAA Division I?",
+    "correct_answer": "68",
+    "choices": [
+      "68",
+      "65",
+      "64",
+      "72"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "551678f2-d036-46db-b4d6-31786ce0d170"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какой игрок НБА набрал 81 очко в одной игре в 2006 году?",
+    "correct_answer": "Коби Брайант",
+    "choices": [
+      "Уилт Чемберлен",
+      "Коби Брайант",
+      "Дэвид Томпсон",
+      "Майкл Джордан"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f38739ad-c1e4-4f66-9b52-315c32e3e5c7"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Кто изобрёл баскетбол?",
+    "correct_answer": "Джеймс Нейсмит",
+    "choices": [
+      "Лютер Гулик",
+      "Уильям Морган",
+      "Джеймс Нейсмит",
+      "Джон Маклендон"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "4be8ec74-e642-452e-b62a-eae08610400d"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "В каком году трёхочковая линия была введена в НБА?",
+    "correct_answer": "1979",
+    "choices": [
+      "1976",
+      "1987",
+      "1984",
+      "1979"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7e8394ce-e019-40a4-b2d1-f7a07c5f14bb"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какой игрок имеет больше всего наград MVP НБА?",
+    "correct_answer": "Карим Абдул-Джаббар",
+    "choices": [
+      "Карим Абдул-Джаббар",
+      "Билл Расселл",
+      "Майкл Джордан",
+      "Леброн Джеймс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "caa2a110-d773-491b-bd08-e67b453686d7"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Кто является лидером по очкам за всю историю мужского баскетбола NCAA Division I?",
+    "correct_answer": "Пит Маравич",
+    "choices": [
+      "Тайлер Хансбро",
+      "Ларри Бёрд",
+      "Карим Абдул-Джаббар",
+      "Пит Маравич"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "28492dc1-2174-448e-bf18-c6bc77292cc2"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какая команда НБА выиграла 72 игры в сезоне 1995-96?",
+    "correct_answer": "Чикаго Буллз",
+    "choices": [
+      "Бостон Селтикс",
+      "Голден Стэйт Уорриорз",
+      "Чикаго Буллз",
+      "Лос-Анджелес Лейкерс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "71388e1b-4ae4-40dd-9a28-143b46de6033"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Как называется развивающая лига НБА?",
+    "correct_answer": "НБА Джи Лига",
+    "choices": [
+      "НБА Д-Лига",
+      "НБА Развивающая лига",
+      "НБА Джи Лига",
+      "НБА Малая лига"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "eab8f04a-5335-48a5-8cc1-cb74c6eb0699"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Какая страна выиграла Кубок мира ФИБА по баскетболу в 2019 году?",
+    "correct_answer": "Испания",
+    "choices": [
+      "США",
+      "Франция",
+      "Испания",
+      "Аргентина"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "65d14ebf-efe6-492c-ad0c-0a1f63d764cb"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Кто самый низкий игрок, когда-либо игравший в НБА?",
+    "correct_answer": "Магси Богз",
+    "choices": [
+      "Магси Богз",
+      "Эрл Бойкинс",
+      "Нейт Робинсон",
+      "Спад Уэбб"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "645596c6-cb20-439e-ba7d-40632d296313"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Сколько команд было в оригинальной НБА в 1946 году?",
+    "correct_answer": "11",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "11"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "181e7cd3-2e46-44f4-ae37-0f638055eb55"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Какая команда НБА выбрала Янниса Адетокунбо на драфте?",
+    "correct_answer": "Милуоки Бакс",
+    "choices": [
+      "Майами Хит",
+      "Милуоки Бакс",
+      "Лос-Анджелес Лейкерс",
+      "Торонто Рэпторс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ceda145e-61bf-4f59-8fa3-a1aaaa88dd95"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какая страна выиграла первый чемпионат мира по футболу в 1930 году?",
+    "correct_answer": "Уругвай",
+    "choices": [
+      "Уругвай",
+      "Бразилия",
+      "Италия",
+      "Аргентина"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "16489e2f-8c5a-440d-a209-699280424afd"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какая страна выиграла больше всего титулов чемпиона мира по футболу?",
+    "correct_answer": "Бразилия",
+    "choices": [
+      "Италия",
+      "Германия",
+      "Аргентина",
+      "Бразилия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "d4ee9ff2-950a-46ad-bde7-7e4f9f0ec549"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Сколько титулов чемпиона мира выиграла Бразилия?",
+    "correct_answer": "5",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f988956a-b8d6-45c1-abf1-ef7274a3cc05"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Кто является лучшим бомбардиром в истории чемпионатов мира по футболу?",
+    "correct_answer": "Мирослав Клозе",
+    "choices": [
+      "Пеле",
+      "Лионель Месси",
+      "Мирослав Клозе",
+      "Роналдо"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5d365cc0-35b4-47ef-b92d-fe27fe31c705"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Сколько голов забил Мирослав Клозе на чемпионатах мира?",
+    "correct_answer": "16",
+    "choices": [
+      "17",
+      "15",
+      "14",
+      "16"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "dafd799d-e046-4fdd-a969-9485d14d27b1"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какая страна принимала чемпионат мира по футболу 2014 года?",
+    "correct_answer": "Бразилия",
+    "choices": [
+      "Россия",
+      "Бразилия",
+      "Южная Африка",
+      "Германия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "9eeeda20-aafc-4f41-8099-a09bf489fe83"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Кого называют «Королем футбола» и кто выиграл три чемпионата мира?",
+    "correct_answer": "Пеле",
+    "choices": [
+      "Пеле",
+      "Лионель Месси",
+      "Йохан Кройф",
+      "Диего Марадона"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "6e7bd9ee-9a33-4dd9-be05-c48c50bb6886"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "В каком году Диего Марадона забил свой печально известный гол «Рука Бога»?",
+    "correct_answer": "1986",
+    "choices": [
+      "1982",
+      "1990",
+      "1986",
+      "1978"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "3312f1c7-d7a6-4998-be00-cde6c34a64a6"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Против какой страны Марадона забил гол «Рукой Бога»?",
+    "correct_answer": "Англия",
+    "choices": [
+      "Аргентина",
+      "Англия",
+      "Западная Германия",
+      "Бельгия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "72a594e6-aad6-43c8-98a8-7eb3af2788a1"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какой клуб выиграл больше всего титулов Лиги чемпионов УЕФА?",
+    "correct_answer": "Реал Мадрид",
+    "choices": [
+      "Реал Мадрид",
+      "Бавария Мюнхен",
+      "Ливерпуль",
+      "Милан"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f1c34e04-c233-4869-a14c-f3bb0cba7f24"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Сколько титулов Лиги чемпионов выиграл Реал Мадрид?",
+    "correct_answer": "14",
+    "choices": [
+      "14",
+      "12",
+      "13",
+      "15"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e90c0e7f-7632-4eac-8dc6-985e7de6bae0"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Кто является лучшим бомбардиром в истории Лиги чемпионов УЕФА?",
+    "correct_answer": "Криштиану Роналду",
+    "choices": [
+      "Лионель Месси",
+      "Карим Бензема",
+      "Криштиану Роналду",
+      "Роберт Левандовский"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "b45f9086-93a4-45af-8af5-cc602fa95e12"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Сколько наград «Золотой мяч» выиграл Лионель Месси?",
+    "correct_answer": "7",
+    "choices": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "47ddb088-5c49-4f8c-863e-85ad424444b9"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какая страна выигрывала чемпионат Европы по футболу больше всего раз?",
+    "correct_answer": "Германия",
+    "choices": [
+      "Германия",
+      "Испания",
+      "Италия",
+      "Франция"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "42d2919f-b8e8-4d6b-96ef-368e5f96b804"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "В каком году началась Премьер-лига?",
+    "correct_answer": "1992",
+    "choices": [
+      "1992",
+      "1990",
+      "1994",
+      "1888"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "80f57a46-66bd-44f5-9bf2-daab2329e1ab"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "У какого игрока больше всего голов в Премьер-лиге за всю историю?",
+    "correct_answer": "Алан Ширер",
+    "choices": [
+      "Тьерри Анри",
+      "Алан Ширер",
+      "Гарри Кейн",
+      "Уэйн Руни"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "0b746551-8cd1-4c3c-844d-208bca14ced6"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какой клуб выиграл больше всего титулов Премьер-лиги?",
+    "correct_answer": "Манчестер Юнайтед",
+    "choices": [
+      "Манчестер Юнайтед",
+      "Ливерпуль",
+      "Челси",
+      "Арсенал"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c1ae22f7-f11b-477f-94b5-0a6432635548"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Кто единственный игрок, выигравший чемпионат мира с двумя разными странами?",
+    "correct_answer": "Луис Монти",
+    "choices": [
+      "Альфредо Ди Стефано",
+      "Луис Суарес",
+      "Луис Монти",
+      "Ференц Пушкаш"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ce5ffcc4-281b-4efb-9898-ce547069cf6f"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какая страна выиграла чемпионат мира по футболу 2018 года?",
+    "correct_answer": "Франция",
+    "choices": [
+      "Бельгия",
+      "Хорватия",
+      "Франция",
+      "Аргентина"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f8ea1e47-1a3e-4201-875c-b8458d4d09f2"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какой игрок сделал хет-трик в финале чемпионата мира 2022 года?",
+    "correct_answer": "Килиан Мбаппе",
+    "choices": [
+      "Анхель Ди Мария",
+      "Антуан Гризманн",
+      "Лионель Месси",
+      "Килиан Мбаппе"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7d852420-0aa7-4777-a18a-b7de1bff2eeb"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Кто выиграл чемпионат мира по футболу 2022 года?",
+    "correct_answer": "Аргентина",
+    "choices": [
+      "Аргентина",
+      "Франция",
+      "Бразилия",
+      "Германия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "71a03cb5-df0b-4984-ba2a-92943e441927"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какой стадион известен как «Театр мечты»?",
+    "correct_answer": "Олд Траффорд",
+    "choices": [
+      "Камп Ноу",
+      "Уэмбли",
+      "Энфилд",
+      "Олд Траффорд"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a4eb5414-45ea-492e-bd63-367f104ac7d1"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Какова вместимость Камп Ноу, крупнейшего стадиона Европы?",
+    "correct_answer": "99,354",
+    "choices": [
+      "90,000",
+      "105,000",
+      "81,000",
+      "99,354"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c607a78f-483f-44fa-9dbf-dd3e146e941c"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какая страна выиграла больше всего титулов Кубка Америки?",
+    "correct_answer": "Аргентина",
+    "choices": [
+      "Бразилия",
+      "Уругвай",
+      "Аргентина",
+      "Чили"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ffd42365-a5ee-409c-a38f-ed8afe8aaa87"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Кто является лучшим бомбардиром в мужском международном футболе за всю историю?",
+    "correct_answer": "Криштиану Роналду",
+    "choices": [
+      "Лионель Месси",
+      "Криштиану Роналду",
+      "Али Даеи",
+      "Сунил Чхетри"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "23a8f593-0fc3-4d88-a1d0-ac9533d2bd48"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Сколько игроков на поле от каждой команды в стандартном футбольном матче?",
+    "correct_answer": "11",
+    "choices": [
+      "12",
+      "10",
+      "9",
+      "11"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "d62bf4ed-eedc-4e3d-8b9d-4e7225f2b208"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Карточка какого цвета указывает на удаление игрока?",
+    "correct_answer": "Красная",
+    "choices": [
+      "Черная",
+      "Желтая",
+      "Красная",
+      "Синяя"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "fedc681c-74eb-4f54-bb79-6e46113079b6"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Каково расстояние от линии ворот до пенальти?",
+    "correct_answer": "12 ярдов",
+    "choices": [
+      "10 ярдов",
+      "6 ярдов",
+      "12 ярдов",
+      "18 ярдов"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "fe40932a-9e3f-4e65-ab86-d977fe83d67a"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какого тренера называют «Особенным»?",
+    "correct_answer": "Жозе Моуринью",
+    "choices": [
+      "Пеп Гвардиола",
+      "Жозе Моуринью",
+      "Алекс Фергюсон",
+      "Арсен Венгер"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "cc0cb4de-32ab-4ce8-8a05-b124866f5178"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Кто является самым долго работающим тренером в истории «Манчестер Юнайтед»?",
+    "correct_answer": "Алекс Фергюсон",
+    "choices": [
+      "Мэтт Басби",
+      "Жозе Моуринью",
+      "Эрнест Мангалл",
+      "Алекс Фергюсон"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a8a36aa4-dc7c-4caf-80fe-1fd016fab390"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "За какой клуб знаменито играл, а затем тренировал Йохан Кройф?",
+    "correct_answer": "Барселона",
+    "choices": [
+      "Аякс",
+      "Реал Мадрид",
+      "Бавария Мюнхен",
+      "Барселона"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "8e414c79-61e1-4f5d-8ee3-23c513b709f7"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Какая страна изобрела правило офсайда?",
+    "correct_answer": "Англия",
+    "choices": [
+      "Франция",
+      "Англия",
+      "Шотландия",
+      "Италия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "b09edf4b-ce0c-41a6-ade4-d1a50ee9f9be"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Кто был первым футболистом, получившим рыцарский титул?",
+    "correct_answer": "Сэр Стэнли Мэттьюз",
+    "choices": [
+      "Сэр Бобби Мур",
+      "Сэр Бобби Чарльтон",
+      "Сэр Стэнли Мэттьюз",
+      "Сэр Джефф Херст"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "4ce61d4e-1dff-4b0f-989b-cb66262815b6"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какая страна ни разу не пропустила чемпионат мира по футболу?",
+    "correct_answer": "Бразилия",
+    "choices": [
+      "Италия",
+      "Германия",
+      "Бразилия",
+      "Аргентина"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7b1af6ed-19f2-4580-8189-b93e33b8d32b"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Какая африканская страна первой вышла в четвертьфинал чемпионата мира?",
+    "correct_answer": "Камерун",
+    "choices": [
+      "Камерун",
+      "Гана",
+      "Сенегал",
+      "Нигерия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "60e760b0-03f1-4123-ada3-6f9246f853a8"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "В каком году состоялся первый женский чемпионат мира?",
+    "correct_answer": "1991",
+    "choices": [
+      "1991",
+      "1995",
+      "1999",
+      "1987"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "43e3dba6-b76d-448a-9648-995377fb0856"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какая страна выиграла больше всего титулов женского чемпионата мира?",
+    "correct_answer": "США",
+    "choices": [
+      "Норвегия",
+      "США",
+      "Германия",
+      "Япония"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "35f35099-6523-4a06-bb62-446df1774849"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Сколько титулов женского чемпионата мира выиграли США?",
+    "correct_answer": "4",
+    "choices": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "df335ffc-10da-44c4-b948-73ee585dba0b"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какой клуб известен как «Непобедимые» за то, что прошел без поражений в сезоне Премьер-лиги?",
+    "correct_answer": "Арсенал",
+    "choices": [
+      "Ливерпуль",
+      "Арсенал",
+      "Манчестер Юнайтед",
+      "Челси"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "46bede50-52ee-44ee-9e15-1284adf2c92f"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "В каком году «Арсенал» провел свой «Непобедимый» сезон?",
+    "correct_answer": "2004",
+    "choices": [
+      "2005",
+      "2002",
+      "2003",
+      "2004"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ac7b5649-00ad-4142-ad51-c95db8f06259"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Какой немецкий клуб известен девизом «Mia san mia»?",
+    "correct_answer": "Бавария Мюнхен",
+    "choices": [
+      "Шальке",
+      "Бавария Мюнхен",
+      "Гамбург",
+      "Боруссия Дортмунд"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "d17aa56c-5170-46a7-b409-d1217f279061"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Кто является лучшим бомбардиром в истории сборной Бразилии?",
+    "correct_answer": "Неймар",
+    "choices": [
+      "Неймар",
+      "Роналдо",
+      "Ромарио",
+      "Пеле"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "47a553ee-9471-433d-984e-463c95ab8d80"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Как называется трофей, вручаемый победителю чемпионата мира?",
+    "correct_answer": "Кубок мира ФИФА",
+    "choices": [
+      "Кубок Жюля Риме",
+      "Кубок мира",
+      "Кубок мира ФИФА",
+      "Золотой кубок"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e9c0628d-b002-40c7-9c63-59512bd16cca"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Какая страна выиграла первый чемпионат Европы по футболу в 1960 году?",
+    "correct_answer": "Советский Союз",
+    "choices": [
+      "Советский Союз",
+      "Италия",
+      "Франция",
+      "Испания"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "babd4a2b-339e-40d4-b4d0-9b142ee7d958"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Кто забил больше всего голов за один сезон Премьер-лиги (38 игр)?",
+    "correct_answer": "Эрлинг Холанн",
+    "choices": [
+      "Мохамед Салах",
+      "Эрлинг Холанн",
+      "Криштиану Роналду",
+      "Алан Ширер"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "3aecb583-7bca-46f6-9a18-073468352bad"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Сколько голов забил Эрлинг Холанн в сезоне Премьер-лиги 2022/23?",
+    "correct_answer": "36",
+    "choices": [
+      "38",
+      "32",
+      "34",
+      "36"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e3f4ee04-3108-4615-9331-379caa9b27c4"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Какой стране приписывают изобретение современного футбола?",
+    "correct_answer": "Англия",
+    "choices": [
+      "Шотландия",
+      "Италия",
+      "Англия",
+      "Бразилия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "27848198-9dcf-4fef-a4ba-d7049a40eba5"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Какой клуб выиграл больше всего титулов Ла Лиги?",
+    "correct_answer": "Реал Мадрид",
+    "choices": [
+      "Барселона",
+      "Реал Мадрид",
+      "Атлетик Бильбао",
+      "Атлетико Мадрид"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ea4423db-69c9-426f-909d-4937880cf78a"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "У какого игрока больше всего голевых передач в истории Премьер-лиги?",
+    "correct_answer": "Райан Гиггз",
+    "choices": [
+      "Сеск Фабрегас",
+      "Райан Гиггз",
+      "Уэйн Руни",
+      "Кевин Де Брейне"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c3e813d8-4feb-4dbc-8e42-535456520f0b"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Какова стандартная ширина футбольных ворот?",
+    "correct_answer": "8 ярдов",
+    "choices": [
+      "9 ярдов",
+      "8 ярдов",
+      "6 ярдов",
+      "7 ярдов"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "3167d7b1-7053-4452-b980-198b57ca2972"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "В каком году начались древние Олимпийские игры?",
+    "correct_answer": "776 г. до н. э.",
+    "choices": [
+      "776 г. до н. э.",
+      "632 г. до н. э.",
+      "490 г. до н. э.",
+      "850 г. до н. э."
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "92ec1a2e-2eb6-42cd-92c8-00b34b1a755a"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Кто считается основателем современных Олимпийских игр?",
+    "correct_answer": "Пьер де Кубертен",
+    "choices": [
+      "Эйвери Брендедж",
+      "Барон фон Штойбен",
+      "Пьер де Кубертен",
+      "Жюль Риме"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "0b5e149a-8e6c-41f6-ac38-220315d44ac9"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "В каком году прошли первые современные Олимпийские игры?",
+    "correct_answer": "1896",
+    "choices": [
+      "1890",
+      "1896",
+      "1900",
+      "1904"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ce5e24a2-95dc-4277-bb17-b9c494656847"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Какой город принял первые современные Олимпийские игры?",
+    "correct_answer": "Афины",
+    "choices": [
+      "Рим",
+      "Париж",
+      "Лондон",
+      "Афины"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "8288bf24-e4f7-4eb1-b5ea-6645d30a883e"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Сколько колец изображено на олимпийском флаге?",
+    "correct_answer": "5",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "2d56011e-6b37-4cdc-a60d-a1468575de7a"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Что символизируют пять олимпийских колец?",
+    "correct_answer": "Пять населённых континентов",
+    "choices": [
+      "Пять стран-основательниц",
+      "Пять населённых континентов",
+      "Пять олимпийских ценностей",
+      "Пять первоначальных видов спорта"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ac9e7ad0-73a3-4813-a904-279d12cda821"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Каков официальный олимпийский девиз?",
+    "correct_answer": "Citius, Altius, Fortius",
+    "choices": [
+      "Citius, Altius, Fortius",
+      "Быстрее, выше, смелее",
+      "Один мир, одна мечта",
+      "Быстрее, выше, сильнее вместе"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "6dce4598-dfd6-4ad7-959a-cd6c1bddaf78"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Каков олимпийский девиз на английском?",
+    "correct_answer": "Faster, Higher, Stronger",
+    "choices": [
+      "Faster, Higher, Stronger",
+      "Quick, High, Strong",
+      "Speed, Height, Power",
+      "Swifter, Higher, Braver"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f2fa8e17-e95e-4392-a00a-e24121e6a635"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какой спортсмен является рекордсменом по количеству олимпийских золотых медалей?",
+    "correct_answer": "Майкл Фелпс",
+    "choices": [
+      "Майкл Фелпс",
+      "Карл Льюис",
+      "Марк Спитц",
+      "Усэйн Болт"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "3739f259-da1c-4702-9c4d-7a86197f0207"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Сколько всего олимпийских золотых медалей выиграл Майкл Фелпс?",
+    "correct_answer": "23",
+    "choices": [
+      "28",
+      "18",
+      "23",
+      "15"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "aa44855c-bed9-485f-baf8-36fcaca19c39"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "В какой дисциплине Усэйн Болт завоевал свою первую олимпийскую золотую медаль?",
+    "correct_answer": "100 метров",
+    "choices": [
+      "Эстафета 4×100 метров",
+      "200 метров",
+      "400 метров",
+      "100 метров"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c565ca43-8b84-45bd-9b1f-1463f6437785"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "В каком году Усэйн Болт совершил свой первый олимпийский тройной трипл?",
+    "correct_answer": "2016",
+    "choices": [
+      "2016",
+      "2008",
+      "2012",
+      "2020"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5dc0a269-eea6-4d4f-b82d-34fda1effbcc"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Сколько олимпийских золотых медалей завоевал Карл Льюис за свою карьеру?",
+    "correct_answer": "9",
+    "choices": [
+      "8",
+      "10",
+      "9",
+      "7"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "67d6abf4-a61f-4ec1-9f88-84e72aebc616"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Кто был первой женщиной, выигравшей олимпийское золото в спортивной гимнастике в многоборье?",
+    "correct_answer": "Лариса Латынина",
+    "choices": [
+      "Ольга Корбут",
+      "Лариса Латынина",
+      "Надя Команечи",
+      "Симона Байлз"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5ae4ff69-6347-4d89-a36b-3e2ae96b13fc"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "На Олимпийских играх 1936 года в Берлине какой афроамериканский спортсмен выиграл четыре золотые медали?",
+    "correct_answer": "Джесси Оуэнс",
+    "choices": [
+      "Джеки Робинсон",
+      "Ральф Меткалф",
+      "Джесси Оуэнс",
+      "Джо Луис"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f36fbb2b-6c47-4bf7-9b27-3a4dd5dd0a03"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая страна принимала летние Олимпийские игры больше всего раз?",
+    "correct_answer": "США",
+    "choices": [
+      "США",
+      "Великобритания",
+      "Греция",
+      "Франция"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "546ff341-3a4d-4159-86dc-9cf018ac407d"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Сколько раз Лондон принимал Олимпийские игры?",
+    "correct_answer": "3",
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "8d831bea-496a-4da6-9a8d-1592908c7470"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Какой город принимал летние Олимпийские игры 2000 года?",
+    "correct_answer": "Сидней",
+    "choices": [
+      "Пекин",
+      "Атланта",
+      "Афины",
+      "Сидней"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "c0783d3c-1187-4320-8c9c-7310aa953880"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "В каком году Олимпийские игры впервые включили женские легкоатлетические соревнования?",
+    "correct_answer": "1928",
+    "choices": [
+      "1928",
+      "1936",
+      "1912",
+      "1900"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "8365b43a-ad84-4082-9a3d-c1638e276e0d"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какой самый старый непрерывный вид спорта на Олимпийских играх?",
+    "correct_answer": "Лёгкая атлетика",
+    "choices": [
+      "Фехтование",
+      "Лёгкая атлетика",
+      "Борьба",
+      "Плавание"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "84791304-eac7-471c-95be-29f0c0caf8af"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая страна завоевала больше всего олимпийских медалей в истории?",
+    "correct_answer": "США",
+    "choices": [
+      "Китай",
+      "Великобритания",
+      "США",
+      "Советский Союз"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "97713bd9-7ab9-44a0-9c7e-20d47803569a"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Какая гимнастка получила идеальную оценку 10 на Олимпийских играх 1976 года в Монреале?",
+    "correct_answer": "Надя Команечи",
+    "choices": [
+      "Ольга Корбут",
+      "Симона Байлз",
+      "Надя Команечи",
+      "Мэри Лу Реттон"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "65417b80-2dc5-4bb1-beb1-7013db91a718"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Сколько золотых медалей завоевала Симона Байлз на Олимпийских играх 2016 года в Рио?",
+    "correct_answer": "4",
+    "choices": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "b6a9d684-958a-46a1-9b3d-016593041908"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Что символизирует олимпийский факел?",
+    "correct_answer": "Чистоту и стремление к совершенству",
+    "choices": [
+      "Бога солнца Аполлона",
+      "Свет знаний",
+      "Огонь соревнований",
+      "Чистоту и стремление к совершенству"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5fe9f958-c6f2-4555-a096-042a833bf735"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая страна бойкотировала Олимпийские игры 1980 года в Москве?",
+    "correct_answer": "США",
+    "choices": [
+      "Китай",
+      "Советский Союз",
+      "США",
+      "Восточная Германия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "0f3f94bf-8be4-4567-be15-cab395d53790"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая страна бойкотировала Олимпийские игры 1984 года в Лос-Анджелесе в ответ?",
+    "correct_answer": "Советский Союз",
+    "choices": [
+      "Китай",
+      "Куба",
+      "Восточная Германия",
+      "Советский Союз"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "9b029875-fd24-4377-9860-c988c16b098a"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "В каком виде спорта спортсмен выполняет упражнение на бревне шириной 4 дюйма?",
+    "correct_answer": "Спортивная гимнастика",
+    "choices": [
+      "Фигурное катание",
+      "Художественная гимнастика",
+      "Прыжки в воду",
+      "Спортивная гимнастика"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "1ced3747-2c53-4c84-94c8-541e002a0d70"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая олимпийская дистанция в плавании является самой длинной?",
+    "correct_answer": "1500 метров вольным стилем",
+    "choices": [
+      "200 метров баттерфляем",
+      "800 метров вольным стилем",
+      "400 метров комплексным плаванием",
+      "1500 метров вольным стилем"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5786e62f-4145-4597-86ee-007200578f79"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Сколько дисциплин в современном пятиборье?",
+    "correct_answer": "5",
+    "choices": [
+      "7",
+      "6",
+      "3",
+      "5"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "89c82fd7-5dd7-45c4-ac5e-2e75e8d8e3a2"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая страна завоевала больше всего медалей на Олимпийских играх 2020 года в Токио?",
+    "correct_answer": "США",
+    "choices": [
+      "Китай",
+      "Япония",
+      "США",
+      "Великобритания"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "93014822-1219-4bee-9185-cb4dd942a6c8"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "В каком году зимние и летние Олимпийские игры проводились в один и тот же год в последний раз?",
+    "correct_answer": "1992",
+    "choices": [
+      "1996",
+      "1992",
+      "1988",
+      "1994"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "ffc7c2ef-5a1e-4720-87f2-b724f5a63b17"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая страна завоевала больше всего зимних олимпийских медалей за всё время?",
+    "correct_answer": "Норвегия",
+    "choices": [
+      "Канада",
+      "США",
+      "Россия",
+      "Норвегия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7aa50e81-3419-4bb5-bc60-a90b90040b0a"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Какой спортсмен имеет больше всего зимних олимпийских медалей?",
+    "correct_answer": "Марит Бьёрген",
+    "choices": [
+      "Ирен Вюст",
+      "Бьёрн Дели",
+      "Уле Эйнар Бьёрндален",
+      "Марит Бьёрген"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e6379fe8-0875-4668-9435-5f2fe1304f65"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какой олимпийский вид спорта требует, чтобы участники приводили свою лошадь?",
+    "correct_answer": "Конный спорт",
+    "choices": [
+      "Пятиборье",
+      "Гонки на колесницах",
+      "Конный спорт",
+      "Поло"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "15be5783-65ea-4ba1-9d42-ac42c486915f"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Какой олимпийский вид спорта был представлен на Играх 1900 года в Париже и включал стрельбу по живым голубям?",
+    "correct_answer": "Стрельба по живым голубям",
+    "choices": [
+      "Стрельба по живым голубям",
+      "Стендовая стрельба",
+      "Арбалет",
+      "Стрельба из лука"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f7d52bd6-025e-475c-af7b-5dc07631facf"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "На каких Олимпийских играх дебютировал женский марафон?",
+    "correct_answer": "1984 Лос-Анджелес",
+    "choices": [
+      "1988 Сеул",
+      "1976 Монреаль",
+      "1992 Барселона",
+      "1984 Лос-Анджелес"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "00fca2ce-88aa-4b71-b810-3fc9e8c08108"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Какая страна завоевала первую олимпийскую золотую медаль в женском футболе?",
+    "correct_answer": "США",
+    "choices": [
+      "Норвегия",
+      "Германия",
+      "США",
+      "Бразилия"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "15fb6497-557b-4172-b333-8ef798372a08"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Кто завоевал первую олимпийскую золотую медаль для США в 1896 году?",
+    "correct_answer": "Джеймс Коннолли",
+    "choices": [
+      "Джон Пейн",
+      "Джеймс Коннолли",
+      "Томас Берк",
+      "Роберт Гарретт"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "18537635-dd31-4307-a89a-ecf7320bf00e"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Какой олимпийский стиль плавания самый медленный?",
+    "correct_answer": "Брасс",
+    "choices": [
+      "Вольный стиль",
+      "Брасс",
+      "На спине",
+      "Баттерфляй"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "068d95e9-75ea-4e01-ae4f-25f3e481bf9b"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Что из перечисленного НЕ является олимпийским боевым видом спорта?",
+    "correct_answer": "Смешанные единоборства",
+    "choices": [
+      "Бокс",
+      "Смешанные единоборства",
+      "Тхэквондо",
+      "Дзюдо"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a82ee632-f6ae-4795-a11d-523e5ed0a443"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Кто был знаменосцем олимпийской команды беженцев на церемонии открытия 2016 года в Рио?",
+    "correct_answer": "Пополе Мизенга",
+    "choices": [
+      "Рами Анис",
+      "Йеч Пур Бьел",
+      "Юсра Мардини",
+      "Пополе Мизенга"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "2d8e93e5-8ab9-475e-bee4-45e4c2456b7b"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Какова дистанция олимпийского марафона?",
+    "correct_answer": "42,195 километра",
+    "choices": [
+      "26 миль",
+      "42 километра",
+      "42,195 километра",
+      "40 километров"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "0043eccb-385b-4db3-955b-88623a1084a4"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "В каком году начались Паралимпийские игры?",
+    "correct_answer": "1960",
+    "choices": [
+      "1952",
+      "1964",
+      "1960",
+      "1948"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "46904d52-6d61-4bc1-accf-38c20a5c5c22"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Кто основал паралимпийское движение?",
+    "correct_answer": "Сэр Людвиг Гуттман",
+    "choices": [
+      "Пьер де Кубертен",
+      "Эйвери Брендедж",
+      "Сэр Людвиг Гуттман",
+      "Хуан Антонио Самаранч"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "1488e1b7-5521-4bfe-8302-3dd26f46fefd"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какая страна принимала Олимпийские игры, которые не проводились в запланированный год?",
+    "correct_answer": "Япония",
+    "choices": [
+      "Германия",
+      "Австралия",
+      "США",
+      "Япония"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "21670ca5-7caf-40ba-8d1b-e23113a2abfc"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Почему были отменены Олимпийские игры 1916 года?",
+    "correct_answer": "Первая мировая война",
+    "choices": [
+      "Испанский грипп",
+      "Великая депрессия",
+      "Вторая мировая война",
+      "Первая мировая война"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "9ff1c3b8-a228-4fd5-8899-7377b3d63574"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какие Олимпийские игры были отменены из-за Второй мировой войны?",
+    "correct_answer": "1940 и 1944",
+    "choices": [
+      "только 1944",
+      "1936 и 1940",
+      "1940 и 1944",
+      "только 1940"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "bffeacf9-92b4-42a6-ac95-a92db24be79b"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Какая страна завоевала свою первую олимпийскую золотую медаль на Олимпийских играх 2020 года в Токио в женском плавании брассом на 100 метров?",
+    "correct_answer": "ЮАР",
+    "choices": [
+      "Кения",
+      "Филиппины",
+      "ЮАР",
+      "Ямайка"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e04889d2-e45c-46dd-80d1-f1777d9ebef3"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Какой баскетболист из США демонстративно отказался от своей золотой медали на Олимпийских играх 1936 года из-за расовой дискриминации?",
+    "correct_answer": "Джо Фортенберри",
+    "choices": [
+      "Джо Фортенберри",
+      "Джесси Оуэнс",
+      "Сэмми Ли",
+      "Джон Вудрафф"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "cee5a041-1c9b-4ab4-98d3-ade2fd31c6d4"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Каков диаметр теннисного мяча в дюймах?",
+    "correct_answer": "2.7 дюйма",
+    "choices": [
+      "2.3 дюйма",
+      "2.7 дюйма",
+      "3.0 дюйма",
+      "2.5 дюйма"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "312f8088-9dff-4594-bdf6-5214e5eacc55"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Какой вид спорта единственный присутствовал на всех современных Олимпийских играх с 1896 года?",
+    "correct_answer": "Легкая атлетика, велоспорт, фехтование и гимнастика",
+    "choices": [
+      "Легкая атлетика, велоспорт, фехтование и гимнастика",
+      "Легкая атлетика, плавание, фехтование и тяжелая атлетика",
+      "Легкая атлетика, плавание и велоспорт",
+      "Плавание, легкая атлетика и борьба"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5f664c77-58e1-4e5d-a2aa-247b13e10031"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Какой турнир Большого шлема проводится на грунтовых кортах?",
+    "correct_answer": "Открытый чемпионат Франции",
+    "choices": [
+      "Открытый чемпионат Франции",
+      "Уимблдон",
+      "Открытый чемпионат США",
+      "Открытый чемпионат Австралии"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "64fc8f94-a7d5-4cac-9243-08125b0a9763"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Сколько титулов Большого шлема в одиночном разряде у Роджера Федерера?",
+    "correct_answer": "20",
+    "choices": [
+      "24",
+      "20",
+      "22",
+      "18"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "58ee8c0b-5fe0-46df-a63f-62a1d353aca9"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Какое покрытие кортов на Уимблдоне?",
+    "correct_answer": "Трава",
+    "choices": [
+      "Трава",
+      "Грунт",
+      "Хард",
+      "Ковер"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "9164b4d0-96f3-4535-a0cd-029d916d7cd7"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какой игрок удерживает рекорд по количеству титулов Большого шлема в одиночном разряде?",
+    "correct_answer": "Новак Джокович",
+    "choices": [
+      "Роджер Федерер",
+      "Новак Джокович",
+      "Серена Уильямс",
+      "Рафаэль Надаль"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "899a0d9a-7ae5-4202-932b-59b2ef33f3fd"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Как в теннисе называется счет, равный нулю?",
+    "correct_answer": "Лав",
+    "choices": [
+      "Ноль",
+      "Зеро",
+      "Эйс",
+      "Лав"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "b3a41f35-04a7-439c-99ad-cde382c649aa"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Сколько геймов нужно выиграть, чтобы взять стандартный сет в теннисе?",
+    "correct_answer": "6",
+    "choices": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "9685eb21-0c41-4bed-b550-35596b8f668c"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Кого называют 'Королем грунта'?",
+    "correct_answer": "Рафаэль Надаль",
+    "choices": [
+      "Бьорн Борг",
+      "Новак Джокович",
+      "Роджер Федерер",
+      "Рафаэль Надаль"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "762f48a9-e0e4-450d-a6d5-52b01756fc22"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "В каком году прошел первый Уимблдонский турнир?",
+    "correct_answer": "1877",
+    "choices": [
+      "1890",
+      "1877",
+      "1884",
+      "1901"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "1cb8cc47-3920-4a61-9b47-949756793c2a"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Как называется трофей, вручаемый чемпиону Уимблдона в мужском одиночном разряде?",
+    "correct_answer": "Кубок победителя в мужском одиночном разряде",
+    "choices": [
+      "Кубок вызова",
+      "Золотой трофей",
+      "Уимблдонский кубок",
+      "Кубок победителя в мужском одиночном разряде"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7763c649-4e82-4c55-84ee-27fb54a46970"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Какая страна принимает Открытый чемпионат Австралии?",
+    "correct_answer": "Австралия",
+    "choices": [
+      "Новая Зеландия",
+      "Австралия",
+      "Южная Африка",
+      "Соединенные Штаты"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "af65b55c-d05c-4683-9386-8ea70d13bf62"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Сколько раз Рафаэль Надаль выигрывал Открытый чемпионат Франции?",
+    "correct_answer": "14",
+    "choices": [
+      "14",
+      "15",
+      "13",
+      "12"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "b0cb8c4b-5f94-4d9f-9b9e-43f849ce9722"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Кто единственный теннисист, выигравший 'Золотой шлем' (все четыре турнира Большого шлема плюс олимпийское золото в один год)?",
+    "correct_answer": "Штеффи Граф",
+    "choices": [
+      "Штеффи Граф",
+      "Серена Уильямс",
+      "Мартина Навратилова",
+      "Маргарет Корт"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "fd9179a1-f50f-4686-90f0-f3b6180fb1d3"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Что означает 'ровно' (deuce) в теннисном счете?",
+    "correct_answer": "У обоих игроков по 40 очков",
+    "choices": [
+      "Счет 15-15",
+      "У обоих игроков по 40 очков",
+      "Одному игроку нужно еще одно очко для победы",
+      "Игра окончена"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "6770bcb3-04f6-4210-96c8-4a0fa3081fd7"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Какой турнир Большого шлема проводится на хардовых кортах в Нью-Йорке?",
+    "correct_answer": "Открытый чемпионат США",
+    "choices": [
+      "Открытый чемпионат Австралии",
+      "Открытый чемпионат США",
+      "Уимблдон",
+      "Открытый чемпионат Франции"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "4fa3e3f7-8f45-4594-8500-10147210bd0c"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Кому принадлежит рекорд самой быстрой подачи в истории тенниса?",
+    "correct_answer": "Джон Изнер",
+    "choices": [
+      "Энди Роддик",
+      "Джон Изнер",
+      "Сэм Грот",
+      "Иво Карлович"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "46d12547-57f3-4286-a82e-d505a752ab4c"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какие два игрока сыграли самый длинный матч в истории тенниса на Уимблдоне в 2010 году?",
+    "correct_answer": "Джон Изнер и Николя Маю",
+    "choices": [
+      "Джон Изнер и Николя Маю",
+      "Новак Джокович и Энди Маррей",
+      "Роджер Федерер и Рафаэль Надаль",
+      "Пит Сампрас и Андре Агасси"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "99219587-9875-4d88-a46e-e5750dfde553"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Сколько титулов Большого шлема в одиночном разряде у Серены Уильямс?",
+    "correct_answer": "23",
+    "choices": [
+      "21",
+      "22",
+      "24",
+      "23"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "dbe2a7a0-de91-438e-a197-c110e55e202b"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Как называется международное командное соревнование по теннису среди мужчин?",
+    "correct_answer": "Кубок Дэвиса",
+    "choices": [
+      "Кубок Хопмана",
+      "Кубок Лэйвера",
+      "Кубок Дэвиса",
+      "Кубок Федерации"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "068bceb4-a620-4991-a795-2f7cfd7bdcfb"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Какой американский игрок выиграл первый Открытый чемпионат США в 1881 году?",
+    "correct_answer": "Ричард Сирс",
+    "choices": [
+      "Джимми Коннорс",
+      "Билл Тилден",
+      "Дон Бадж",
+      "Ричард Сирс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5092e85a-7fbd-4e22-bb4f-2e03d9ab1206"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какое движение используется для удара по теннисному мячу с верхним вращением (топспином)?",
+    "correct_answer": "Снизу вверх",
+    "choices": [
+      "Сверху вниз",
+      "Плоский удар",
+      "Из стороны в сторону",
+      "Снизу вверх"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "0513e434-40ac-4d30-85e2-2d3b10af352b"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Кто самый молодой игрок, выигравший титул Большого шлема в одиночном разряде?",
+    "correct_answer": "Мартина Хингис",
+    "choices": [
+      "Трейси Остин",
+      "Дженнифер Каприати",
+      "Моника Селеш",
+      "Мартина Хингис"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "cd8fc47b-ceb9-46de-b4d8-c73fe217063c"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какой игрок выиграл 'Битву полов' в 1973 году?",
+    "correct_answer": "Билли Джин Кинг",
+    "choices": [
+      "Билли Джин Кинг",
+      "Крис Эверт",
+      "Маргарет Корт",
+      "Мартина Навратилова"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "712b06c0-cbb1-4665-b5cf-1b374bad6b37"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какова ширина корта для одиночной игры?",
+    "correct_answer": "27 футов",
+    "choices": [
+      "36 футов",
+      "30 футов",
+      "27 футов",
+      "24 фута"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a63c66a1-e4a8-465e-8d6e-bb0c3fd3d6a2"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какой игрок выиграл больше всего титулов Уимблдона в мужском одиночном разряде?",
+    "correct_answer": "Роджер Федерер",
+    "choices": [
+      "Роджер Федерер",
+      "Пит Сампрас",
+      "Бьорн Борг",
+      "Новак Джокович"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "5e66e31b-8a2e-4802-94fc-505d98ea17ec"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Какой последний крупный турнир в теннисном календаре?",
+    "correct_answer": "Открытый чемпионат США",
+    "choices": [
+      "Открытый чемпионат США",
+      "Открытый чемпионат Австралии",
+      "Уимблдон",
+      "Открытый чемпионат Франции"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "fc9c801a-0a55-4884-a94c-c7fdf34d8ba7"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Какого цвета теннисные мячи на Уимблдоне?",
+    "correct_answer": "Белые",
+    "choices": [
+      "Белые",
+      "Оранжевые",
+      "Зеленые",
+      "Желтые"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "63f2e1c4-ece5-4878-8a80-aadd7b198913"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Кто победил Роджера Федерера в финале Уимблдона 2008 года?",
+    "correct_answer": "Рафаэль Надаль",
+    "choices": [
+      "Энди Маррей",
+      "Рафаэль Надаль",
+      "Новак Джокович",
+      "Пит Сампрас"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "50773d38-50cd-4fef-a66d-561081d81b5e"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Сколько раз Новак Джокович выигрывал Открытый чемпионат Австралии?",
+    "correct_answer": "10",
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "07f4beb0-afd9-438e-8d07-99de1cbdb8dc"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какое покрытие обычно самое быстрое для тенниса?",
+    "correct_answer": "Трава",
+    "choices": [
+      "Трава",
+      "Хард",
+      "Ковер",
+      "Грунт"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "7c2000d6-47d8-4a59-bc3d-62d605c4593e"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Как называется подача, которую принимающий не касается?",
+    "correct_answer": "Эйс",
+    "choices": [
+      "Лет",
+      "Фолт",
+      "Смэш",
+      "Эйс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "687c3130-df5f-41c0-9a20-26a242866b0f"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Кто была первой афроамериканской женщиной, выигравшей титул Большого шлема?",
+    "correct_answer": "Алтея Гибсон",
+    "choices": [
+      "Алтея Гибсон",
+      "Зина Гаррисон",
+      "Серена Уильямс",
+      "Винус Уильямс"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "71085d5a-4268-4a04-ae46-58558e5420ca"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Как называется ежегодное командное соревнование между Европой и остальным миром?",
+    "correct_answer": "Кубок Лэйвера",
+    "choices": [
+      "Кубок Хопмана",
+      "Кубок ATP",
+      "Кубок Лэйвера",
+      "Кубок Дэвиса"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "d4248cc8-a2cb-4852-bca0-537900ad9568"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Какого игрока называют 'Джокер' (The Djoker)?",
+    "correct_answer": "Новак Джокович",
+    "choices": [
+      "Стэн Вавринка",
+      "Энди Маррей",
+      "Роджер Федерер",
+      "Новак Джокович"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "e1fe921e-9f99-488c-abd6-bade36271043"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Сколько очков в стандартном тай-брейке?",
+    "correct_answer": "До 7 очков",
+    "choices": [
+      "До 7 очков",
+      "До 6 очков",
+      "До 5 очков",
+      "До 10 очков"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "605af3f9-4dd7-42b3-970f-dccb02c02a16"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "В каком году теннис вернулся в программу Олимпийских игр как полноценный вид спорта?",
+    "correct_answer": "1988",
+    "choices": [
+      "1988",
+      "1996",
+      "1992",
+      "1984"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "43f4a466-be26-4d1e-bc06-b167108412df"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какой игрок провел больше всего недель на позиции первой ракетки мира в истории тенниса?",
+    "correct_answer": "Новак Джокович",
+    "choices": [
+      "Пит Сампрас",
+      "Роджер Федерер",
+      "Новак Джокович",
+      "Рафаэль Надаль"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "161e9027-4578-486a-9726-66157205b230"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Как называется международное командное соревнование по теннису среди женщин?",
+    "correct_answer": "Кубок Билли Джин Кинг",
+    "choices": [
+      "Женский Кубок Дэвиса",
+      "Кубок WTA",
+      "Кубок Федерации",
+      "Кубок Билли Джин Кинг"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "63b950ef-2c41-40f8-841e-f6d79be3ffba"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Какой игрок выиграл больше всего титулов Большого шлема в одиночном разряде в 1990-х годах?",
+    "correct_answer": "Пит Сампрас",
+    "choices": [
+      "Пит Сампрас",
+      "Джим Курье",
+      "Андре Агасси",
+      "Борис Беккер"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "844d4b47-a075-4c2e-81f3-804c63f90937"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Что означает 'лет' (let) в теннисе?",
+    "correct_answer": "Подача, которая задела сетку, но приземлилась в площади подачи",
+    "choices": [
+      "Подача, которая задела сетку, но приземлилась в площади подачи",
+      "Подача, которая приземлилась за пределами корта",
+      "Пропущенный удар",
+      "Двойная ошибка"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "42520f31-fb4e-4772-bf23-8eb5fb62e36e"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какой игрок носил культовую экипировку Fila в 1980-х годах?",
+    "correct_answer": "Бьорн Борг",
+    "choices": [
+      "Бьорн Борг",
+      "Иван Лендл",
+      "Джимми Коннорс",
+      "Джон Макинрой"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "27fd597a-1fa9-49ab-90c1-cd435fd52331"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Какова высота стандартной теннисной сетки в центре?",
+    "correct_answer": "3 фута",
+    "choices": [
+      "3 фута",
+      "2 фута 6 дюймов",
+      "2 фута",
+      "3 фута 6 дюймов"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "fedf61d4-e4ef-4861-90b1-a1daff30efc8"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какая китайская теннисистка выиграла два титула Большого шлема в одиночном разряде в 2011 и 2014 годах?",
+    "correct_answer": "Ли На",
+    "choices": [
+      "Ли На",
+      "Чжэн Цзе",
+      "Чжан Шуай",
+      "Ван Цян"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a9ce7bf5-9a7f-4b8e-a6d5-658076522e5d"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Кто самый возрастной игрок, выигравший титул Большого шлема в одиночном разряде в Открытую эру?",
+    "correct_answer": "Роджер Федерер",
+    "choices": [
+      "Новак Джокович",
+      "Рафаэль Надаль",
+      "Кен Розуолл",
+      "Роджер Федерер"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "85a975ab-bbeb-4d62-a3e8-177934004d08"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Как называется трофей, вручаемый чемпиону Открытого чемпионата Франции в мужском одиночном разряде?",
+    "correct_answer": "Кубок мушкетеров",
+    "choices": [
+      "Трофей Ролан Гаррос",
+      "Кубок Открытого чемпионата Франции",
+      "Кубок мушкетеров",
+      "Coupe des Mousquetaires"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "855fcc4c-a482-4f4d-ae3c-d5b734b6b188"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Какой игрок выиграл золотую медаль в мужском одиночном разряде на Олимпийских играх 2008 года в Пекине?",
+    "correct_answer": "Рафаэль Надаль",
+    "choices": [
+      "Новак Джокович",
+      "Рафаэль Надаль",
+      "Роджер Федерер",
+      "Энди Маррей"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "4d5aadb7-5910-402c-9f21-87b8c0ac64ab"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Что означает 'ATP' в теннисе?",
+    "correct_answer": "Ассоциация теннисистов-профессионалов",
+    "choices": [
+      "Ассоциация теннисистов-профессионалов",
+      "Американские теннисные профессионалы",
+      "Все теннисисты",
+      "Продвинутые теннисисты"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "da2f12dd-da9b-4d14-86c4-7146e8c6bb6f"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Какая теннисистка имеет самую длинную серию подряд недель на позиции первой ракетки мира?",
+    "correct_answer": "Штеффи Граф",
+    "choices": [
+      "Мартина Навратилова",
+      "Серена Уильямс",
+      "Крис Эверт",
+      "Штеффи Граф"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "f490b721-a7b9-4965-a5c4-1a4993882684"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Сколько игроков входят в стандартную команду в парном теннисе?",
+    "correct_answer": "2",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "a75c0163-bd8f-426b-bb6d-be5429e81724"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Какая теннисистка победила Серену Уильямс в финале Уимблдона 2018 года?",
+    "correct_answer": "Анжелика Кербер",
+    "choices": [
+      "Гарбинье Мугуруса",
+      "Анжелика Кербер",
+      "Наоми Осака",
+      "Симона Халеп"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "ru",
+    "translation_key": "79840e08-a0f6-4997-b626-58428729b9fd"
+  }
+]

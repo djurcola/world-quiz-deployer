@@ -1,0 +1,4242 @@
+[
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "LFP電池正極的活性材料是什麼？",
+    "correct_answer": "磷酸鐵鋰",
+    "choices": [
+      "磷酸鐵鋰",
+      "鈷酸鋰",
+      "錳酸鋰",
+      "鎳酸鋰"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b7d4ac19b3e6ef35234bc430e10a934cc1e7df90a76f5b399b3053c392a19b1b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "鋰離子電池的內阻隨著老化會如何變化？",
+    "correct_answer": "增加",
+    "choices": [
+      "增加",
+      "減少",
+      "保持不變",
+      "擺動"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "36fad1b8cf03ac4d3f1da4b7abeffb0c63a6d110fa3b2fb81881047af5ee97ff"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "鋰離子電池中的SEI層是什麼？",
+    "correct_answer": "首次充電時在陽極上形成的鈍化膜",
+    "choices": [
+      "首次充電時在陽極上形成的鈍化膜",
+      "電芯之間的安全隔離層",
+      "陰極上的導電塗層",
+      "模組之間的熱屏障"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "065c3dccb5913d6232bb115061ab396fa3d234d5e40be05b176820a4ebb7d7a3"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "鋰離子電池中的電解液主要促進什麼作用？",
+    "correct_answer": "陽極和陰極之間的離子傳輸",
+    "choices": [
+      "陽極和陰極之間的離子傳輸",
+      "電子傳導至外部端子",
+      "電極的機械支撐",
+      "散熱至電池外殼"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d4114b4a288256e727a384019f82f68a15b7efc319885c801b2bd9718d779bf4"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "鋰離子電池電解液中最常用的溶劑是什麼？",
+    "correct_answer": "碳酸乙烯酯",
+    "choices": [
+      "碳酸乙烯酯",
+      "丙二醇",
+      "蒸餾水",
+      "硫酸"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "01a6a96a15424e79bce5836f4a78ed90cd2c7138d409623b926d0dada3d383f5"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "鋰離子電池電解液中通常溶解的鋰鹽是什麼？",
+    "correct_answer": "六氟磷酸鋰 (LiPF₆)",
+    "choices": [
+      "六氟磷酸鋰 (LiPF₆)",
+      "氯化鈉 (NaCl)",
+      "氫氧化鋰 (LiOH)",
+      "氫氧化鉀 (KOH)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e904708ed6f489f7a70e4be7e1c0119e2add046797c85cbc5a68edfd427937a8"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "NMC電池中熱失控通常在哪個溫度開始？",
+    "correct_answer": "約150-180 °C",
+    "choices": [
+      "約70-90 °C",
+      "約100-120 °C",
+      "約150-180 °C",
+      "超過300 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d102caaf38cfce9bb5688458dd30cf4f8a2f0e3d9ac48a60daa6f612619ef967"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "LFP電池每月的典型自放電率是多少？",
+    "correct_answer": "1-3%",
+    "choices": [
+      "0.1-0.3%",
+      "1-3%",
+      "5-8%",
+      "10-15%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "be8dacd40a81e57e31182653c5a9e3c45c87bfa95da7190140294f61bfbdd44c"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "電池中的鋰析出是什麼？",
+    "correct_answer": "快充或低溫時在陽極上沉積金屬鋰",
+    "choices": [
+      "快充或低溫時在陽極上沉積金屬鋰",
+      "一種在陰極表面塗層的製造過程",
+      "添加外部鋰層以提升容量",
+      "放電過程中鋰晶體的自然形成"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "11544758692a5141973a937efb47e8a51f64777c1a3808dfe6a6e89ce7ec2101"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "NMC相比LFP在重量能量密度上的優勢是什麼？",
+    "correct_answer": "高出30-50%",
+    "choices": [
+      "高出5-10%",
+      "高出30-50%",
+      "高出80-100%",
+      "NMC實際上比LFP低"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3b3824211f892c7565369b3cef3ee1942381e18ef8368d81f582c7428f7322e0"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "在電池特性中，OCV代表什麼？",
+    "correct_answer": "開路電壓",
+    "choices": [
+      "開路電壓",
+      "過電流電壓",
+      "最佳電芯電壓",
+      "運行充電電壓"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "308778c9f700d5eae118d5947c2117c0f39c3d6f5603333c3f4effcf45e64622"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "電池製造中的化成循環是什麼？",
+    "correct_answer": "初始充放電循環以形成SEI層",
+    "choices": [
+      "初始充放電循環以形成SEI層",
+      "將電芯組裝成模組的最終工序",
+      "在高溫下測試電芯",
+      "校準BMS電壓感測器"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "06e43d36e9e15ad1b77723988e66df4195a2f9ff290fc84b599de75f35bf958d"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "電網級BESS的典型壽命終止標準是什麼？",
+    "correct_answer": "容量衰減至初始額定容量的70-80%",
+    "choices": [
+      "容量衰減至初始額定容量的70-80%",
+      "容量衰減至50%",
+      "任何單一電芯完全失效",
+      "運行正好10年後"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "5834d56f9cd387c34096bc506aa5b0be0d7bc095131c9d638e015d0031cf9e0b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "鋰離子電池中隔膜的作用是什麼？",
+    "correct_answer": "防止陽極和陰極之間的電接觸，同時允許離子流動",
+    "choices": [
+      "防止陽極和陰極之間的電接觸，同時允許離子流動",
+      "在機架中分隔不同的電池模組",
+      "過濾電解液中的雜質",
+      "將電池與外部電路隔離"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2dccc97c7d33180b60a3ca56d3f3cc472bd03c71928656a8b1fbb66660979cc2"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "低溫下電池容量會發生什麼變化？",
+    "correct_answer": "由於內阻增加而暫時下降",
+    "choices": [
+      "由於內阻增加而暫時下降",
+      "由於自放電減少而增加",
+      "保持完全相同",
+      "永久退化電芯"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d2e85517e6861cf41df95821b8c9bcc7e3bc0554442bdf1b1ba09011554072cf"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "電池化學中縮寫LFP代表什麼？",
+    "correct_answer": "磷酸鐵鋰",
+    "choices": [
+      "磷酸鐵鋰",
+      "氟化鋰聚合物",
+      "過氧化鋰亞鐵",
+      "磷酸鋰離子"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "65e8051af4904db681d0de68b7ee1b8f1eabfa8cc0423c6cc5abc1bd64a4d08e"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "LFP電芯的標稱電壓是多少？",
+    "correct_answer": "3.2 V",
+    "choices": [
+      "2.5 V",
+      "3.2 V",
+      "3.7 V",
+      "4.2 V"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6e3c58409a92aa4b47f6b924b08cac31ab88784b3eb2bbc3def7664c8214b280"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "NMC電池的正極材料是什麼？",
+    "correct_answer": "鎳錳鈷",
+    "choices": [
+      "鎳錳鈷",
+      "鎂鎳銅",
+      "氮鉬碳",
+      "釹鎂鈰"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "516b0927666006a44048977ff589c6a1c819a8de5276f42c67da4c55bcc0f983"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "LFP相比NMC化學的一個關鍵安全優勢是什麼？",
+    "correct_answer": "較高的熱失控起始溫度",
+    "choices": [
+      "較高的熱失控起始溫度",
+      "較高的能量密度",
+      "較低的製造成本",
+      "更快的充電速度"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "caf7f3e4bd5d6408c97242e513e6e7786169489582de9e5caa2accf2f8866521"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "典型電網級BESS的往返效率是多少？",
+    "correct_answer": "85-90%",
+    "choices": [
+      "65-70%",
+      "75-80%",
+      "85-90%",
+      "95-99%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b13e674a2a0f3d4e8819549213d5ea2981436a8d1108ce8da420fe8bf2f5c61a"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "C-rate描述電池的什麼？",
+    "correct_answer": "相對於容量的充放電電流",
+    "choices": [
+      "相對於容量的充放電電流",
+      "每kWh儲能的成本",
+      "製造的碳足跡",
+      "電芯的工作溫度範圍"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a1b275208da3d43fceb5c855b1e58055f9fc2f50fd2f0953c06086ec41a2fdcc"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "現代LFP電池在80%放電深度下的典型循環壽命是多少？",
+    "correct_answer": "6,000至10,000次循環",
+    "choices": [
+      "500至1,000次循環",
+      "2,000至4,000次循環",
+      "6,000至10,000次循環",
+      "15,000至20,000次循環"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "32d7af24f5815630eaedcb624779fb844ae0b8241e6e4a11ccd75d6a08f9c6f1"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "電池術語中SOC代表什麼？",
+    "correct_answer": "荷電狀態",
+    "choices": [
+      "荷電狀態",
+      "容量狀態",
+      "電芯狀態",
+      "系統運行條件"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d32b90dbd51ae5bb189a7c6e8f75d70d30651f673aef68ef2512e6acd0aed370"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "鋰離子電池在循環使用中主要的退化機制是什麼？",
+    "correct_answer": "陽極上固態電解質介面的增長",
+    "choices": [
+      "陽極上固態電解質介面的增長",
+      "陰極材料蒸發",
+      "電解液沸騰",
+      "電池外殼的物理開裂"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ba2d7a35203415be3a3b8090699644535eaf917e1be18b6b1b42e3c164eca45b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "DOD代表什麼？",
+    "correct_answer": "放電深度",
+    "choices": [
+      "放電深度",
+      "耗盡程度",
+      "放電持續時間",
+      "放電擴散"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ff98db1a737a88f06928821b9380f913d275561ade8b9a39c92bd4cde3dbaa2f"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "LFP電池在電芯層級的典型能量密度是多少？",
+    "correct_answer": "90-160 Wh/kg",
+    "choices": [
+      "50-80 Wh/kg",
+      "90-160 Wh/kg",
+      "200-260 Wh/kg",
+      "300-350 Wh/kg"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e4817fc9bddbc8f7e4bb375a8fe6f214f4d7c8eac0146637ba4b2b77d2843453"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "商用鋰離子電池中最常見的負極材料是什麼？",
+    "correct_answer": "石墨",
+    "choices": [
+      "石墨",
+      "矽",
+      "鈦酸鋰",
+      "鋁"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "5494222f1cb29a30b29b6357ed4c8fc6c6eb06ae74269b577b42351c6140ecca"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "單個鋰離子電芯的典型DC-DC往返能量效率是多少？",
+    "correct_answer": ">95%",
+    "choices": [
+      ">65%",
+      ">80%",
+      ">95%",
+      ">99.5%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "5007e1eaeca7d3661e4fcd7cced9c8199ffca0fe5bc8bd8db59f5b7b42f124bb"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "哪種電池化學使用液體釩電解液？",
+    "correct_answer": "全釩氧化還原液流電池",
+    "choices": [
+      "全釩氧化還原液流電池",
+      "鈦酸鋰",
+      "鈉硫",
+      "鎳鐵"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8ab2b72be3d1cddb1c017a15f05be62ecfee251db85553f8c3473bbe1fe81f57"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "鋰離子BESS集裝箱的典型工作溫度範圍是多少？",
+    "correct_answer": "15-30 °C",
+    "choices": [
+      "-20 至 0 °C",
+      "0 至 15 °C",
+      "15-30 °C",
+      "40-60 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "928d979cecc9cebffec001a186c96abea055e8e8f719dfb79a058d1b4d406edb"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "鈉硫電池用於電網儲存的主要優勢是什麼？",
+    "correct_answer": "原材料豐富且低成本",
+    "choices": [
+      "原材料豐富且低成本",
+      "可用的最高能量密度",
+      "常溫運行",
+      "最快的響應時間"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8ed137d006f7eaed4c3a36741eedc7d6e2be509be16715b689cb7b732dafb87c"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "電池管理中SOH代表什麼？",
+    "correct_answer": "健康狀態",
+    "choices": [
+      "健康狀態",
+      "熱狀態",
+      "系統運行幫助",
+      "標準運行小時"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ead6c07d257a6d1e542e27b183b6872f304c2c85098791f8e31501c50aaa3e86"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "哪種自我強化的放熱反應是電池火災的主要原因？",
+    "correct_answer": "熱失控",
+    "choices": [
+      "熱失控",
+      "熱平衡",
+      "放電放熱",
+      "過電流連鎖"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2c533ef7f1a98037aefac1afd946bbe7f57024eb1153dd096f70f993c56bfcf9"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "鋰離子電池中銅溶解通常從哪個電壓開始？",
+    "correct_answer": "低於2.0 V",
+    "choices": [
+      "低於2.0 V",
+      "低於1.0 V",
+      "高於3.8 V",
+      "高於4.5 V"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d20b31aeaa0f2cfb64323a23d1ea377ee2fa47bce90ccd0c9b404c55d9eb556b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "公用事業規模BESS集裝箱的典型直流側電壓水平是多少？",
+    "correct_answer": "1,000 至 1,500 V",
+    "choices": [
+      "400 至 600 V",
+      "1,000 至 1,500 V",
+      "3,000 至 5,000 V",
+      "150 至 300 V"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6c0e067a67db9b0ce15d7f43ded378ae935996de9e86f77ba2bbc6029debf820"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家儲能公司由前特斯拉能源高管創立？",
+    "correct_answer": "Plus Power",
+    "choices": [
+      "Plus Power",
+      "Fluence",
+      "Powin",
+      "Key Capture Energy"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ea15a419126263c969fda78d498f6591e64d475f667c5779b3dcd5313ddfdf0c"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "華為的公用事業規模BESS產品品牌名稱是什麼？",
+    "correct_answer": "Luna 2.0",
+    "choices": [
+      "Luna 2.0",
+      "Blade BESS",
+      "PowerVault",
+      "Sungrid"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "bbc2fbde7ea9862feeba9ae5807055211f63787d6c9b663b42174d375f03d78d"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家儲能公司總部位於俄勒岡州，並以Centipede平台聞名？",
+    "correct_answer": "Powin",
+    "choices": [
+      "Powin",
+      "Fluence",
+      "FlexGen",
+      "Stem"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d6fc872a326e6798fe2401d938d652c63e3af081e0860bf7daa95c6e2803f2d8"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Wartsila的BESS產品線名稱是什麼？",
+    "correct_answer": "GridSolv Quantum",
+    "choices": [
+      "GridSolv Quantum",
+      "GridScale Power",
+      "WattStore",
+      "EnergyArk"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "546622d598aa7d14badb4978abc4c8a2e074d83accef66c3efee4c6a8c17e55f"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "億緯鋰能的BESS產品名稱是什麼？",
+    "correct_answer": "Mr. Giant",
+    "choices": [
+      "Mr. Giant",
+      "Mr. Big",
+      "Power Stack",
+      "E-Cube"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6b713a8abc9c57120f9dcee61278f17228da650d97b50e8bbd4904651f449bf5"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家儲能集成商使用HybridOS EMS平台？",
+    "correct_answer": "FlexGen",
+    "choices": [
+      "FlexGen",
+      "Fluence",
+      "Powin",
+      "Wartsila"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "81e181ceb375fba56a86f8d78de02563d120efe3d6a6b5119bac28e968cb0a5c"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "在儲能服務中LTSA代表什麼？",
+    "correct_answer": "長期服務協議",
+    "choices": [
+      "長期服務協議",
+      "負載轉移和儲能分配",
+      "許可技術服務代理",
+      "生命周期測試和安全審計"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "7e408748a948cb8ee87672a84304f40f36fa9e86fa8344b9ffda32dfef597299"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "哪家中國BESS製造商供應刀片電池技術？",
+    "correct_answer": "比亞迪",
+    "choices": [
+      "比亞迪",
+      "寧德時代",
+      "國軒高科",
+      "中創新航"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "764fc4920f183b6ac2752eac32b9e7d7caae953fd154d1c66fe606bba2fc8ba4"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "寧德時代的電池到包（CTP）技術的關鍵特點是什麼？",
+    "correct_answer": "消除模組級別，將電芯直接封裝到電池包中",
+    "choices": [
+      "消除模組級別，將電芯直接封裝到電池包中",
+      "使用無線電芯監控代替有線BMS",
+      "將PCS集成到電池模組內部",
+      "用被動風冷代替液冷"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b94178f470c6e589c514536957973b726f9c428e235ca6ad4fd15d1586aeec7b"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家公司主要為北美市場生產REC 2.0 GWh/年的BESS電芯？",
+    "correct_answer": "美國電池工廠 (ABF)",
+    "choices": [
+      "美國電池工廠 (ABF)",
+      "特斯拉",
+      "Kore Power",
+      "LG新能源"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e7a55522ab692abf2d43e654d29d3f3d608e1f3d552130b1965ab801bf061e39"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "easy",
+    "question_text": "哪家公司生產Megapack公用事業規模電池產品？",
+    "correct_answer": "特斯拉",
+    "choices": [
+      "特斯拉",
+      "Fluence",
+      "陽光電源",
+      "Powin"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8b637cf8b58510077e38808892441f10e210884c77f79fecd623e0d6efd3ca38"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "哪家儲能集成商是西門子和AES的合資企業？",
+    "correct_answer": "Fluence",
+    "choices": [
+      "Fluence",
+      "Wartsila",
+      "陽光電源",
+      "Powin"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4ffeff1bd011edd3b0b9b87e15a774c61d0fb7fc81903b78ffda2b4436b6a00c"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "easy",
+    "question_text": "哪家中國公司是全球最大的電動車和固定式電池製造商（按容量計）？",
+    "correct_answer": "寧德時代",
+    "choices": [
+      "寧德時代",
+      "比亞迪",
+      "億緯鋰能",
+      "國軒高科"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "73b169f12095240f779ecdaebfd8cb20b73442aec352ac8113eb1ded7a427288"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "比亞迪的公用事業規模BESS產品品牌名稱是什麼？",
+    "correct_answer": "比亞迪 Cube",
+    "choices": [
+      "比亞迪 Cube",
+      "比亞迪 Blade",
+      "比亞迪 Stack",
+      "比亞迪 Block"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ba636f767fde64afdcf4e1733beffe831af335e0d41893e6929222470c02e3e7"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "哪家芬蘭科技公司擁有大型電網規模BESS部門？",
+    "correct_answer": "瓦錫蘭",
+    "choices": [
+      "瓦錫蘭",
+      "ABB",
+      "諾基亞",
+      "通力"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4fd0585092449b28c312602bb28fdd3c2415748817d027e5ae0683b3957a0966"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家公司開發了 GridStack 和 Centipede BESS 平台？",
+    "correct_answer": "Fluence",
+    "choices": [
+      "Fluence",
+      "Tesla",
+      "Wartsila",
+      "Sungrow"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c2f5dab1993624a4e636435e27ba124fa42be4d8f7ecf2608e1c5b56f0fd9bca"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "哪家總部位於中國合肥的主要逆變器製造商是全球前三的 BESS 整合商？",
+    "correct_answer": "Sungrow",
+    "choices": [
+      "Sungrow",
+      "Huawei",
+      "Ginlong Solis",
+      "Chint Power"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a2394e88db8ad7b310c53839d7e24f077f1df5a4115bc4b893df1fa9185f00e4"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家美國 BESS 整合商被 SK 集團的子公司收購？",
+    "correct_answer": "Key Capture Energy",
+    "choices": [
+      "Key Capture Energy",
+      "Powin",
+      "FlexGen",
+      "Plus Power"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "bae032dc19fb7132f550a00e11f547792d985818eea71cc8f734e4cb9d1a7738"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "特斯拉位於加州的 BESS 製造設施叫什麼名字？",
+    "correct_answer": "拉斯羅普超級工廠",
+    "choices": [
+      "拉斯羅普超級工廠",
+      "內華達超級工廠 1",
+      "德州超級工廠",
+      "弗里蒙特工廠"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "737e3db30c391cbee30fb312a2f49fb08f9444096e4ceb478cbe9244d317f6a4"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "哪家韓國電池製造商同時也是全球 BESS 電芯的主要供應商？",
+    "correct_answer": "LG Energy Solution",
+    "choices": [
+      "LG Energy Solution",
+      "Hyundai Electric",
+      "Doosan GridTech",
+      "POSCO"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e512cae36e74989be66143ef1cf4820b6979dfb1704093bd75c4f7a611970f91"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家 BESS 整合商使用 Modular StackOS 軟體平台？",
+    "correct_answer": "Powin",
+    "choices": [
+      "Powin",
+      "Fluence",
+      "Tesla",
+      "Wartsila"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e44c8eb877bc44224b7e1d0cef97913e598f0a881934a1be2345bcf35aab0e87"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "CATL 廣泛應用於 BESS 的磷酸鐵鋰電池電芯叫什麼？",
+    "correct_answer": "LFP 280 Ah 電芯",
+    "choices": [
+      "LFP 280 Ah 電芯",
+      "LFP 100 Ah 電芯",
+      "LFP 500 Ah 電芯",
+      "LFP 1,000 Ah 電芯"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "61c10840846038dc92ba2e96ea3f870e5525a17fdb7afa0a22c1ce36ee78a011"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家公司與西門子合資共同擁有 Fluence？",
+    "correct_answer": "AES Corporation",
+    "choices": [
+      "AES Corporation",
+      "Duke Energy",
+      "NextEra Energy",
+      "Southern Company"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "36dc7f9236b4df257e2e48727a415bd149f527b84b783f7c35482fb9c19e9f72"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "哪家美國 AI 驅動的儲能優化公司被 Enphase 收購？",
+    "correct_answer": "GreenCom Networks",
+    "choices": [
+      "GreenCom Networks",
+      "AutoGrid",
+      "Stem",
+      "AMS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "1727618f4bb3bb1372f6636f27f80f37b70eb430f61796069f86273b6bac2541"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Wartsila 為其電網級系統使用什麼 BESS 軟體和 EMS 平台？",
+    "correct_answer": "GEMS Digital Energy Platform",
+    "choices": [
+      "GEMS Digital Energy Platform",
+      "MOSAIC",
+      "Autobidder",
+      "OSPI"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "dd3d1319a3afdc3750dc73a9ca681f3fddf4148af6ca60c43b8640326e327188"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "大約需要多少個 Hornsdale Power Reserve 100 天等效電池才能為整個世界供電一天？",
+    "correct_answer": "大約 200 萬個",
+    "choices": [
+      "大約 200 萬個",
+      "大約 50 萬個",
+      "大約 10 萬個",
+      "大約 5,000 萬個"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "358f488f0b018d1603c7f12d464c71adf2dfc099eb66109dd9973161d32e559a"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "哪種常見的礦用車輛已成功改裝為世界上最大的電動車，並配備了巨大的電池？",
+    "correct_answer": "小松礦用卡車（eDumper）",
+    "choices": [
+      "小松礦用卡車（eDumper）",
+      "卡特彼勒推土機",
+      "斗輪挖掘機",
+      "隧道掘進機"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f4c3a9169b9f6844f9a13ada905387904b1c86d4fa6001ba6ba9b91507282b06"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "哪種日常物品所含的鋰量約等於 10,000 個智慧型手機電池？",
+    "correct_answer": "一個特斯拉 Megapack",
+    "choices": [
+      "一個特斯拉 Megapack",
+      "一台 Apple MacBook",
+      "一把無線電鑽",
+      "一個助聽器"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "bb867ae8ebd4f9bc1d6029627057ee92808353dd570948d39589b59e254401ed"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "easy",
+    "question_text": "已知宇宙中（按質量和能量計）最大的電池是什麼，直徑約 140 萬公里？",
+    "correct_answer": "太陽",
+    "choices": [
+      "太陽",
+      "木星",
+      "大連液流電池",
+      "特斯拉超級工廠"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c1672219fa2e1974b5dded230e552a985474f122deed8a9a8bb593cb6ed50e30"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "一個典型的 Megapack 能為普通澳洲家庭供電多久？",
+    "correct_answer": "約 2 天（按典型日常消耗量）",
+    "choices": [
+      "約 2 小時",
+      "約 2 天（按典型日常消耗量）",
+      "約 2 週",
+      "約 2 個月"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6b1a619793777079f57e07d56b4542245180778bc53fc38823bbef8ef2d060c7"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "在導致 Hornsdale Power Reserve 的著名 Elon Musk 推文賭注中，他承諾多少天內交付？",
+    "correct_answer": "100 天，否則免費",
+    "choices": [
+      "100 天，否則免費",
+      "60 天，半價",
+      "200 天，否則免費",
+      "30 天，保固加倍"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "400da1650380f8792f5ff0d09ffae061db88573eb5dc9b8b7c705376932b3f5f"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "Hornsdale Power Reserve 在第一年為南澳消費者節省了多少開支？",
+    "correct_answer": "約 4,000 萬至 5,000 萬澳元",
+    "choices": [
+      "約 100 萬澳元",
+      "約 500 萬澳元",
+      "約 4,000 萬至 5,000 萬澳元",
+      "約 5 億澳元"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8ea5e2da58aac7018fa8442b52f135af83d5a968558d583af29a00aa5a66a354"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "抽水蓄能與鋰離子 BESS 的往返效率大約是多少？",
+    "correct_answer": "抽水蓄能：70-80%；鋰離子 BESS：85-95%",
+    "choices": [
+      "抽水蓄能：70-80%；鋰離子 BESS：85-95%",
+      "抽水蓄能：50-60%；鋰離子 BESS：70-80%",
+      "兩者都約為 80-85%",
+      "抽水蓄能：90-95%；鋰離子 BESS：70-80%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "44d4671ec909b385b35e53663368a7cdbb92eff37fe0c88b730b65d4f8a87411"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "電池用於儲存電能的第一個有記錄的用途是在什麼時候？",
+    "correct_answer": "1800 年，亞歷山德羅·伏打的伏打電堆",
+    "choices": [
+      "1800 年，亞歷山德羅·伏打的伏打電堆",
+      "1752 年，班傑明·富蘭克林的風箏實驗",
+      "1859 年，加斯頓·普朗特的鉛酸電池",
+      "1899 年，瓦爾德馬·容納的鎳鎘電池"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "49c9f2a886f762cbf8f145931391d6d7469a3816b2893343181460befd8dba1d"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "需要多少顆 AA 鹼性電池才能達到一個 SolBank 3.0 容器的容量？",
+    "correct_answer": "約 170 萬顆 AA 電池",
+    "choices": [
+      "約 1 萬顆 AA 電池",
+      "約 10 萬顆 AA 電池",
+      "約 170 萬顆 AA 電池",
+      "約 1,000 萬顆 AA 電池"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6ce7c2151457afeb28364b322afd60bf4f1438a2689a99bfe2a4db68ac21f537"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "到 2024 年，全球新車銷量大約有百分之多少是電動車（BEV + PHEV）？",
+    "correct_answer": "約 18%",
+    "choices": [
+      "約 5%",
+      "約 10%",
+      "約 18%",
+      "約 35%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a2eb3270c36d392b081ac421804ac72208d3122cb68d3aaf1bbf51e8fbc6b74a"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "全球年度總用電量大約是多少？",
+    "correct_answer": "約 25,000-30,000 TWh",
+    "choices": [
+      "約 5,000 TWh",
+      "約 25,000-30,000 TWh",
+      "約 100,000 TWh",
+      "約 500,000 TWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e28d1e8d18286da5a3714a0713ede34c34d6610296b65c0b84ee888ba803cc3f"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "南澳的 Hornsdale Power Reserve 是哪一年開始運營的？",
+    "correct_answer": "2017 年",
+    "choices": [
+      "2014 年",
+      "2015 年",
+      "2017 年",
+      "2019 年"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "0f930c07877046fcdea61abaa4faf48dd99b95f1ea31dd3e422bab3144172c40"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "誰被認為在 1970 年代發明了第一塊鋰離子電池？",
+    "correct_answer": "M. Stanley Whittingham",
+    "choices": [
+      "M. Stanley Whittingham",
+      "Thomas Edison",
+      "Alessandro Volta",
+      "Nikola Tesla"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ac386c44405a20b8c3172712ed25bce13fd41d3f0bfd6fb2b03af36b88d62a36"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "哪家公司在 1991 年將第一塊鋰離子電池商業化？",
+    "correct_answer": "Sony",
+    "choices": [
+      "Sony",
+      "Panasonic",
+      "Samsung",
+      "Toshiba"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2a7e1c6acf37b293acb7e88266bb94181784005eff933b2abc092d51eb557945"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "FERC 第 841 號命令（要求電網運營商接納儲能）於哪一年生效？",
+    "correct_answer": "2018 年",
+    "choices": [
+      "2014 年",
+      "2016 年",
+      "2018 年",
+      "2020 年"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "9523cdbf7da1fb1b4dd511e57c66f118f509b2dc89ee93b0fee22b7697658d16"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "2019 年哪個諾貝爾獎項因鋰離子電池的發展而頒發？",
+    "correct_answer": "化學獎",
+    "choices": [
+      "化學獎",
+      "物理獎",
+      "工程獎",
+      "和平獎"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "065a011e9c7cf77849e6e3f7363b604a2a9a588d83ead1bfdcb3b99767245dcf"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "世界上第一個抽水蓄能電站是什麼，何時建成？",
+    "correct_answer": "瑞士 Engeweiher，建於 1882 年",
+    "choices": [
+      "瑞士 Engeweiher，建於 1882 年",
+      "美國尼加拉瀑布，建於 1920 年",
+      "威爾斯 Dinorwig，建於 1975 年",
+      "美國巴斯縣，建於 1985 年"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8ebbd7487f6f6739dbd20739e715ee8a29149963399ab2630bccd21cc94f314c"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "全球 BESS 裝機容量何時首次超過 10 GW？",
+    "correct_answer": "2020 年",
+    "choices": [
+      "2015 年",
+      "2017 年",
+      "2020 年",
+      "2022 年"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c7d257de5138fff7632ac34a41bb9db8d403eed7b62c7b2bfa02618c3ef3bf9d"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "2010 年鋰離子 BESS 的每 kWh 裝機成本大約是多少？",
+    "correct_answer": "約 1,000 美元/千瓦時",
+    "choices": [
+      "約 500 美元/千瓦時",
+      "約 1,000 美元/千瓦時",
+      "約 200 美元/千瓦時",
+      "約 100 美元/千瓦時"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "43ceb8bcc7fd6709f68a616777a885efac8d1d797f7b7d0c97e0d41061d44fb9"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "到 2023 年，鋰離子 BESS 的每 kWh 裝機成本大約是多少？",
+    "correct_answer": "約 150-200 美元/千瓦時",
+    "choices": [
+      "約 50 美元/千瓦時",
+      "約 150-200 美元/千瓦時",
+      "約 500 美元/千瓦時",
+      "約 800 美元/千瓦時"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2759043acd044d692a7597cd4df86e8700c7e5806e1220938608ee669131fa3d"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "哪個州是美國第一個強制要求儲能採購目標的州？",
+    "correct_answer": "加利福尼亞州",
+    "choices": [
+      "加利福尼亞州",
+      "紐約州",
+      "德州",
+      "麻薩諸塞州"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "309de3dcadbfe5c1cbf44ff15c77b162c8a3fb63d42e8f3a599b0a7bf1598b07"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "特斯拉在哪一年發布了 Powerwall 家用電池系統？",
+    "correct_answer": "2015 年",
+    "choices": [
+      "2013 年",
+      "2015 年",
+      "2017 年",
+      "2019 年"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f3f651ce4dbc5c9747b0db7527b3490571c9123a27117f42b0b8b9a2e1269bd1"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "截至 2023 年分階段完成時，世界上最大的電池儲能項目（按兆瓦時計）是什麼？",
+    "correct_answer": "加利福尼亞州的 Moss Landing 儲能設施",
+    "choices": [
+      "加利福尼亞州的 Moss Landing 儲能設施",
+      "澳大利亞的 Hornsdale Power Reserve",
+      "中國的大連液流電池",
+      "澳大利亞的維多利亞大型電池"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b74d2113b9f15425f8525f96fd450a328f4f9b082bbbe2bedd9389daa820b09a"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "雪梨西部的 Wallgrove Grid Battery 容量是多少？",
+    "correct_answer": "50 MW / 75 MWh",
+    "choices": [
+      "25 MW / 50 MWh",
+      "50 MW / 75 MWh",
+      "100 MW / 150 MWh",
+      "200 MW / 350 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "689c671cdae0df2babf89cfe687dee2fa27c7e6b157e58e1b7bea52a1a556e41"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "截至 2024 年，澳洲昆士蘭最大的 BESS 是什麼？",
+    "correct_answer": "Wandoan South BESS",
+    "choices": [
+      "Wandoan South BESS",
+      "Kogan Creek BESS",
+      "Bouldercombe BESS",
+      "Greenbank BESS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c2340fbd6d343160f5d961c338fe71590fdb42a0788aaa222a5a70d2f013858f"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Wallgrove Grid Battery 在澳洲展示了什麼創新方法？",
+    "correct_answer": "虛擬慣性和構網型逆變器能力",
+    "choices": [
+      "虛擬慣性和構網型逆變器能力",
+      "水下電池部署",
+      "貨櫃頂部太陽能板整合",
+      "無線輸電至電網"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "5e2ada24078239e61467c1fa6aa733b60768446a548f19b1897b8418a4a5c989"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Edwards & Sanborn 光儲項目位於美國哪個州，它是世界上最大的項目之一？",
+    "correct_answer": "加利福尼亞州",
+    "choices": [
+      "加利福尼亞州",
+      "德州",
+      "亞利桑那州",
+      "內華達州"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6b69372353052a87dc97d65d7767a47fc7af5df9ec9f4e2898363d3bdb3265d0"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "哪家公司為維多利亞大型電池提供電芯？",
+    "correct_answer": "特斯拉（使用 CATL 電芯的 Megapack）",
+    "choices": [
+      "特斯拉（使用 CATL 電芯的 Megapack）",
+      "Samsung SDI",
+      "LG Energy Solution",
+      "Panasonic"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "7b2bd89c4e986f9423272f115a7428ee14c357a7ac2545faa792f6feb7c5f289"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "加州 Gateway 儲能項目的容量是多少？",
+    "correct_answer": "250 MW / 250 MWh（第一期）",
+    "choices": [
+      "100 MW / 100 MWh",
+      "250 MW / 250 MWh（第一期）",
+      "500 MW / 1,000 MWh",
+      "750 MW / 3,000 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a631925577b0f8e9068404dc5ddc828233daa62e9b5ddc81f0e87618eb5951eb"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "南澳的 Lake Bonney BESS 有何用途？",
+    "correct_answer": "與風電場共址，提供電網穩定和 FCAS 服務",
+    "choices": [
+      "與風電場共址，提供電網穩定和 FCAS 服務",
+      "為當地小鎮提供備用電源",
+      "作為獨立能源交易電站運營",
+      "支援附近的海水淡化設施"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "9c270d7bdcc77ff3b766fd9e15a27daff5d0dee5fa095c99bb8cdfe398683148"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Crimson I BESS 項目的容量是多少？",
+    "correct_answer": "200 MW / 800 MWh",
+    "choices": [
+      "100 MW / 400 MWh",
+      "200 MW / 800 MWh",
+      "350 MW / 1,400 MWh",
+      "500 MW / 2,000 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "09512598026c22f88b2a1462fac62113f2d14ca6f93120848566c1bfce513623"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "哪家公司擁有佛羅里達州的 Manatee 儲能中心？",
+    "correct_answer": "Florida Power & Light (FPL)",
+    "choices": [
+      "Florida Power & Light (FPL)",
+      "Duke Energy",
+      "Vistra Energy",
+      "NextEra Energy"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f4960ebde0dc91c86d04ccbccd593ad9718bcb6e79f88a41997145f586bdd4ca"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "澳洲的 Broken Hill BESS 設計用於提供什麼？",
+    "correct_answer": "當電網連接中斷時為偏遠礦業社區提供備用電源",
+    "choices": [
+      "當電網連接中斷時為偏遠礦業社區提供備用電源",
+      "雪梨的尖峰負荷轉移",
+      "昆士蘭的頻率調節",
+      "出口容量至印尼"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "aa3d147db7e9a7f16dbe1cb7ef56ab42cb08b8e9d9118f0c31ca14109f9bbadf"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "easy",
+    "question_text": "安裝在南澳的世界第一個公用事業規模特斯拉大型電池叫什麼名字？",
+    "correct_answer": "Hornsdale Power Reserve",
+    "choices": [
+      "Hornsdale Power Reserve",
+      "維多利亞大型電池",
+      "Lake Bonney BESS",
+      "Dalrymple BESS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a3cd8eea06e3d5fbb87d039a0bbd09cac5884156ddd481d09ab24e96fdaf48af"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Hornsdale Power Reserve 在 2017 年投運時的額定功率和容量是多少？",
+    "correct_answer": "100 MW / 129 MWh",
+    "choices": [
+      "50 MW / 75 MWh",
+      "100 MW / 129 MWh",
+      "150 MW / 194 MWh",
+      "300 MW / 450 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "fdecb8639dc3186629293ed3b1214e54d080e18915bc7233f3a132c18be4ba22"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "維多利亞大型電池的額定容量是多少？",
+    "correct_answer": "300 MW / 450 MWh",
+    "choices": [
+      "100 MW / 129 MWh",
+      "200 MW / 300 MWh",
+      "300 MW / 450 MWh",
+      "500 MW / 1,000 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "547e9a93094c52abc357907364f8ccee41513fc0a051d9d95924f2acada3d5c9"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "哪家公司開發了加州的 Moss Landing 儲能設施？",
+    "correct_answer": "Vistra Energy",
+    "choices": [
+      "Vistra Energy",
+      "Tesla",
+      "Fluence",
+      "NextEra Energy"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "938f980def654528b1b954cd5727077096b8ce1d9462db61e7adfe4f8c0eb013"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "加州 Moss Landing BESS 的完全建成容量是多少？",
+    "correct_answer": "750 MW / 3,000 MWh",
+    "choices": [
+      "300 MW / 1,200 MWh",
+      "500 MW / 2,000 MWh",
+      "750 MW / 3,000 MWh",
+      "1,000 MW / 4,000 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6f249c911f5f988191225a1d0168707ad2d9022dd060f0605f87e6faaa936817"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "迄今為止世界上最大的釩氧化還原液流電池是什麼？",
+    "correct_answer": "大連液流電池儲能調峰電站",
+    "choices": [
+      "大連液流電池儲能調峰電站",
+      "北海道液流電池項目",
+      "Fraunhofer RedoxWind",
+      "住友北海道 VRB"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d40816e15aa4b07f0d5206d2158011796145f02464de907ba5ff20d2c3fa2b95"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "澳洲第一個提供慣性響應的電網級電池儲能系統是哪一個？",
+    "correct_answer": "南澳的 Dalrymple ESCRI BESS",
+    "choices": [
+      "南澳的 Dalrymple ESCRI BESS",
+      "Hornsdale Power Reserve",
+      "維多利亞大電池",
+      "Wallgrove 電網電池"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3e54f055b42e5431c239e16c9ddb9c7d823dd97f9db969d5f2ed048b93ae1661"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Edwards & Sanborn 太陽能加儲能專案位於哪個國家？",
+    "correct_answer": "美國",
+    "choices": [
+      "美國",
+      "澳洲",
+      "日本",
+      "台灣"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b720438dbcbb75419715c4103cf5519f9de18bbc07ce0edc5e12159d57a51aba"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Hornsdale Power Reserve 因展示哪種主要收入來源而聞名？",
+    "correct_answer": "FCAS 頻率控制服務降低電網成本",
+    "choices": [
+      "FCAS 頻率控制服務降低電網成本",
+      "太陽能時間轉移",
+      "燃煤電廠的黑啟動能力",
+      "電動車充電樞紐"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b0fed8dcbcfc66a3980bf3a5ce54ed905567a6c46ca95b6a2dc8d807445546be"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "哪家電池製造商提供了 Hornsdale Power Reserve 的電池芯？",
+    "correct_answer": "Samsung SDI",
+    "choices": [
+      "Samsung SDI",
+      "Panasonic",
+      "CATL",
+      "LG Chem"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ad1bd423433f33d7344b02e217e2ef10421b7b066c42438a6c1b095091366131"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "佛羅里達州的 Manatee 儲能中心的額定容量為何？",
+    "correct_answer": "409 MW / 900 MWh",
+    "choices": [
+      "100 MW / 200 MWh",
+      "250 MW / 500 MWh",
+      "409 MW / 900 MWh",
+      "750 MW / 1,500 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4365d92935c1f9f0676d41969c8bdde137f8b18dc000841966960f931e194ac9"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "新南威爾斯州的 Waratah 超級電池的主要設計目的為何？",
+    "correct_answer": "取代系統完整性保護方案作為輸電備援",
+    "choices": [
+      "取代系統完整性保護方案作為輸電備援",
+      "為偏遠社區提供離網電力",
+      "為雪梨電動公車隊充電",
+      "作為災害韌性的孤島微電網"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "0478e9fc428c4136a87b1cf96b44c0b817387a9305e79918a0bb7ca87cfd6ab2"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Waratah 超級電池的規劃容量為何？",
+    "correct_answer": "850 MW / 1,680 MWh",
+    "choices": [
+      "300 MW / 600 MWh",
+      "500 MW / 1,000 MWh",
+      "850 MW / 1,680 MWh",
+      "1,200 MW / 2,400 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2097f65b6cd517063307b568f0663ff3fbac2f39b6ff7ba44eb439d0e7751c2f"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "哪家技術供應商提供了台灣的 Hampton BESS？",
+    "correct_answer": "Fluence",
+    "choices": [
+      "Fluence",
+      "Tesla",
+      "Sungrow",
+      "Wartsila"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2d5c1083ed0904e785f7ab5e83ca1fa7ab8a4e3fea4d17f75ff5b4ea2997bf5e"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "日本位於北海道的最大型 BESS 專案之一是哪一個？",
+    "correct_answer": "Abira BESS",
+    "choices": [
+      "Abira BESS",
+      "福島 BESS",
+      "東京灣 BESS",
+      "仙台 BESS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f6a2073e8b961b874ec2fcd0fbcc42a09b3030d1410f1cc6f11f43dd3c862b90"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "在 BMS 中，卡爾曼濾波用於什麼？",
+    "correct_answer": "在測量有雜訊時提高 SOC 估算準確度",
+    "choices": [
+      "在測量有雜訊時提高 SOC 估算準確度",
+      "過濾 CAN 匯流排的通訊雜訊",
+      "降低 PCS 的電壓漣波",
+      "計算冷卻系統的熱損失"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "190e35e0900edadee31c3d0af9788a7a1712160cc5e9f534762da9e01a7c7550"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 中預充電電路的目的是什麼？",
+    "correct_answer": "在閉合主接觸器前緩慢為直流鏈電容器充電",
+    "choices": [
+      "在閉合主接觸器前緩慢為直流鏈電容器充電",
+      "調試前補充電池芯電壓",
+      "寒冷天氣下預熱電池",
+      "測試接觸器線圈電阻"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "78a96ba266e23f13a352d07e9e6330c3f75362185a03987d8f66d601ae6bcb27"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "BMS 在電池芯/模組層級通常使用哪種通訊協定？",
+    "correct_answer": "CAN 匯流排或 isoSPI",
+    "choices": [
+      "CAN 匯流排或 isoSPI",
+      "Ethernet",
+      "WiFi",
+      "藍牙 LE"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e27bd408104af9388b24c7ef8ed2bef425b4490389043bf0ee15b9b01ebd114e"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 中霍爾效應感測器的目的是什麼？",
+    "correct_answer": "非接觸式直流電流測量",
+    "choices": [
+      "非接觸式直流電流測量",
+      "測量電池芯電壓",
+      "檢測磁場干擾",
+      "測量冷卻液流量"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3c7f55ee5a98a09f386ab6cade758dd08d2e9d2658b9092b8ae5f3d68d5f98ca"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 中的接地故障檢測是什麼？",
+    "correct_answer": "檢測直流導體對地的非預期電流路徑",
+    "choices": [
+      "檢測直流導體對地的非預期電流路徑",
+      "檢測貨櫃地板的物理損壞",
+      "監測站點地震活動",
+      "檢測電網側的交流故障"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "0a12a3196c055fd2e94351beee070bb91145e20a47128358b20f191438fd8c6e"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "集中式與分散式 BMS 架構的差異為何？",
+    "correct_answer": "集中式使用一個控制器管理所有電池芯；分散式使用每個模組控制器",
+    "choices": [
+      "集中式使用一個控制器管理所有電池芯；分散式使用每個模組控制器",
+      "集中式用於交流系統；分散式用於直流",
+      "集中式使用雲端處理；分散式使用邊緣運算",
+      "集中式用於室內；分散式用於室外"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "5ef7508698c6a167e93a2ca278010000bc906f0b7795939b2c558052e98badce"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "大多數 BESS 運營商在日常循環中將電池限制在什麼 SOC 範圍？",
+    "correct_answer": "10-90% SOC",
+    "choices": [
+      "0-100% SOC",
+      "10-90% SOC",
+      "30-70% SOC",
+      "5-95% SOC"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "5e9ff19e3b948440ab181ff474480ba00e7cc944dbf51ab8396cec6bdde34f77"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BESS 安全中互鎖迴路的目的是什麼？",
+    "correct_answer": "一個有線安全鏈，當任何安全裝置啟動時跳脫接觸器",
+    "choices": [
+      "一個有線安全鏈，當任何安全裝置啟動時跳脫接觸器",
+      "BMS-PCS 通訊的軟體協定",
+      "維護授權的實體鑰匙系統",
+      "用於錯開接觸器閉合的定時電路"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3e8d810b61956febc830163b2ac1510a26502f0bfa9d1950aa5735e012d32f16"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 使用哪種測量來檢測過電流情況？",
+    "correct_answer": "將分流器或霍爾效應感測器讀數與閾值比較",
+    "choices": [
+      "將分流器或霍爾效應感測器讀數與閾值比較",
+      "溫度上升率計算",
+      "PCS 變壓器上的電壓降",
+      "環境氣壓變化"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "36b643f7226247cf4895f587f06421d6d9b4534184083e02ced8a27c10b82354"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "良好的 BMS 前端 IC 的典型電池芯電壓測量精度為何？",
+    "correct_answer": "±1-3 mV",
+    "choices": [
+      "±1-3 mV",
+      "±50-100 mV",
+      "±0.5-1 V",
+      "±10-20 mV"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "fb20d6c3240c9979a6c421d5666ec1fed18d972adeb58d33b7d606ba2dce1e2c"
+  },
+  {
+    "category": "bms",
+    "difficulty": "easy",
+    "question_text": "在電池儲存中，BMS 代表什麼？",
+    "correct_answer": "電池管理系統",
+    "choices": [
+      "電池管理系統",
+      "電池監控軟體",
+      "雙向管理站",
+      "電池模組排序器"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ef431af6e0e65ac4eefa1cc28b746e5f641e49893f61971029535ee26dc8e147"
+  },
+  {
+    "category": "bms",
+    "difficulty": "easy",
+    "question_text": "電池管理系統的主要功能是什麼？",
+    "correct_answer": "保護電池芯避免在安全範圍外運作",
+    "choices": [
+      "保護電池芯避免在安全範圍外運作",
+      "在批發市場交易能源",
+      "控制 HVAC 溫度設定點",
+      "管理站點安全門禁"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a1e2c45aac5406ba7a2f41860456f3e90a9300fc44e8e3ad33db785dc8b3c4a4"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 與 PCS 之間最常使用哪種通訊協定？",
+    "correct_answer": "Modbus TCP",
+    "choices": [
+      "Modbus TCP",
+      "HTTP REST",
+      "MQTT",
+      "BACnet"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "dc448e4d5345ec51146a857db2dad89acaac2c795336bf85c28a08f14d923310"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 中的庫倫計數用於什麼？",
+    "correct_answer": "通過對電流隨時間積分來估算荷電狀態",
+    "choices": [
+      "通過對電流隨時間積分來估算荷電狀態",
+      "計算充電循環次數",
+      "測量通過 PCS 的總安時數",
+      "計算連接的電池芯數量"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "47e412eadced75dcebb674786858e43282f51054ed531af413af3f616c8e2fcf"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "被動與主動電池均衡的差異為何？",
+    "correct_answer": "被動式以熱量形式消耗多餘能量；主動式在電池芯之間轉移能量",
+    "choices": [
+      "被動式以熱量形式消耗多餘能量；主動式在電池芯之間轉移能量",
+      "被動式使用軟體控制；主動式使用硬體繼電器",
+      "被動式僅在放電時工作；主動式在兩種模式下都工作",
+      "被動式用於 LFP；主動式用於 NMC"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e145b3182115c176a81e3f971f45da65a3b0b7dd718dc055b307b74fbd1615d1"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "BMS 通常使用什麼來估算電池芯的健康狀態？",
+    "correct_answer": "內阻增加與容量衰減追蹤",
+    "choices": [
+      "內阻增加與容量衰減追蹤",
+      "電池芯隨時間的顏色變化",
+      "應用的韌體更新次數",
+      "站點的環境溫度歷史"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ef41656a9aae28692c3c84746172b4c3a742110aed9eed56faa150341ee137c2"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "LFP 電池芯通常設定的最高電壓保護閾值為何？",
+    "correct_answer": "3.65 V",
+    "choices": [
+      "3.20 V",
+      "3.45 V",
+      "3.65 V",
+      "4.20 V"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6c14a8a15a41018d2ab9f50f15deac54c0085ebc4c6b420d3186713d2ee7acf9"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "LFP 電池芯通常設定的最低電壓保護閾值為何？",
+    "correct_answer": "2.50 V",
+    "choices": [
+      "2.00 V",
+      "2.50 V",
+      "2.80 V",
+      "3.00 V"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "36c8c0f7c3599a45fff9723e6189fcb09e8c392d471f681bb86884244681624b"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 通常如何測量電池芯電壓？",
+    "correct_answer": "具有多工感測通道的類比前端 IC",
+    "choices": [
+      "具有多工感測通道的類比前端 IC",
+      "手動萬用電錶讀數",
+      "紅外線熱成像",
+      "霍爾效應感測器"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ba6b9fe3fa28ae63e4fcdd8dca1e3ea0e50488739618534d1daa66fb2b0689b3"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "BMS 內部通訊常用的 CAN 匯流排速率為何？",
+    "correct_answer": "250 或 500 kbit/s",
+    "choices": [
+      "10 kbit/s",
+      "100 kbit/s",
+      "250 或 500 kbit/s",
+      "最低 1 Mbit/s"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "1747bc6a643a20cadfc20eb1594bb43f7694bf4c6adf9ab025fbb45131f254b7"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BESS 架構中 BMU 的作用是什麼？",
+    "correct_answer": "監控單一模組或電池架的電池管理單元",
+    "choices": [
+      "監控單一模組或電池架的電池管理單元",
+      "用於冗餘安全備份的監控單元",
+      "用於站點控制的建築管理單元",
+      "用於服務操作的電池維護單元"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "624995b70b8cfa7c2c6206e36b0d9e8534f6bf3e0888c58fd27ec0375fbcaccf"
+  },
+  {
+    "category": "bms",
+    "difficulty": "easy",
+    "question_text": "BMS 控制的接觸器的目的是什麼？",
+    "correct_answer": "將電池與直流匯流排隔離以進行保護",
+    "choices": [
+      "將電池與直流匯流排隔離以進行保護",
+      "在充電與放電模式之間切換",
+      "控制 HVAC 壓縮機",
+      "在電池架之間路由通訊訊號"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "56b356ca5a7d3273f6f5bdadba70b1f03411d85d24dfc10d70add5c4f65c4705"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 中的絕緣監測檢測什麼？",
+    "correct_answer": "直流導體與大地之間的漏電流",
+    "choices": [
+      "直流導體與大地之間的漏電流",
+      "電池芯外殼的物理損壞",
+      "電池端子上的灰塵積聚",
+      "電池架之間的溫度分層"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b802c13a82b27958bf1d62fa20493d2e3a16c2dad52dfc5c77acaefc230566b2"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 中最常用於電池芯溫度測量的感測器類型為何？",
+    "correct_answer": "NTC 熱敏電阻",
+    "choices": [
+      "NTC 熱敏電阻",
+      "RTD PT100",
+      "K 型熱電偶",
+      "紅外線測溫儀"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "70401a7517300677d1b6497b1654d5319daaa4b25b194cdf8f9fa7df40d99ca6"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "BMS 主控制器通常管理什麼？",
+    "correct_answer": "彙總所有電池架 BMU 的數據並與 EMS 介接",
+    "choices": [
+      "彙總所有電池架 BMU 的數據並與 EMS 介接",
+      "在模組層級直接均衡個別電池芯",
+      "控制電網連接斷路器",
+      "管理消防系統"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2b18e8bfca3d3feba706a4b9d5eae0c87374df3d0210a08c215498174122a022"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "easy",
+    "question_text": "e-STORAGE 是哪家再生能源公司的子公司？",
+    "correct_answer": "Canadian Solar",
+    "choices": [
+      "Canadian Solar",
+      "First Solar",
+      "SunPower",
+      "JinkoSolar"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f04cbba6cbb17b479ae783a4ec04738121a88c47bae533bfe29be8a421c125b5"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "e-STORAGE 的全球總部位於加拿大的哪個城市？",
+    "correct_answer": "安大略省基奇納",
+    "choices": [
+      "安大略省基奇納",
+      "不列顛哥倫比亞省溫哥華",
+      "魁北克省蒙特婁",
+      "亞伯達省卡加利"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4b3fb3b52058f1495a65a93cc155383ea4cbc9fe3a54995f07f409a9da2c0c39"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "easy",
+    "question_text": "e-STORAGE 的貨櫃化 BESS 產品品牌名稱是什麼？",
+    "correct_answer": "SolBank",
+    "choices": [
+      "SolBank",
+      "PowerVault",
+      "GridStore",
+      "EnergyCell"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "1d7b71ccafe5ef7c52d4e8127a658458d2e5aca9e65b898ddc0e430e7f51a84c"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "單個 SolBank 3.0 貨櫃的標稱容量為何？",
+    "correct_answer": "5 MWh",
+    "choices": [
+      "2 MWh",
+      "5 MWh",
+      "8 MWh",
+      "10 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4dbe6893534306695da247c4f4704f33495863ed9a0ef5c7bb2ed71a6d5b6129"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "SolBank 3.0 所用電池芯的容量（安時）為何？",
+    "correct_answer": "314 Ah",
+    "choices": [
+      "280 Ah",
+      "306 Ah",
+      "314 Ah",
+      "330 Ah"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c291dfaccdcda13a7ff6fc600b5be5c1fc204c1eac8c0ed11d5790c31c2178b0"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "easy",
+    "question_text": "SolBank 使用哪種電池化學？",
+    "correct_answer": "磷酸鐵鋰 (LFP)",
+    "choices": [
+      "磷酸鐵鋰 (LFP)",
+      "鎳錳鈷 (NMC)",
+      "鈦酸鋰 (LTO)",
+      "鈉硫 (NaS)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "43a17bc33db3d08b71b97e0aab3b3195d76ed44b32f8cb1ac673ba6e1574790f"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "SolBank 3.0 貨櫃的額定功率範圍為何？",
+    "correct_answer": "1.2 至 2.35 MW",
+    "choices": [
+      "0.5 至 1.0 MW",
+      "1.2 至 2.35 MW",
+      "2.5 至 4.0 MW",
+      "5.0 至 7.5 MW"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "10ab983399a88ac581d4a337fdcf56fd31fd54cad69e4ed25c73a956df31d916"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "SolBank 3.0 Plus 的最大循環壽命為何？",
+    "correct_answer": "12,000 次循環",
+    "choices": [
+      "6,000 次循環",
+      "8,000 次循環",
+      "10,000 次循環",
+      "12,000 次循環"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "1633239998ac8985456c732d6561d6bd840edd105041b05d623813abd6930630"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "SolBank 3.0 Plus 的設計壽命為何？",
+    "correct_answer": "25 年",
+    "choices": [
+      "15 年",
+      "20 年",
+      "25 年",
+      "30 年"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "134ad1645c747620fecdb24ee035d96365836585d382441ae696d123b62aa889"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "SolBank 電池組的防護等級為何？",
+    "correct_answer": "IP67",
+    "choices": [
+      "IP54",
+      "IP65",
+      "IP67",
+      "IP69K"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "40dc950a89c5695b2370f0a934b14dd66e9202c3e3e8e1a1cb95eae1f67563d3"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "SolBank 3.0 Plus 使用哪種冷卻技術？",
+    "correct_answer": "液體冷卻",
+    "choices": [
+      "強制風冷",
+      "液體冷卻",
+      "自然對流",
+      "相變材料"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "0f78c5d9639973a98df434f1eafdf8fae00891c3ac9ab4744cefbde2c1a1f28a"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "e-STORAGE FlexBank 1.0 產品的容量為何？",
+    "correct_answer": "8.36 MWh",
+    "choices": [
+      "5.0 MWh",
+      "6.8 MWh",
+      "8.36 MWh",
+      "10.2 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "bbad59e7b02bd7226778a704406bcee7379bd72c7f93bcecd95a135851a90843"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "e-STORAGE 的整合式中壓 BESS 建構模組名稱是什麼？",
+    "correct_answer": "PowerBlock",
+    "choices": [
+      "PowerBlock",
+      "GridBlock",
+      "MegaBlock",
+      "EnergyBlock"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "abba0984da7eabcb3875b29d9ad1ef3e1cf8bb0e70aae4e8ccc95e3b91b1e143"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "e-STORAGE 在美國的 Crimson I 專案的 COD 為何？",
+    "correct_answer": "2022 年 9 月",
+    "choices": [
+      "2020 年 12 月",
+      "2021 年 6 月",
+      "2022 年 9 月",
+      "2023 年 3 月"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6bcac6e0e284eaaab3e300be4f7447f5d38771bc3067f3b45f4be0b2d2dc08fe"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "Crimson I BESS 專案的額定規模為何？",
+    "correct_answer": "200 MW / 800 MWh",
+    "choices": [
+      "100 MW / 400 MWh",
+      "200 MW / 800 MWh",
+      "300 MW / 1,200 MWh",
+      "500 MW / 2,000 MWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "60afabd84d389395ccd1def7fc799d56b59d275edeafaa686b37ceb45e34cd5a"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "e-STORAGE 作為儲能供應商在 BNEF 的排名為何？",
+    "correct_answer": "Tier 1",
+    "choices": [
+      "Tier 1",
+      "Tier 2",
+      "Tier 3",
+      "Tier A"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4236a0898bc16715dd7f4309b7c1d4d6993882102d68fc93632907059df9c12b"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "e-STORAGE 的計畫年製造產能是多少？",
+    "correct_answer": "30 GWh",
+    "choices": [
+      "10 GWh",
+      "20 GWh",
+      "30 GWh",
+      "50 GWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "860ca11946871bfeb51aceb602e99d1b6f87afd00972317f5c5a72b54c0c5d15"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "e-STORAGE 營運多少座全自動化製造設施？",
+    "correct_answer": "3",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c2d82a09f0762eb44e00890dd9dc4e1944257cbf20a63d0c9bc10a91a6f6de37"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "e-STORAGE 迄今部署的 BESS 總容量為何？",
+    "correct_answer": "超過 7 GWh",
+    "choices": [
+      "超過 1 GWh",
+      "超過 3 GWh",
+      "超過 7 GWh",
+      "超過 15 GWh"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c1e3a1c3fa25f1c31df600d37cf626ee837c3fc75325fa48fda259078fd81fa8"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "e-STORAGE 的澳洲辦公室位於墨爾本科林斯街 101 號的哪一層樓？",
+    "correct_answer": "27 樓",
+    "choices": [
+      "10 樓",
+      "18 樓",
+      "27 樓",
+      "35 樓"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a8be0e7c279f0ecd857a5b4ee735fff54938454786ac0e63ecdad36ec091f8e6"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "特斯拉開發的 Autobidder 有何用途？",
+    "correct_answer": "BESS 資產的即時交易與調度最佳化",
+    "choices": [
+      "BESS 資產的即時交易與調度最佳化",
+      "充電期間的電池芯自動平衡",
+      "競標鋰原料商品市場",
+      "預測電池衰減率"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "33a3158268662288f5943e102bcc57eea7ac716526efa9fd06125b66877db5a9"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "日前市場與即時能源市場的差異為何？",
+    "correct_answer": "日前市場提前排定排程；即時市場根據實際情況調整",
+    "choices": [
+      "日前市場提前排定排程；即時市場根據實際情況調整",
+      "日前市場僅限再生能源；即時市場包含化石燃料",
+      "日前市場以千瓦時結算；即時市場以百萬瓦結算",
+      "日前市場適用於發電機；即時市場僅適用於用戶"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ab38459c4f50bbedb986ec4a23c054684da4861141b85ec9d0a496472442dd0b"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "電力市場中的縮寫 LMP 代表什麼？",
+    "correct_answer": "節點邊際價格 (Locational Marginal Price)",
+    "choices": [
+      "節點邊際價格 (Locational Marginal Price)",
+      "負載管理協定 (Load Management Protocol)",
+      "本地市場參與者 (Local Market Participant)",
+      "平準化邊際價格 (Levelized Marginal Price)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "90871d970342481cdb3a9b72deb9c8c73eea8da148ee8923e850ee4bdf50f983"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "EMS 中的狀態機有何目的？",
+    "correct_answer": "定義 BESS 的有效運作模式及轉換",
+    "choices": [
+      "定義 BESS 的有效運作模式及轉換",
+      "記錄每個電池模組的實際位置",
+      "追蹤政府補助申請",
+      "管理電芯層級的電壓平衡"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "0dcde5c8c7eaaf0034be5f9bbb820bc281e4889b2834bb439cfda246b005b8a3"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "排程型與價格型 EMS 調度的主要差異為何？",
+    "correct_answer": "排程型遵循預定計畫；價格型回應即時市場訊號",
+    "choices": [
+      "排程型遵循預定計畫；價格型回應即時市場訊號",
+      "排程型僅用於削峰；價格型用於頻率響應",
+      "排程型使用固定時間間隔；價格型使用可變間隔",
+      "排程型適用於商業用戶；價格型適用於住宅用戶"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "99fececdde8731cf46ffb2aaa4d58e64e03848426b4c4e12a43feef90497e083"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "電網級 BESS 的典型 EMS 取樣與控制間隔為何？",
+    "correct_answer": "100 毫秒至 1 秒",
+    "choices": [
+      "1 奈秒",
+      "100 毫秒至 1 秒",
+      "10 至 30 秒",
+      "5 至 15 分鐘"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f8c9da0f6f31156976a7f09fda56191c7f58473776862ac33ed69e243a6286b3"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "衡量 BESS 可用性的關鍵績效指標為何？",
+    "correct_answer": "相對於合約保證可用率的運轉時間百分比",
+    "choices": [
+      "相對於合約保證可用率的運轉時間百分比",
+      "每月放電總百萬瓦時",
+      "每日充放電循環次數",
+      "單次調度達成的最大功率"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "de17419f6cebe59828eb319b8e5328f1f019643631a1440c18aca22c8c676592"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "EMS 約束引擎的目的是什麼？",
+    "correct_answer": "強制執行物理限制，例如最大功率、SOC 範圍和爬升率",
+    "choices": [
+      "強制執行物理限制，例如最大功率、SOC 範圍和爬升率",
+      "限制可存取系統的操作員人數",
+      "僅限制投標至特定市場產品",
+      "控制物理安全圍欄和大門進出"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "906c9fec22aca94484ba3172f593572f5a90f25492c6af1f8b324d23e8e1bc6c"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "BESS EMS 中的衰減感知調度是什麼？",
+    "correct_answer": "最佳化調度以平衡即時收入與電池壽命成本",
+    "choices": [
+      "最佳化調度以平衡即時收入與電池壽命成本",
+      "以低功率排程放電以減少物理磨損",
+      "僅在電池衰減低於門檻時才調度",
+      "將較舊的電池用於較不關鍵的服務"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "140cce7a88e6840ef2e8f4ff4fb2b7b062cf7b121aa0c722bfdfd6b5b8117c35"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "ACE 在電力系統平衡中代表什麼？",
+    "correct_answer": "區域控制誤差 (Area Control Error)",
+    "choices": [
+      "區域控制誤差 (Area Control Error)",
+      "自動應急交換 (Automated Contingency Exchange)",
+      "主動電流平衡 (Active Current Equalization)",
+      "輔助控制設備 (Auxiliary Control Equipment)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "565fdf3bc03368eb597dff8c57dda0621d0db02d1b53ab46ce7123965c44c69a"
+  },
+  {
+    "category": "ems",
+    "difficulty": "easy",
+    "question_text": "在能源儲存中，EMS 代表什麼？",
+    "correct_answer": "能源管理系統 (Energy Management System)",
+    "choices": [
+      "能源管理系統 (Energy Management System)",
+      "電氣監控站 (Electrical Monitoring Station)",
+      "能源市場軟體 (Energy Market Software)",
+      "緊急管理系統 (Emergency Management System)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "baf1e483e050f74b834aa8f4251b20f8ebc9e0432b6b673515dbaacc12e9653e"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "電網級 BESS 的主要收益疊加策略是什麼？",
+    "correct_answer": "將能源套利與輔助服務結合",
+    "choices": [
+      "將能源套利與輔助服務結合",
+      "僅在尖峰電價時段售電",
+      "以零成本從棄用的再生能源發電充電",
+      "將容量租賃給單一工業用戶"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "24d829b1de0435939eaca12139996764450271f7bc5df9c515f38bc970503902"
+  },
+  {
+    "category": "ems",
+    "difficulty": "easy",
+    "question_text": "在 BESS 中，能源套利是什麼？",
+    "correct_answer": "在電價低時充電，電價高時放電",
+    "choices": [
+      "在電價低時充電，電價高時放電",
+      "同時將能源賣給多位買家",
+      "在不同電池化學成分之間切換",
+      "交易再生能源憑證"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f330922a6c6e22c313778a89a778520efc5f37746b494da665869c6b402f1608"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "什麼是削峰？",
+    "correct_answer": "使用儲能來降低最大電網輸入功率",
+    "choices": [
+      "使用儲能來降低最大電網輸入功率",
+      "每日將電池放電至最低 SOC",
+      "以最大 C-rate 循環電池",
+      "中午減少太陽能發電"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "9b5158601f877792b81032b9193732b348be13ce52b6b8168a1df7f20dd00a80"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "在澳洲 NEM 中，FCAS 代表什麼？",
+    "correct_answer": "頻率控制輔助服務 (Frequency Control Ancillary Services)",
+    "choices": [
+      "頻率控制輔助服務 (Frequency Control Ancillary Services)",
+      "快速應急應用系統 (Fast Contingency Application System)",
+      "聯邦清潔空氣標準 (Federal Clean Air Standard)",
+      "穩固容量保證計畫 (Firm Capacity Assurance Scheme)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "0bd80a6e66ea91285defa3e3de004166057c857bbf0e3b8f464f6c4a5dc2c73f"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "澳洲最快的 FCAS 服務要求的響應時間為何？",
+    "correct_answer": "1 秒內（1 秒快速升/降應急）",
+    "choices": [
+      "1 秒內（1 秒快速升/降應急）",
+      "100 毫秒內",
+      "6 秒內",
+      "60 秒內"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c283e573c4acdcabb70d5c89597339786675ce7db322175d09255996eaa6a4ea"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "AGC 在電力系統頻率控制中代表什麼？",
+    "correct_answer": "自動發電控制 (Automatic Generation Control)",
+    "choices": [
+      "自動發電控制 (Automatic Generation Control)",
+      "先進電網轉換器 (Advanced Grid Converter)",
+      "輔助接地連接 (Auxiliary Ground Connection)",
+      "非同步電網耦合 (Asynchronous Grid Coupling)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e520ea1342806ff2b6633820d7a003b4e649fcbf57063321436f8cc0d0d41028"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "BESS EMS 中的調度引擎的目的是什麼？",
+    "correct_answer": "根據市場價格和限制最佳化充放電排程",
+    "choices": [
+      "根據市場價格和限制最佳化充放電排程",
+      "將緊急停止訊號傳送至所有現場設備",
+      "管理現場的實體安全進出",
+      "對所有子系統執行自動韌體更新"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "1bca304b3d2f3ecb2d9af8412342c015ae2773fa7dae9d23d3d8bfaf2b222f6b"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "BESS 提供的合成慣量是什麼？",
+    "correct_answer": "模擬旋轉機械慣量的快速有功功率注入",
+    "choices": [
+      "模擬旋轉機械慣量的快速有功功率注入",
+      "網路模型中電池質量的虛擬表示",
+      "透過軟體人工延長電池容量",
+      "模擬電壓崩潰保護"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "bdbb1aeb5cb97c3dfaddd44c62bfb32b09be432366e901539311a0f86f7f6878"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "EMS 與電網營運商通訊最常用的 SCADA 協定是什麼？",
+    "correct_answer": "DNP3",
+    "choices": [
+      "DNP3",
+      "OPC UA",
+      "IEC 61850 GOOSE",
+      "PROFIBUS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2f5a239085c9bd601ca9d82402cf56a2cc6dad8184ddd02a216c9f68cf041f40"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "EMS 中的 SOC 最佳化通常平衡什麼？",
+    "correct_answer": "為即將提供的服務保留足夠的充放電空間",
+    "choices": [
+      "為即將提供的服務保留足夠的充放電空間",
+      "隨時最大化充電速率",
+      "將電芯維持在精確的 50% SOC",
+      "最小化接觸器操作次數"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b06256976c68940b16c5b413c4f22627e57a14e785663ce868fe3693d7265b88"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "在分散式 BESS 中，虛擬電廠是什麼？",
+    "correct_answer": "將多個分散式電池聚合控制為單一資源",
+    "choices": [
+      "將多個分散式電池聚合控制為單一資源",
+      "用於測試目的的電池軟體模擬",
+      "僅存在於區塊鏈上的電池",
+      "完全由虛擬實境模型建造的電廠"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "9a95c4920b19e8ef978707d71d3259fbaf3de5fb08d925dfbc15c3678498e4e7"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "在澳洲 NEM 中，5 分鐘結算對 BESS 收益意味著什麼？",
+    "correct_answer": "價格每 5 分鐘結算一次，獎勵快速響應的電池",
+    "choices": [
+      "價格每 5 分鐘結算一次，獎勵快速響應的電池",
+      "電池必須每 5 分鐘報告 SOC",
+      "每日放電收益上限為 5 分鐘",
+      "每第 5 個調度區間免費"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b79457e1b3ad84bcfaae91c654a55600b37f1d9ade4ebf938fe7f691561f1e19"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "DERMS 代表什麼？",
+    "correct_answer": "分散式能源資源管理系統 (Distributed Energy Resource Management System)",
+    "choices": [
+      "分散式能源資源管理系統 (Distributed Energy Resource Management System)",
+      "動態應急響應管理系統 (Dynamic Emergency Response Management System)",
+      "數位能源路由與監控服務 (Digital Energy Routing and Monitoring Service)",
+      "分散式設備可靠度監控系統 (Distributed Equipment Reliability Monitoring System)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "9cf208e576278f1f0916988bf277e66fefffa2dc2092660509980c01aba482ec"
+  },
+  {
+    "category": "ems",
+    "difficulty": "easy",
+    "question_text": "BESS 控制室中 HMI 的主要功能是什麼？",
+    "correct_answer": "為操作員提供圖形介面以監控和控制電廠",
+    "choices": [
+      "為操作員提供圖形介面以監控和控制電廠",
+      "處理高速保護跳脫",
+      "加密機櫃與 EMS 之間的所有通訊",
+      "校準電池電芯電壓感測器"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "baa0af271c883e75664cdbed6c5215cd238651b5ef65cb6adccf88b953846e1a"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "哪個 UL 標準涵蓋系統層級的 BESS 安全？",
+    "correct_answer": "UL 9540",
+    "choices": [
+      "UL 9540",
+      "UL 1973",
+      "UL 1741",
+      "UL 1642"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f981fdb67994fb46022220a9fb7efff981952e444e775fe6cacbd7e577cf558a"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "UL 9540A 專門測試 BESS 的哪些方面？",
+    "correct_answer": "在電芯、模組、單元和安裝層級進行熱失控傳播測試",
+    "choices": [
+      "在電芯、模組、單元和安裝層級進行熱失控傳播測試",
+      "電氣絕緣電阻",
+      "耐震性能",
+      "網路安全漏洞"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "221da5ee031b071279aa660dbd52660d377b9aa85db6b5dc626ab338cb21299c"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "哪個 NFPA 標準專門針對 BESS 安裝？",
+    "correct_answer": "NFPA 855",
+    "choices": [
+      "NFPA 855",
+      "NFPA 70",
+      "NFPA 72",
+      "NFPA 13"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "07718190247ddbeef3c8e564c7d61305321cdb12aec24ceb742d8579731d3895"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "哪個澳洲標準與電池儲能系統安裝相關？",
+    "correct_answer": "AS/NZS 5139",
+    "choices": [
+      "AS/NZS 5139",
+      "AS/NZS 3000",
+      "AS/NZS 4777",
+      "AS/NZS 5033"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "7c2cf38564221f9259eb04d28528734d28172c1b4108f629df46efbaab1fab34"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "在含有敏感電子設備的 BESS 容器中，常用哪種滅火劑？",
+    "correct_answer": "Novec 1230",
+    "choices": [
+      "Novec 1230",
+      "二氧化碳",
+      "濕式化學藥劑",
+      "乾粉"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d06e741617169e5ddbe81de9069e462cb10de811313858743240c9ded1f1da0e"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "BESS 中排氣偵測的主要目的是什麼？",
+    "correct_answer": "在熱失控前早期預警電芯排氣",
+    "choices": [
+      "在熱失控前早期預警電芯排氣",
+      "偵測現場天然氣洩漏",
+      "監控 HVAC 冷媒洩漏",
+      "測量人員的環境空氣品質"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2e2ddb16db9aaf32cc569474d311eb1eaf7eaa9d6a947416b09b684505bf1ec5"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "BESS 容器上的防爆板設計用於何種情況？",
+    "correct_answer": "發生內部爆炸時釋放壓力",
+    "choices": [
+      "發生內部爆炸時釋放壓力",
+      "提供消防水帶進入口",
+      "正常運作時散熱",
+      "排除積雪和雨水"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "27754e463f122d0bffad9a9fc37b05edd76942ff39ebc87cc13329ba15e3f1c9"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "哪個 IEC 標準專門針對二次鋰電池的安全要求？",
+    "correct_answer": "IEC 62619",
+    "choices": [
+      "IEC 62619",
+      "IEC 62109",
+      "IEC 61400",
+      "IEC 61850"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "06ded0255611daf36ceacec0d16b1e9737c714855214438b1d6010de1621fc66"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "UL 9540 與 UL 9540A 的主要差異是什麼？",
+    "correct_answer": "9540 是列名標準；9540A 是火災傳播測試方法",
+    "choices": [
+      "9540 是列名標準；9540A 是火災傳播測試方法",
+      "9540 適用於住宅；9540A 適用於公用事業規模",
+      "9540 涵蓋直流系統；9540A 涵蓋交流系統",
+      "9540 僅限美國；9540A 適用於國際"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c144739c5fdc709c28bf3bc0906cc49e815fd619224cf1f13335ae5b5ad15861"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "NFPA 855 中 BESS 容器之間的常見間隔距離要求為何？",
+    "correct_answer": "容器之間至少 3 英尺（0.9 公尺）",
+    "choices": [
+      "容器之間至少 3 英尺（0.9 公尺）",
+      "容器之間至少 10 英尺（3 公尺）",
+      "容器之間至少 20 英尺（6 公尺）",
+      "無最低間隔要求"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "65a71e70848191aaa760a9b2ee44018bcb269c650ad1c88495505f4a07b3ff01"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "電池熱失控期間，哪種氣體是排氣的主要可燃成分？",
+    "correct_answer": "氫氣",
+    "choices": [
+      "氫氣",
+      "氧氣",
+      "氮氣",
+      "二氧化碳"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3bb4fe9f53cac73edadb1ac68eb79a99ed2e36f0991871faa9e07b92c05daa82"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "水霧滅火系統對 BESS 應用的優勢是什麼？",
+    "correct_answer": "冷卻相鄰電芯以防止熱失控傳播",
+    "choices": [
+      "冷卻相鄰電芯以防止熱失控傳播",
+      "化學中和電解液",
+      "滅火過程中為電池充電",
+      "在容器內創造無氧環境"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "07758046595b780c80f589a8db25b124f521148e064ec2d5b308afd05273ee1e"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "在北美電力市場中，RTO 代表什麼？",
+    "correct_answer": "區域輸電組織 (Regional Transmission Organization)",
+    "choices": [
+      "區域輸電組織 (Regional Transmission Organization)",
+      "再生能源技術營運商 (Renewable Technology Operator)",
+      "零售交易組織 (Retail Trading Organization)",
+      "監管電價辦公室 (Regulatory Tariff Office)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "bc277f1af528b355d1e4e89211f2a48dae7cd2a674fc306a43f8797732b92526"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "涵蓋南澳洲的 NEM 區域為何？",
+    "correct_answer": "南澳洲 (SA)",
+    "choices": [
+      "南澳洲 (SA)",
+      "維多利亞州 (VIC)",
+      "南部區域 (SR)",
+      "阿德雷德區域 (AR)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a7e60b2cfd6ce432a99e28c6533748e42d137c44fe9fb15b5049e7a56d93fd33"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "WEM 在澳洲能源領域中代表什麼？",
+    "correct_answer": "批發電力市場（西澳洲）",
+    "choices": [
+      "批發電力市場（西澳洲）",
+      "風能機制 (Wind Energy Mechanism)",
+      "西部能源管理 (Western Energy Management)",
+      "批發能源強制令 (Wholesale Energy Mandate)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "07f77912dcac6a3ec4b6545640490a8a5e898f79114e9bbd89e9e250184ff2a1"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "在北美電力市場中，ISO 是什麼？",
+    "correct_answer": "獨立系統營運商 (Independent System Operator)",
+    "choices": [
+      "獨立系統營運商 (Independent System Operator)",
+      "國際標準化組織 (International Standards Organization)",
+      "整合太陽能營運商 (Integrated Solar Operator)",
+      "逆變器系統監督員 (Inverter System Overseer)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "366fc3dbf4fe5e075f9cbbba55fb0ebd70f1456cdcfa9b94deb173b72572a780"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "ERCOT 代表什麼？",
+    "correct_answer": "德州電力可靠度委員會 (Electric Reliability Council of Texas)",
+    "choices": [
+      "德州電力可靠度委員會 (Electric Reliability Council of Texas)",
+      "東部區域傳輸控制 (Eastern Regional Control of Transmission)",
+      "緊急應變協調小組 (Emergency Response Coordination Team)",
+      "能源資源與容量最佳化任務組 (Energy Resource and Capacity Optimization Taskforce)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "5d171bb1bddefc9baf312ced15be2e8d0f6fd0c6bf2413b8f044fdb6f6801256"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "BESS 參與澳洲 NEM 的最低投標規模為何？",
+    "correct_answer": "1 MW",
+    "choices": [
+      "100 kW",
+      "500 kW",
+      "1 MW",
+      "5 MW"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6cbec583c5f00fa3ab51966942bddff0a83437e9dce32e0b6cea9387babb9732"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "台灣電力公司（台電）頻率調節市場對響應時間的要求為何？",
+    "correct_answer": "sReg（靜態）和 dReg（動態），dReg 要求次秒級響應",
+    "choices": [
+      "sReg（靜態）和 dReg（動態），dReg 要求次秒級響應",
+      "固定 5 分鐘響應時間",
+      "15 分鐘保證爬升",
+      "所有產品 30 秒響應"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c5ca394ab75e9a0b761b35c04e3f81cf80de53cc485fa984c5c1534bda8e0bf5"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "英國電力系統中的平衡市場是什麼？",
+    "correct_answer": "一個市場，國家電網 ESO 在此購買行動以即時平衡供需",
+    "choices": [
+      "一個市場，國家電網 ESO 在此購買行動以即時平衡供需",
+      "一個在製造商之間交易電池芯的市場",
+      "一個用於平衡場地土方工程的合約機制",
+      "一個針對 BESS 資產所有者的保險市場"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "de3a3610190ca638c1e3034c97d3b58045d996c369b50287c0c25582db5f6a53"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "澳洲 NEM 中 BESS 電網連接的典型電壓等級為何？",
+    "correct_answer": "11 kV 至 132 kV，視專案規模而定",
+    "choices": [
+      "415 V",
+      "1,000 V",
+      "11 kV 至 132 kV，視專案規模而定",
+      "最低 500 kV"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "eba3a4b06f121dc1f8675563a7da322046dad420be19bf6447ec5962622ce224"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "澳洲能源監管機構（AER）的主要職能是什麼？",
+    "correct_answer": "監管批發和零售電力市場及電網",
+    "choices": [
+      "監管批發和零售電力市場及電網",
+      "運營物理電網",
+      "開發新電池技術",
+      "為可再生能源項目提供補貼"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "21959237444a81fe30e7d0a2bbd74b9ce0129e1f08343a3b1a6e88d4e71cf29d"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "AEMO 代表什麼？",
+    "correct_answer": "澳大利亞能源市場運營商",
+    "choices": [
+      "澳大利亞能源市場運營商",
+      "澳大利亞電力管理辦公室",
+      "澳大拉西亞能源監測組織",
+      "澳大利亞電力市場運營商"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "a864ea30ac3fc9d7a397b218d0650967a7a1c59198dbeec13e5780e96f347804"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "在澳洲能源市場中，NEM 代表什麼？",
+    "correct_answer": "國家電力市場",
+    "choices": [
+      "國家電力市場",
+      "新能源機制",
+      "國家能源授權",
+      "電網電力模型"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "45a28da0eedaf290c1584057862b5e6b494173b7fe2e5dbe8cc41e0ae3a57b33"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "哪個澳洲州未連接至 NEM？",
+    "correct_answer": "西澳大利亞州",
+    "choices": [
+      "西澳大利亞州",
+      "維多利亞州",
+      "昆士蘭州",
+      "南澳大利亞州"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f844cc6f9b1a6f6ad7b86c9c1e61952bf90355055b12e001977636715e846a88"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "台電是什麼？",
+    "correct_answer": "台灣的國營電力公司",
+    "choices": [
+      "台灣的國營電力公司",
+      "一家台灣的PCS製造商",
+      "台灣的可再生能源機構",
+      "一個區域電力交易平台"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "054695409322c5279f023fc71ec8b3f853947920b323a406b8788b0f59044e87"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "在台電輔助服務市場中，dReg 指的是什麼？",
+    "correct_answer": "動態調節服務，用於快速頻率響應",
+    "choices": [
+      "動態調節服務，用於快速頻率響應",
+      "電力零售市場的放鬆管制",
+      "分布式區域發電調度",
+      "需求響應能源閘道"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "1e068d14ae12ecb7a093f445a08b7d27d799b61e21b9aec6ed08015b21c8f1de"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "JEPX 是什麼？",
+    "correct_answer": "日本電力批發交易所",
+    "choices": [
+      "日本電力批發交易所",
+      "日本能源績效標準",
+      "日本電氣產品出口協會",
+      "聯合能源採購交易所"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "21aaf188c4c796e9d3f4bc0999284de5a14ace80c19fb5d5b22fe905b6435898"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "ElectraNet 是什麼？",
+    "correct_answer": "南澳大利亞州電力輸電網路服務業者",
+    "choices": [
+      "南澳大利亞州電力輸電網路服務業者",
+      "澳洲國家電力零售商",
+      "一家位於墨爾本的BESS項目開發商",
+      "電網保護繼電器的製造商"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f38b000f60fe3253a4a7d729116c10d8898ee86886c0077156a83d699e9fc942"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "在 ElectraNet 的背景下，NSPS 代表什麼？",
+    "correct_answer": "電網支援與輔助服務轉嫁",
+    "choices": [
+      "電網支援與輔助服務轉嫁",
+      "國家系統保護方案",
+      "新南威爾斯電力系統",
+      "南北電力同步"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "7bffb67c853fcad3a0d1e5e513070a14596a23583a426c684a93e0aff6a2828d"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "美國的FERC第841號命令是什麼？",
+    "correct_answer": "要求RTO/ISO消除儲能參與批發市場的障礙",
+    "choices": [
+      "要求RTO/ISO消除儲能參與批發市場的障礙",
+      "規定2050年前實現100%可再生能源",
+      "建立聯邦電池回收計劃",
+      "設定逆變器最低效率標準"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "625f5d87c323c4dacbe9c3b0e36e308e6173c6ae6acf5bce6914310502dd3f7e"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "澳洲NEM的電網頻率維持在多少？",
+    "correct_answer": "50 Hz",
+    "choices": [
+      "50 Hz",
+      "60 Hz",
+      "45 Hz",
+      "55 Hz"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "feab8d998ce72c7136d37702df4efa2ac0ca7f6d9b875c258bb169b91c6365bd"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "台灣和日本的電網頻率是多少？",
+    "correct_answer": "60 Hz（日本大部分地區為60 Hz；台灣為60 Hz）",
+    "choices": [
+      "60 Hz（日本大部分地區為60 Hz；台灣為60 Hz）",
+      "兩者皆為50 Hz",
+      "台灣50 Hz，日本60 Hz",
+      "台灣60 Hz，日本50 Hz"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c46b35bdc2b1e15a57d7f0c0309478ccff2925c54a9dbf5914cc8fc57c4d2674"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "北美電網的頻率是多少？",
+    "correct_answer": "60 Hz",
+    "choices": [
+      "50 Hz",
+      "60 Hz",
+      "55 Hz",
+      "70 Hz"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "289edfa234c7bd024ce608b00ac6a3147df3d9406e8987be2ea9a81bad80f05a"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "IRENA 是什麼？",
+    "correct_answer": "國際可再生能源機構",
+    "choices": [
+      "國際可再生能源機構",
+      "澳洲能源網路獨立監管機構",
+      "國際能源與核應用研究",
+      "綜合可再生能源網路聯盟"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e48a97f50595ef93d9cd789714d6911fa4a5a93d1565c9a5077a49d6697401f6"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "CAISO 代表什麼？",
+    "correct_answer": "加州獨立系統運營商",
+    "choices": [
+      "加州獨立系統運營商",
+      "加拿大獨立系統運營商協會",
+      "聯合區域互連標準組織",
+      "加州先進逆變器標準辦公室"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b897caa98a3531228a8b4d47ed8002c0b77ac484233e38cdb934bce1692074b4"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "台灣2030年預計的BESS安裝容量目標約為多少？",
+    "correct_answer": "5.5 GW",
+    "choices": [
+      "500 MW",
+      "2.5 GW",
+      "5.5 GW",
+      "20 GW"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "806b1a61377744f204e3170b9ff787bb04bb1aeb37a16c2a81800e90830a0ff0"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "在1500V PCS設計中，典型的直流鏈路電壓是多少？",
+    "correct_answer": "1,100 至 1,500 V DC",
+    "choices": [
+      "400 至 600 V DC",
+      "1,100 至 1,500 V DC",
+      "2,500 至 3,000 V DC",
+      "750 至 900 V DC"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c7961c33c169e0f5b5b8d16bb6299f939e34a78ef0f70eb1bc064319b8b5e7e4"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "無變壓器PCS設計的主要優勢是什麼？",
+    "correct_answer": "更高效率與更小尺寸",
+    "choices": [
+      "更高效率與更小尺寸",
+      "直流與交流之間的電氣隔離",
+      "更好的諧波濾波",
+      "半導體元件上的電壓應力更低"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d0d18edcdc7bc61253f5ecb7e4b843066dc5931fff658a770e86b1cde1cd4142"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "PCS在直流側提供什麼保護功能？",
+    "correct_answer": "反極性保護和過電流保護",
+    "choices": [
+      "反極性保護和過電流保護",
+      "遠程監控的WiFi連接",
+      "自動電芯均衡",
+      "滅火控制"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "dc326dfc1301a3390edd51a72a64a32ef0b69de9d4f3a5beef2fa245c9d6cae8"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "公用事業規模PCS的典型功率因數範圍是多少？",
+    "correct_answer": "0.8 領先至 0.8 落後或更寬",
+    "choices": [
+      "0.95 領先至 0.95 落後",
+      "0.8 領先至 0.8 落後或更寬",
+      "僅單位功率因數",
+      "固定為 0.9 落後"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "1694a59671982f2de34ca75a73634b258d79fe81986f823066378cb02839083a"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "在PCS電網合規中，LVRT是什麼？",
+    "correct_answer": "低電壓穿越",
+    "choices": [
+      "低電壓穿越",
+      "線路電壓調節閾值",
+      "負載驗證與響應測試",
+      "低方差整流技術"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3f21b8b7e0354850693d68522ce35f580b65055efe853e2022b28214523a0421"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "為PCS添加變壓器所造成的典型效率損失是多少？",
+    "correct_answer": "1-2% 損失",
+    "choices": [
+      "0.1-0.3% 損失",
+      "1-2% 損失",
+      "5-8% 損失",
+      "10-15% 損失"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "99480cccd88018dfbd797f1ee0d512139d459a0037d80d22fd41133be5cb7ffd"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "三相PCS逆變器中典型的調製指數範圍是多少？",
+    "correct_answer": "SVM 為 0 至 1.15",
+    "choices": [
+      "0 至 0.5",
+      "SVM 為 0 至 1.15",
+      "1.5 至 2.0",
+      "0 至 0.8"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "49412ca3db81f1915d010f2db9e262079a403fb49bbecdae5202a1a3ecec38d3"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "PCS如何與電網保護系統接口？",
+    "correct_answer": "通過保護繼電器將跳閘信號傳送至PCS控制器",
+    "choices": [
+      "通過保護繼電器將跳閘信號傳送至PCS控制器",
+      "通過光纖直接連接至公用事業SCADA",
+      "僅通過手動操作員干預",
+      "經由BMS作為中介"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3177cbc561cb8a24b1ae969ec5a3512a50dad1d472ccc6342d68976620ccfebb"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "哪些半導體元件正在取代部分下一代PCS設計中的IGBT？",
+    "correct_answer": "SiC MOSFET",
+    "choices": [
+      "SiC MOSFET",
+      "氮化鎵晶體管",
+      "機械接觸器",
+      "真空管"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b6f5153499912cef27bb469a96bcc2934d42c185e3914a682489425bf52247f1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "PCS逆變器開關中的死區時間是什麼？",
+    "correct_answer": "在關閉一個開關與開啟其互補對之間的一個短暫延遲",
+    "choices": [
+      "在關閉一個開關與開啟其互補對之間的一個短暫延遲",
+      "逆變器在充放電循環之間閒置的時間",
+      "PCS與電網斷開連接的時期",
+      "故障後逆變器重新啟動前的延遲"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "234663617d169840db9912ccaf3387dc4b3523c078538b499070c53adf5d684f"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "在電池儲能系統中，PCS代表什麼？",
+    "correct_answer": "電能轉換系統",
+    "choices": [
+      "電能轉換系統",
+      "功率控制系統",
+      "主冷卻系統",
+      "保護電路系統"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "9352036844e5c0636d25a474fb21e51228a7b775363e82438caa60d1b8a939b1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "PCS在BESS中的主要功能是什麼？",
+    "correct_answer": "在直流電池電壓與交流電網電壓之間進行轉換",
+    "choices": [
+      "在直流電池電壓與交流電網電壓之間進行轉換",
+      "監控電芯溫度",
+      "優化市場競價策略",
+      "為集裝箱提供物理冷卻"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "110f158150406f3b4166cef15f87540c005d4e3928f6a04c91aa3a9c197323f7"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "公用事業規模PCS逆變器中最常用的功率半導體元件是什麼？",
+    "correct_answer": "IGBT",
+    "choices": [
+      "MOSFET",
+      "IGBT",
+      "閘流體",
+      "BJT"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8c7584e92fe7d5c7a67dbc9fd343bdb6b0f244586ac05c10206515980f782999"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "SiC MOSFET在PCS設計中相較於IGBT的主要優勢是什麼？",
+    "correct_answer": "高頻下更低的開關損耗",
+    "choices": [
+      "高頻下更低的開關損耗",
+      "更高的額定電壓",
+      "更低的成本",
+      "更簡單的柵極驅動要求"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4286fd84bd47accfa96610075793de039107ee9930428825dfee14f23f946e34"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "電網形成型逆變器能做到而電網跟隨型逆變器不能做到的是什麼？",
+    "correct_answer": "建立自己的電壓和頻率參考",
+    "choices": [
+      "建立自己的電壓和頻率參考",
+      "與現有電網同步",
+      "從太陽能為電池充電",
+      "以更高效率運行"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "9b0604e198616d2c35939b0bbe02e6751199eeffc27da8d8f0079b14bf670419"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "連接至中壓等級的公用事業規模PCS的典型交流輸出電壓是多少？",
+    "correct_answer": "11-33 kV",
+    "choices": [
+      "400-480 V",
+      "690 V",
+      "1,000 V",
+      "11-33 kV"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "2015b5a04d66e691ec60d48e6aea4654f566ed50637d41ba13f1b9072e345cbc"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "PCS中的反孤島保護是什麼？",
+    "correct_answer": "當上游電網中斷時檢測並斷開連接",
+    "choices": [
+      "當上游電網中斷時檢測並斷開連接",
+      "防止相間短路",
+      "直流母線過壓保護",
+      "電子元件的防潮保護"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ace18219630ec66c8f40bbafee1f10ab3b1459801c2bed48936a49bb637bc4e2"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "在PCS輸出品質背景下，THD代表什麼？",
+    "correct_answer": "總諧波失真",
+    "choices": [
+      "總諧波失真",
+      "熱散逸",
+      "變壓器高壓檢測",
+      "三次諧波位移"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "307060d22e19c6d2402ee8e439e4e43bc281589ff47666c199d54d79231d5799"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "現代公用事業規模PCS本身的典型往返效率是多少？",
+    "correct_answer": "97-98.5%",
+    "choices": [
+      "90-92%",
+      "94-96%",
+      "97-98.5%",
+      "99.5-99.9%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "20f8be32259d3128a570e923a5cc75c2962a774335dbd8e8d4606768d57f42f9"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "BESS安裝中升壓變壓器的目的是什麼？",
+    "correct_answer": "將PCS輸出電壓升高至電網連接電壓",
+    "choices": [
+      "將PCS輸出電壓升高至電網連接電壓",
+      "隔離電池與地",
+      "增加載流能力",
+      "諧波濾波"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "83eceffd3ea5f11c7cda60fc65ae1d7ad2e7af5bd90ac2a8abe8ea8448fd89b1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "三相PCS逆變器中常用哪種調製技術？",
+    "correct_answer": "空間向量PWM",
+    "choices": [
+      "振幅調製",
+      "頻移鍵控",
+      "空間向量PWM",
+      "Delta-sigma調製"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c6d84342f2f29bea363e8841e2bb799ba55573a133cb7f5b00684833822adcd1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "現代PCS單元典型的無功功率能力是什麼？",
+    "correct_answer": "在額定視在功率下實現四象限運行",
+    "choices": [
+      "僅單位功率因數",
+      "固定0.95落後功率因數",
+      "在額定視在功率下實現四象限運行",
+      "僅在50%負載下領先功率因數"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b4f1757096b02c16bfe0a1d3bbb59f2ecf80291cd73bfc72ce9fbacde55897d9"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "電網形成型逆變器通常能提供多大的故障電流貢獻？",
+    "correct_answer": "額定電流的1.2至2.0倍",
+    "choices": [
+      "額定電流的1.2至2.0倍",
+      "額定電流的6至10倍",
+      "額定電流的0.5倍",
+      "無限制"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "279c974f0f30bf1483a3b72e0f8bc75df1ccd3b53bebeddbf69a09c109af0208"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "在混合太陽能加儲能PCS中，MPPT代表什麼？",
+    "correct_answer": "最大功率點追蹤",
+    "choices": [
+      "最大功率點追蹤",
+      "多相功率傳輸",
+      "模塊化功率保護終端",
+      "最小峰值功率追蹤"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "96b62794ca6baf1f4c879d080a5fe7fdffd7179605cbbb1833c48c4049accff9"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "公用事業規模PCS機櫃最常見的冷卻方法是什麼？",
+    "correct_answer": "帶HVAC的強制風冷",
+    "choices": [
+      "自然對流",
+      "帶HVAC的強制風冷",
+      "浸沒式冷卻",
+      "被動熱管"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "d61533875adcd000d1e3b0d6ce83e9a6c5e8c50b2668de02011fb02f3424ddd2"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "easy",
+    "question_text": "BESS與太陽能電場共置的主要目的是什麼？",
+    "correct_answer": "將太陽能發電轉移至晚間尖峰用電時段",
+    "choices": [
+      "將太陽能發電轉移至晚間尖峰用電時段",
+      "提高太陽能板的電壓輸出",
+      "取代逆變器的需求",
+      "在炎熱天氣為太陽能板降溫"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4fe2f18379429a6e576e9a33cb1bcc47b348542466ea1a31b65df80f60da2620"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "電網運營中的鴨子曲線是什麼？",
+    "correct_answer": "淨負載曲線，顯示太陽能發電下降時傍晚陡峭的爬坡",
+    "choices": [
+      "淨負載曲線，顯示太陽能發電下降時傍晚陡峭的爬坡",
+      "追蹤電池成本隨時間下降的圖表",
+      "風力發電在24小時週期內的曲線",
+      "顯示電池隨時間衰退的曲線"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4511cd3a962715cb6d57ce45feb9834f3379bae37ee823b626a19471bb9f5831"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "什麼是可再生能源棄電？",
+    "correct_answer": "當發電量超過需求或電網容量時，刻意減少可再生能源出力",
+    "choices": [
+      "當發電量超過需求或電網容量時，刻意減少可再生能源出力",
+      "關閉發電廠進行定期維護",
+      "在現有電場增加更多太陽能板",
+      "將直流電轉換為交流電"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "e94ec941162edee5b160654848abd7c80e26d9f32b7692e67a6ffaabdf1d4988"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "BESS如何幫助減少可再生能源棄電？",
+    "correct_answer": "吸收原本會被棄電的多餘發電量",
+    "choices": [
+      "吸收原本會被棄電的多餘發電量",
+      "提高太陽能板的效率",
+      "降低風力發電機噪音",
+      "取代輸電線路的需求"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4741c856141b57feaf66941a59d4373f8818146655a2305d615c6c87448b0052"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "在太陽能加儲能的背景下，混合PPA是什麼？",
+    "correct_answer": "一份涵蓋太陽能和儲能輸出的單一購電協議",
+    "choices": [
+      "一份涵蓋太陽能和儲能輸出的單一購電協議",
+      "一份將太陽能輸出分配給兩個買家的協議",
+      "一份涵蓋電力和可再生能源證書的合同",
+      "一份根據季節調整價格的PPA"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "c0f0c8eba20ae49cde1079fb32fd77cacc93ef1a1fa981b7a9188e2750a96b91"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "可再生能源中的容量固化是什麼？",
+    "correct_answer": "使用BESS將變動的可再生能源輸出平滑為保證的輪廓",
+    "choices": [
+      "使用BESS將變動的可再生能源輸出平滑為保證的輪廓",
+      "安裝物理支架以加強太陽能板支架",
+      "通過選址保證最低風速",
+      "升級變壓器以應對尖峰負載"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "b66a342f97046d73fe4fc91cb0f5b0291670856350d60483bf9ea42b5aaef6e0"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "加州的鴨子曲線在一天中的哪個時間段達到最陡峭的爬坡？",
+    "correct_answer": "下午4點至晚上8點",
+    "choices": [
+      "早上6點至上午9點",
+      "中午12點至下午2點",
+      "下午4點至晚上8點",
+      "晚上10點至午夜12點"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "f2e1424555bd58d5f633af518fbf3485b6fdbc34024d4e0c0b8fe1cdc4093d50"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "在美國可再生能源政策中，ITC代表什麼？",
+    "correct_answer": "投資稅收抵免",
+    "choices": [
+      "投資稅收抵免",
+      "州際輸電走廊",
+      "獨立測試認證",
+      "綜合技術聯盟"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "93b92f10b06af2c5f91827c4da80ecf4032238fde36af290c427bb32361c12f6"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "在《通貨膨脹削減法案》之後，獨立BESS是否有資格獲得美國聯邦ITC？",
+    "correct_answer": "是",
+    "choices": [
+      "是",
+      "否，僅太陽能加儲能符合資格",
+      "僅在低於5 MW時符合資格",
+      "僅在特定州符合資格"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "375545c360eba905b79c5f027224032459ba1ff5a05ce88864ce58e38faff08d"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "在混合型電廠中，太陽光電與電池儲能系統的典型MW比例為何？",
+    "correct_answer": "1 MW太陽光電搭配0.25-0.5 MW儲能是常見的配置",
+    "choices": [
+      "1 MW太陽光電搭配0.25-0.5 MW儲能是常見的配置",
+      "1 MW太陽光電搭配1 MW儲能",
+      "1 MW太陽光電搭配2 MW儲能",
+      "1 MW太陽光電搭配0.05 MW儲能"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "096b739f2ba75cbd846871cbe0324386cb27fc57a768262af8c61ea449c10150"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "什麼是表後電池儲能系統安裝？",
+    "correct_answer": "安裝在電表用戶側的電池",
+    "choices": [
+      "安裝在電表用戶側的電池",
+      "為了美觀而隱藏在牆後的電池",
+      "未配置電力轉換系統的電池",
+      "與建築物分開計量的電池"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "eabd5f853f8eb468ba2a495403904e10cc37365fbfa6ad9b658820844b6bf9ab"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "太陽光電加儲能系統在晚間尖峰時段提供的主要電網服務是什麼？",
+    "correct_answer": "尖峰容量和爬坡速率支援",
+    "choices": [
+      "尖峰容量和爬坡速率支援",
+      "僅頻率調節",
+      "電壓降低",
+      "僅黑啟動能力"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "6c03d1700e88d0cdc09b781a8058fcc19aabf141b591bd688ba1232241744d0d"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "easy",
+    "question_text": "在BESS中，TMS代表什麼？",
+    "correct_answer": "熱管理系統",
+    "choices": [
+      "熱管理系統",
+      "溫度監測站",
+      "熱緩解策略",
+      "變壓器監控系統"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ca01b9bb1e00ed17a9f9c892cfc44648f3b0c5d60f8a87fe735fd9d9fa4b58c6"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "液體冷卻相較於空氣冷卻在BESS中的主要優勢是什麼？",
+    "correct_answer": "更高的熱傳導係數和更均勻的電池溫度",
+    "choices": [
+      "更高的熱傳導係數和更均勻的電池溫度",
+      "較低的初始資本成本",
+      "更簡單的維護要求",
+      "無需任何冷卻液"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8fa4c17a6ce220105abb02461def145e73181a821cdcc5afa3fe42a97044642f"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "hard",
+    "question_text": "液體冷卻系統典型的輔助功耗是多少？",
+    "correct_answer": "2-5%",
+    "choices": [
+      "0.5-1%",
+      "2-5%",
+      "10-15%",
+      "20-25%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "ff3b5fcdb89924e65fa51baabed4553c2cf64017a5f85c3ab5ba99708dbb5edc"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "BESS中LFP電池的最佳運行溫度範圍是多少？",
+    "correct_answer": "15-30 °C",
+    "choices": [
+      "0-10 °C",
+      "15-30 °C",
+      "35-45 °C",
+      "50-60 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "127534f571666fe1b3971cfa2967fe466c1cebf3867c47cf10406eed9c810694"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "為什麼同一機櫃中電池之間的溫度均勻性很重要？",
+    "correct_answer": "溫度差異會加速電池之間的不均勻老化",
+    "choices": [
+      "溫度差異會加速電池之間的不均勻老化",
+      "不均勻的溫度會增加冷卻功耗",
+      "它會影響電池外殼的顏色",
+      "它會改變電池的物理尺寸"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "28ff3f5f537127cf03241912b876e51294092392d3170a07c265b599f1c60285"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "hard",
+    "question_text": "在BESS中，電池之間通常可接受的溫度差異是多少？",
+    "correct_answer": "小於3-5 °C",
+    "choices": [
+      "小於0.5 °C",
+      "小於3-5 °C",
+      "小於10-15 °C",
+      "最高20 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "4a44789912b2d76d948326b60a52406f0f169c6b3df7f7dcf809a0e98a242fda"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "BESS液體冷卻系統中最常用的冷卻液類型是什麼？",
+    "correct_answer": "水-乙二醇混合液",
+    "choices": [
+      "水-乙二醇混合液",
+      "礦物油",
+      "純去離子水",
+      "冷媒R134a"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "61b6f1b3142d13c71dd3c6d5b210b6c08fe375568eaca6b880a55ee34344ecc3"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "easy",
+    "question_text": "BESS貨櫃中HVAC的主要目的是什麼？",
+    "correct_answer": "將電池運行溫度維持在安全範圍內",
+    "choices": [
+      "將電池運行溫度維持在安全範圍內",
+      "為維修技術人員提供舒適的環境",
+      "對貨櫃加壓以防止灰塵進入",
+      "循環空氣以進行消防"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "8e6923e88045284bd203e13ed5d13a5c8a3524d865defc5bb414fbe6f548a510"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "高密度BESS貨櫃採用空氣冷卻的缺點是什麼？",
+    "correct_answer": "溫度梯度會隨著能量密度增加而增大",
+    "choices": [
+      "溫度梯度會隨著能量密度增加而增大",
+      "需要更多佔地面積",
+      "比液體冷卻更吵",
+      "比液體系統使用更多冷卻液"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "0af67376405ebccf72ab2221164aa9047280aac6ba7e34e4b0a33e5609de232a"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "BESS中的冷板冷卻是指什麼？",
+    "correct_answer": "一種直接接觸電池或模組表面的液冷板",
+    "choices": [
+      "一種直接接觸電池或模組表面的液冷板",
+      "將冷凍水儲存在地下水箱中",
+      "在夜間運行電池以進行冷卻",
+      "利用環境冷空氣而無需主動制冷"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "3de8edcc400a453be0eeb11f2dc213a3e59a15c2260460bf8601ea74d64d3c4d"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "在非常低的溫度下運行時，BESS效率會發生什麼變化？",
+    "correct_answer": "較高的內阻會降低往返效率",
+    "choices": [
+      "較高的內阻會降低往返效率",
+      "由於自放電減少，效率反而提升",
+      "僅充電效率受影響",
+      "沒有可測量的影響"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "bf5f7a1cf6be7e26ea10beb660a6499f1bf27d48fee7826809fbcb90015e0f61"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "hard",
+    "question_text": "在極寒氣候下，BESS冷卻的典型方法是什麼？",
+    "correct_answer": "貨櫃配有加熱器，並可利用逆變器損耗自發熱",
+    "choices": [
+      "貨櫃配有加熱器，並可利用逆變器損耗自發熱",
+      "電池降額，以較低功率運行",
+      "無需特殊措施",
+      "電池埋入地下以利用天然隔熱"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "zh-tw",
+    "translation_key": "327728d691cd5cd0f83c37dad8202824b6a1e03ed74088e49c0ba2baa7fb7c73"
+  }
+]

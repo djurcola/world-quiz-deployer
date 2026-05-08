@@ -1,0 +1,3826 @@
+[
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какая звезда находится ближе всего к Земле?",
+    "correct_answer": "Солнце",
+    "choices": [
+      "Альфа Центавра",
+      "Сириус",
+      "Солнце",
+      "Проксима Центавра"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8104e8d5-0d9e-4e92-9d00-ce981555f2a5"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "В какой галактике находится Земля?",
+    "correct_answer": "Млечный Путь",
+    "choices": [
+      "Треугольник",
+      "Сомбреро",
+      "Андромеда",
+      "Млечный Путь"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a4a1dadf-3acc-46c8-bd14-4bf86163ef3a"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какая планета самая большая в Солнечной системе?",
+    "correct_answer": "Юпитер",
+    "choices": [
+      "Уран",
+      "Юпитер",
+      "Сатурн",
+      "Нептун"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "4229f739-5c8e-4161-89bd-153cfa683791"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "Какой астрономический объект называют «неудавшейся звездой»?",
+    "correct_answer": "Коричневый карлик",
+    "choices": [
+      "Нейтронная звезда",
+      "Красный гигант",
+      "Белый карлик",
+      "Коричневый карлик"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "028dd544-a07b-40e2-8479-5eaff2c00b99"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется граница вокруг черной дыры, за которой ничто не может покинуть ее?",
+    "correct_answer": "Горизонт событий",
+    "choices": [
+      "Горизонт событий",
+      "Аккреционный диск",
+      "Фотонная сфера",
+      "Сингулярность"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ad7ae448-7146-48dc-b14b-8bd5524ff06d"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Что вызывает фазы Луны?",
+    "correct_answer": "Ее орбита вокруг Земли",
+    "choices": [
+      "Ее орбита вокруг Земли",
+      "Облачный покров",
+      "Тень Земли",
+      "Расстояние до Солнца"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "4160443c-0f4d-47b1-b588-48c5f5c318f4"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Какой элемент самый распространенный во Вселенной?",
+    "correct_answer": "Водород",
+    "choices": [
+      "Кислород",
+      "Водород",
+      "Гелий",
+      "Углерод"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ee04a9ab-d2b4-4690-8e3c-be51feeda6fe"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Как называется теория, описывающая происхождение Вселенной?",
+    "correct_answer": "Теория Большого взрыва",
+    "choices": [
+      "Теория Большого взрыва",
+      "Теория струн",
+      "Теория стационарного состояния",
+      "Небулярная гипотеза"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "4447c985-0884-43b1-ac2e-9de3d26b621a"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Что такое сверхновая?",
+    "correct_answer": "Взрыв звезды",
+    "choices": [
+      "Рождение звезды",
+      "Взрыв звезды",
+      "Столкновение комет",
+      "Тип галактики"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "fcfb6a2c-4aa3-49a2-934a-cc21157ac074"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Какая планета имеет наибольшее количество подтвержденных спутников?",
+    "correct_answer": "Сатурн",
+    "choices": [
+      "Юпитер",
+      "Нептун",
+      "Сатурн",
+      "Уран"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "dee22934-da33-4ec7-bfc5-4bc895d72737"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "За сколько времени солнечный свет достигает Земли?",
+    "correct_answer": "Около 8 минут",
+    "choices": [
+      "Около 8 секунд",
+      "Около 8 дней",
+      "Около 8 минут",
+      "Около 8 часов"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6337c80c-facd-43ef-981e-a1c1c9f61a46"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется самая яркая звезда ночного неба?",
+    "correct_answer": "Сириус",
+    "choices": [
+      "Вега",
+      "Полярная звезда",
+      "Сириус",
+      "Бетельгейзе"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c7dff344-597a-4f05-8d0b-707c434a1526"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "К какому типу галактик относится Млечный Путь?",
+    "correct_answer": "Спиральная галактика",
+    "choices": [
+      "Спиральная галактика",
+      "Линзовидная галактика",
+      "Эллиптическая галактика",
+      "Неправильная галактика"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "7674a1be-8fee-45f5-b5d1-a7a138b671d5"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какая планета известна как «Утренняя звезда» или «Вечерняя звезда»?",
+    "correct_answer": "Венера",
+    "choices": [
+      "Меркурий",
+      "Марс",
+      "Юпитер",
+      "Венера"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "aa00fd5c-6674-4074-add6-e6f0c1e39323"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "Как называется первый созданный человеком объект, покинувший Солнечную систему?",
+    "correct_answer": "Вояджер-1",
+    "choices": [
+      "Кассини",
+      "Вояджер-1",
+      "Пионер-10",
+      "Новые горизонты"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "09838392-fa5e-493e-bec8-40157882d6f0"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какая органелла отвечает за производство АТФ в клетках?",
+    "correct_answer": "Митохондрии",
+    "choices": [
+      "Аппарат Гольджи",
+      "Ядро",
+      "Рибосома",
+      "Митохондрии"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ae63e4fa-3df0-4a9b-b1dd-0232869bca6f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какой самый большой орган в теле человека?",
+    "correct_answer": "Кожа",
+    "choices": [
+      "Сердце",
+      "Мозг",
+      "Кожа",
+      "Печень"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "9deda994-dcc2-4f88-9fe2-7daedbc8e77e"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какой процесс используют растения для преобразования солнечного света в энергию?",
+    "correct_answer": "Фотосинтез",
+    "choices": [
+      "Ферментация",
+      "Клеточное дыхание",
+      "Фотосинтез",
+      "Хемосинтез"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "7cab999d-4bec-4f8f-a169-5255510d2aaf"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какая группа крови известна как универсальный донор?",
+    "correct_answer": "O отрицательная",
+    "choices": [
+      "O отрицательная",
+      "A положительная",
+      "B отрицательная",
+      "AB положительная"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "17d961f4-b818-4259-949f-f3e1b1899a4c"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Сколько хромосом обычно у человека?",
+    "correct_answer": "46",
+    "choices": [
+      "48",
+      "46",
+      "44",
+      "23"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "d5ea6f83-d835-406f-8738-a0be59165198"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "Как называется фермент, расщепляющий лактозу?",
+    "correct_answer": "Лактаза",
+    "choices": [
+      "Амилаза",
+      "Лактаза",
+      "Липаза",
+      "Протеаза"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "aac4b5cb-ee4f-41b4-9ed5-1219182fe684"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Каким термином обозначается организм, способный производить собственную пищу?",
+    "correct_answer": "Автотроф",
+    "choices": [
+      "Гетеротроф",
+      "Паразит",
+      "Автотроф",
+      "Разлагатель"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "eecdaf87-80f8-46ed-bf84-c325ff2d1215"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какой витамин вырабатывается в теле человека под воздействием солнечного света?",
+    "correct_answer": "Витамин D",
+    "choices": [
+      "Витамин B12",
+      "Витамин D",
+      "Витамин C",
+      "Витамин A"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a19e4559-04b3-4324-82fe-fc35221e54fa"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "Как называется научное изучение грибов?",
+    "correct_answer": "Микология",
+    "choices": [
+      "Ботаника",
+      "Вирусология",
+      "Энтомология",
+      "Микология"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6396bd7a-ed79-495f-bcd1-31f80e3b36a9"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "К какому типу животных относится утконос?",
+    "correct_answer": "Млекопитающее",
+    "choices": [
+      "Птица",
+      "Амфибия",
+      "Рептилия",
+      "Млекопитающее"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "57cae2af-4204-44da-82a5-71043ad6d337"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какая самая большая и самая прочная кость в теле?",
+    "correct_answer": "Бедренная кость",
+    "choices": [
+      "Большеберцовая кость",
+      "Позвоночник",
+      "Бедренная кость",
+      "Плечевая кость"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "7db7a13a-f4c5-4bab-a93c-53b15749105b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Как называется процесс, при котором клетки делятся, образуя две идентичные дочерние клетки?",
+    "correct_answer": "Митоз",
+    "choices": [
+      "Бинарное деление",
+      "Мейоз",
+      "Митоз",
+      "Почкование"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3a74dc78-317f-406a-8e59-37480cb8c850"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "У какого из этих животных голубая кровь?",
+    "correct_answer": "Осьминог",
+    "choices": [
+      "Осьминог",
+      "Дождевой червь",
+      "Акула",
+      "Лобстер"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "76225d36-15b6-4682-a9c5-d1069e832e1f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какая часть человеческого глаза отвечает за фокусировку света?",
+    "correct_answer": "Хрусталик",
+    "choices": [
+      "Сетчатка",
+      "Хрусталик",
+      "Роговица",
+      "Радужка"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "0bfb3e61-c1ed-4624-af88-2f6ef3d5f227"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какой процент тела человека составляет вода?",
+    "correct_answer": "60%",
+    "choices": [
+      "95%",
+      "60%",
+      "80%",
+      "40%"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "f0199979-c340-47a0-9330-fa578db62d6f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Каков pH чистой воды?",
+    "correct_answer": "7",
+    "choices": [
+      "10",
+      "0",
+      "7",
+      "14"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "db63b748-fdf4-4b95-b974-a05043a44337"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какой элемент имеет атомный номер 1?",
+    "correct_answer": "Водород",
+    "choices": [
+      "Кислород",
+      "Водород",
+      "Гелий",
+      "Углерод"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "be381180-7beb-4a12-a44b-f755a60815d8"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какова химическая формула поваренной соли?",
+    "correct_answer": "NaCl",
+    "choices": [
+      "Na₂CO₃",
+      "KCl",
+      "NaOH",
+      "NaCl"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "fa470812-75d8-4938-9b66-25ef54bf013b"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой тип химической связи включает совместное использование электронов?",
+    "correct_answer": "Ковалентная связь",
+    "choices": [
+      "Ковалентная связь",
+      "Водородная связь",
+      "Металлическая связь",
+      "Ионная связь"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5d55993b-6fb7-4583-9034-d1ed77729266"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какой газ самый распространенный в атмосфере Земли?",
+    "correct_answer": "Азот",
+    "choices": [
+      "Кислород",
+      "Азот",
+      "Аргон",
+      "Углекислый газ"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3966689a-9db6-4625-a26b-012197d5b7e4"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Химический символ какого элемента — 'Au'?",
+    "correct_answer": "Золото",
+    "choices": [
+      "Алюминий",
+      "Золото",
+      "Аргон",
+      "Серебро"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c0e6b109-9097-472e-8966-f2328fa7c51a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Как называется процесс перехода твердого вещества непосредственно в газ?",
+    "correct_answer": "Сублимация",
+    "choices": [
+      "Конденсация",
+      "Депозиция",
+      "Сублимация",
+      "Испарение"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5a99afdd-97d0-4fcd-ab98-0c4c51a5be3a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Как называется вещество, ускоряющее химическую реакцию, но не расходующееся в ней?",
+    "correct_answer": "Катализатор",
+    "choices": [
+      "Продукт",
+      "Реагент",
+      "Катализатор",
+      "Ингибитор"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5e2a6fff-d200-42b8-9c3c-d4a115729f53"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Каково химическое название пищевой соды?",
+    "correct_answer": "Бикарбонат натрия",
+    "choices": [
+      "Бикарбонат натрия",
+      "Хлорид натрия",
+      "Гидроксид натрия",
+      "Карбонат натрия"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "952a9d8a-920b-4d60-aebb-fc453b2c52ff"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой элемент является жидкостью при комнатной температуре?",
+    "correct_answer": "Ртуть",
+    "choices": [
+      "Ртуть",
+      "Серебро",
+      "Железо",
+      "Свинец"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "68865f17-4a45-438d-9525-c0f474f9efce"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какой самый легкий элемент в периодической таблице?",
+    "correct_answer": "Водород",
+    "choices": [
+      "Гелий",
+      "Кислород",
+      "Водород",
+      "Литий"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "894dc9d2-697c-4c1c-98ed-3550fb2bf3f5"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какова химическая формула перекиси водорода?",
+    "correct_answer": "H₂O₂",
+    "choices": [
+      "HO₂",
+      "H₂O₂",
+      "H₂SO₄",
+      "H₂O"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "402fc73a-fa20-4358-8322-d82f8d670ec2"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какой благородный газ используется в светящихся вывесках?",
+    "correct_answer": "Неон",
+    "choices": [
+      "Криптон",
+      "Аргон",
+      "Ксенон",
+      "Неон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "d7a9f3d0-ad31-4f37-917d-21722c3facab"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Как называется наука, изучающая соединения, содержащие углерод?",
+    "correct_answer": "Органическая химия",
+    "choices": [
+      "Неорганическая химия",
+      "Органическая химия",
+      "Физическая химия",
+      "Биохимия"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6b1c9889-a67c-4b38-97dc-7a189d0ba62f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какая кислота содержится в желудке и помогает переваривать пищу?",
+    "correct_answer": "Соляная кислота",
+    "choices": [
+      "Соляная кислота",
+      "Азотная кислота",
+      "Серная кислота",
+      "Уксусная кислота"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "008c4d33-73be-436c-a4b9-23a8d86fe3c3"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какая сила удерживает планеты на орбитах вокруг Солнца?",
+    "correct_answer": "Гравитация",
+    "choices": [
+      "Трение",
+      "Гравитация",
+      "Ядерная сила",
+      "Магнетизм"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "894ba997-6943-456a-bf38-2299dc5fa5cc"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Чему примерно равна скорость света в вакууме?",
+    "correct_answer": "300 000 км/с",
+    "choices": [
+      "300 000 км/с",
+      "150 000 км/с",
+      "1 000 000 км/с",
+      "500 000 км/с"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "0ae9d04c-e836-438f-86e2-d60e6ea112e8"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Какая частица отвечает за перенос электромагнитного взаимодействия?",
+    "correct_answer": "Фотон",
+    "choices": [
+      "Мезон",
+      "Гравитон",
+      "Глюон",
+      "Фотон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8cc8999a-f8ee-4d57-80d2-1178c43a1b3f"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Если температура увеличивается при постоянном давлении, что происходит с объемом газа?",
+    "correct_answer": "Он расширяется",
+    "choices": [
+      "Он остается неизменным",
+      "Он сжимается",
+      "Он ионизируется",
+      "Он расширяется"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "587a10eb-68c9-4e52-990e-982d38c7aacf"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какая из этих величин является скалярной?",
+    "correct_answer": "Масса",
+    "choices": [
+      "Масса",
+      "Ускорение",
+      "Сила",
+      "Скорость"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "e37f2490-cf95-4ec7-8e3a-5b9dd2fe90f1"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какова единица измерения электрического тока в СИ?",
+    "correct_answer": "Ампер",
+    "choices": [
+      "Вольт",
+      "Ампер",
+      "Ом",
+      "Ватт"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "170a46ff-ee08-4179-b897-6c4e7f9abd75"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какое явление вызывает кажущееся изгибание соломинки, помещённой в стакан с водой?",
+    "correct_answer": "Преломление",
+    "choices": [
+      "Поглощение",
+      "Дифракция",
+      "Отражение",
+      "Преломление"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "20c2ccf9-073d-4f9d-91c4-3e3d0fb047ca"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Каков приблизительный период полураспада углерода-14?",
+    "correct_answer": "5 730 лет",
+    "choices": [
+      "10 000 лет",
+      "5 730 лет",
+      "1 000 лет",
+      "25 000 лет"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "612b0feb-90fa-443a-a7bf-621956081fe2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какой вид энергии в основном имеет движущийся автомобиль?",
+    "correct_answer": "Кинетическая энергия",
+    "choices": [
+      "Тепловая энергия",
+      "Кинетическая энергия",
+      "Потенциальная энергия",
+      "Химическая энергия"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "e2373e30-a270-4401-9a2a-055f16e26172"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какой закон гласит, что каждое действие имеет равное и противоположное противодействие?",
+    "correct_answer": "Третий закон Ньютона",
+    "choices": [
+      "Второй закон Ньютона",
+      "Первый закон Ньютона",
+      "Третий закон Ньютона",
+      "Закон всемирного тяготения"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "e6c59eb8-be30-46ed-87e4-fa29955206b2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Как называется теоретическая частица, придающая массу другим частицам?",
+    "correct_answer": "Бозон Хиггса",
+    "choices": [
+      "Глюон",
+      "Тахион",
+      "Бозон Хиггса",
+      "Нейтрино"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c13fa813-4944-4f2b-be67-e62ef8d304e2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какой цвет неба обусловлен рассеянием солнечного света атмосферой?",
+    "correct_answer": "Синий",
+    "choices": [
+      "Красный",
+      "Синий",
+      "Фиолетовый",
+      "Зелёный"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b95ca564-ad14-41f8-82b7-b17be02b474d"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Что делает призма с белым светом?",
+    "correct_answer": "Разлагает его на составляющие цвета",
+    "choices": [
+      "Превращает его в ультрафиолет",
+      "Поглощает все цвета",
+      "Разлагает его на составляющие цвета",
+      "Удваивает его интенсивность"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "fe285f15-348e-4bf0-a6dc-12004322e74b"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Чему равен абсолютный ноль в градусах Цельсия?",
+    "correct_answer": "-273,15°C",
+    "choices": [
+      "-100°C",
+      "-200°C",
+      "-373,15°C",
+      "-273,15°C"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c1736bc4-dbe7-4436-ae12-9d7bb7b048db"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Каким типом волн является звук?",
+    "correct_answer": "Продольная волна",
+    "choices": [
+      "Поверхностная волна",
+      "Электромагнитная волна",
+      "Поперечная волна",
+      "Продольная волна"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8619172e-ed3d-4130-9e24-1507c0e50c95"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Каков химический символ воды?",
+    "correct_answer": "H₂O",
+    "choices": [
+      "CO₂",
+      "O₂",
+      "H₂O",
+      "NaCl"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "319bb4c7-f807-47ec-9057-d7b9956b6264"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какая планета известна как Красная планета?",
+    "correct_answer": "Марс",
+    "choices": [
+      "Марс",
+      "Юпитер",
+      "Венера",
+      "Сатурн"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "259cfeb7-05c5-4442-9dd9-f4559b7fe8fa"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура 'CPU'?",
+    "correct_answer": "Центральный процессор",
+    "choices": [
+      "Центральный программный блок",
+      "Компьютерный персональный блок",
+      "Ядро процесса утилиты",
+      "Центральный процессор"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "79e08758-8085-489b-b2ba-1fc3285ecbdc"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура 'HTTP'?",
+    "correct_answer": "Протокол передачи гипертекста",
+    "choices": [
+      "Протокол передачи гипертекста",
+      "Протокол высокой передачи текста",
+      "Программа передачи высоких технологий",
+      "Процесс передачи гипертекста"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5e460a25-4e15-43b1-84ac-87f4ad1d6565"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Как выглядит двоичное представление десятичного числа 15?",
+    "correct_answer": "1111",
+    "choices": [
+      "1000",
+      "1010",
+      "1111",
+      "1100"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8b49d59d-b38d-43d6-9513-62a62ce0e237"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура 'RAM'?",
+    "correct_answer": "Оперативная память",
+    "choices": [
+      "Оперативная память",
+      "Диспетчер запуска приложений",
+      "Память с произвольным доступом",
+      "Модуль быстрого приложения"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a70fe002-1e73-482f-a0dd-279acae00d9d"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Кто считается отцом информатики?",
+    "correct_answer": "Алан Тьюринг",
+    "choices": [
+      "Стив Джобс",
+      "Билл Гейтс",
+      "Алан Тьюринг",
+      "Чарльз Бэббидж"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "0bdce28c-e5a9-4155-bf5b-c4940ac25c6f"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает буква 'S' в 'HTTPS'?",
+    "correct_answer": "Secure (Безопасный)",
+    "choices": [
+      "Server (Сервер)",
+      "System (Система)",
+      "Secure (Безопасный)",
+      "Socket (Сокет)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "64640910-85ad-4957-93a6-767238aeeb61"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "Как назывался первый электронный универсальный компьютер?",
+    "correct_answer": "ENIAC",
+    "choices": [
+      "IBM 701",
+      "ENIAC",
+      "Colossus",
+      "UNIVAC"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "158b257c-cb3e-4dca-9fa8-5a58b5376864"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура 'SQL'?",
+    "correct_answer": "Структурированный язык запросов",
+    "choices": [
+      "Простой язык запросов",
+      "Стандартная логика запросов",
+      "Последовательный язык запросов",
+      "Структурированный язык запросов"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6184ec96-28f2-4383-858a-d785d22b3c92"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "В каком году была изобретена Всемирная паутина?",
+    "correct_answer": "1989",
+    "choices": [
+      "2001",
+      "1975",
+      "1989",
+      "1995"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "77224002-d05f-41d6-9ec4-ab1b85cccb20"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура 'IP' в сетевых технологиях?",
+    "correct_answer": "Интернет-протокол",
+    "choices": [
+      "Поставщик информации",
+      "Внутренний процесс",
+      "Интегрированная платформа",
+      "Интернет-протокол"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3f34b12e-cb19-4905-8ffd-b1058fe4e580"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "На каком языке программирования написан Python?",
+    "correct_answer": "C",
+    "choices": [
+      "C",
+      "C++",
+      "Java",
+      "Assembly"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "0a6ebfef-8eda-41f1-ac5c-f16d9e84436b"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура 'CSS' в веб-разработке?",
+    "correct_answer": "Каскадные таблицы стилей",
+    "choices": [
+      "Каскадные таблицы стилей",
+      "Цветные таблицы стилей",
+      "Креативные таблицы стилей",
+      "Компьютерная система стилей"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3bde5d94-4f8c-43f2-a14c-0b061cfe3522"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Какая операционная система наиболее широко используется на веб-серверах?",
+    "correct_answer": "Linux",
+    "choices": [
+      "FreeBSD",
+      "macOS",
+      "Linux",
+      "Windows"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "75d8b86d-4b3b-4f69-a00e-ab725f1f2aa8"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура 'API'?",
+    "correct_answer": "Интерфейс программирования приложений",
+    "choices": [
+      "Протокольный интерфейс приложений",
+      "Автоматическая инструкция процесса",
+      "Интерфейс программирования приложений",
+      "Расширенная интеграция программ"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "f508c712-4d20-40b8-9439-3b72193fd29c"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "Как назывался первый компьютерный вирус?",
+    "correct_answer": "Creeper",
+    "choices": [
+      "Creeper",
+      "Morris Worm",
+      "ILOVEYOU",
+      "Melissa"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "dee115b9-15ed-470c-bc2c-9ad84264d838"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какая планета известна как 'Красная планета'?",
+    "correct_answer": "Марс",
+    "choices": [
+      "Венера",
+      "Юпитер",
+      "Меркурий",
+      "Марс"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "131f417f-c6b6-4fac-88a2-0384a3e0b8ed"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Какой самый большой спутник Сатурна?",
+    "correct_answer": "Титан",
+    "choices": [
+      "Рея",
+      "Титан",
+      "Ио",
+      "Энцелад"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "267cd44b-0376-46da-a98c-104783096a75"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется телескоп, заменивший космический телескоп «Хаббл» в качестве флагмана НАСА?",
+    "correct_answer": "Космический телескоп «Джеймс Уэбб»",
+    "choices": [
+      "Космический телескоп «Кеплер»",
+      "Космический телескоп «Спитцер»",
+      "Космический телескоп «Джеймс Уэбб»",
+      "Рентгеновская обсерватория «Чандра»"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "0f0215a7-a13f-4239-bfd3-e4d05a82805d"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какая самая маленькая планета в нашей Солнечной системе?",
+    "correct_answer": "Меркурий",
+    "choices": [
+      "Марс",
+      "Плутон",
+      "Венера",
+      "Меркурий"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "382cf64e-dcbf-46b6-bb03-57fa92801a48"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется явление, при котором Луна проходит между Солнцем и Землёй?",
+    "correct_answer": "Солнечное затмение",
+    "choices": [
+      "Кольцеобразное затмение",
+      "Солнечное затмение",
+      "Полутеневое затмение",
+      "Лунное затмение"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "029ace89-f47d-4a77-b243-fa74760a012e"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Каков приблизительный возраст Вселенной?",
+    "correct_answer": "13,8 миллиарда лет",
+    "choices": [
+      "4,5 миллиарда лет",
+      "13,8 миллиарда лет",
+      "1 триллион лет",
+      "100 миллиардов лет"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5ab949cf-67d2-4e13-b93b-6cebddc3b2c6"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется ближайшая к Млечному Пути галактика?",
+    "correct_answer": "Карликовая галактика в Большом Псе",
+    "choices": [
+      "Галактика Треугольника",
+      "Большое Магелланово Облако",
+      "Галактика Андромеды",
+      "Карликовая галактика в Большом Псе"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8d6e34b9-2029-4fc9-b29f-13f0a9f9aa40"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "На какой планете находится Большое Красное Пятно?",
+    "correct_answer": "Юпитер",
+    "choices": [
+      "Юпитер",
+      "Нептун",
+      "Сатурн",
+      "Марс"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "93decd07-cb76-477c-b5b8-9362a2a4df7d"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "Как называется звезда, которая внезапно резко увеличивает яркость, а затем угасает?",
+    "correct_answer": "Новая",
+    "choices": [
+      "Сверхновая",
+      "Вспыхивающая звезда",
+      "Новая",
+      "Переменная звезда"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "60cd9a01-8312-4798-b384-f740cea53b6c"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется самый известный марсоход НАСА, работавший с 2004 по 2018 год?",
+    "correct_answer": "Opportunity",
+    "choices": [
+      "Opportunity",
+      "Curiosity",
+      "Spirit",
+      "Perseverance"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a81927e7-c763-4bd1-8731-e255b428a686"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "Какая планета имеет самый экстремальный диапазон температур в Солнечной системе?",
+    "correct_answer": "Меркурий",
+    "choices": [
+      "Нептун",
+      "Меркурий",
+      "Марс",
+      "Венера"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5bc28868-d08a-4b47-867e-2f975256ca33"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется теория, что Вселенная расширяется?",
+    "correct_answer": "Закон Хаббла",
+    "choices": [
+      "Закон Кеплера",
+      "Закон Ньютона",
+      "Закон Хаббла",
+      "Теория Эйнштейна"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "55a67cbf-961b-4c2d-9032-7165abe54d07"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какой второй по яркости объект на ночном небе Земли после Луны?",
+    "correct_answer": "Венера",
+    "choices": [
+      "Марс",
+      "Юпитер",
+      "Сириус",
+      "Венера"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "cc6ed3fb-713d-48c1-ac42-7d0524219832"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называются каменистые внутренние планеты нашей Солнечной системы?",
+    "correct_answer": "Планеты земной группы",
+    "choices": [
+      "Карликовые планеты",
+      "Планеты-гиганты",
+      "Планеты земной группы",
+      "Газовые гиганты"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1ff5a29d-f668-401a-ad79-8b074d9abb81"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется самый большой вулкан в Солнечной системе, находящийся на Марсе?",
+    "correct_answer": "Олимп",
+    "choices": [
+      "Мауна-Кеа",
+      "Олимп",
+      "Долины Маринер",
+      "Эверест"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "30d32f0e-45ee-4b5e-af34-ae76b2ba8752"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Как называется среднее расстояние от Земли до Солнца?",
+    "correct_answer": "Астрономическая единица (а. е.)",
+    "choices": [
+      "Парсек",
+      "Астрономическая единица (а. е.)",
+      "Километр",
+      "Световой год"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "bce0e10d-83a8-4f5e-97e4-c1c47954f14b"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Кто был первым человеком, ступившим на Луну?",
+    "correct_answer": "Нил Армстронг",
+    "choices": [
+      "Джон Гленн",
+      "Базз Олдрин",
+      "Юрий Гагарин",
+      "Нил Армстронг"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1f10f6b7-e785-43c1-a82c-8a3b106c84e7"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Какой тип затмения происходит, когда Земля проходит между Солнцем и Луной?",
+    "correct_answer": "Лунное затмение",
+    "choices": [
+      "Гибридное затмение",
+      "Лунное затмение",
+      "Солнечное затмение",
+      "Кольцеобразное затмение"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "989359fa-d46c-43b7-9410-129e3ff7d15e"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "Как называется облако комет, окружающее Солнечную систему?",
+    "correct_answer": "Облако Оорта",
+    "choices": [
+      "Облако Оорта",
+      "Гелиосфера",
+      "Пояс Койпера",
+      "Пояс астероидов"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "243ffafe-93fb-4107-b90a-c398148d7a2e"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Какая планета вращается «лёжа на боку»?",
+    "correct_answer": "Уран",
+    "choices": [
+      "Венера",
+      "Плутон",
+      "Уран",
+      "Нептун"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "78aa2098-8313-4223-8a75-c04cf8e26386"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется галактика, которая столкнётся с Млечным Путём примерно через 4,5 миллиарда лет?",
+    "correct_answer": "Галактика Андромеды",
+    "choices": [
+      "Галактика Водоворот",
+      "Галактика Сомбреро",
+      "Галактика Треугольника",
+      "Галактика Андромеды"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b3ddba0a-318e-4150-af58-ed1435b11489"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Сколько спутников у Марса?",
+    "correct_answer": "2",
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1eb1b2d6-ad27-4b16-aab6-87b3a3a1759a"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется космический зонд, посетивший Плутон в 2015 году?",
+    "correct_answer": "New Horizons",
+    "choices": [
+      "New Horizons",
+      "Cassini",
+      "Voyager 1",
+      "Dawn"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "dc9d97b1-22d8-4782-8acd-e5522c3b8dfe"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Какой основной компонент колец Сатурна?",
+    "correct_answer": "Лед и скальные частицы",
+    "choices": [
+      "Лед и скальные частицы",
+      "Газ",
+      "Пыль",
+      "Плазма"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c0b6690a-96ac-405f-9b63-11023bf898c6"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется самая яркая звезда в созвездии Ориона?",
+    "correct_answer": "Ригель",
+    "choices": [
+      "Ригель",
+      "Бетельгейзе",
+      "Сириус",
+      "Полярная звезда"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8f9e1e79-b38c-41b6-bf0f-e37343e00702"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "Из чего состоит нейтронная звезда?",
+    "correct_answer": "Нейтроны",
+    "choices": [
+      "Электроны",
+      "Кварки",
+      "Протоны",
+      "Нейтроны"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "f0f531d1-f53f-4791-8c4d-425967dbfc64"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "Сколько времени требуется Земле для обращения вокруг Солнца?",
+    "correct_answer": "365,25 дня",
+    "choices": [
+      "370 дней",
+      "366 дней",
+      "360 дней",
+      "365,25 дня"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "379da05f-a7ea-4332-9bc5-cb629af9e368"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "Как называется первый искусственный спутник, запущенный в космос?",
+    "correct_answer": "Спутник-1",
+    "choices": [
+      "Спутник-1",
+      "Луна-2",
+      "Эксплорер-1",
+      "Авангард-1"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1f3c3008-4f43-4aec-8e8a-43179997cd20"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "К какому типу звезд относится Солнце?",
+    "correct_answer": "Желтый карлик",
+    "choices": [
+      "Красный гигант",
+      "Голубой сверхгигант",
+      "Желтый карлик",
+      "Белый карлик"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "94d05003-59e4-4a45-9e07-07677b626347"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "Как называется самый большой каньон в Солнечной системе, расположенный на Марсе?",
+    "correct_answer": "Долина Маринера",
+    "choices": [
+      "Долина Маринера",
+      "Маурт-Валлис",
+      "Копратес-Хасма",
+      "Большой каньон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "f7ac5b6f-0e84-4301-b321-91b66f3f184f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какова основная функция красных кровяных клеток?",
+    "correct_answer": "Переносить кислород",
+    "choices": [
+      "Свертывать кровь",
+      "Переносить кислород",
+      "Бороться с инфекциями",
+      "Производить антитела"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "60b7ad1a-944a-405b-815b-222e2ba6cd6b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какой самый большой внутренний орган человеческого тела?",
+    "correct_answer": "Печень",
+    "choices": [
+      "Мозг",
+      "Сердце",
+      "Легкие",
+      "Печень"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "df633b16-7f9e-4b8b-a3c3-6ca2b7e2e633"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Каково научное название «голосового аппарата»?",
+    "correct_answer": "Гортань",
+    "choices": [
+      "Пищевод",
+      "Глотка",
+      "Трахея",
+      "Гортань"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "96ef5a6c-29cd-417c-91e5-759e4c235eec"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "Какой тип связи удерживает две цепи ДНК вместе?",
+    "correct_answer": "Водородные связи",
+    "choices": [
+      "Водородные связи",
+      "Пептидные связи",
+      "Ионные связи",
+      "Ковалентные связи"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "d6b44a39-4e5a-4c49-ac79-e8cb5a384508"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какое животное называют «кораблем пустыни»?",
+    "correct_answer": "Верблюд",
+    "choices": [
+      "Верблюд",
+      "Осел",
+      "Лама",
+      "Лошадь"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "01df3d0a-cb49-4bee-ba29-7005bf90ca14"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какой витамин также известен как аскорбиновая кислота?",
+    "correct_answer": "Витамин C",
+    "choices": [
+      "Витамин A",
+      "Витамин C",
+      "Витамин E",
+      "Витамин B"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b02580d5-a2dc-4497-bae2-d7bc7e7217fa"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какая часть растения осуществляет фотосинтез?",
+    "correct_answer": "Листья",
+    "choices": [
+      "Листья",
+      "Стебель",
+      "Корни",
+      "Цветы"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "2647f122-fab3-45ef-9bde-3514f90894b7"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Как называется наука о наследственности и изменчивости?",
+    "correct_answer": "Генетика",
+    "choices": [
+      "Экология",
+      "Эмбриология",
+      "Генетика",
+      "Эволюция"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ee8db30d-7252-4165-81dd-a34cdc8353fd"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какое из этих животных является сумчатым?",
+    "correct_answer": "Кенгуру",
+    "choices": [
+      "Пингвин",
+      "Слон",
+      "Кенгуру",
+      "Белый медведь"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "379d9538-a1b3-4e65-aab2-f29a3e25ce73"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "Какая самая маленькая кость в теле человека?",
+    "correct_answer": "Стремечко (в ухе)",
+    "choices": [
+      "Копчик",
+      "Фаланга пальца",
+      "Стремечко (в ухе)",
+      "Подъязычная кость"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8ff48d33-4baf-465c-b63b-4ee069187d4c"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Как называют животных, активных ночью?",
+    "correct_answer": "Ночные",
+    "choices": [
+      "Ночные",
+      "Дневные",
+      "Сумеречные",
+      "Впадающие в спячку"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "4a4d5118-cf23-47eb-a4f9-687227d02b7e"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Как называется процесс, при котором растения выделяют водяной пар через листья?",
+    "correct_answer": "Транспирация",
+    "choices": [
+      "Испарение",
+      "Конденсация",
+      "Транспирация",
+      "Дыхание"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "feb5d53e-1a6e-4b71-b4c7-195bfe2cfe73"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какая группа крови является универсальным реципиентом?",
+    "correct_answer": "AB положительная",
+    "choices": [
+      "AB отрицательная",
+      "A положительная",
+      "AB положительная",
+      "O положительная"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c8dcff72-2f3d-4327-9342-28042a4d634b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Сколько зубов обычно у взрослого человека?",
+    "correct_answer": "32",
+    "choices": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "53f99f20-ee89-42eb-ad9d-bdcb55c31fd5"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Как называется трубка, по которой пища поступает изо рта в желудок?",
+    "correct_answer": "Пищевод",
+    "choices": [
+      "Пищевод",
+      "Глотка",
+      "Кишечник",
+      "Трахея"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "72466c8d-78d5-4fe7-8de9-2bda473ec2ec"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какой самый крупный вид акул?",
+    "correct_answer": "Китовая акула",
+    "choices": [
+      "Мегалодон",
+      "Акула-молот",
+      "Большая белая акула",
+      "Китовая акула"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "7468b160-3983-4148-9f26-8cdab762ad6c"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Как также называют «энергетическую станцию» клетки?",
+    "correct_answer": "Митохондрия",
+    "choices": [
+      "Клеточная мембрана",
+      "Митохондрия",
+      "Ядро",
+      "Рибосома"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "28814015-de28-4dda-bb7b-9910e6b85850"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "С каким чувством связана улитка (кохлеа)?",
+    "correct_answer": "Слух",
+    "choices": [
+      "Слух",
+      "Зрение",
+      "Вкус",
+      "Обоняние"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "954d7827-7a18-4e1d-b1bd-98cfcee55bc1"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Как называют организм, который питается и растениями, и животными?",
+    "correct_answer": "Всеядный",
+    "choices": [
+      "Всеядный",
+      "Детритофаг",
+      "Травоядный",
+      "Плотоядный"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "13a7afe5-b717-4959-a445-610cf30db0bb"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Как называется пигмент, придающий коже цвет?",
+    "correct_answer": "Меланин",
+    "choices": [
+      "Меланин",
+      "Коллаген",
+      "Каротин",
+      "Кератин"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ea045d27-df8f-4cfb-a552-27e7e4e5b1e9"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какое самое крупное наземное животное из ныне живущих?",
+    "correct_answer": "Африканский слон",
+    "choices": [
+      "Жираф",
+      "Белый носорог",
+      "Бегемот",
+      "Африканский слон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "0b2a1dca-977a-4242-a53e-2f5526264f39"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какова наименьшая единица жизни?",
+    "correct_answer": "Клетка",
+    "choices": [
+      "Ткань",
+      "Атом",
+      "Клетка",
+      "Молекула"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1f4ffe79-ec8f-4921-89ff-1a849f7d6c4a"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание вызывается недостатком инсулина?",
+    "correct_answer": "Диабет",
+    "choices": [
+      "Диабет",
+      "Анемия",
+      "Астма",
+      "Артрит"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3ef6d32e-a57f-4ab3-a37a-ed1d374a6311"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "Как называется двойная мембрана, окружающая легкие?",
+    "correct_answer": "Плевра",
+    "choices": [
+      "Менинги",
+      "Перикард",
+      "Брюшина",
+      "Плевра"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "2bada20c-eac1-4fbb-aaea-1fa9aa68b997"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Как называется процесс движения воды через полупроницаемую мембрану?",
+    "correct_answer": "Осмос",
+    "choices": [
+      "Осмос",
+      "Диффузия",
+      "Облегченная диффузия",
+      "Активный транспорт"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "4ee2eed4-5b03-4f84-b0be-d02f85960059"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какое животное может менять цвет, чтобы слиться с окружающей средой?",
+    "correct_answer": "Хамелеон",
+    "choices": [
+      "Зебра",
+      "Павлин",
+      "Осьминог",
+      "Хамелеон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ac6bf00f-fad2-4460-b397-4a0d1a64158f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Как называется первый открытый антибиотик?",
+    "correct_answer": "Пенициллин",
+    "choices": [
+      "Тетрациклин",
+      "Пенициллин",
+      "Стрептомицин",
+      "Эритромицин"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "833f7a68-4a5d-47b0-9455-453838fecc4f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какая часть мозга отвечает за равновесие и координацию?",
+    "correct_answer": "Мозжечок",
+    "choices": [
+      "Большой мозг",
+      "Гипоталамус",
+      "Ствол мозга",
+      "Мозжечок"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "da8c0b86-41eb-46ae-a5dc-7daace881664"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Как называют животных, откладывающих яйца?",
+    "correct_answer": "Яйцекладущие",
+    "choices": [
+      "Живородящие",
+      "Яйцеживородящие",
+      "Сумчатые",
+      "Яйцекладущие"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8cbf70c7-aabf-42d6-af97-02e93f46fe1b"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какая самая длинная кость в теле человека?",
+    "correct_answer": "Бедренная кость",
+    "choices": [
+      "Малоберцовая кость",
+      "Большеберцовая кость",
+      "Плечевая кость",
+      "Бедренная кость"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "73d8266d-0ada-461f-9bd2-268c903779c2"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Какой орган отвечает за фильтрацию крови в организме человека?",
+    "correct_answer": "Почки",
+    "choices": [
+      "Сердце",
+      "Печень",
+      "Легкие",
+      "Почки"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "11903b0a-3ba8-4f43-9495-78758f7d0d1a"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Как называется наука о насекомых?",
+    "correct_answer": "Энтомология",
+    "choices": [
+      "Орнитология",
+      "Энтомология",
+      "Герпетология",
+      "Ихтиология"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "cc485c72-c541-41d3-be34-6d39a3f27b5f"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "Какой организм отвечает за производство большей части кислорода на Земле?",
+    "correct_answer": "Фитопланктон",
+    "choices": [
+      "Фитопланктон",
+      "Травы",
+      "Тропические леса",
+      "Деревья"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "e5155b9c-19f7-4452-a50b-101ce3d5e2e0"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Как называется процесс превращения гусеницы в бабочку?",
+    "correct_answer": "Метаморфоз",
+    "choices": [
+      "Метаморфоз",
+      "Эволюция",
+      "Спячка",
+      "Прорастание"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "fca1ba51-bffe-43e3-86b9-0e0eacecf3b7"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Каков атомный номер углерода?",
+    "correct_answer": "6",
+    "choices": [
+      "6",
+      "12",
+      "8",
+      "4"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b22cbf56-da81-42bd-b4e2-5f181f3f1b09"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Каков химический символ калия?",
+    "correct_answer": "K",
+    "choices": [
+      "Pt",
+      "K",
+      "P",
+      "Po"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "7c4c7335-a432-4950-bad8-4e22011bea4a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой тип реакции выделяет тепло?",
+    "correct_answer": "Экзотермическая",
+    "choices": [
+      "Экзотермическая",
+      "Синтеза",
+      "Эндотермическая",
+      "Разложения"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a1da03c2-4a44-4d27-b030-bee9b073614c"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какой элемент необходим для горения?",
+    "correct_answer": "Кислород",
+    "choices": [
+      "Кислород",
+      "Азот",
+      "Углерод",
+      "Водород"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "598d6495-9553-438f-a382-9cce244de63d"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Каково химическое название веселящего газа?",
+    "correct_answer": "Закись азота",
+    "choices": [
+      "Диоксид азота",
+      "Закись азота",
+      "Азот",
+      "Оксид азота"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "d08c7d9c-b6cd-47c9-9739-0d5febf776b5"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой самый распространенный элемент в земной коре?",
+    "correct_answer": "Кислород",
+    "choices": [
+      "Железо",
+      "Кремний",
+      "Кислород",
+      "Алюминий"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a1c4208c-f94f-46eb-933e-90ba5936d9b1"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "В какой цвет окрашивается лакмусовая бумага в кислоте?",
+    "correct_answer": "Красный",
+    "choices": [
+      "Синий",
+      "Желтый",
+      "Красный",
+      "Зеленый"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b607f26d-12e5-4bec-9b40-253706875400"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Из какого элемента состоит алмаз?",
+    "correct_answer": "Углерод",
+    "choices": [
+      "Кремний",
+      "Углерод",
+      "Алмаз",
+      "Графит"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "314549b1-40cc-46ba-8aaa-7876be227ed6"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Каков символ серебра в периодической таблице?",
+    "correct_answer": "Ag",
+    "choices": [
+      "Sl",
+      "Ag",
+      "Si",
+      "Sv"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "593ea5e6-2a64-4a44-94d2-53c333352c45"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой тип смеси имеет частицы, которые не оседают?",
+    "correct_answer": "Коллоид",
+    "choices": [
+      "Раствор",
+      "Суспензия",
+      "Эмульсия",
+      "Коллоид"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "14836806-d3a9-406a-adef-8672b30a6d78"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой основной компонент природного газа?",
+    "correct_answer": "Метан",
+    "choices": [
+      "Пропан",
+      "Бутан",
+      "Этан",
+      "Метан"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6ef030ea-14ae-4dee-bc1e-54b694b0f633"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какова химическая формула аммиака?",
+    "correct_answer": "NH₃",
+    "choices": [
+      "N₂H₃",
+      "NH₃",
+      "NH₄",
+      "NH₂"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "aec30c94-9e28-4e01-87aa-6ff1f631d8c7"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Какой элемент имеет самую высокую температуру плавления?",
+    "correct_answer": "Вольфрам",
+    "choices": [
+      "Платина",
+      "Железо",
+      "Углерод",
+      "Вольфрам"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "2e20b460-6da2-429f-adb3-ea8e76a00a84"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Каков pH сильной кислоты обычно?",
+    "correct_answer": "0-1",
+    "choices": [
+      "0-1",
+      "12-14",
+      "5-6",
+      "7-8"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6f858768-29f0-4932-92b3-45922f0a1065"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Как называется химический процесс, вызывающий ржавление железа?",
+    "correct_answer": "Окисление",
+    "choices": [
+      "Окисление",
+      "Сублимация",
+      "Гидратация",
+      "Восстановление"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "515ccb9d-b083-4381-bf19-77c97f2f5d85"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Какой элемент используется как синий краситель в фейерверках?",
+    "correct_answer": "Медь",
+    "choices": [
+      "Стронций",
+      "Натрий",
+      "Барий",
+      "Медь"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "69a3d229-b586-465f-9f6b-a6fc9970a9f0"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какая наименьшая частица элемента сохраняет его химические свойства?",
+    "correct_answer": "Атом",
+    "choices": [
+      "Протон",
+      "Электрон",
+      "Молекула",
+      "Атом"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3081dafd-f641-45ed-89c5-8142a44ba9cf"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Каково химическое название сухого льда?",
+    "correct_answer": "Твёрдый диоксид углерода",
+    "choices": [
+      "Твёрдый азот",
+      "Твёрдая вода",
+      "Твёрдый кислород",
+      "Твёрдый диоксид углерода"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "120a0c27-3691-4ed3-a4ed-0e2cbebab28e"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Как называется процесс разделения смеси по температуре кипения?",
+    "correct_answer": "Дистилляция",
+    "choices": [
+      "Испарение",
+      "Дистилляция",
+      "Хроматография",
+      "Фильтрация"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "0d7b0fa8-7379-48e6-a80d-068dd6379cbc"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Какой элемент является жидким при комнатной температуре, кроме ртути?",
+    "correct_answer": "Бром",
+    "choices": [
+      "Бром",
+      "Хлор",
+      "Йод",
+      "Фтор"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "74f99535-a696-4420-a2df-1e98a777ab0c"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой тип химической связи образуется между металлами и неметаллами?",
+    "correct_answer": "Ионная связь",
+    "choices": [
+      "Металлическая связь",
+      "Водородная связь",
+      "Ионная связь",
+      "Ковалентная связь"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c512bea0-8d10-45b6-b14e-ccb7de53248f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какова химическая формула метана?",
+    "correct_answer": "CH₄",
+    "choices": [
+      "C₂H₆",
+      "CH₄",
+      "CO₂",
+      "C₃H₈"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b31503a3-273c-4c95-9b2a-abcfb9fe30d0"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какой элемент имеет атомный символ 'Fe'?",
+    "correct_answer": "Железо",
+    "choices": [
+      "Железо",
+      "Фермий",
+      "Фтор",
+      "Франций"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "027e6dd3-a268-4da6-8f45-c5f1200c4947"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Как называется изучение скорости химических реакций?",
+    "correct_answer": "Химическая кинетика",
+    "choices": [
+      "Термохимия",
+      "Химическая кинетика",
+      "Электрохимия",
+      "Стехиометрия"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8208d5cb-d9be-45ca-ab8c-8de6a72f0eda"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Какой основной газ выделяется вулканами, кроме водяного пара?",
+    "correct_answer": "Диоксид углерода",
+    "choices": [
+      "Сероводород",
+      "Диоксид углерода",
+      "Азот",
+      "Диоксид серы"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "030396f8-ce7d-4bc0-883b-b284c1aead9b"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Какая единственная буква не встречается в таблице Менделеева?",
+    "correct_answer": "J",
+    "choices": [
+      "X",
+      "Z",
+      "J",
+      "Q"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "56ee33f8-50b4-4750-831a-213c3e3dfce6"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Как называется отрицательно заряженный ион?",
+    "correct_answer": "Анион",
+    "choices": [
+      "Изотоп",
+      "Анион",
+      "Ион",
+      "Катион"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a322e7fb-e12b-4b74-a74e-881b64a2d9cf"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "Каков атомный номер золота?",
+    "correct_answer": "79",
+    "choices": [
+      "92",
+      "47",
+      "79",
+      "82"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6fa94347-30b3-4252-abb4-94beb14651c7"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какая кислота используется в автомобильных аккумуляторах?",
+    "correct_answer": "Серная кислота",
+    "choices": [
+      "Серная кислота",
+      "Азотная кислота",
+      "Уксусная кислота",
+      "Соляная кислота"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "e6e6ebd6-c553-4c50-ade0-960a982cc032"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Как называется процесс превращения газа в жидкость?",
+    "correct_answer": "Конденсация",
+    "choices": [
+      "Десублимация",
+      "Сублимация",
+      "Испарение",
+      "Конденсация"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "181afd68-313b-4108-978f-a9bad6026f8b"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Какой элемент составляет большую часть Солнца?",
+    "correct_answer": "Водород",
+    "choices": [
+      "Гелий",
+      "Водород",
+      "Углерод",
+      "Кислород"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b31aaeb1-bad0-40af-bf76-9d0a6f755ea8"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "Как обычно называют хлорид натрия?",
+    "correct_answer": "Поваренная соль",
+    "choices": [
+      "Поваренная соль",
+      "Пищевая сода",
+      "Английская соль",
+      "Каменная соль"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8444e411-59f5-44ee-b62c-83935252b7ee"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Каков химический символ олова?",
+    "correct_answer": "Sn",
+    "choices": [
+      "Tn",
+      "Ti",
+      "Sn",
+      "Si"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5ccc08f7-6c73-45e3-93eb-56396a826241"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "Что такое число Авогадро?",
+    "correct_answer": "6,022 × 10²³",
+    "choices": [
+      "1,602 × 10¹⁹",
+      "3,141 × 10²³",
+      "6,022 × 10²³",
+      "9,81 × 10²³"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b59ddf1a-2077-475e-9850-477357877901"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какова единица силы в СИ?",
+    "correct_answer": "Ньютон",
+    "choices": [
+      "Ватт",
+      "Джоуль",
+      "Ньютон",
+      "Паскаль"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "935bbaba-442b-4997-81fb-6fc9da7bd02a"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какова скорость звука в воздухе на уровне моря приблизительно?",
+    "correct_answer": "343 м/с",
+    "choices": [
+      "343 м/с",
+      "1000 м/с",
+      "700 м/с",
+      "150 м/с"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "c93068a5-5c4f-4c7a-85c0-0403f15cca18"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какой тип зеркала используется в боковых зеркалах автомобиля с предупреждением 'объекты ближе, чем кажутся'?",
+    "correct_answer": "Выпуклое зеркало",
+    "choices": [
+      "Плоское зеркало",
+      "Вогнутое зеркало",
+      "Выпуклое зеркало",
+      "Параболическое зеркало"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ab143054-a0ab-431f-a6e4-fed751c36bea"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какой физик разработал теорию общей относительности?",
+    "correct_answer": "Альберт Эйнштейн",
+    "choices": [
+      "Нильс Бор",
+      "Ричард Фейнман",
+      "Исаак Ньютон",
+      "Альберт Эйнштейн"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b1ed79f7-ec37-4b18-86d2-263cd569acfc"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Как называется явление, при котором колебательная система сильнее реагирует на определённые частоты?",
+    "correct_answer": "Резонанс",
+    "choices": [
+      "Поляризация",
+      "Дифракция",
+      "Интерференция",
+      "Резонанс"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "fd24b76d-b586-4494-a471-212f3a8198ea"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какая субатомная частица имеет отрицательный заряд?",
+    "correct_answer": "Электрон",
+    "choices": [
+      "Нейтрон",
+      "Протон",
+      "Позитрон",
+      "Электрон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b5d977d8-ebf0-4a52-8be8-afdd4e3bd310"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какова единица энергии в СИ?",
+    "correct_answer": "Джоуль",
+    "choices": [
+      "Ватт",
+      "Ньютон",
+      "Джоуль",
+      "Вольт"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "74a80a99-6e12-4491-ac2b-d90d1488f8f4"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Как называется сопротивление объекта изменению его состояния движения?",
+    "correct_answer": "Инерция",
+    "choices": [
+      "Ускорение",
+      "Инерция",
+      "Трение",
+      "Импульс"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "de197a80-7773-4184-a788-92ffa99f1ff2"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какой закон описывает взаимосвязь напряжения, тока и сопротивления?",
+    "correct_answer": "Закон Ома",
+    "choices": [
+      "Закон Фарадея",
+      "Закон Кулона",
+      "Закон Ампера",
+      "Закон Ома"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "cb335d81-971d-4686-a20b-68f1a17a4f93"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Какая частица состоит из двух кварков?",
+    "correct_answer": "Мезон",
+    "choices": [
+      "Протон",
+      "Нейтрон",
+      "Барион",
+      "Мезон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "936b1c68-62d5-41b7-ad7f-be5da65d361c"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Что делает трансформатор?",
+    "correct_answer": "Изменяет напряжение переменного тока",
+    "choices": [
+      "Изменяет напряжение переменного тока",
+      "Изменяет напряжение постоянного тока",
+      "Хранит электрическую энергию",
+      "Преобразует переменный ток в постоянный"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "d44b0f9e-9a02-4d52-aae2-348a46b49a2e"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Как называется изучение теплоты и её превращений?",
+    "correct_answer": "Термодинамика",
+    "choices": [
+      "Термодинамика",
+      "Электромагнетизм",
+      "Кинематика",
+      "Квантовая механика"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "598c963b-7896-4c1b-aa12-e7195247f193"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какой прибор используется для измерения электрического тока?",
+    "correct_answer": "Амперметр",
+    "choices": [
+      "Гальванометр",
+      "Амперметр",
+      "Омметр",
+      "Вольтметр"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "2ad49533-4416-4d3a-b3e5-e7e6abc8fa67"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Как называется процесс деления ядра на более мелкие ядра?",
+    "correct_answer": "Ядерное деление",
+    "choices": [
+      "Радиоактивный распад",
+      "Ядерный синтез",
+      "Ядерное деление",
+      "Ионизация"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "50b2bf25-3e11-440c-a878-aae71ca069f6"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Как называется принцип, согласно которому два фермиона не могут занимать одно и то же квантовое состояние?",
+    "correct_answer": "Принцип запрета Паули",
+    "choices": [
+      "Принцип запрета Паули",
+      "Принцип Ауфбау",
+      "Принцип неопределённости Гейзенберга",
+      "Принцип соответствия"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "bf5932c8-ed32-482b-b812-51041660bbb1"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какой цвет имеет самую длинную длину волны в видимом свете?",
+    "correct_answer": "Красный",
+    "choices": [
+      "Фиолетовый",
+      "Синий",
+      "Зелёный",
+      "Красный"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "2052c151-588c-4298-a07e-a25b6ffb1c4e"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Как называется материал, имеющий нулевое электрическое сопротивление ниже критической температуры?",
+    "correct_answer": "Сверхпроводник",
+    "choices": [
+      "Проводник",
+      "Сверхпроводник",
+      "Изолятор",
+      "Полупроводник"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3c5f562a-727c-408a-8913-562307a82175"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какой простой механизм представляет собой наклонную поверхность?",
+    "correct_answer": "Наклонная плоскость",
+    "choices": [
+      "Клин",
+      "Наклонная плоскость",
+      "Рычаг",
+      "Винт"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "25b613e1-a08c-4ade-9221-d97fcca09e43"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какова единица частоты в СИ?",
+    "correct_answer": "Герц",
+    "choices": [
+      "Ватт",
+      "Тесла",
+      "Герц",
+      "Децибел"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "35945a1b-7330-4ed6-bef9-a03fa3e83109"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какое явление объясняет, почему небо кажется голубым?",
+    "correct_answer": "Рэлеевское рассеяние",
+    "choices": [
+      "Комптоновское рассеяние",
+      "Ми-рассеяние",
+      "Рэлеевское рассеяние",
+      "Рамановское рассеяние"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "cb3265e9-b69c-49d4-84f2-6a8bcc05a22b"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Мяч брошен вертикально вверх со скоростью 10 м/с и возвращается в исходную точку. Какова его конечная скорость без учёта сопротивления воздуха?",
+    "correct_answer": "10 м/с",
+    "choices": [
+      "5 м/с",
+      "10 м/с",
+      "0 м/с",
+      "20 м/с"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "61c42065-8ad7-4afe-b775-9a1647779569"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какова единица давления в СИ?",
+    "correct_answer": "Паскаль",
+    "choices": [
+      "Паскаль",
+      "Атмосфера",
+      "Бар",
+      "PSI"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8c46fe5e-3b4e-4290-bc76-404f5a0a20bd"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какой тип линзы толще в середине, чем по краям?",
+    "correct_answer": "Выпуклая линза",
+    "choices": [
+      "Цилиндрическая линза",
+      "Бифокальная линза",
+      "Вогнутая линза",
+      "Выпуклая линза"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "eaa3a384-41b7-44c1-84db-7ff1db9e3579"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Что происходит с высотой звука при увеличении частоты?",
+    "correct_answer": "Она становится выше",
+    "choices": [
+      "Он исчезает",
+      "Она становится выше",
+      "Она остаётся той же",
+      "Она становится ниже"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6345a6ed-4699-4fb1-a62b-4ce3876b2921"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Какая фундаментальная сила отвечает за удержание ядра атома вместе?",
+    "correct_answer": "Сильное ядерное взаимодействие",
+    "choices": [
+      "Слабое ядерное взаимодействие",
+      "Электромагнитное взаимодействие",
+      "Гравитационное взаимодействие",
+      "Сильное ядерное взаимодействие"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "9bf90f31-28c8-453e-b600-9ac2b977f0ba"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "Как называется минимальная энергия, необходимая для удаления электрона из атома?",
+    "correct_answer": "Энергия ионизации",
+    "choices": [
+      "Энергия связи",
+      "Энергия ионизации",
+      "Сродство к электрону",
+      "Энергия активации"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "4aa0ce8d-4df4-4730-aec3-33e4399245b7"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какова формула кинетической энергии?",
+    "correct_answer": "½ mv²",
+    "choices": [
+      "mgh",
+      "mv",
+      "½ mv²",
+      "½ kx²"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "be011162-c981-46a3-901d-6be2260ec702"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какое явление вызывает изменение высоты звука сирены при её прохождении мимо?",
+    "correct_answer": "Эффект Доплера",
+    "choices": [
+      "Эффект бабочки",
+      "Фотоэлектрический эффект",
+      "Эффект Доплера",
+      "Парниковый эффект"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1da28f89-1472-47d5-9f3c-64d4f7aeb2ab"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какой вид волны представляет собой свет?",
+    "correct_answer": "Электромагнитная волна",
+    "choices": [
+      "Гравитационная волна",
+      "Механическая волна",
+      "Продольная волна",
+      "Электромагнитная волна"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "db597b03-e3f7-4d31-b61d-888e41150e10"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какова единица измерения электрического заряда в СИ?",
+    "correct_answer": "Кулон",
+    "choices": [
+      "Ампер",
+      "Вольт",
+      "Фарад",
+      "Кулон"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "39be0cf7-66e7-4b1d-8ab3-f82cbf0df39a"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Что измеряет барометр?",
+    "correct_answer": "Атмосферное давление",
+    "choices": [
+      "Температуру",
+      "Скорость ветра",
+      "Влажность",
+      "Атмосферное давление"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "951e1a3c-f5d2-4619-a36d-fb252839dbf8"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Как называется раздел физики, изучающий поведение частиц на атомном и субатомном уровне?",
+    "correct_answer": "Квантовая механика",
+    "choices": [
+      "Квантовая механика",
+      "Теория относительности",
+      "Термодинамика",
+      "Классическая механика"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1debe863-ed4d-4074-a288-e349e8404e20"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Какое устройство преобразует механическую энергию в электрическую?",
+    "correct_answer": "Генератор",
+    "choices": [
+      "Трансформатор",
+      "Генератор",
+      "Выпрямитель",
+      "Двигатель"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "5f1d5342-ac08-47cd-a269-7ac735ff82e1"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "Какова единица измерения интенсивности звука?",
+    "correct_answer": "Децибел",
+    "choices": [
+      "Герц",
+      "Ватт на квадратный метр",
+      "Люмен",
+      "Децибел"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b27b0dad-64e7-4abb-a173-58b89a851bfe"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура URL?",
+    "correct_answer": "Uniform Resource Locator (унифицированный указатель ресурса)",
+    "choices": [
+      "Uniform Resource Locator (унифицированный указатель ресурса)",
+      "Unified Resource Language (унифицированный язык ресурсов)",
+      "Universal Resource Locator (универсальный указатель ресурса)",
+      "Universal Reference Link (универсальная ссылка)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3f41756f-758f-46d8-8eca-fc07aa985561"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Какой язык программирования был создан Джеймсом Гослингом в Sun Microsystems?",
+    "correct_answer": "Java",
+    "choices": [
+      "Ruby",
+      "Python",
+      "C++",
+      "Java"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "9e5846ce-1b08-4f1d-8fd2-c490974c246a"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура SSD?",
+    "correct_answer": "Solid State Drive (твердотельный накопитель)",
+    "choices": [
+      "System Storage Device (системное устройство хранения)",
+      "Solid State Drive (твердотельный накопитель)",
+      "Super Speed Disk (сверхскоростной диск)",
+      "Solid Storage Disk (твердотельный диск хранения)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "eb4cf084-1c68-48e8-822b-2ef738550512"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "В каком году была основана Google?",
+    "correct_answer": "1998",
+    "choices": [
+      "2004",
+      "1998",
+      "2000",
+      "1995"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8b41cf17-c717-4476-925b-91f8f4d4d345"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура DNS?",
+    "correct_answer": "Domain Name System (система доменных имён)",
+    "choices": [
+      "Data Network Security (безопасность сети данных)",
+      "Domain Name System (система доменных имён)",
+      "Dynamic Name Server (динамический сервер имён)",
+      "Digital Network Service (цифровой сетевой сервис)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "36718c86-0177-4a5c-b9d4-feb690ac7170"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Какой язык программирования наиболее популярен по состоянию на 2024 год?",
+    "correct_answer": "Python",
+    "choices": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "44af75a4-533c-425a-adfa-befef30eaed4"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура VPN?",
+    "correct_answer": "Virtual Private Network (виртуальная частная сеть)",
+    "choices": [
+      "Very Private Network (очень частная сеть)",
+      "Virtual Public Network (виртуальная общественная сеть)",
+      "Verified Private Network (проверенная частная сеть)",
+      "Virtual Private Network (виртуальная частная сеть)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "9a0c98c6-55b0-4aa0-b732-e3c49af4f796"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Кто был сооснователем Apple Computer вместе со Стивом Джобсом?",
+    "correct_answer": "Стив Возняк",
+    "choices": [
+      "Тим Кук",
+      "Билл Гейтс",
+      "Стив Возняк",
+      "Джони Айв"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a7e077a0-6198-442c-b066-3a96b6a931b5"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура IoT?",
+    "correct_answer": "Internet of Things (Интернет вещей)",
+    "choices": [
+      "Internal Object Tracking (внутреннее отслеживание объектов)",
+      "Integrated Operating Technology (интегрированная операционная технология)",
+      "Internet of Things (Интернет вещей)",
+      "Input Output Terminal (терминал ввода-вывода)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "078e5e35-bfbf-4486-aa35-0c0b764c20f0"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "Какая система кэширования обычно используется с PHP для хранения ключ-значение?",
+    "correct_answer": "Redis",
+    "choices": [
+      "Redis",
+      "MongoDB",
+      "MySQL",
+      "SQLite"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ac2bc60b-1182-4c17-9d00-e45c8c826c26"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура HTML?",
+    "correct_answer": "HyperText Markup Language (язык гипертекстовой разметки)",
+    "choices": [
+      "Home Tool Markup Language (язык разметки домашних инструментов)",
+      "HyperText Markup Language (язык гипертекстовой разметки)",
+      "HyperTransfer Markup Language (язык разметки гиперпередачи)",
+      "High Tech Modern Language (современный высокотехнологичный язык)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1399ac12-85fe-497c-b8e5-3a1e736ff612"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "Как называется первый веб-браузер?",
+    "correct_answer": "WorldWideWeb",
+    "choices": [
+      "Mosaic",
+      "Netscape",
+      "WorldWideWeb",
+      "Internet Explorer"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "d6007243-2936-4e97-929a-01e980017962"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура JSON?",
+    "correct_answer": "JavaScript Object Notation (объектная нотация JavaScript)",
+    "choices": [
+      "Java Serialized Object Node (узел сериализованного объекта Java)",
+      "Java Standard Output Network (сеть стандартного вывода Java)",
+      "JavaScript Object Notation (объектная нотация JavaScript)",
+      "JavaScript Online Notation (онлайн-нотация JavaScript)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "6bdc2ba2-d233-4268-96bf-2a513f9c2355"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Какая компания разработала операционную систему Android?",
+    "correct_answer": "Google",
+    "choices": [
+      "Google",
+      "Microsoft",
+      "Samsung",
+      "Apple"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1f8661ba-919e-4b37-a62d-a25dd5d22267"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Как называется тип вредоносного ПО, которое шифрует файлы и требует выкуп?",
+    "correct_answer": "Ransomware (программа-вымогатель)",
+    "choices": [
+      "Троян",
+      "Шпионское ПО",
+      "Вирус",
+      "Ransomware (программа-вымогатель)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "1ee0be38-ae96-481d-8d1b-926e6cccedb2"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура AI?",
+    "correct_answer": "Artificial Intelligence (искусственный интеллект)",
+    "choices": [
+      "Automated Interface (автоматизированный интерфейс)",
+      "Advanced Integration (продвинутая интеграция)",
+      "Artificial Intelligence (искусственный интеллект)",
+      "Automated Intelligence (автоматизированный интеллект)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3eeda26e-888f-40a5-a3db-9d55c6f21eb6"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Какая компания создала первый коммерчески успешный смартфон?",
+    "correct_answer": "Apple",
+    "choices": [
+      "IBM",
+      "BlackBerry",
+      "Apple",
+      "Nokia"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "a2eb7ef6-7a9c-46d7-90c9-7981141725b3"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура USB?",
+    "correct_answer": "Universal Serial Bus (универсальная последовательная шина)",
+    "choices": [
+      "Unified Serial Bus (унифицированная последовательная шина)",
+      "Universal System Board (универсальная системная плата)",
+      "Universal Serial Bus (универсальная последовательная шина)",
+      "Universal Signal Bridge (универсальный сигнальный мост)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "3fd6d48f-19de-4b9d-b9cf-29888a3244f3"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Какая парадигма программирования основана на концепции «объектов», содержащих данные и код?",
+    "correct_answer": "Объектно-ориентированное программирование",
+    "choices": [
+      "Объектно-ориентированное программирование",
+      "Функциональное программирование",
+      "Процедурное программирование",
+      "Декларативное программирование"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "8d585da7-ed40-48cd-97fd-ac62a0b2cd6b"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура BIOS?",
+    "correct_answer": "Basic Input Output System (базовая система ввода-вывода)",
+    "choices": [
+      "Basic Integrated Operating System (базовая интегрированная операционная система)",
+      "Binary Input Output System (двоичная система ввода-вывода)",
+      "Basic Input Output System (базовая система ввода-вывода)",
+      "Boot Integrated Operating System (загрузочная интегрированная операционная система)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "f059a5fc-b74e-49c2-b383-aa507b7aea94"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Какая компания разработала язык программирования Swift?",
+    "correct_answer": "Apple",
+    "choices": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "JetBrains"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "dbafd7dc-50c1-4773-967f-ac5b2863a8f1"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Как называется компьютерная сеть, ограниченная одним зданием или кампусом?",
+    "correct_answer": "LAN (локальная вычислительная сеть)",
+    "choices": [
+      "MAN (городская вычислительная сеть)",
+      "PAN (персональная вычислительная сеть)",
+      "WAN (глобальная вычислительная сеть)",
+      "LAN (локальная вычислительная сеть)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "94029f7a-b574-41f7-90d2-72b37a97423d"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "Что означает аббревиатура YAML?",
+    "correct_answer": "YAML Ain't Markup Language (YAML — не язык разметки)",
+    "choices": [
+      "YAML Advanced Markup Language (YAML расширенный язык разметки)",
+      "YAML Ain't Markup Language (YAML — не язык разметки)",
+      "Yet Another Markup Language (ещё один язык разметки)",
+      "Yet Another Modeling Language (ещё один язык моделирования)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "e20b353b-1d9e-4a1f-b9e3-37a4dab792dd"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Какая компания владеет платформой GitHub?",
+    "correct_answer": "Microsoft",
+    "choices": [
+      "Google",
+      "Microsoft",
+      "IBM",
+      "Amazon"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ab01e416-79bb-4b62-9af5-162fbe5c201c"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура APK в Android?",
+    "correct_answer": "Android Package Kit (пакет Android)",
+    "choices": [
+      "Android Package Kit (пакет Android)",
+      "Android Platform Kit (платформенный набор Android)",
+      "Application Package Key (ключ пакета приложения)",
+      "Android Program Kernel (ядро программы Android)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "55bbc85e-a179-406a-8fb3-6af26bc07258"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Какой язык программирования в основном используется для разработки приложений под iOS?",
+    "correct_answer": "Swift",
+    "choices": [
+      "Kotlin",
+      "Swift",
+      "Java",
+      "C#"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "feabfba2-04d7-4881-bcef-bd01be87a960"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Как называется концепция разделения программы на небольшие повторно используемые части?",
+    "correct_answer": "Модульное программирование",
+    "choices": [
+      "Модульное программирование",
+      "Спагетти-код",
+      "Монолитная архитектура",
+      "Событийно-ориентированное программирование"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "b0079a0d-5f8c-4569-aa2d-8666b8b8eb36"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура CLI?",
+    "correct_answer": "Command Line Interface (интерфейс командной строки)",
+    "choices": [
+      "Command Line Interface (интерфейс командной строки)",
+      "Computer Language Interpreter (интерпретатор компьютерного языка)",
+      "Code Language Integration (интеграция языков кода)",
+      "Central Logic Interface (центральный логический интерфейс)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "ce0a7b32-c09f-45fe-827a-fcdb762ff480"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "Какая была первая коммерчески успешная игровая консоль?",
+    "correct_answer": "Atari 2600",
+    "choices": [
+      "Nintendo Entertainment System",
+      "Atari 2600",
+      "ColecoVision",
+      "Magnavox Odyssey"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "546c9a03-0bc1-4b4c-bf1e-810dd1b3d976"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура SSL?",
+    "correct_answer": "Secure Sockets Layer (протокол защищённых сокетов)",
+    "choices": [
+      "Secure System Link (безопасная системная связь)",
+      "Safe Socket Login (безопасный вход через сокет)",
+      "Server Side Logic (серверная логика)",
+      "Secure Sockets Layer (протокол защищённых сокетов)"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "ru",
+    "translation_key": "4a26dba2-04ca-4014-984a-0973f3c2ef51"
+  }
+]

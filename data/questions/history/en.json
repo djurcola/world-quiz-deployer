@@ -1,0 +1,4882 @@
+[
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What structure was built as a tomb for the Pharaoh Khufu?",
+    "correct_answer": "The Great Pyramid of Giza",
+    "choices": [
+      "The Great Pyramid of Giza",
+      "The Hanging Gardens of Babylon",
+      "The Colossus of Rhodes",
+      "The Temple of Artemis"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5d9a940f5db9d5afb128ce41c65d7d8e27005857cecb2f825493eb5564fa3d00",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which ancient Greek philosopher was sentenced to death by drinking hemlock?",
+    "correct_answer": "Socrates",
+    "choices": [
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Pythagoras"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a62bbd60b624bfcd80aaa81b0614b739ecf269fdfba4cc7ea19fd2aa8c839a5d",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "In what modern-day country was the ancient civilization of Mesopotamia located?",
+    "correct_answer": "Iraq",
+    "choices": [
+      "Iraq",
+      "Egypt",
+      "Iran",
+      "Turkey"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "33c7824da383e283786413168cde2dfe9dc6596ae7ea6eb24045986e7d38bb6e",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which Roman ruler was famously assassinated on the Ides of March?",
+    "correct_answer": "Julius Caesar",
+    "choices": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Caligula"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "24e667a0a652eb20f5e543bd3255b0ee25139744ba6efa79785fbc40cd0a3145",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What was the name of the democratic assembly in ancient Athens?",
+    "correct_answer": "The Ecclesia",
+    "choices": [
+      "The Ecclesia",
+      "The Senate",
+      "The Areopagus",
+      "The Boule"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a42ae2900eae622f1d9af399ed8bb0892c70604c423986bdb3efc176246292ed",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which ancient wonder was located in the city of Babylon?",
+    "correct_answer": "The Hanging Gardens",
+    "choices": [
+      "The Hanging Gardens",
+      "The Lighthouse of Alexandria",
+      "The Statue of Zeus",
+      "The Colossus of Rhodes"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "493b49881a2a7b14134ca813b633d1286a8cba5d85b865c960753ebaaa5dafed",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What writing system did the ancient Egyptians use?",
+    "correct_answer": "Hieroglyphics",
+    "choices": [
+      "Hieroglyphics",
+      "Cuneiform",
+      "Sanskrit",
+      "Latin"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "74f747af1a12439d4765c606ae772ad21bd3d9e223608e13d175858f96974cdd",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which famous ancient Greek epic tells the story of the Trojan War?",
+    "correct_answer": "The Iliad",
+    "choices": [
+      "The Iliad",
+      "The Odyssey",
+      "The Aeneid",
+      "Theogony"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "79c0212c6f7a9c5a3da67cd2d390bec411619e0ce65f8fddd5e524b663389bf9",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What was the primary language of the Roman Empire?",
+    "correct_answer": "Latin",
+    "choices": [
+      "Latin",
+      "Greek",
+      "Aramaic",
+      "Etruscan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ee7038d604523d3a1eecc17f9f503656ec053893bf0ae253598121dc269f424c",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which ancient civilization built the city of Machu Picchu?",
+    "correct_answer": "The Inca",
+    "choices": [
+      "The Inca",
+      "The Maya",
+      "The Aztec",
+      "The Olmec"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d205b8d5417c031b2c21be87e15fe2236218dabd0d256eeea48f3a791464c740",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first emperor of China?",
+    "correct_answer": "Qin Shi Huang",
+    "choices": [
+      "Qin Shi Huang",
+      "Sun Tzu",
+      "Confucius",
+      "Kublai Khan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "889d13ec99f85abf0bf32182bb194a44d773774af328b4caf5d2871ef4ef6b57",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which Persian king built the grand city of Persepolis?",
+    "correct_answer": "Darius the Great",
+    "choices": [
+      "Darius the Great",
+      "Cyrus the Great",
+      "Xerxes I",
+      "Cambyses II"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "292775dc19cf4eeb8de583a418c224761a42c5a444c9eddd3f0485cf8cf7ed46",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "In Greek mythology, who was the king of the gods?",
+    "correct_answer": "Zeus",
+    "choices": [
+      "Zeus",
+      "Poseidon",
+      "Hades",
+      "Ares"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c9949b66848e1391ccf5b045924e9ee284d2fc39ab5a761048993591f4b15857",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What was the name of the gladiatorial arena in ancient Rome?",
+    "correct_answer": "The Colosseum",
+    "choices": [
+      "The Colosseum",
+      "The Circus Maximus",
+      "The Pantheon",
+      "The Baths of Caracalla"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3e1325b32004132672e2d180dc460a937b6753209a57233c9c6e1f487e3f845d",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which ancient civilization is known for its advanced plumbing and the Great Bath?",
+    "correct_answer": "The Indus Valley Civilization",
+    "choices": [
+      "The Indus Valley Civilization",
+      "Ancient Egypt",
+      "Ancient Greece",
+      "Ancient China"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c9241a5784c9c6ad73430a87fc14b5ec5b76b37605f8d045cc2a8d95b48891c3",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Who was the legendary founder of Rome according to myth?",
+    "correct_answer": "Romulus",
+    "choices": [
+      "Romulus",
+      "Aeneas",
+      "Remus",
+      "Julius Caesar"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "22f0302bff0ead206d17350ff8468dd4b35b4de1c3f3727f565719fd4797a0a8",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What was the name of the elite infantry unit in the army of Alexander the Great?",
+    "correct_answer": "The Companion Cavalry",
+    "choices": [
+      "The Companion Cavalry",
+      "The Praetorian Guard",
+      "The Immortals",
+      "The Phalanx"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ec646d92aa252e8be7f5c6d0475d6707242d9977a2accf08914d6db4fbfb5387",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which ancient Greek city-state was known for its militaristic society?",
+    "correct_answer": "Sparta",
+    "choices": [
+      "Sparta",
+      "Athens",
+      "Corinth",
+      "Thebes"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "cc0d4fce16790a99b57f2f9567337ac7ed9bc921e697a09b389025fe64167c26",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What material did the ancient Chinese use to create the Terracotta Army?",
+    "correct_answer": "Terracotta clay",
+    "choices": [
+      "Terracotta clay",
+      "Marble",
+      "Bronze",
+      "Jade"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0590208084baaa20ac3d5481593807f91f18f5a1a96ed1e685d8740ae9d7c740",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which Carthaginian general led elephants across the Alps to attack Rome?",
+    "correct_answer": "Hannibal",
+    "choices": [
+      "Hannibal",
+      "Hamilcar Barca",
+      "Scipio Africanus",
+      "Hasdrubal"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1372214dc16235ca17d69703e6506182a7022168ab476977c4f344b597f296ed",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What was the name of the earliest known written code of laws?",
+    "correct_answer": "The Code of Hammurabi",
+    "choices": [
+      "The Code of Hammurabi",
+      "The Twelve Tables",
+      "The Law of Draco",
+      "The Edicts of Ashoka"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a5d7e0becb68672363cd347dd46ccb41da18be9bbde7aa57ea0d9e5424f0bdaf",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which Egyptian queen was known for her relationships with Julius Caesar and Mark Antony?",
+    "correct_answer": "Cleopatra",
+    "choices": [
+      "Cleopatra",
+      "Nefertiti",
+      "Hatshepsut",
+      "Ankhesenamun"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f798fdfc210cd38bddb3742bfffbc0d8c1a0853c8dd2e10eaad2ff3bfe394621",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "At which battle did 300 Spartans make a legendary last stand against the Persians?",
+    "correct_answer": "Thermopylae",
+    "choices": [
+      "Thermopylae",
+      "Marathon",
+      "Salamis",
+      "Plataea"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "216825812acf6696bec6167ed182a42f4647352f5e5d657e2b12e2d6f70d07bf",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What was the main trade route connecting China to the Mediterranean world?",
+    "correct_answer": "The Silk Road",
+    "choices": [
+      "The Silk Road",
+      "The Amber Road",
+      "The Incense Route",
+      "The Royal Road"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c40184b212e1f109da4099546d0cae077c70bf9eee38f8c13b0838af36092a88",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which Roman emperor was the first to convert to Christianity?",
+    "correct_answer": "Constantine the Great",
+    "choices": [
+      "Constantine the Great",
+      "Theodosius I",
+      "Justinian",
+      "Diocletian"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "de340bb1dd98c13a7008d238a0497a6c35470d79ad45bd21c1eeef7b86bb636e",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What invention was the ancient Greek mathematician Archimedes famous for?",
+    "correct_answer": "The Archimedes screw",
+    "choices": [
+      "The Archimedes screw",
+      "The water wheel",
+      "The pulley system",
+      "The catapult"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "14ab70d66b93f7bc80943ce9210ffa7763cd9c10da21093325a87c0ce53f1b3b",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Who was the last pharaoh of ancient Egypt?",
+    "correct_answer": "Cleopatra VII",
+    "choices": [
+      "Cleopatra VII",
+      "Nefertiti",
+      "Ramesses II",
+      "Hatshepsut"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "64c0d0db58c624934ee2bb1b24961489ab8c42c42b8f8b897fc6959e230c3a8e",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which ancient Greek mathematician is known as the Father of Geometry?",
+    "correct_answer": "Euclid",
+    "choices": [
+      "Euclid",
+      "Pythagoras",
+      "Archimedes",
+      "Aristotle"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7fecb441eb125cf4aa045c08ae5a88db81c0433db6007cc6dd94c3fd561ea56f",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What was the name of the Roman public bath complex that also served as a social hub?",
+    "correct_answer": "Thermae",
+    "choices": [
+      "Thermae",
+      "Forums",
+      "Aqueducts",
+      "Insulae"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f5fc251c76062b1e92146a6506f612980de3d7f6a304c91cffd3fc3245e4d6aa",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which ancient civilization built the step pyramids at Tikal?",
+    "correct_answer": "The Maya",
+    "choices": [
+      "The Maya",
+      "The Aztec",
+      "The Inca",
+      "The Olmec"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0e8b33834e09911093cecc461517866746b86402289eb545117b42731ef6dd8a",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What did the ancient Chinese call their empire?",
+    "correct_answer": "The Middle Kingdom",
+    "choices": [
+      "The Middle Kingdom",
+      "The Celestial Empire",
+      "The Dragon Realm",
+      "The Great Nation"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5c3ac96aa821042415d06d4299b7aaa1a045171108e22aee7f966fa5bfd7eac1",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Who was the Greek goddess of wisdom and warfare?",
+    "correct_answer": "Athena",
+    "choices": [
+      "Athena",
+      "Aphrodite",
+      "Hera",
+      "Artemis"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "26ae15dd1350a4465ccc891b75dfab2055e22181030c91549f6bd56824c805b4",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which Persian king invaded Greece and was defeated at the Battle of Marathon?",
+    "correct_answer": "Darius I",
+    "choices": [
+      "Darius I",
+      "Xerxes I",
+      "Cyrus the Great",
+      "Artaxerxes I"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b5ea03bcdf2da2923df0dcd53944d07e6e8188be5ba774340df2153952cd092a",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What was the name of the professional Roman army unit that served as bodyguards to the emperor?",
+    "correct_answer": "The Praetorian Guard",
+    "choices": [
+      "The Praetorian Guard",
+      "The Roman Legion",
+      "The Cohort",
+      "The Equites"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7314e8784ed8011c4b24cbc78636196dad95c80a3b4beb0716769a183b5895c8",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "What did ancient Egyptians call their form of writing on papyrus?",
+    "correct_answer": "Hieratic script",
+    "choices": [
+      "Hieratic script",
+      "Demotic script",
+      "Coptic script",
+      "Cuneiform"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6df4a2cf900c5d16795a16918a97fa00088cec37dcb2857efd0a206780c7cc65",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which Roman emperor famously built a wall across northern Britain?",
+    "correct_answer": "Hadrian",
+    "choices": [
+      "Hadrian",
+      "Trajan",
+      "Augustus",
+      "Antoninus Pius"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "68fedb94922384e3c2052fc1505d2197d3c69efa6f68a32ddbd030a3d46d3f47",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "What was the primary food of the ancient Roman common people?",
+    "correct_answer": "Puls (a porridge made from emmer wheat)",
+    "choices": [
+      "Puls (a porridge made from emmer wheat)",
+      "Bread and olives",
+      "Lentil soup",
+      "Fish sauce"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4e212aad01c8962ddd8ee911ca401ab3e15931f78c54bed631dea72574113430",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Who was the legendary king of Ithaca in Greek mythology?",
+    "correct_answer": "Odysseus",
+    "choices": [
+      "Odysseus",
+      "Agamemnon",
+      "Achilles",
+      "Menelaus"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5c0e2924044fe3f66075b245eff38baa7613b128a657fd196c6bfb8bcf2feeea",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which ancient civilization invented the earliest known form of writing, cuneiform?",
+    "correct_answer": "The Sumerians",
+    "choices": [
+      "The Sumerians",
+      "The Egyptians",
+      "The Assyrians",
+      "The Babylonians"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "aec12a2de22b62e0e4f4a34f464c44e7df415a587d2c2f480efe9a053b3ab0a1",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "What was the name of the elite Persian infantry unit known as the Ten Thousand?",
+    "correct_answer": "The Immortals",
+    "choices": [
+      "The Immortals",
+      "The Sparabara",
+      "The Companion Cavalry",
+      "The Praetorian Guard"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "90cc2eeb1f6f8019582e83c977c6d73d27f5b65104ccb0181de729818db39432",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "At which battle did Alexander the Great defeat the Persian King Darius III?",
+    "correct_answer": "The Battle of Gaugamela",
+    "choices": [
+      "The Battle of Gaugamela",
+      "The Battle of Issus",
+      "The Battle of Granicus",
+      "The Battle of Hydaspes"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "29dbbf373af9de136fd8ebbdd4128cea5667d5ff0170f8571230c25602dcc38b",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What was the Roman Forum primarily used for?",
+    "correct_answer": "A public marketplace and meeting place",
+    "choices": [
+      "A public marketplace and meeting place",
+      "A military training ground",
+      "A temple complex",
+      "An imperial palace"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "135dc8e08a59d06724a588022d6dd9131e195d5e061726fe65f0bad4d7451d5c",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "Which ancient Chinese philosopher wrote 'The Art of War'?",
+    "correct_answer": "Sun Tzu",
+    "choices": [
+      "Sun Tzu",
+      "Confucius",
+      "Laozi",
+      "Mencius"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "bbfb1c519c95375ecd1793455a4995b4422980c4f91396ed94502e57e71d0ff7",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "What was the name of the Greek trading colony that rivaled Rome and was destroyed in 146 BC?",
+    "correct_answer": "Carthage",
+    "choices": [
+      "Carthage",
+      "Corinth",
+      "Syracuse",
+      "Massalia"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d558c67283772a415589aa6f12b939fef15a6eec70c66225d00dca1cfcb88edf",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which ancient ruler built the Hanging Gardens of Babylon?",
+    "correct_answer": "Nebuchadnezzar II",
+    "choices": [
+      "Nebuchadnezzar II",
+      "Hammurabi",
+      "Sargon of Akkad",
+      "Ashurbanipal"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4c3ea2f7d6cb0cd27120631dee0d5d61753390bb0cf33f5d79416fbaf6057dba",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "What was the name of the three-part Roman government system?",
+    "correct_answer": "The Roman Republic",
+    "choices": [
+      "The Roman Republic",
+      "The Roman Empire",
+      "The Roman Kingdom",
+      "The Roman Senate"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "bb5e2ee611ab048c0d67c5cc907655bdcabc96ab57f24f113b9b6e6ff6b7b2b4",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "medium",
+    "question_text": "Which ancient Greek doctor is considered the Father of Medicine?",
+    "correct_answer": "Hippocrates",
+    "choices": [
+      "Hippocrates",
+      "Galen",
+      "Aristotle",
+      "Pythagoras"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6bca27f16769f3c1df7da689962d8a53c5c0c0248ef640273a4844cbcc652558",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "What type of structure was the Lighthouse of Alexandria?",
+    "correct_answer": "A Pharos (a tall tower with a fire beacon)",
+    "choices": [
+      "A Pharos (a tall tower with a fire beacon)",
+      "A temple to Poseidon",
+      "A royal palace",
+      "A military fortification"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3f783096f7a52b2a913044aecbb709a1250316d062a2f9abdf4fd01080fd9edf",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "hard",
+    "question_text": "Which Roman emperor divided the empire into Eastern and Western halves?",
+    "correct_answer": "Diocletian",
+    "choices": [
+      "Diocletian",
+      "Constantine",
+      "Theodosius I",
+      "Augustus"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "18dac2fd09521961a11d1dbb800732efa58b4efadd6616b7d001036f01f4ddeb",
+    "language": "en"
+  },
+  {
+    "category": "ancient",
+    "difficulty": "easy",
+    "question_text": "What was the name of the Greek city that was the site of a famous oracle?",
+    "correct_answer": "Delphi",
+    "choices": [
+      "Delphi",
+      "Olympia",
+      "Ephesus",
+      "Corinth"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5260d1e6811a56d3b2868fd92a95d1be87934752681d48be8af6adb00e82a350",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "How long have Indigenous Australians inhabited the continent?",
+    "correct_answer": "Over 60,000 years",
+    "choices": [
+      "Over 60,000 years",
+      "Over 20,000 years",
+      "Over 10,000 years",
+      "Over 100,000 years"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "db9e903068edc59aaa6e64a68b7d8cef9de104088874a8d450a94817d9325fbb",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What is the Aboriginal Australian concept of the creation period called?",
+    "correct_answer": "The Dreamtime",
+    "choices": [
+      "The Dreamtime",
+      "The Great Spirit",
+      "The Ancestor Age",
+      "The Songlines"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f9a3af7e5be92dba968bced32908c230f24915fed64bd54ca110b7805b897e24",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What are the traditional Aboriginal song-maps across the land called?",
+    "correct_answer": "Songlines",
+    "choices": [
+      "Songlines",
+      "Dreaming Tracks",
+      "Walkabout Paths",
+      "Spirit Roads"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "431566631f26be371e9f384a16376149f1e80e6ed700a001e9efcf7b9710a05e",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "In what year did Captain James Cook land on the east coast of Australia?",
+    "correct_answer": "1770",
+    "choices": [
+      "1770",
+      "1788",
+      "1768",
+      "1778"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d65956472b175761b28df29ac835b7c226e609e6d1812df2d555bea6d7f13125",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What was the name of Captain Cook's ship that reached Australia?",
+    "correct_answer": "HMS Endeavour",
+    "choices": [
+      "HMS Endeavour",
+      "HMS Beagle",
+      "HMS Resolution",
+      "HMS Discovery"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "14c54f83846a93348b989dfd657a1eae5df77dbeb2f2f739ae86e0c204e277f2",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Where did Captain Cook first land on the Australian continent?",
+    "correct_answer": "Botany Bay",
+    "choices": [
+      "Botany Bay",
+      "Sydney Cove",
+      "Port Phillip Bay",
+      "Cape York"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b01d343a601d5f04651bdf57bf1162893941488624e44357e30d7dd5a18b6cdd",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What year did the First Fleet arrive in Australia to establish a penal colony?",
+    "correct_answer": "1788",
+    "choices": [
+      "1788",
+      "1790",
+      "1770",
+      "1800"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4fdd74687d985adf6bfbfa1f63bce09369e6876caf50abb88e896226ef09de77",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Who commanded the First Fleet to Australia?",
+    "correct_answer": "Captain Arthur Phillip",
+    "choices": [
+      "Captain Arthur Phillip",
+      "Captain James Cook",
+      "Governor Lachlan Macquarie",
+      "Captain William Bligh"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c6312af786dd8d7b636b4f374aa8e4f4f6ec3b4498b7af642fcda3dbb0e7a74f",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "The First Fleet originally intended to settle at Botany Bay but moved. Where did they settle instead?",
+    "correct_answer": "Sydney Cove",
+    "choices": [
+      "Sydney Cove",
+      "Port Phillip Bay",
+      "Hobart",
+      "Brisbane River"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7d1e582ff903dade142d4c91f05683795a34051f327ec30d9fc98247cabd0679",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What was the name of the ship that led the First Fleet?",
+    "correct_answer": "HMS Sirius",
+    "choices": [
+      "HMS Sirius",
+      "HMS Endeavour",
+      "HMS Supply",
+      "HMS Victory"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1981870214664d3d76273231684b91718432cba0ab51c8173647200089e802c9",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which English explorer is famous for charting the Australian coastline after Cook?",
+    "correct_answer": "Matthew Flinders",
+    "choices": [
+      "Matthew Flinders",
+      "George Bass",
+      "William Bligh",
+      "John McDouall Stuart"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "556cd4c818ff42d0581b2ab99aed6f4d3e44dc01fa7c480bb5f5f1dae0239cb5",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What name did explorers Burke and Wills tragically die trying to cross?",
+    "correct_answer": "The Australian continent from south to north",
+    "choices": [
+      "The Australian continent from south to north",
+      "The Simpson Desert",
+      "The Nullarbor Plain",
+      "The Great Dividing Range"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "37e838d669478f8e91dc6cf1668b106a017b369437104a145170978e7621b13b",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What year did the Australian Gold Rush begin in earnest?",
+    "correct_answer": "1851",
+    "choices": [
+      "1851",
+      "1849",
+      "1854",
+      "1860"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6b390f4abdc0cfc37af7e402ee0ee151bed25b918bcf87402ee47dfa0634c552",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Where was the first major gold discovery in Australia that sparked the gold rush?",
+    "correct_answer": "Bathurst, New South Wales",
+    "choices": [
+      "Bathurst, New South Wales",
+      "Ballarat, Victoria",
+      "Bendigo, Victoria",
+      "Kalgoorlie, Western Australia"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "dd6c49c58adb57f8a611477e9b937e3af20d85af71e691062a17cb357d07d3ad",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the Eureka Stockade?",
+    "correct_answer": "A rebellion by gold miners against colonial authority",
+    "choices": [
+      "A rebellion by gold miners against colonial authority",
+      "A fort built to protect gold shipments",
+      "A trading post for gold miners",
+      "A prison for convicts"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "54140924246388ddf679d11aeeb085e56b172974d12b4901d91927ecec99a1d6",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "In what year did the Eureka Stockade occur?",
+    "correct_answer": "1854",
+    "choices": [
+      "1854",
+      "1851",
+      "1860",
+      "1848"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4ea673d386099c727f28c283ce60d8928cd02ce117a6b961d91be9efc3718dcf",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What flag was flown by the miners at the Eureka Stockade?",
+    "correct_answer": "The Eureka Flag",
+    "choices": [
+      "The Eureka Flag",
+      "The Australian Flag",
+      "The Union Jack",
+      "The Southern Cross Flag"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "cdcf763b93692242c821c7da78e8bccf611e34ff2bc7cc0ae25bc9bdcc0a6aad",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What year did the six Australian colonies federate to form the Commonwealth of Australia?",
+    "correct_answer": "1901",
+    "choices": [
+      "1901",
+      "1891",
+      "1910",
+      "1889"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c7d2724ca6f9dd45a6bbb93e3b2fd619ecf8b94fac39e9d1bcd43162bb7fba87",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who was Australia's first Prime Minister?",
+    "correct_answer": "Edmund Barton",
+    "choices": [
+      "Edmund Barton",
+      "Alfred Deakin",
+      "Henry Parkes",
+      "John Curtin"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ce776da675c4f7bd387711012fd832ac578afaeac2c080b523d5f4e1cb006f53",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which politician is known as the 'Father of Federation'?",
+    "correct_answer": "Henry Parkes",
+    "choices": [
+      "Henry Parkes",
+      "Edmund Barton",
+      "Alfred Deakin",
+      "Samuel Griffith"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "bdc69ffc5ce9fd2c3e011cdef428eaaf999bf8e3221f69fbe4e127b3a91d4afa",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What is the capital city of Australia?",
+    "correct_answer": "Canberra",
+    "choices": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "fb3609af21cfdad3f757421e32d07dd2589e68d6915177c89fd6e47153ba0c0c",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "The Australian Constitution was enacted by which British Parliament act?",
+    "correct_answer": "The Commonwealth of Australia Constitution Act 1900",
+    "choices": [
+      "The Commonwealth of Australia Constitution Act 1900",
+      "The Australia Act 1986",
+      "The Statute of Westminster 1931",
+      "The Colonial Laws Validity Act 1865"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3c386e3dac285875a0ab4fcff73d7639d64d019824ebeacf85645eff4b914fe9",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What year did the Australian flag officially become the national flag?",
+    "correct_answer": "1954",
+    "choices": [
+      "1954",
+      "1901",
+      "1934",
+      "1962"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "57f903036991dafaee56b8ffc6aab1cc321a2a9d994606ddd58a8c78d4e3ac2a",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What does the largest star on the Australian flag represent?",
+    "correct_answer": "The Federation Star",
+    "choices": [
+      "The Federation Star",
+      "The Southern Cross",
+      "The Commonwealth Star",
+      "The Union Star"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e9c29d795b9029b98652e77613cafc4a6a332d72b992ead8b56965216fe453cd",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What was the name of the infamous bushranger captured at Glenrowan in 1880?",
+    "correct_answer": "Ned Kelly",
+    "choices": [
+      "Ned Kelly",
+      "Ben Hall",
+      "Captain Thunderbolt",
+      "Dan Morgan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "896007f5deee81c53e7340eeea9fab5db9599a9743bcf16c585810b341b1c516",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What distinctive item of armor was Ned Kelly known for wearing?",
+    "correct_answer": "A homemade iron helmet and breastplate",
+    "choices": [
+      "A homemade iron helmet and breastplate",
+      "A bulletproof leather jacket",
+      "A steel chainmail suit",
+      "A copper face mask"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "037682cbb46df5ee41be4ffe0621ed590cb834a4da72f9a95bd5f87bf33a18c0",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What did Ned Kelly famously say before his execution?",
+    "correct_answer": "Such is life",
+    "choices": [
+      "Such is life",
+      "I am dying for my people",
+      "The game is up",
+      "God forgive me"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "002610c61a80589928211d133e43bad1038a2bf7edd4a615a5b6f1822cf80bed",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What year did Australian and New Zealand troops land at Gallipoli?",
+    "correct_answer": "1915",
+    "choices": [
+      "1915",
+      "1914",
+      "1916",
+      "1917"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4ceb58854281c0a4b5e9b18d0535e8ce712282eb1bba86b83fb642b3d5c6e119",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What does ANZAC stand for?",
+    "correct_answer": "Australian and New Zealand Army Corps",
+    "choices": [
+      "Australian and New Zealand Army Corps",
+      "Australian and New Zealand Allied Command",
+      "Australian National Army Corps",
+      "Allied Naval and Army Corps"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9707ed1569eed9bcafc31c056e0f6489a11f7dcd067e9b3ad2e1c3948c194b45",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "ANZAC Day is commemorated on which date each year?",
+    "correct_answer": "April 25",
+    "choices": [
+      "April 25",
+      "November 11",
+      "May 8",
+      "July 4"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "573213c37ceb317e6dbad805fcf42d64ef586720f5f48519f4d5da70350f6d74",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Who was the Australian general who commanded the ANZACs at Gallipoli?",
+    "correct_answer": "Sir William Birdwood",
+    "choices": [
+      "Sir William Birdwood",
+      "Sir John Monash",
+      "Sir Henry Chauvel",
+      "Sir Thomas Blamey"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b81e4e965b137d0b8c17bfac90f4ccd0f5b6a06a252ef14cc750444051e1234d",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the Battle of the Kokoda Track?",
+    "correct_answer": "A WWII campaign in Papua New Guinea against Japan",
+    "choices": [
+      "A WWII campaign in Papua New Guinea against Japan",
+      "A WWI battle in France",
+      "A frontier conflict with Indigenous Australians",
+      "A Boer War battle in South Africa"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "286a24bbe258bf5447016f7914cf0e9d8ea54b951742f8aa3fd8facb17a4ce89",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "In what year did Japanese forces bomb Darwin during World War II?",
+    "correct_answer": "1942",
+    "choices": [
+      "1942",
+      "1941",
+      "1943",
+      "1944"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "97efebceee9d4714f63e55a410bfafd45c432e3ffb3fa07d95b28ddac8953c3c",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which Australian prime minister famously declared 'Menzies will be remembered, but I will be forgotten' after authorizing the bombing of Darwin?",
+    "correct_answer": "John Curtin",
+    "choices": [
+      "John Curtin",
+      "Robert Menzies",
+      "Ben Chifley",
+      "Arthur Fadden"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b26b672bf70497b00e5d1a745f2e7b4bd6579f1d054ae5e89bdfcbed31b934cd",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who is widely regarded as Australia's greatest ever cricketer?",
+    "correct_answer": "Sir Donald Bradman",
+    "choices": [
+      "Sir Donald Bradman",
+      "Shane Warne",
+      "Ricky Ponting",
+      "Steve Waugh"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6eb4f7f72b9e53577061c01725336cdad36d65024f00e637067072d278f73268",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What was Sir Donald Bradman's career Test batting average?",
+    "correct_answer": "99.94",
+    "choices": [
+      "99.94",
+      "89.76",
+      "101.23",
+      "95.50"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "da003728cb63395ca089588bb2fa8681888a0ad08e17de28ff2d44ba703686da",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What year did Melbourne host the Summer Olympics?",
+    "correct_answer": "1956",
+    "choices": [
+      "1956",
+      "1960",
+      "1952",
+      "1964"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "8919fefc26c077d5b39c3fdf6c0ba0c250999909ee45d97aba1deb111c8073e8",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What year did Sydney host the Summer Olympics?",
+    "correct_answer": "2000",
+    "choices": [
+      "2000",
+      "2004",
+      "1996",
+      "2008"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f4250acf104117206ed7047b79b93f2f0d8a26f6daad5db7a625a6b56f18f6fe",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What is the name of the famous architect who designed the Sydney Opera House?",
+    "correct_answer": "Jørn Utzon",
+    "choices": [
+      "Jørn Utzon",
+      "Frank Lloyd Wright",
+      "Le Corbusier",
+      "Sidney Nolan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3964b78f43f2b7ecbbf601c1d632622ec89029f2f71148e12b7a77a5bc05433e",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "In what year was the Sydney Opera House officially opened?",
+    "correct_answer": "1973",
+    "choices": [
+      "1973",
+      "1967",
+      "1975",
+      "1981"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f38214e03c78bfa5c47e570876d5772f787c8d35a80cdf0ada481620ba5b6d98",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the 1975 Australian constitutional crisis commonly called?",
+    "correct_answer": "The Dismissal",
+    "choices": [
+      "The Dismissal",
+      "The Crisis",
+      "The Coup",
+      "The Dissolution"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9906f2746a2f56799215e6428f8cc9b9b439624bd67ce0a4ffab4ad728b98470",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Who was the Australian Prime Minister dismissed by the Governor-General in 1975?",
+    "correct_answer": "Gough Whitlam",
+    "choices": [
+      "Gough Whitlam",
+      "Malcolm Fraser",
+      "John Gorton",
+      "William McMahon"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "55bf09750990667a7319077fbb7292deb38961e7cf52df083a53b0f539225cfe",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Who was the Governor-General who dismissed the Whitlam government?",
+    "correct_answer": "Sir John Kerr",
+    "choices": [
+      "Sir John Kerr",
+      "Sir William Deane",
+      "Sir Paul Hasluck",
+      "Sir Ninian Stephen"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4186338bf1c27e08ce77637eed669e8c3d1f2d3f54e146da5ca83d2dc097e5db",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "In what year did Prime Minister Kevin Rudd deliver the Apology to Indigenous Australians?",
+    "correct_answer": "2008",
+    "choices": [
+      "2008",
+      "2007",
+      "2009",
+      "2010"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0c865fee812c3c369e1c7b3a138f5c4af616659ad9d897ff3b0652363cc25c5d",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the policy that forcibly removed Indigenous children from their families?",
+    "correct_answer": "The Stolen Generations",
+    "choices": [
+      "The Stolen Generations",
+      "The Lost Children",
+      "The Assimilation Program",
+      "The Removal Act"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e8a55a34ac2498b64bb83e15c9f3469134c50a74fa9ba4b9aa09d843520522b4",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Who is the longest-serving Prime Minister in Australian history?",
+    "correct_answer": "Sir Robert Menzies",
+    "choices": [
+      "Sir Robert Menzies",
+      "John Howard",
+      "Bob Hawke",
+      "Paul Keating"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f83c2abaedc7251018fac253e5c7e1c70ca6dc978c03302b4b64e8ca134b04ed",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which Australian prime minister was famously seen crying in public?",
+    "correct_answer": "Bob Hawke",
+    "choices": [
+      "Bob Hawke",
+      "Paul Keating",
+      "John Howard",
+      "Kevin Rudd"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "71d2f1f1c5ce63ce98094de5270d7aea35f6d78a77c9d84c2bfe06bc1f8f2174",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What is the Great Barrier Reef's approximate length?",
+    "correct_answer": "Over 2,300 kilometers",
+    "choices": [
+      "Over 2,300 kilometers",
+      "Over 1,000 kilometers",
+      "Over 3,500 kilometers",
+      "Over 800 kilometers"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1625b5d0f8f7ddf1d096738d6d580df975237a812a1ff4b06988f3ba1abffc57",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who was the Australian conservationist and 'Crocodile Hunter' who died in 2006?",
+    "correct_answer": "Steve Irwin",
+    "choices": [
+      "Steve Irwin",
+      "Terri Irwin",
+      "Bob Irwin",
+      "John Butler"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6f2b958ca2df9f22f086eced4f996001ef6b03bd2acb3e5d1e502215152e54bd",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which Australian Indigenous athlete won the women's 400m at the Sydney 2000 Olympics?",
+    "correct_answer": "Cathy Freeman",
+    "choices": [
+      "Cathy Freeman",
+      "Nova Peris",
+      "Melanie Schlanger",
+      "Lauren Jackson"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0bab09ead46a76f3651f8e76194e40f9d32833c1f0e700dedc1ac569fc188507",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What year did the Australia Act sever remaining legal ties with the British Parliament?",
+    "correct_answer": "1986",
+    "choices": [
+      "1986",
+      "1982",
+      "1990",
+      "1975"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "66b185075bd82c0e41d4f5e424054f52f939ab9080ef92add64a31724a9736c8",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which explorer successfully led the first south-north crossing of the Australian continent in 1862?",
+    "correct_answer": "John McDouall Stuart",
+    "choices": [
+      "John McDouall Stuart",
+      "Robert O'Hara Burke",
+      "William John Wills",
+      "Ernest Giles"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4047239b2f8c627ffa5603e1e5e0286ceb16f1f55f9b600d34d949e91cc14f84",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What was the name of the passenger ship torpedoed off the coast of Sydney in 1942?",
+    "correct_answer": "HMAS Sydney",
+    "choices": [
+      "HMAS Sydney",
+      "HMAS Canberra",
+      "HMAS Perth",
+      "HMAS Australia"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "cea35b7d74f713ebb80033c7b5bd92c57aba33156b31c8876f92bc10ea61522a",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What plague killed an estimated one-third of Europe's population in the 14th century?",
+    "correct_answer": "The Black Death",
+    "choices": [
+      "The Black Death",
+      "The Spanish Flu",
+      "The Plague of Justinian",
+      "The Great Pestilence"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b212960500166732ce07e7d7bb4f551d588a233b0dfba1cad8d239038960b8dd",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which Mongol ruler founded the largest contiguous land empire in history?",
+    "correct_answer": "Genghis Khan",
+    "choices": [
+      "Genghis Khan",
+      "Kublai Khan",
+      "Attila the Hun",
+      "Tamerlane"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c54cd7b30248393cdb94b6971fad3dc961e5a0fac6ff34537c4a8fabd32acc84",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What was the name of the code of conduct that medieval knights followed?",
+    "correct_answer": "Chivalry",
+    "choices": [
+      "Chivalry",
+      "The Code of Honor",
+      "Feudal Law",
+      "The Knight's Oath"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "892eb09d2003627fac6137e297d3239f0f106d264c19e14d6e80ade029c943ca",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which city was the capital of the Byzantine Empire?",
+    "correct_answer": "Constantinople",
+    "choices": [
+      "Constantinople",
+      "Rome",
+      "Athens",
+      "Alexandria"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1951f8e403d2a12bc9b8114879ff13e4700a120af2fafe2673d8af2a43c9391c",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What document signed in 1215 limited the power of the English king?",
+    "correct_answer": "The Magna Carta",
+    "choices": [
+      "The Magna Carta",
+      "The Bill of Rights",
+      "The Petition of Right",
+      "The Habeas Corpus Act"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0afad29aa9b12bb7b2915a66ef012ee4c0d734935eb0808a876cad6a268715d2",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which Viking explorer is believed to have reached North America around 1000 AD?",
+    "correct_answer": "Leif Erikson",
+    "choices": [
+      "Leif Erikson",
+      "Erik the Red",
+      "Ragnar Lothbrok",
+      "Bjorn Ironside"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "591355ac07e01892496e7f315673e6843f182f9f7255e4fa01b8b3ef874a8249",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What was the primary economic system in medieval Europe?",
+    "correct_answer": "Feudalism",
+    "choices": [
+      "Feudalism",
+      "Capitalism",
+      "Mercantilism",
+      "Manorialism"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "56acea2834551dc52f84ee872296a84a2ae81d88c65df7ca5772befcd3d050c9",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which series of religious wars were fought between Christians and Muslims for control of the Holy Land?",
+    "correct_answer": "The Crusades",
+    "choices": [
+      "The Crusades",
+      "The Holy Wars",
+      "The Inquisition",
+      "The Reconquista"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3c40edc4389f4f983b1e0f34acbb69d1b46beb8e1e213190d193755f6e4c5095",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the name of the Mongol capital city built by Kublai Khan?",
+    "correct_answer": "Xanadu (Shangdu)",
+    "choices": [
+      "Xanadu (Shangdu)",
+      "Karakorum",
+      "Samarkand",
+      "Beijing"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b39b68a1fdd135480ddd3e93176af4f3a8d378e0a526a345f76dbd8e42da3f03",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which Frankish king was crowned Emperor of the Romans on Christmas Day in 800 AD?",
+    "correct_answer": "Charlemagne",
+    "choices": [
+      "Charlemagne",
+      "Clovis I",
+      "Pepin the Short",
+      "Charles Martel"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "017653df0ad271b52361ec0a04abfa2ac89db26b5b08613ca28a158ce7dde294",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What weapon became iconic for the English army during the Hundred Years' War?",
+    "correct_answer": "The longbow",
+    "choices": [
+      "The longbow",
+      "The crossbow",
+      "The trebuchet",
+      "The battle axe"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "233593f2d5190df684d9d2f3e292d5b00b1b627d8966a196b9e03cfd94fc006a",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which Mesoamerican civilization built the city of Tenochtitlan?",
+    "correct_answer": "The Aztec",
+    "choices": [
+      "The Aztec",
+      "The Maya",
+      "The Inca",
+      "The Toltec"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0b0702159a8227ba322177893c87ab1da063f3ea390469681234c15804a7e97a",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What was the name of the network of trade routes that connected Europe and Asia?",
+    "correct_answer": "The Silk Road",
+    "choices": [
+      "The Silk Road",
+      "The Spice Route",
+      "The Amber Road",
+      "The Tea Route"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ee559f4764f1e6044912085ee12d42a9886ecb0d2914bccee66f9c57c91a53a0",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which famous battle in 1066 marked the Norman conquest of England?",
+    "correct_answer": "The Battle of Hastings",
+    "choices": [
+      "The Battle of Hastings",
+      "The Battle of Stamford Bridge",
+      "The Battle of Fulford",
+      "The Battle of Agincourt"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "89af58708a87da568004c1aceed5f00637776cfd9e368074823190be1ca22f5f",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What architectural structure was the center of medieval castle defense?",
+    "correct_answer": "The keep",
+    "choices": [
+      "The keep",
+      "The moat",
+      "The drawbridge",
+      "The barbican"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "cdf970cce3c8dfb918aa821dc7e4c3bbce7cc26a7f49c4b1c56dee993103fa41",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Who was the French peasant girl who led the French army to victory at Orléans?",
+    "correct_answer": "Joan of Arc",
+    "choices": [
+      "Joan of Arc",
+      "Eleanor of Aquitaine",
+      "Marie Antoinette",
+      "Catherine de Medici"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "8fa13bb1f7cc8272efb1366d091bbf33ba4d67cb5407fd1e7d1a4fc9a8454c4e",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Which Islamic scholar wrote 'The Canon of Medicine', a standard medical text for centuries?",
+    "correct_answer": "Avicenna (Ibn Sina)",
+    "choices": [
+      "Avicenna (Ibn Sina)",
+      "Al-Razi (Rhazes)",
+      "Alhazen (Ibn al-Haytham)",
+      "Averroes (Ibn Rushd)"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3e0732c91bc769c03574985d34c9c51cba6c61cb97958aa04ab94afe05f3b36c",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of the Viking parliament or assembly?",
+    "correct_answer": "The Thing",
+    "choices": [
+      "The Thing",
+      "The Althing",
+      "The Riksdag",
+      "The Witenagemot"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a4d2a3081c9e94da4782fedafb8568ab8628b9298eb4ac3b49418bb156bd9556",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which Byzantine emperor codified Roman law into a comprehensive legal system?",
+    "correct_answer": "Justinian I",
+    "choices": [
+      "Justinian I",
+      "Constantine the Great",
+      "Heraclius",
+      "Basil II"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "21d86428efcbc4f272687282bbf4b69aac87335d66214120b960964929862de1",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What invention did Johannes Gutenberg introduce to Europe around 1440?",
+    "correct_answer": "The printing press",
+    "choices": [
+      "The printing press",
+      "The telescope",
+      "The compass",
+      "The astrolabe"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "305791b78659729259ceecf4999ed2a03a46167293bfadaaa7c58200f3b0733e",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which English king led the Third Crusade against Saladin?",
+    "correct_answer": "Richard the Lionheart",
+    "choices": [
+      "Richard the Lionheart",
+      "King John",
+      "Henry II",
+      "Edward I"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0083e39181296ac92366e66060cacc752541c9599273e83e84bd03200084735f",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of the Inca communication system using runners?",
+    "correct_answer": "Chasquis",
+    "choices": [
+      "Chasquis",
+      "Quipu",
+      "Mitma",
+      "Ayllu"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "600a88cddf094c2bfe88ac89295ad69360b370f1b3c3c78bee039a5376b23198",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which battle in 1415 was a major English victory during the Hundred Years' War?",
+    "correct_answer": "The Battle of Agincourt",
+    "choices": [
+      "The Battle of Agincourt",
+      "The Battle of Crécy",
+      "The Battle of Poitiers",
+      "The Battle of Sluys"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b678cd6a5d3010d83153816c594ede0d2b4e2a893b2c35a1a1483ab4cc397546",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the name of the medieval Spanish Christian reconquest of the Iberian Peninsula?",
+    "correct_answer": "The Reconquista",
+    "choices": [
+      "The Reconquista",
+      "The Crusade",
+      "The Inquisition",
+      "The Expulsion"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "47ec451597957a7b4ddb0c49284b6e800dc5e94566400e6870cfaaaf978fd91f",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which Mongol khan conquered the Song Dynasty and established the Yuan Dynasty in China?",
+    "correct_answer": "Kublai Khan",
+    "choices": [
+      "Kublai Khan",
+      "Genghis Khan",
+      "Ögedei Khan",
+      "Möngke Khan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "683080c9976038dd0d3eb2d4125144ca44158f559dc7ad110a6f5f7af553fafd",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the typical dwelling of a medieval serf called?",
+    "correct_answer": "A croft",
+    "choices": [
+      "A croft",
+      "A cottage",
+      "A longhouse",
+      "A hovel"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d86257f0a0721506331de54099efebae4f15c00a3167d8e4afc6f525910013a3",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which famous traveler from Venice wrote about his journey to the court of Kublai Khan?",
+    "correct_answer": "Marco Polo",
+    "choices": [
+      "Marco Polo",
+      "Ibn Battuta",
+      "John of Plano Carpini",
+      "William of Rubruck"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "2a60cd0c7f7bc1e91c59461702c52c53797271f38070ad9203504ca2bae2065f",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the name of the Aztec emperor who faced Hernán Cortés?",
+    "correct_answer": "Moctezuma II",
+    "choices": [
+      "Moctezuma II",
+      "Cuauhtémoc",
+      "Itzcoatl",
+      "Ahuitzotl"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7187fd8f6d08c4630e495e082294e021206ad56cd00fc9fa229b3371153fe0ac",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which kingdom in West Africa was famous for its wealth and the Hajj of its ruler Mansa Musa?",
+    "correct_answer": "The Mali Empire",
+    "choices": [
+      "The Mali Empire",
+      "The Ghana Empire",
+      "The Songhai Empire",
+      "The Kanem Empire"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "db1de1590c171f48c5fc894725ad1bb58761f12005ef14b7d54391aced04d06f",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the name of the special court established by the Catholic Church to root out heresy?",
+    "correct_answer": "The Inquisition",
+    "choices": [
+      "The Inquisition",
+      "The Synod",
+      "The Council",
+      "The Tribunal"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ee62e6fb058aedf8e08de03184158d38b391b944a500d6e5abc625799d2ff08c",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which English king was forced to sign the Magna Carta by his rebellious barons?",
+    "correct_answer": "King John",
+    "choices": [
+      "King John",
+      "Henry III",
+      "Richard the Lionheart",
+      "Edward II"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5ce25f0c7964443a8ffda7b314ad091bd9a74dfa0625c40be63b8bbc4ab1afd0",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What was the primary purpose of a medieval monastery?",
+    "correct_answer": "A place for monks to live a religious life",
+    "choices": [
+      "A place for monks to live a religious life",
+      "A military fortress",
+      "A royal residence",
+      "A market and trading center"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "54ba0b3a77ae5b12267e9e990519dd915026f750e49aaec0a4db11d3476ede6e",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which city was sacked by the Fourth Crusade in 1204 instead of Jerusalem?",
+    "correct_answer": "Constantinople",
+    "choices": [
+      "Constantinople",
+      "Alexandria",
+      "Antioch",
+      "Damascus"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a5fecca110dbc59472073aae1cd33473c993db21331c2c074ef6c4e91b157b64",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What was the name of the famous Inca citadel high in the Andes Mountains?",
+    "correct_answer": "Machu Picchu",
+    "choices": [
+      "Machu Picchu",
+      "Cusco",
+      "Sacsayhuamán",
+      "Ollantaytambo"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e3c838324ed8e5cff60ad4157d0dfdd47170b6ebf0c77cc8a28b556b429e6c1c",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Who crowned Charlemagne as Holy Roman Emperor in 800 AD?",
+    "correct_answer": "Pope Leo III",
+    "choices": [
+      "Pope Leo III",
+      "Pope Gregory VII",
+      "Pope Innocent III",
+      "Pope Urban II"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ac4ce8d2812b78ed09c8f2ce8c3206859f86f9596654a6c188b7cd6b4efb8f20",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What was the name of the Viking long, narrow warship?",
+    "correct_answer": "A longship",
+    "choices": [
+      "A longship",
+      "A cog",
+      "A galley",
+      "A caravel"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e84833ce59e9362ae74c2bd28c8ba12a6b9087a269cdb21ce47395a2b53e6721",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which dynasty ruled China during its golden age of the Tang era?",
+    "correct_answer": "The Tang Dynasty",
+    "choices": [
+      "The Tang Dynasty",
+      "The Song Dynasty",
+      "The Ming Dynasty",
+      "The Yuan Dynasty"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "03d47bf9c94bdb29bae3fb3224ddcd45bfe26403b837cffd282f39dc104320df",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the practice of granting land in exchange for military service called?",
+    "correct_answer": "Feudal tenure",
+    "choices": [
+      "Feudal tenure",
+      "Benefice",
+      "Fiefdom",
+      "Serfdom"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a4f3c4902b60036c7786425fa5a1ce691fd4725c6e6228a1a95c013b08c46c7b",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which Norman king commissioned the Domesday Book?",
+    "correct_answer": "William the Conqueror",
+    "choices": [
+      "William the Conqueror",
+      "Henry I",
+      "Edward the Confessor",
+      "Harold Godwinson"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "28088b55498d9da2877a03d741ddfb2f55819cf5d82d349e4e63218c43cddcbd",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of the famous university founded in Bologna in 1088?",
+    "correct_answer": "The University of Bologna",
+    "choices": [
+      "The University of Bologna",
+      "The University of Paris",
+      "The University of Oxford",
+      "The University of Salerno"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "23c90f187e22629f5e2fe38e816bc707746a65ad926ef8aea76f952a30849a7f",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Which Mongol general sacked Baghdad in 1258, ending the Islamic Golden Age?",
+    "correct_answer": "Hulagu Khan",
+    "choices": [
+      "Hulagu Khan",
+      "Genghis Khan",
+      "Tamerlane",
+      "Subutai"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1b59c9050aa1cb15f9404f596851452b1f998c9be47f131f10bb070f526fc5a3",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of the Aztec floating gardens used for agriculture?",
+    "correct_answer": "Chinampas",
+    "choices": [
+      "Chinampas",
+      "Terrazas",
+      "Milpas",
+      "Huertas"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c2534a23458dc6673e4b4c2b3af4993df5e2ea47221c2bd20f15de28a46510c9",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which English king died from an arrow wound to the eye at the Battle of Hastings?",
+    "correct_answer": "Harold Godwinson",
+    "choices": [
+      "Harold Godwinson",
+      "Edward the Confessor",
+      "William the Conqueror",
+      "Harald Hardrada"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b6db09fb665cc2d783cc9d4a2835986e3f16d9b20494b9543fa9dbee0a1874a6",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of the religious movement that sought to reform the Catholic Church starting in the 14th century?",
+    "correct_answer": "The Lollard movement",
+    "choices": [
+      "The Lollard movement",
+      "The Reformation",
+      "The Hussite movement",
+      "The Great Schism"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "369cbd21b02167f41c715fda895651abd14a39e3ab1c00e08f5bfef036d96e76",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Which Viking leader founded the settlement of Dublin in 841 AD?",
+    "correct_answer": "Turgesius",
+    "choices": [
+      "Turgesius",
+      "Ivar the Boneless",
+      "Olaf Tryggvason",
+      "Sweyn Forkbeard"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e2e79f3eba9be701b82f86b68d2c81b9f4f95bc26dca5aa105730bc05cfafa33",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What structure was built to protect China from northern invaders and later became a major tourist attraction?",
+    "correct_answer": "The Great Wall of China",
+    "choices": [
+      "The Great Wall of China",
+      "The Forbidden City",
+      "The Ming Tombs",
+      "The Temple of Heaven"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a6eb1f00f7bba1cd0ec6873061e3a193aeff4bf37da10a5bddec379139e50b15",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which medieval queen ruled the County of Poitou and the Duchy of Aquitaine?",
+    "correct_answer": "Eleanor of Aquitaine",
+    "choices": [
+      "Eleanor of Aquitaine",
+      "Matilda of England",
+      "Blanche of Castile",
+      "Isabella of France"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "dc9ffd4e8db79524326a616dc554e89536d3b43737f2844e23f1617de9383223",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the name of the book that recorded all property and land in England for tax purposes?",
+    "correct_answer": "The Domesday Book",
+    "choices": [
+      "The Domesday Book",
+      "The Magna Carta",
+      "The Canterbury Tales",
+      "The Anglo-Saxon Chronicle"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9fdfc47e8fb227f530b8578ebf16ac30465695a9b05c475d4144646a6e97f26e",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which medieval explorer traveled across Africa and Asia, visiting over 40 modern-day countries?",
+    "correct_answer": "Ibn Battuta",
+    "choices": [
+      "Ibn Battuta",
+      "Marco Polo",
+      "Zheng He",
+      "Vasco da Gama"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7ad38e767d617107658d175e29c440d8a3ed6c2fd5e60073b7327e8d9f615db8",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "What disease is associated with the Black Death?",
+    "correct_answer": "Bubonic plague",
+    "choices": [
+      "Bubonic plague",
+      "Smallpox",
+      "Typhus",
+      "Cholera"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5d14977fc611ea04999108adb7b47133179b8a2efc4280857a85a9976322fe3e",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What year did Christopher Columbus first reach the Americas?",
+    "correct_answer": "1492",
+    "choices": [
+      "1492",
+      "1488",
+      "1501",
+      "1476"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9917980956c579c17eb11805104b679434b1f1800de72524e684af527fd1f608",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which monarch was executed during the French Revolution?",
+    "correct_answer": "Louis XVI",
+    "choices": [
+      "Louis XVI",
+      "Napoleon Bonaparte",
+      "Marie Antoinette",
+      "Charles X"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a77cba3bde5eb9d4dbf269cf245568c59f33a88862e7fb42b173dde55621d1f1",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What invention is widely credited with starting the Industrial Revolution?",
+    "correct_answer": "The steam engine",
+    "choices": [
+      "The steam engine",
+      "The cotton gin",
+      "The spinning jenny",
+      "The power loom"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d8826060fe65534bd8c061b5a8d7bcde4e9fb05c138b261f67b1d72c2ecf6c63",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which scientist proposed the heliocentric model of the solar system?",
+    "correct_answer": "Nicolaus Copernicus",
+    "choices": [
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3875a313116b70180880e9b616fb984ba6188af2589f19910b0264babc02b739",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What event is widely considered the start of World War I?",
+    "correct_answer": "Assassination of Archduke Franz Ferdinand",
+    "choices": [
+      "Assassination of Archduke Franz Ferdinand",
+      "Germany's invasion of Poland",
+      "The sinking of the Lusitania",
+      "The Battle of the Marne"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "08aafdfabd96cc885ef36e0f8c9b561837f254288f6f1e66cb2f6c0571959bd5",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What treaty ended World War I?",
+    "correct_answer": "Treaty of Versailles",
+    "choices": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of Brest-Litovsk"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7541c5a1fbc14fa72ed35b9356d12a0e160e094b98d7385e2dc502114b111fdd",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which country dropped the first atomic bomb in wartime?",
+    "correct_answer": "The United States",
+    "choices": [
+      "The United States",
+      "The Soviet Union",
+      "Germany",
+      "The United Kingdom"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "2c2d5f8916a10154e46191b00a7804f477556e1838bf9f3724924ce8d623edd9",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What year did the Berlin Wall fall?",
+    "correct_answer": "1989",
+    "choices": [
+      "1989",
+      "1987",
+      "1991",
+      "1985"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "43f83fb1f08d6d10578742e310a891f2a4ca8b66e327ec98b2aee49a2da9c3e6",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who was the first human to travel into space?",
+    "correct_answer": "Yuri Gagarin",
+    "choices": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "John Glenn",
+      "Buzz Aldrin"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f465a3cfcddf8dd853dc8c4ad3a77e173fa0478e99e711338e65971e3efd360b",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which explorer is credited with the first circumnavigation of the globe?",
+    "correct_answer": "Ferdinand Magellan",
+    "choices": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "James Cook"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f31b58f4799b93cf02f9bc2f11bda7e4f5e807fda718d541fec39f410a097903",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first manned mission to land on the Moon?",
+    "correct_answer": "Apollo 11",
+    "choices": [
+      "Apollo 11",
+      "Apollo 13",
+      "Apollo 8",
+      "Apollo 10"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "352691b8142bd81a055f728eb3ad5eae3b03fe5aee2bd832ed5cb1dfb1a64f03",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which Enlightenment philosopher argued for the separation of powers in government?",
+    "correct_answer": "Montesquieu",
+    "choices": [
+      "Montesquieu",
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Voltaire"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d412840b84b3ab24a65a7e0c31e736cd45ffe86e5c9e0336935557312cb71983",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the primary purpose of the Marshall Plan?",
+    "correct_answer": "Rebuild Western European economies after WWII",
+    "choices": [
+      "Rebuild Western European economies after WWII",
+      "Contain the spread of communism in Asia",
+      "Fund the Allied invasion of Normandy",
+      "Provide loans to the Soviet Union"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3d463f3706fd6f0b3b3fe225ee4cefba60aca8f8867871dc22e9a572a7e15fc1",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the Soviet policy of economic restructuring in the 1980s?",
+    "correct_answer": "Perestroika",
+    "choices": [
+      "Perestroika",
+      "Glasnost",
+      "Détente",
+      "Collectivization"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "df045d00448186e837421048bc480136fa78cc515f0e1dd3461412234e818ab5",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which city was divided by a wall during the Cold War?",
+    "correct_answer": "Berlin",
+    "choices": [
+      "Berlin",
+      "Vienna",
+      "Prague",
+      "Budapest"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f47b910d042ae6d6c11e42bfb13745cffc378eaafce18d0ef82a68ae984eb644",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who was the leader of the Bolshevik Revolution in 1917?",
+    "correct_answer": "Vladimir Lenin",
+    "choices": [
+      "Vladimir Lenin",
+      "Leon Trotsky",
+      "Joseph Stalin",
+      "Karl Marx"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7a00544d45c1c1dac36f677e1fae419e62d628f2476083771ae397bdbca599f5",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What year did World War II end?",
+    "correct_answer": "1945",
+    "choices": [
+      "1945",
+      "1944",
+      "1946",
+      "1943"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4d0f55e34582c31d7146d2bdabd1a5e0dfe600abf25fd2fb5deda9be033748dd",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which Renaissance artist painted the ceiling of the Sistine Chapel?",
+    "correct_answer": "Michelangelo",
+    "choices": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ae800fd9770cb0dc9b5f1addc41ffb02ac072265c41d3aa48e22fb24162aa698",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first artificial satellite launched into space?",
+    "correct_answer": "Sputnik 1",
+    "choices": [
+      "Sputnik 1",
+      "Explorer 1",
+      "Vanguard 1",
+      "Sputnik 2"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "2a90b3eab7e66103f925b9054a9b671a7830cb0fff1337c6827c50b850df1ce6",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which European country colonized Brazil?",
+    "correct_answer": "Portugal",
+    "choices": [
+      "Portugal",
+      "Spain",
+      "France",
+      "England"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "03d00a1adac372a471762a5ed0f64cfd8e074f03dfe8113cccf8364cf56d05dd",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the Manhattan Project?",
+    "correct_answer": "The development of the first nuclear weapons",
+    "choices": [
+      "The development of the first nuclear weapons",
+      "The Allied invasion of Normandy",
+      "The secret code-breaking program at Bletchley Park",
+      "The construction of the first intercontinental railroad"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a34d7ae4be54c312ab95020b6bca68fb5ab03b8d5e1ad5bc1694e4fbafa4a6e2",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which country gifted the Statue of Liberty to the United States?",
+    "correct_answer": "France",
+    "choices": [
+      "France",
+      "England",
+      "Spain",
+      "Germany"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "91151416de0653c0a41b100457dcafaa91f7fab57638deb6acdbb7873bd7167d",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who developed the theory of evolution by natural selection?",
+    "correct_answer": "Charles Darwin",
+    "choices": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Jean-Baptiste Lamarck"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "58b70f2c900920589aa7fb0427d1312f8a865c14c2b570a1b9beeaf451d034b6",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the 1962 crisis that nearly led to nuclear war?",
+    "correct_answer": "The Cuban Missile Crisis",
+    "choices": [
+      "The Cuban Missile Crisis",
+      "The Berlin Blockade",
+      "The Suez Crisis",
+      "The Korean War"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6eb45f91526ebfddf45a88222ad350797e450fdb2d88b0ef47a8bc551bf9175d",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which country signed a non-aggression pact with Germany in 1939 before being invaded?",
+    "correct_answer": "The Soviet Union",
+    "choices": [
+      "The Soviet Union",
+      "Poland",
+      "France",
+      "The United Kingdom"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "52600349cf41bc94cefc03f61c6662881c9a593d7c554cd48084748125dc2c83",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What landmark 1973 Supreme Court case legalized abortion in the United States?",
+    "correct_answer": "Roe v. Wade",
+    "choices": [
+      "Roe v. Wade",
+      "Brown v. Board of Education",
+      "Miranda v. Arizona",
+      "Plessy v. Ferguson"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "50a924e22c1f6f74414c617da1261c6f646df9982dd9a2d6bb9dd591e38d2292",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "correct_answer": "Amelia Earhart",
+    "choices": [
+      "Amelia Earhart",
+      "Harriet Quimby",
+      "Bessie Coleman",
+      "Jacqueline Cochran"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "2fc4b2ee8a433dd60757a015ce7328976ee5aef83c21b995c7331fe428d86a0f",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which European nation was the first to establish a sea route to India?",
+    "correct_answer": "Portugal",
+    "choices": [
+      "Portugal",
+      "Spain",
+      "England",
+      "Netherlands"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "903ebbb1c65c35be280fe80ab31cab86542b60a6563fe38edde5b40b3f71974b",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What year did the United Kingdom join the European Economic Community?",
+    "correct_answer": "1973",
+    "choices": [
+      "1973",
+      "1964",
+      "1981",
+      "1957"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "49ac3dc0d5435d882162a7646b784fbcd9e933099580dbeef695dce542c2e3c5",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who became the first female Prime Minister of the United Kingdom?",
+    "correct_answer": "Margaret Thatcher",
+    "choices": [
+      "Margaret Thatcher",
+      "Theresa May",
+      "Indira Gandhi",
+      "Angela Merkel"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "99f1bbb9637fff44168a7c2b3ed631b070af9f31132936a0ffa70ce906ac7de5",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which battle is considered the turning point of World War II in Europe?",
+    "correct_answer": "The Battle of Stalingrad",
+    "choices": [
+      "The Battle of Stalingrad",
+      "The Battle of the Bulge",
+      "D-Day",
+      "The Battle of Britain"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "8230b2735a99e05e84047cfd4b767fe1b7f2fa34a3d979d61aaa696fcd4f0215",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What was the primary cause of the Thirty Years' War?",
+    "correct_answer": "Religious conflict between Catholics and Protestants",
+    "choices": [
+      "Religious conflict between Catholics and Protestants",
+      "Territorial disputes over Alsace-Lorraine",
+      "Trade rivalry between England and Spain",
+      "Succession crisis in the Holy Roman Empire"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d8f78a0132c311caa0ce033463a9c0b012d91290a2bdeb59f1813c25e9f6a4af",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who invented the printing press around 1440?",
+    "correct_answer": "Johannes Gutenberg",
+    "choices": [
+      "Johannes Gutenberg",
+      "William Caxton",
+      "Aldus Manutius",
+      "Albrecht Dürer"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f8d04077a87de63c262c0fe11571962f12421f2cf0a0e28f2b1380ef30c2f029",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which empire was known as 'the sick man of Europe' before World War I?",
+    "correct_answer": "The Ottoman Empire",
+    "choices": [
+      "The Ottoman Empire",
+      "The Austro-Hungarian Empire",
+      "The Russian Empire",
+      "The Byzantine Empire"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e629eaa60c1f4cc11de092b9947c9c1dbb3f4f3179c3523bbcfcd03133572a7f",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the British ocean liner sunk by a German U-boat in 1915?",
+    "correct_answer": "RMS Lusitania",
+    "choices": [
+      "RMS Lusitania",
+      "RMS Titanic",
+      "RMS Mauretania",
+      "HMS Dreadnought"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7cd193dd2c4abfa58c303b39cb20119dd1b373b173bf9f1c3904d239923762e0",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which country was split into North and South after World War II?",
+    "correct_answer": "Korea",
+    "choices": [
+      "Korea",
+      "Germany",
+      "Vietnam",
+      "China"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b632eee1a39a9aa458e252c670d1968a4a354522e9fb59bf8f5dc07fed5e1b96",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Who was the last emperor of China?",
+    "correct_answer": "Puyi",
+    "choices": [
+      "Puyi",
+      "Sun Yat-sen",
+      "Chiang Kai-shek",
+      "Mao Zedong"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9d6a97355dd75610433dd09dc6d45e485098604c8e3ecca8af8565f71395ff49",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What was the name of the network of safe houses used to help enslaved people escape the U.S. South?",
+    "correct_answer": "The Underground Railroad",
+    "choices": [
+      "The Underground Railroad",
+      "The Freedom Trail",
+      "The Liberty Line",
+      "The Northern Passage"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ad0c62b1294a374a25706b56ab2cc6cb4351aaa777b0be326929bbdb90dfd2ac",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which philosopher wrote 'The Social Contract'?",
+    "correct_answer": "Jean-Jacques Rousseau",
+    "choices": [
+      "Jean-Jacques Rousseau",
+      "Thomas Hobbes",
+      "John Locke",
+      "Voltaire"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a4cb764ddbf32610665e6101d433285f78ef56d7eda80aab77d450a033540bac",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What year did the Chernobyl nuclear disaster occur?",
+    "correct_answer": "1986",
+    "choices": [
+      "1986",
+      "1982",
+      "1989",
+      "1984"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "197e1ce2a5e8291c6baa601729b6f09ffb5a477901f3a9323e33a96e2f10b43b",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which invention is credited to Alexander Graham Bell?",
+    "correct_answer": "The telephone",
+    "choices": [
+      "The telephone",
+      "The light bulb",
+      "The radio",
+      "The telegraph"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "64bc9a19705bc0c97b7d7b9d440055daf793081894249731fe4c46d309b61803",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What was the Scramble for Africa?",
+    "correct_answer": "The European colonization and division of Africa",
+    "choices": [
+      "The European colonization and division of Africa",
+      "The race to find the source of the Nile",
+      "The gold rush in South Africa",
+      "The competition for African resources during WWII"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9984e0673b76a1d0dfe7c2341b565a06a18be5a3f10911aa9471bc72cabaac3b",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who led the non-violent independence movement in India?",
+    "correct_answer": "Mahatma Gandhi",
+    "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Rabindranath Tagore"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "efd9202cb99a103994c6409c58739225c15bf2d9b67944e36b824892c30b54f3",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which country was the first to grant women the right to vote?",
+    "correct_answer": "New Zealand",
+    "choices": [
+      "New Zealand",
+      "Australia",
+      "Finland",
+      "The United States"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "746c7d2165486beec495c6d1319160a902221ec51c2b64b7ce1ec74a7807d120",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the U.S. program that sent supplies to Berlin during the Soviet blockade?",
+    "correct_answer": "The Berlin Airlift",
+    "choices": [
+      "The Berlin Airlift",
+      "The Marshall Plan",
+      "Operation Overlord",
+      "Operation Barbarossa"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "2045a120c2d9e2d5f014eb7c6f0047994dc9a031ab0218eeee1aff100727a0c9",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which European country divided Poland with Germany in 1939?",
+    "correct_answer": "The Soviet Union",
+    "choices": [
+      "The Soviet Union",
+      "France",
+      "Italy",
+      "Austria"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c4c0fe82d89e3b2b1521dab89277b955cfc312393fcb46adec5c88d2a168e896",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Who discovered penicillin?",
+    "correct_answer": "Alexander Fleming",
+    "choices": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "47e8de6aba4841d06649c3dc22daf015ee29fa4bcd38e17797ad2918167f12b0",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What year was the European Union established by the Maastricht Treaty?",
+    "correct_answer": "1993",
+    "choices": [
+      "1993",
+      "1991",
+      "1995",
+      "1989"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c1e701d242fe37507e63f8506031d32881bad22d37871dc9b04f87ccc24fa934",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which Italian explorer sailed for England and claimed Newfoundland?",
+    "correct_answer": "John Cabot",
+    "choices": [
+      "John Cabot",
+      "Amerigo Vespucci",
+      "Giovanni da Verrazzano",
+      "Henry Hudson"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "95f7ead22c325de3078910bc63bd2cfb66c1a3b579e40a0837042c4cafb1727f",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the code name for the Allied invasion of Normandy?",
+    "correct_answer": "Operation Overlord",
+    "choices": [
+      "Operation Overlord",
+      "Operation Barbarossa",
+      "Operation Market Garden",
+      "Operation Torch"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4cbc0eb5f7337d23c23a508ddc54cb797f0208e636d4bcf4fdbf9e2bb07f720f",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Who was the first democratically elected president of Russia?",
+    "correct_answer": "Boris Yeltsin",
+    "choices": [
+      "Boris Yeltsin",
+      "Vladimir Putin",
+      "Mikhail Gorbachev",
+      "Dmitry Medvedev"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b3bbf5a8625301846a8ed8977b74962d43b9d64c02cb8f5419d5322273cf7474",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which Viking-founded dynasty ruled Kievan Rus?",
+    "correct_answer": "Rurik Dynasty",
+    "choices": [
+      "Rurik Dynasty",
+      "Romanov Dynasty",
+      "Godunov Dynasty",
+      "Shuisky Dynasty"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "878e64c6971e10b919d6d2bc1e1f8e997078351ad10719d2e13e1c6c5de653ef",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "In what year did Vladimir the Great baptize Kievan Rus?",
+    "correct_answer": "988",
+    "choices": [
+      "988",
+      "1054",
+      "862",
+      "1240"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "02276084f302f91d64c753ae146d16e9d731db572606f56faebadf5e52529ac7",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which Mongol leader invaded Rus in the 13th century?",
+    "correct_answer": "Batu Khan",
+    "choices": [
+      "Genghis Khan",
+      "Batu Khan",
+      "Tamerlane",
+      "Kublai Khan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7304c94aee3e791d390dea587ac07ed43fd8686c234fc041e985d6d76be54cb5",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the name of the Mongol state that ruled over Russia for centuries?",
+    "correct_answer": "Golden Horde",
+    "choices": [
+      "Golden Horde",
+      "Ilkhanate",
+      "Chagatai Khanate",
+      "White Horde"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c9ea3c6b6d9b613985c3667f2478eef1bffc32d8b3e98703a9ad251c9d86e056",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which Russian prince defeated the Teutonic Knights on the ice of Lake Peipus?",
+    "correct_answer": "Alexander Nevsky",
+    "choices": [
+      "Dmitri Donskoi",
+      "Alexander Nevsky",
+      "Yaroslav the Wise",
+      "Vladimir Monomakh"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7468702656cdef1558e6a30913e9b0131a455b35764d328849881104c5eb001c",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Who was the first ruler to be crowned Tsar of All Russia?",
+    "correct_answer": "Ivan IV (the Terrible)",
+    "choices": [
+      "Ivan III (the Great)",
+      "Ivan IV (the Terrible)",
+      "Peter the Great",
+      "Vasili III"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "74e523d58de47279e54f0a99fceeebdab8d0d47e0b95356c67081a6bc43da162",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which cathedral on Red Square was commissioned by Ivan the Terrible?",
+    "correct_answer": "St. Basil's Cathedral",
+    "choices": [
+      "Cathedral of Christ the Saviour",
+      "St. Basil's Cathedral",
+      "Kazan Cathedral",
+      "St. Isaac's Cathedral"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ee3e54fa2361177fc2c7e78d0db157328dbfeba95436fa23e9faba239e4999cb",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of Ivan the Terrible's secret police force?",
+    "correct_answer": "Oprichnina",
+    "choices": [
+      "Oprichnina",
+      "Streltsy",
+      "Cheka",
+      "KGB"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6f28792c3c96d5e9fbbf66aaffdff50229066f5bd2fd35543b45e70bc7e6e969",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which battle marked the first major Russian victory over the Golden Horde?",
+    "correct_answer": "Battle of Kulikovo",
+    "choices": [
+      "Battle of Kulikovo",
+      "Battle on the Ice",
+      "Battle of Grunwald",
+      "Battle of the Neva"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "45acd218c13232e1883474bb951742d756ee31b1faf20ce3147999ba02d4c499",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Who led the Russian forces at the Battle of Kulikovo?",
+    "correct_answer": "Dmitri Donskoi",
+    "choices": [
+      "Alexander Nevsky",
+      "Dmitri Donskoi",
+      "Ivan Kalita",
+      "Yuri Dolgorukiy"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "252b4de77409cccf9d1279b448a6a7f32c23d492096f7c7fd21589076c3d80de",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "Which city was the capital of Kievan Rus?",
+    "correct_answer": "Kyiv",
+    "choices": [
+      "Moscow",
+      "Novgorod",
+      "Kyiv",
+      "Vladimir"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6f958ce551682f0b9039fed3515d8f39d23135878f02d605fa8e6c4ddd5304d1",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What legal code did Yaroslav the Wise establish?",
+    "correct_answer": "Russkaya Pravda",
+    "choices": [
+      "Russkaya Pravda",
+      "Sudebnik",
+      "Sobornoye Ulozheniye",
+      "The Law Code of 1497"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "44a825c00f0bee633dc5819e40c5f1d56fb05eef3bc12b9d60508545108dc888",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Who founded the city of Moscow?",
+    "correct_answer": "Yuri Dolgorukiy",
+    "choices": [
+      "Alexander Nevsky",
+      "Yuri Dolgorukiy",
+      "Ivan Kalita",
+      "Andrei Bogolyubsky"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e728590a4ddb247431599228786797044d1f82f79a3c7f5abce2dedc2a5cf3f5",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Which tsar ended the Mongol yoke by refusing to pay tribute?",
+    "correct_answer": "Ivan III (the Great)",
+    "choices": [
+      "Ivan IV (the Terrible)",
+      "Ivan III (the Great)",
+      "Vasili II",
+      "Dmitri Donskoi"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b8c1404566f67ff70820e04fa0d0fae764d111efc488d9266d15cc89e70d34c9",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of the elected assembly that chose Mikhail Romanov as tsar?",
+    "correct_answer": "Zemsky Sobor",
+    "choices": [
+      "Boyar Duma",
+      "Zemsky Sobor",
+      "Veche",
+      "Privy Council"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4c662e5792c37d831512cf5b808e228fae52dabd52efcfc2dc72b7c93b147d54",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Who was the Polish-backed impostor who claimed the Russian throne during the Time of Troubles?",
+    "correct_answer": "False Dmitry I",
+    "choices": [
+      "False Dmitry I",
+      "Grigory Otrepyev",
+      "Ivan Bolotnikov",
+      "Prokopy Lyapunov"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "abb70a8afaaec6341af2653c54b3ba8bf7f0fdbe70994d4a341704236d753caf",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which merchant and which prince led the liberation of Moscow from Polish occupiers in 1612?",
+    "correct_answer": "Minin and Pozharsky",
+    "choices": [
+      "Minin and Pozharsky",
+      "Bolotnikov and Shuisky",
+      "Khmelnitsky and Trubetskoy",
+      "Susanin and Romanov"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9066bb65b3d93154c7e437f277b30d1c3c043908d29314596bb045016b407078",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "easy",
+    "question_text": "In what year did the Romanov dynasty begin?",
+    "correct_answer": "1613",
+    "choices": [
+      "1598",
+      "1613",
+      "1645",
+      "1682"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1fcae7e12cfea750bac465383b05c2eda1469aed2f2dae451d72875720ff0c7d",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was the name of the Cossack leader who began the Russian conquest of Siberia?",
+    "correct_answer": "Yermak Timofeyevich",
+    "choices": [
+      "Stenka Razin",
+      "Yermak Timofeyevich",
+      "Yemelyan Pugachev",
+      "Bogdan Khmelnitsky"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3e3a71560f29beb415b9ee0b1d9c4bb28d0fa28fb30525e3d5c1133226c537f0",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "Which city's veche (popular assembly) governed as a republic in medieval times?",
+    "correct_answer": "Novgorod",
+    "choices": [
+      "Moscow",
+      "Novgorod",
+      "Pskov",
+      "Vladimir"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "cdad3feb1cd532e4eb3284dbbd14d27c0224b765b1de460adb4efb2fb4171f00",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Which Grand Prince of Lithuania and King of Poland defeated the Teutonic Knights at Grunwald, with Russian regiments fighting alongside?",
+    "correct_answer": "Vytautas (Witold)",
+    "choices": [
+      "Jogaila (Jagiello)",
+      "Vytautas (Witold)",
+      "Casimir IV",
+      "Mindaugas"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9f2ebca0b66e5958f7c9f075387939ae47db1deadd22b6ecd1655a0453be3a81",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "What was the name of the tax collectors employed by the Mongols in Rus?",
+    "correct_answer": "Baskaki",
+    "choices": [
+      "Baskaki",
+      "Streltsy",
+      "Druzhina",
+      "Oprichniki"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "da83fafd33386c2c7849f521c5f4453259ecf2b0af4b523fe88c53f85b46ee47",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Which prince first moved the seat of the Metropolitan from Kyiv to Vladimir?",
+    "correct_answer": "Andrei Bogolyubsky",
+    "choices": [
+      "Yuri Dolgorukiy",
+      "Andrei Bogolyubsky",
+      "Vsevolod the Big Nest",
+      "Mikhail of Tver"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "cc3f448cb7d53e4bd4d04c4c393b49879f955bf41f4f0a0945f57cbe64f3cfc0",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "medium",
+    "question_text": "What was Ivan the Terrible's khanate conquest on the Volga in 1552?",
+    "correct_answer": "Kazan",
+    "choices": [
+      "Astrakhan",
+      "Kazan",
+      "Siberia",
+      "Crimea"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "48e07952a45987a578ddd6d38cdb7c52d9f4f424b818e148745be9192cbca8cf",
+    "language": "en"
+  },
+  {
+    "category": "medieval",
+    "difficulty": "hard",
+    "question_text": "Which monarch was known as 'the Gatherer of Russian Lands'?",
+    "correct_answer": "Ivan III (the Great)",
+    "choices": [
+      "Ivan IV (the Terrible)",
+      "Ivan III (the Great)",
+      "Vasili II",
+      "Dmitri Donskoi"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5fec8aa4cdf75f2e48d3c565b678db784e77bfaa6c4f4e7f8169057372808be9",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which tsar founded the Russian Navy and built the first Russian ship?",
+    "correct_answer": "Peter the Great",
+    "choices": [
+      "Ivan the Terrible",
+      "Peter the Great",
+      "Catherine the Great",
+      "Alexander I"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "82af9c2922a9a69730101df589af6d3ab6cdbc9a4f57ccc5509550e14fbf15ee",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "In what year was Saint Petersburg founded?",
+    "correct_answer": "1703",
+    "choices": [
+      "1697",
+      "1703",
+      "1712",
+      "1725"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1f3dfa677f72dd248b59ef07b65d35bd5e41c1c10d2d657c20e70ede397aab0d",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which war did Peter the Great win to gain access to the Baltic Sea?",
+    "correct_answer": "Great Northern War",
+    "choices": [
+      "Livonian War",
+      "Great Northern War",
+      "Russo-Swedish War of 1741",
+      "Seven Years' War"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "144038bf23a929d7c263ed92049654ebdf40ea1592df40f02796178d2c9c8718",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Who was the first Russian monarch to be called 'the Great'?",
+    "correct_answer": "Peter the Great",
+    "choices": [
+      "Catherine the Great",
+      "Peter the Great",
+      "Ivan the Great",
+      "Alexander the Great"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "90b26eab68a461cd6b8a361917e6d965418614d266b579725fb012a7f3de5891",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which Cossack rebel led a massive peasant uprising against Catherine the Great?",
+    "correct_answer": "Yemelyan Pugachev",
+    "choices": [
+      "Stenka Razin",
+      "Yemelyan Pugachev",
+      "Kondraty Bulavin",
+      "Ivan Bolotnikov"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "bd01e60c5e02f32f1fff76f3be720a13cdf8cce656c4f174474c65fb6cc43996",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "How did Napoleon's invasion of Russia in 1812 end?",
+    "correct_answer": "Disastrous retreat with massive losses",
+    "choices": [
+      "Decisive French victory at Moscow",
+      "Disastrous retreat with massive losses",
+      "Stalemate and peace treaty",
+      "Napoleon captured and exiled"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ed2c00f081faff9afe1b683d86040a5219899e1e5e706f852954446989d4ac4b",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which battle during Napoleon's invasion is considered the bloodiest single-day battle of the campaign?",
+    "correct_answer": "Battle of Borodino",
+    "choices": [
+      "Battle of Austerlitz",
+      "Battle of Borodino",
+      "Battle of Smolensk",
+      "Battle of Maloyaroslavets"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "cb9769e099f596ee9209be9db082f52247f65123ce913baed5d682b8e0a8403a",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "In what year did Tsar Alexander II emancipate the Russian serfs?",
+    "correct_answer": "1861",
+    "choices": [
+      "1825",
+      "1861",
+      "1881",
+      "1905"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6a8416c2e07c5108c265e0e80a3461bd1c20e3abeadbb00ef00c16a65a635073",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the failed 1825 uprising against Nicholas I?",
+    "correct_answer": "Decembrist Revolt",
+    "choices": [
+      "Decembrist Revolt",
+      "January Uprising",
+      "Boxer Rebellion",
+      "Kronstadt Rebellion"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "7b48c32e62b219c03e5c1eaab71345325aa1c2014054eaf9c9061db6cf950877",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which city was the scene of 'Bloody Sunday' in 1905?",
+    "correct_answer": "Saint Petersburg",
+    "choices": [
+      "Moscow",
+      "Saint Petersburg",
+      "Warsaw",
+      "Kyiv"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "8ac71c4200cc9a216b23fc7acc094e3610c69ac8112faf420bf0734b6d84d9f8",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What was the name of the Siberian mystic who influenced the Romanov court?",
+    "correct_answer": "Grigori Rasputin",
+    "choices": [
+      "Grigori Rasputin",
+      "Sergei Witte",
+      "Pyotr Stolypin",
+      "Vladimir Purishkevich"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0ce849f56e01da8dda42d3ccf578b493f83b025a4d30a83dfb7bd16ad5458ed4",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "In which year did the Bolshevik Revolution overthrow the Provisional Government?",
+    "correct_answer": "1917",
+    "choices": [
+      "1905",
+      "1917",
+      "1918",
+      "1921"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "922ea5b6ccb50a5d3e92945c5b8c52f4fd1a65cf3a2d84c0e7449a996fb351cf",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of Lenin's secret police force?",
+    "correct_answer": "Cheka",
+    "choices": [
+      "Cheka",
+      "NKVD",
+      "KGB",
+      "Oprichnina"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3fa34367a6f14277b0320086b738ea09380212e0de6cb2555ca5a54aa9c4afc1",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Where were Tsar Nicholas II and his family executed in 1918?",
+    "correct_answer": "Yekaterinburg",
+    "choices": [
+      "Moscow",
+      "Saint Petersburg",
+      "Yekaterinburg",
+      "Tobolsk"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1be6fe42c0084ea5122489c53e134c971d70d852180efa388690180d201fc93d",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which side won the Russian Civil War (1918-1921)?",
+    "correct_answer": "Bolshevik Reds",
+    "choices": [
+      "Bolshevik Reds",
+      "White Army",
+      "Green Army",
+      "Polish forces"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0142381d73c98e4ba5615fbfb4d4642d5d5a60760dab194c983ff704e122d87f",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "What was Stalin's campaign of political repression in the late 1930s called?",
+    "correct_answer": "The Great Purge",
+    "choices": [
+      "The Red Terror",
+      "The Great Purge",
+      "De-Stalinization",
+      "The Cultural Revolution"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "beaca74765e1e007b675a61f68e1119f828d74a45c83b279938299bad151f271",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What was the name of the Soviet labor camp system?",
+    "correct_answer": "Gulag",
+    "choices": [
+      "Gulag",
+      "Holodomor",
+      "Kolkhoz",
+      "Sovnarkhoz"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "0c6bc037bef1ff280192ab6ddb0f10f361802b91e32eefda6bf88771df678d01",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "hard",
+    "question_text": "Which 1941 battle halted the German advance on Moscow?",
+    "correct_answer": "Battle of Moscow",
+    "choices": [
+      "Battle of Kursk",
+      "Battle of Moscow",
+      "Battle of Smolensk",
+      "Battle of Rzhev"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "2b1d0fe0ec14d2f9a16684526600331ed80afa14404136812bc502ca8c5441ca",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "Which Soviet city endured an 872-day siege during World War II?",
+    "correct_answer": "Leningrad",
+    "choices": [
+      "Moscow",
+      "Stalingrad",
+      "Leningrad",
+      "Kyiv"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3ef606674897f504d0c94cbf6179fb07ba33ea08939ae5f406aeb8707d143ff8",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Which 1943 battle was the largest tank battle in history?",
+    "correct_answer": "Battle of Kursk",
+    "choices": [
+      "Battle of Stalingrad",
+      "Battle of Kursk",
+      "Battle of Berlin",
+      "Battle of Moscow"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "72d08031584a4240273f7adf88ada2ebe4cfea568270e10fd0b74677a971a6ee",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "Who was the Soviet marshal who captured Berlin in 1945?",
+    "correct_answer": "Georgy Zhukov",
+    "choices": [
+      "Ivan Konev",
+      "Georgy Zhukov",
+      "Konstantin Rokossovsky",
+      "Alexander Vasilevsky"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "578f330cd8d1a209949d108aa3b671e4498e8aba3b0036f4f0cb122d03dfee0a",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What was the name of the first artificial satellite launched by the Soviet Union in 1957?",
+    "correct_answer": "Sputnik",
+    "choices": [
+      "Sputnik",
+      "Vostok",
+      "Soyuz",
+      "Luna"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c40939525b2677ecefda0385ab6383e8175b8aeee89162918c6ec29e8e9542aa",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first dog to orbit Earth aboard a Soviet spacecraft?",
+    "correct_answer": "Laika",
+    "choices": [
+      "Belka",
+      "Strelka",
+      "Laika",
+      "Zvyozdochka"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c8b4efac06f65a690500fe04e92e309e1eaf692b86c9875fbcdca0c60e50cef8",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "What did Gorbachev call his policy of economic restructuring?",
+    "correct_answer": "Perestroika",
+    "choices": [
+      "Perestroika",
+      "Glasnost",
+      "Uskoreniye",
+      "Novoye Myshleniye"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "d934d7fa5c82f0bcf3e6274b3a60b2b9a9665571642fad09f875a0a7d9d65845",
+    "language": "en"
+  },
+  {
+    "category": "modern",
+    "difficulty": "easy",
+    "question_text": "In what year did the Soviet Union officially dissolve?",
+    "correct_answer": "1991",
+    "choices": [
+      "1989",
+      "1990",
+      "1991",
+      "1993"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "79008f4bf23661b8271be6b7b76c5175039d629b8834ed58b40fc989f4ada041",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What year was the Declaration of Independence signed?",
+    "correct_answer": "1776",
+    "choices": [
+      "1776",
+      "1781",
+      "1775",
+      "1783"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "f47ac9f947a32aa756d35de01adb4be1022f96931db541819c2aaee708340156",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Who was the first President of the United States?",
+    "correct_answer": "George Washington",
+    "choices": [
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams",
+      "Benjamin Franklin"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "67e987950810df1dd13e87e0c2b4bf6842c33fa623d2191f1b6eeda972d46643",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What war was fought between the North and South in the United States?",
+    "correct_answer": "The Civil War",
+    "choices": [
+      "The Civil War",
+      "The Revolutionary War",
+      "The War of 1812",
+      "The Mexican-American War"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "af31ab583c597b343cca5d47ba11acaa660f0be0ccd55dc58938e5cdf2284bd2",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Who wrote the Emancipation Proclamation?",
+    "correct_answer": "Abraham Lincoln",
+    "choices": [
+      "Abraham Lincoln",
+      "Ulysses S. Grant",
+      "Andrew Johnson",
+      "Frederick Douglass"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c2e1dcb1f75f31969947f4c75a265afb5d5991142c1d3ecffbb400ceae553d48",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Which country did the United States gain independence from?",
+    "correct_answer": "Great Britain",
+    "choices": [
+      "Great Britain",
+      "France",
+      "Spain",
+      "The Netherlands"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "4aaee7f64cd85f3b7260c676c7360167d5c88dceedae04ce45ad00fa9e1338a7",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What was the last state to join the United States?",
+    "correct_answer": "Hawaii",
+    "choices": [
+      "Hawaii",
+      "Alaska",
+      "Arizona",
+      "New Mexico"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "eb7015e8f7602454feeaadbc0e82581c4bf6f373cc9ac1bcac3fe93cdd84911b",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Who was the principal author of the Declaration of Independence?",
+    "correct_answer": "Thomas Jefferson",
+    "choices": [
+      "Thomas Jefferson",
+      "John Adams",
+      "Benjamin Franklin",
+      "James Madison"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "aa1126d883a37e8dc0baa518ee7b208418afb9003874cf15bb4ce3fa0f84b127",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What year did the American Civil War begin?",
+    "correct_answer": "1861",
+    "choices": [
+      "1861",
+      "1860",
+      "1863",
+      "1859"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "97f291a3c88e33865600e736a1f467ec64424b60de2d0f232b268dec04caa522",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Which amendment to the U.S. Constitution abolished slavery?",
+    "correct_answer": "The 13th Amendment",
+    "choices": [
+      "The 13th Amendment",
+      "The 14th Amendment",
+      "The 15th Amendment",
+      "The 12th Amendment"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e53a90da372ca3f524dabaf1a4ca70385a8fcb26a664ff3c4db068892d062100",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Who said 'Give me liberty, or give me death!'?",
+    "correct_answer": "Patrick Henry",
+    "choices": [
+      "Patrick Henry",
+      "Samuel Adams",
+      "Thomas Paine",
+      "John Hancock"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "57bd5d8434ebf0701d2e2b02b32611e65c6c52715321570106beaa4cafbac5ad",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What event sparked the start of the Great Depression?",
+    "correct_answer": "The stock market crash of 1929",
+    "choices": [
+      "The stock market crash of 1929",
+      "The failure of the Bank of the United States",
+      "The Dust Bowl",
+      "The Smoot-Hawley Tariff Act"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "2c1f90a464c9ed95ec798134b47b9fbb62ab4c94184b29f3414696d1b11365b1",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Who was the leader of the Civil Rights Movement known for 'I Have a Dream'?",
+    "correct_answer": "Martin Luther King Jr.",
+    "choices": [
+      "Martin Luther King Jr.",
+      "Malcolm X",
+      "Rosa Parks",
+      "Frederick Douglass"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ff19a6688cc5e5cfed92fc129abc16075fa5bf62e6c958f33edde5f48a5d01fc",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Which act of defiance by Rosa Parks sparked the Montgomery Bus Boycott?",
+    "correct_answer": "Refusing to give up her bus seat to a white passenger",
+    "choices": [
+      "Refusing to give up her bus seat to a white passenger",
+      "Organizing a sit-in at a segregated lunch counter",
+      "Leading a march on Washington",
+      "Refusing to pay a poll tax"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "337834ad1916085cbe02ab2eaf11eaad0b1ecf4cb6df9d62288099c23b732cf3",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first permanent English settlement in America?",
+    "correct_answer": "Jamestown",
+    "choices": [
+      "Jamestown",
+      "Plymouth",
+      "Roanoke",
+      "St. Augustine"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "ce7e343b4860e6723ff594cc18f1de6ec0e3155378464917872081d4b12fef83",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Who was President of the United States during World War I?",
+    "correct_answer": "Woodrow Wilson",
+    "choices": [
+      "Woodrow Wilson",
+      "Theodore Roosevelt",
+      "William Howard Taft",
+      "Warren G. Harding"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "440ab4fe9f0dbbb63a85068bdea8b97319d1dffe68c103d200ea7533115791af",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What major construction project connected the Atlantic and Pacific Oceans?",
+    "correct_answer": "The Panama Canal",
+    "choices": [
+      "The Panama Canal",
+      "The Erie Canal",
+      "The Transcontinental Railroad",
+      "The Hoover Dam"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c90dfdf9d7b465a6cc0e263bf9c3fb2b54cb5f88ef8b16e4976fd9eaee50c57b",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Which President issued the Emancipation Proclamation?",
+    "correct_answer": "Abraham Lincoln",
+    "choices": [
+      "Abraham Lincoln",
+      "Andrew Johnson",
+      "Ulysses S. Grant",
+      "James Buchanan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a27cdfbc363cfa38ef325368ea308e7744eb281d55bbda4d906a1ea3e88b418e",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What was the name of the ship that brought the Pilgrims to America?",
+    "correct_answer": "The Mayflower",
+    "choices": [
+      "The Mayflower",
+      "The Santa Maria",
+      "The Susan Constant",
+      "The Speedwell"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "3412be8c2adacc2f1e8eaf1cf3841d18e13becb73561aa8304098f39db0ed533",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Who was the only President to resign from office?",
+    "correct_answer": "Richard Nixon",
+    "choices": [
+      "Richard Nixon",
+      "Andrew Johnson",
+      "Bill Clinton",
+      "Warren G. Harding"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b2e0fbc087128fd983703281c1db42d4942fbfbbdaf34b2381df25838d572b44",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "What Supreme Court case established racial segregation as constitutional?",
+    "correct_answer": "Plessy v. Ferguson",
+    "choices": [
+      "Plessy v. Ferguson",
+      "Brown v. Board of Education",
+      "Dred Scott v. Sandford",
+      "Marbury v. Madison"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "fe9d233cf4c8e2ff6481d9c5f0af1c0018e60c8f755d1c39714784516086d177",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Which battle is considered the turning point of the American Civil War?",
+    "correct_answer": "The Battle of Gettysburg",
+    "choices": [
+      "The Battle of Gettysburg",
+      "The Battle of Antietam",
+      "The Battle of Bull Run",
+      "The Battle of Shiloh"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9151b5605acf6243e640cff5abc3673db7a90e0fb1ea223588aed282c09c654d",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What was the name of the U.S. program that sent astronauts to the Moon?",
+    "correct_answer": "The Apollo program",
+    "choices": [
+      "The Apollo program",
+      "The Mercury program",
+      "The Gemini program",
+      "The Space Shuttle program"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "88328ea64bbd5c677d7b117a619f5485e7935ea4f2d28d1fc6b1c69f85641b20",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Who was the first woman to serve on the U.S. Supreme Court?",
+    "correct_answer": "Sandra Day O'Connor",
+    "choices": [
+      "Sandra Day O'Connor",
+      "Ruth Bader Ginsburg",
+      "Sonia Sotomayor",
+      "Elena Kagan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "fe7aa3ac29c62391e8969d6397e37cba0f6123105cf1232f627df22a20a56e0a",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What year did the United States enter World War II?",
+    "correct_answer": "1941",
+    "choices": [
+      "1941",
+      "1940",
+      "1942",
+      "1939"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "73be8dd2a4d65f1c0ba224c47d4fc795273cc93616e8f370c89f5154bc57ac17",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Which President was assassinated at Ford's Theatre?",
+    "correct_answer": "Abraham Lincoln",
+    "choices": [
+      "Abraham Lincoln",
+      "James A. Garfield",
+      "William McKinley",
+      "John F. Kennedy"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e76980bfafded2c6ef62253d9ff57e564f5f51a24bb06e98f43c157b325347da",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What was the name of the terrorist attacks on September 11, 2001?",
+    "correct_answer": "9/11 attacks",
+    "choices": [
+      "9/11 attacks",
+      "The Oklahoma City bombing",
+      "The Boston Marathon bombing",
+      "The World Trade Center bombing"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "22cb4afd01d02168c0cb4e2c5a6aef166c80446ab078807c76dd825a908fcfe8",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Who was the commander of the Continental Army?",
+    "correct_answer": "George Washington",
+    "choices": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "John Adams"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "82a29f480de7874e25c67182b0bb622a95961aac1e7bf8618e8078a6ac9e8d40",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Which purchase doubled the size of the United States in 1803?",
+    "correct_answer": "The Louisiana Purchase",
+    "choices": [
+      "The Louisiana Purchase",
+      "The Alaska Purchase",
+      "The Gadsden Purchase",
+      "The Mexican Cession"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a1c8d1d8989e27cf192c73e5fd3c25f435fc7e81b5d2ff9e270956f0ef8b52cd",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Who led the famous 'March to the Sea' during the Civil War?",
+    "correct_answer": "William Tecumseh Sherman",
+    "choices": [
+      "William Tecumseh Sherman",
+      "Ulysses S. Grant",
+      "Robert E. Lee",
+      "Stonewall Jackson"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "546ed84c45eea08775a122e077ec4e24932a1d6bf94c92ef828a3f37d58ae251",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What year did women gain the right to vote in the United States?",
+    "correct_answer": "1920",
+    "choices": [
+      "1920",
+      "1918",
+      "1922",
+      "1916"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "8a7a7718c62bf5af8e186acbf5ed8bddf7f4fa961e756c0991c30ad4624b6a09",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Which President is known for the New Deal program?",
+    "correct_answer": "Franklin D. Roosevelt",
+    "choices": [
+      "Franklin D. Roosevelt",
+      "Herbert Hoover",
+      "Harry S. Truman",
+      "Theodore Roosevelt"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b82e70c09946a427392664f36e72a6ceaf1641921cc331b3cb305b5f4e066dd8",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What was the name of the secret U.S. project to build the atomic bomb?",
+    "correct_answer": "The Manhattan Project",
+    "choices": [
+      "The Manhattan Project",
+      "The Apollo Program",
+      "Operation Overlord",
+      "The Marshall Plan"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "bf99da81f5feedfcad71b8af99e13aaf02b21534334a6edb283219bf3aa1399a",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Who was the first African American to attend an all-white school in the South?",
+    "correct_answer": "Ruby Bridges",
+    "choices": [
+      "Ruby Bridges",
+      "Linda Brown",
+      "Claudette Colvin",
+      "Dorothy Counts"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "1ee10745c71a7a8c081799002bb98405c8b03006cf38a0a1e5180d1eeac26df8",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Which constitutional amendment guarantees the right to bear arms?",
+    "correct_answer": "The Second Amendment",
+    "choices": [
+      "The Second Amendment",
+      "The First Amendment",
+      "The Fourth Amendment",
+      "The Fifth Amendment"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b5f9eff54fa489ca2bc3c0c221fcf95f907123da8267db395a76f4aea72927a9",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "What fort in South Carolina was the site of the first battle of the Civil War?",
+    "correct_answer": "Fort Sumter",
+    "choices": [
+      "Fort Sumter",
+      "Fort McHenry",
+      "Fort Ticonderoga",
+      "Fort Knox"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b01692ac26ad73e5e6b55659120349a441d52a79c43efc473604f5f87f4dc951",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Who invented the cotton gin?",
+    "correct_answer": "Eli Whitney",
+    "choices": [
+      "Eli Whitney",
+      "Samuel Slater",
+      "Cyrus McCormick",
+      "John Deere"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "915d8f1075fd3d3b90facb14657005afeb22ef1361cc3bf5cc8e89efec54987e",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "What was the Era of Good Feelings in U.S. history?",
+    "correct_answer": "A period of national unity after the War of 1812",
+    "choices": [
+      "A period of national unity after the War of 1812",
+      "The economic boom of the Roaring Twenties",
+      "The post-Civil War Reconstruction period",
+      "The period of rapid westward expansion"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "337126ffbcf69e55a090285df4080d996ee6a1f26594b19b72eaf11e1e5554ed",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Which President served the shortest term in office?",
+    "correct_answer": "William Henry Harrison",
+    "choices": [
+      "William Henry Harrison",
+      "James A. Garfield",
+      "Zachary Taylor",
+      "John F. Kennedy"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "48dff9c5b00b006bba5917c5a07dc127c4bb3ad2871d96410e77b2afc0494349",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What document is the supreme law of the United States?",
+    "correct_answer": "The U.S. Constitution",
+    "choices": [
+      "The U.S. Constitution",
+      "The Declaration of Independence",
+      "The Bill of Rights",
+      "The Articles of Confederation"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c410eb6b99bacb2f98f43f7459a50c608c8481c8be4fe743d4457268aa7b7436",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Which Native American tribe was forced to march the Trail of Tears?",
+    "correct_answer": "The Cherokee",
+    "choices": [
+      "The Cherokee",
+      "The Sioux",
+      "The Apache",
+      "The Iroquois"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "c69760fd2507ce9df444d5a0b4bd3e84ed57e31a3fc68c785495fbecb3266255",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Who was the U.S. President during the Cuban Missile Crisis?",
+    "correct_answer": "John F. Kennedy",
+    "choices": [
+      "John F. Kennedy",
+      "Dwight D. Eisenhower",
+      "Lyndon B. Johnson",
+      "Richard Nixon"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "8e6bd241e16bd1d9254c1b4ee15e43f141487807437af4bffe4820aede697e8d",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first successful English colony in America?",
+    "correct_answer": "Jamestown",
+    "choices": [
+      "Jamestown",
+      "Plymouth",
+      "Roanoke",
+      "Williamsburg"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "585da873ba7ba8063f912c0d71cb8e0067609bf284a329711085fb146a5566ee",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What was the main purpose of the Lewis and Clark expedition?",
+    "correct_answer": "To explore the Louisiana Purchase",
+    "choices": [
+      "To explore the Louisiana Purchase",
+      "To find a northwest passage to Asia",
+      "To establish trade routes with Native Americans",
+      "To map the Rocky Mountains"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "b7a75e9ac5c5d6233a67b79b13842ce946d003a47c3b792e6c5daa34678ada4e",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "Which U.S. state was originally purchased from Russia?",
+    "correct_answer": "Alaska",
+    "choices": [
+      "Alaska",
+      "Hawaii",
+      "California",
+      "Florida"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "5988ff867f5a28398deba4b730cb80a850c552abb61058db3aa370c7d18d6cd1",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Who assassinated President Abraham Lincoln?",
+    "correct_answer": "John Wilkes Booth",
+    "choices": [
+      "John Wilkes Booth",
+      "Lee Harvey Oswald",
+      "Charles Guiteau",
+      "Leon Czolgosz"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "6c9c0fce16dc48926384f018f739c533f93ee29df04db84b5b2285cca0fb5198",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What year did the United States drop atomic bombs on Hiroshima and Nagasaki?",
+    "correct_answer": "1945",
+    "choices": [
+      "1945",
+      "1944",
+      "1946",
+      "1943"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e0221edbb32a06a5d218bb6d4d779c765c2fbc17dc2ce7cb91efe9dbaeb2c71c",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Who was the first Chief Justice of the United States Supreme Court?",
+    "correct_answer": "John Jay",
+    "choices": [
+      "John Jay",
+      "John Marshall",
+      "Roger B. Taney",
+      "Oliver Ellsworth"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "a6c5070849b966056ae494e23cac601d3147fe3eb07db8b795f7f18a85bda7dd",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "easy",
+    "question_text": "What was the name of the 1849 migration of people seeking gold in California?",
+    "correct_answer": "The California Gold Rush",
+    "choices": [
+      "The California Gold Rush",
+      "The Klondike Gold Rush",
+      "The Great Migration",
+      "The Westward Expansion"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "9fc16963da1a3ad9943e5e847b86720ecc80db07871997a2866ab8bb66017958",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "Which constitutional amendment gave women the right to vote?",
+    "correct_answer": "The 19th Amendment",
+    "choices": [
+      "The 19th Amendment",
+      "The 15th Amendment",
+      "The 18th Amendment",
+      "The 21st Amendment"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "e9d8fe828bf844a01bdb619a44492e245d79087eaeeb64ae2fbb9cc76651ca60",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "hard",
+    "question_text": "Who was the first U.S. President to live in the White House?",
+    "correct_answer": "John Adams",
+    "choices": [
+      "John Adams",
+      "George Washington",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "8c09e98c2f8b80dfe555a0faa71dd903d3d78470379f3864c3109775e0e5d99b",
+    "language": "en"
+  },
+  {
+    "category": "us-history",
+    "difficulty": "medium",
+    "question_text": "What event triggered the United States to enter World War I?",
+    "correct_answer": "Germany's unrestricted submarine warfare",
+    "choices": [
+      "Germany's unrestricted submarine warfare",
+      "The sinking of the Lusitania",
+      "The Zimmermann Telegram",
+      "The assassination of Archduke Franz Ferdinand"
+    ],
+    "image_asset": null,
+    "theme": "history",
+    "translation_key": "553b3c805dc0282a74839b119e544636ec8d9a4c5bde71227d21ea28f63d2f88",
+    "language": "en"
+  }
+]

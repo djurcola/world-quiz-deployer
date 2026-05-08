@@ -16,6 +16,7 @@ A step-by-step guide for taking new features from local development and pushing 
 - Linux (Ubuntu/Debian recommended)
 - Root access (for `install.sh`)
 - `curl`, `git`, `python3`, `systemctl`, `rsync`, `openssl`
+- Node.js 20+ and `npm` (required to publish questions via `publish-questions.sh`)
 
 ---
 
@@ -99,6 +100,13 @@ This produces `target/wasm32-unknown-unknown/release/server.wasm`.
 cp -r client/dist/* .deploy/dist/
 cp server/spacetimedb/target/wasm32-unknown-unknown/release/server.wasm .deploy/server.wasm
 cp server/spacetimedb/target/wasm32-unknown-unknown/release/server.wasm server/spacetimedb/server.wasm
+
+# Copy question data and publisher scripts
+cp -r data/questions .deploy/data/
+cp data/manifest.json .deploy/data/
+cp scripts/publish.js .deploy/scripts/
+cp scripts/package.json .deploy/scripts/
+cp scripts/package-lock.json .deploy/scripts/
 ```
 
 ### 2.4 Clean stale assets
@@ -153,6 +161,14 @@ git pull
 cd /opt/world-quiz
 sudo bash install.sh
 ```
+
+On first deploy, `install.sh` will:
+1. Install SpacetimeDB and start the service
+2. Publish the module (with an empty question bank)
+3. Automatically run `publish-questions.sh` to load all compiled questions
+4. Start the web server
+
+> **Note:** If Node.js is not installed on the VPS, the automatic question publishing will be skipped. Install Node.js 20+ and then run `sudo bash /opt/world-quiz/publish-questions.sh` manually.
 
 #### Update an existing deployment (preserve data)
 
@@ -275,6 +291,9 @@ sudo systemctl status world-quiz-db
 | `.deploy/dist/` | Production frontend (committed to deploy repo) |
 | `server/spacetimedb/target/wasm32-unknown-unknown/release/server.wasm` | Compiled module |
 | `.deploy/server.wasm` | Copy of module for deployment |
+| `.deploy/data/questions/<theme>/<lang>.json` | Compiled question datasets (published dynamically) |
+| `.deploy/scripts/publish.js` | Node.js CLI that publishes questions to SpacetimeDB |
+| `.deploy/publish-questions.sh` | Helper script that installs deps and runs `publish.js` |
 | `client/src/module_bindings/` | Auto-generated TypeScript bindings |
 
 ### Commands
@@ -283,6 +302,7 @@ sudo systemctl status world-quiz-db
 |------|---------|
 | Start local SpacetimeDB | `./.deploy/start-spacetime.sh` |
 | Publish module locally | `spacetime publish world-quiz --server local --no-config -p . --clear-database -y` |
+| Publish questions locally | `cd scripts && npm install && node publish.js --server ws://127.0.0.1:3000` |
 | Run local frontend | `cd client && npm run dev` |
 | Build production frontend | `cd client && VITE_SPACETIME_URI=wss://spacetime.dnas.place npm run build` |
 | Build server module | `cd server/spacetimedb && spacetime build` |
@@ -290,6 +310,7 @@ sudo systemctl status world-quiz-db
 | First deploy to VPS | `sudo bash install.sh` |
 | Update deploy on VPS | `sudo bash install.sh --update` |
 | Wipe and fresh deploy | `sudo bash install.sh --clear-database` |
+| Publish questions on VPS | `sudo bash /opt/world-quiz/publish-questions.sh` |
 | Check service status | `systemctl status world-quiz-db world-quiz-web` |
 | View logs | `journalctl -u world-quiz-db -f` |
 
@@ -299,13 +320,16 @@ sudo systemctl status world-quiz-db
 
 Before pushing to production, verify:
 
-- [ ] `cargo test` passes locally (110/110 tests)
+- [ ] `cargo test` passes locally (85/85 tests)
 - [ ] Local frontend loads and game works at `http://192.168.20.128:8080/`
 - [ ] Production frontend built with `VITE_SPACETIME_URI=wss://spacetime.dnas.place`
 - [ ] `server.wasm` rebuilt with latest code
 - [ ] Old stale assets removed from `.deploy/dist/assets/`
 - [ ] Client bindings regenerated if schema changed
+- [ ] Question data copied to `.deploy/data/questions/`
+- [ ] Publisher scripts copied to `.deploy/scripts/`
 - [ ] Changes committed and pushed to git
 - [ ] VPS pulled latest code
 - [ ] `sudo bash install.sh --update` completed successfully
+- [ ] `sudo bash publish-questions.sh` completed successfully (if questions changed)
 - [ ] `quiz.dnas.place` loads and works in browser

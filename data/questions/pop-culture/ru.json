@@ -1,0 +1,2914 @@
+[
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какая знаменитость известна песней 'Shake It Off'?",
+    "correct_answer": "Тейлор Свифт",
+    "choices": [
+      "Тейлор Свифт",
+      "Ариана Гранде",
+      "Леди Гага",
+      "Кэти Перри"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6e50061e-b750-4bdd-9bc3-9e0e3cdd4703"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой актер сыграл Железного человека в кинематографической вселенной Marvel?",
+    "correct_answer": "Роберт Дауни-младший",
+    "choices": [
+      "Роберт Дауни-младший",
+      "Марк Руффало",
+      "Крис Хемсворт",
+      "Крис Эванс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "e6ba225f-0abc-431d-a19b-178ec7bcfc94"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какая знаменитость основала компанию 'Fenty Beauty'?",
+    "correct_answer": "Рианна",
+    "choices": [
+      "Рианна",
+      "Бейонсе",
+      "Кайли Дженнер",
+      "Селену Гомес"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6fd3824c-a9ff-4013-ab45-8b14477ff373"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "Кто самый молодой лауреат Нобелевской премии?",
+    "correct_answer": "Малала Юсуфзай",
+    "choices": [
+      "Малала Юсуфзай",
+      "Альберт Эйнштейн",
+      "Мартин Лютер Кинг-младший",
+      "Мария Кюри"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5ed5492a-70e2-4814-a781-9b3313927724"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какая актриса сыграла Гермиону Грейнджер в фильмах о Гарри Поттере?",
+    "correct_answer": "Эмма Уотсон",
+    "choices": [
+      "Эмма Уотсон",
+      "Натали Портман",
+      "Эмма Робертс",
+      "Эмма Стоун"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5832316e-c7f7-4189-b253-07566a3b4eec"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто самый титулованный олимпиец всех времен?",
+    "correct_answer": "Майкл Фелпс",
+    "choices": [
+      "Майкл Фелпс",
+      "Симона Байлз",
+      "Усэйн Болт",
+      "Карл Льюис"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "dcc67fee-68cf-42d1-a4bf-42408b24e793"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какую знаменитую пару широко называли 'Бранджелина'?",
+    "correct_answer": "Брэд Питт и Анджелина Джоли",
+    "choices": [
+      "Дэвид и Виктория Бекхэм",
+      "Джей-Зи и Бейонсе",
+      "Бен Аффлек и Дженнифер Лопес",
+      "Брэд Питт и Анджелина Джоли"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "04420f21-af35-44a3-81b6-3bc492b32de7"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой актер сыграл Уолтера Уайта в сериале 'Во все тяжкие'?",
+    "correct_answer": "Брайан Крэнстон",
+    "choices": [
+      "Брайан Крэнстон",
+      "Джон Хэмм",
+      "Мэттью Макконахи",
+      "Кевин Спейси"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "8adc706f-9489-4938-9042-4061dd662ca4"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто была первой женщиной-миллиардером, заработавшей состояние без наследования?",
+    "correct_answer": "Опра Уинфри",
+    "choices": [
+      "Дж.К. Роулинг",
+      "Опра Уинфри",
+      "Марта Стюарт",
+      "Мадонна"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "95300a3e-b934-41f6-9af7-aa32f4f06c23"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какой музыкант известен тем, что надел платье из мяса на церемонии вручения наград MTV Video Music Awards в 2010 году?",
+    "correct_answer": "Леди Гага",
+    "choices": [
+      "Мадонна",
+      "Ники Минаж",
+      "Кэти Перри",
+      "Леди Гага"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "bb88e439-aaf1-4cc3-bf5d-8e4a17059bb6"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "Кто адаптировал 'Офис' для американского телевидения?",
+    "correct_answer": "Грег Дэниелс",
+    "choices": [
+      "Грег Дэниелс",
+      "Майкл Шур",
+      "Стив Карелл",
+      "Рики Джервейс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "bbc4eb5d-eac7-4066-bac3-30343bd723d6"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "Какая знаменитость получила больше всего наград Грэмми?",
+    "correct_answer": "Бейонсе",
+    "choices": [
+      "Майкл Джексон",
+      "Стиви Уандер",
+      "Бейонсе",
+      "Куинси Джонс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "230b319e-92fd-4bdc-a7ce-2241e1087528"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой актер сыграл Джека Доусона в фильме 'Титаник'?",
+    "correct_answer": "Леонардо ДиКаприо",
+    "choices": [
+      "Брэд Питт",
+      "Том Круз",
+      "Мэтт Дэймон",
+      "Леонардо ДиКаприо"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1eacacaf-2e36-4e8d-a2f4-b032b2665f33"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Кто ведущий 'The Tonight Show Starring Jimmy Fallon'?",
+    "correct_answer": "Джимми Фэллон",
+    "choices": [
+      "Сет Майерс",
+      "Джимми Киммел",
+      "Джимми Фэллон",
+      "Стивен Кольбер"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "0eb6862d-1954-4f6a-8d84-cb8b0e823f49"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какой знаменитый шеф-повар известен фразой 'Бам!' и владеет ресторанной империей?",
+    "correct_answer": "Эмерил Лагасси",
+    "choices": [
+      "Бобби Флэй",
+      "Гордон Рамзи",
+      "Энтони Бурден",
+      "Эмерил Лагасси"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "9e875941-0ebb-4def-8139-a7ee72975cfa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В каком фильме есть персонаж Форрест Гамп?",
+    "correct_answer": "Форрест Гамп",
+    "choices": [
+      "Форрест Гамп",
+      "Зеленая миля",
+      "Большой",
+      "Изгой"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f050e9dd-ff8b-46ca-8da0-eff03bfd98e2"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Кто снял 'Парк юрского периода'?",
+    "correct_answer": "Стивен Спилберг",
+    "choices": [
+      "Джордж Лукас",
+      "Стивен Спилберг",
+      "Джеймс Кэмерон",
+      "Ридли Скотт"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b8fbdbd4-5ae1-41a4-b029-2569b70a0d0e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Кто снял 'Криминальное чтиво'?",
+    "correct_answer": "Квентин Тарантино",
+    "choices": [
+      "Братья Коэн",
+      "Мартин Скорсезе",
+      "Квентин Тарантино",
+      "Дэвид Финчер"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "4956cb31-998d-4f43-9df5-d37a1d08d4b4"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "Какой фильм получил первую премию 'Оскар' за лучший фильм?",
+    "correct_answer": "Крылья",
+    "choices": [
+      "Певец джаза",
+      "Крылья",
+      "Метрополис",
+      "Восход солнца"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3be00128-0763-454e-9b9a-7babb174151e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Как называется вымышленный металл во вселенной Marvel, покрывающий когти Росомахи?",
+    "correct_answer": "Адамантий",
+    "choices": [
+      "Вибраниум",
+      "Карбонадий",
+      "Адамантий",
+      "Уру"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "32264ba6-58ba-4be3-8c34-acc44ba9d9ea"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "В каком фильме звучит знаменитая фраза 'Я смотрю на тебя, малыш'?",
+    "correct_answer": "Касабланка",
+    "choices": [
+      "Касабланка",
+      "Унесенные ветром",
+      "Мальтийский сокол",
+      "Гражданин Кейн"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f3b29413-fada-45d4-a395-0af87eed781d"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Кто сыграл Джокера в 'Темном рыцаре'?",
+    "correct_answer": "Хит Леджер",
+    "choices": [
+      "Джаред Лето",
+      "Хит Леджер",
+      "Хоакин Феникс",
+      "Джек Николсон"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "43fe9c2a-82a7-4a23-94cc-d5d73ce86b16"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Как называется вымышленная африканская страна в 'Черной пантере'?",
+    "correct_answer": "Ваканда",
+    "choices": [
+      "Геновия",
+      "Ваканда",
+      "Замбунда",
+      "Латверия"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "8e3bee00-84d0-442b-8581-c3edba3058ae"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "В каком фильме есть персонаж по имени Тринити?",
+    "correct_answer": "Матрица",
+    "choices": [
+      "Пятый элемент",
+      "Матрица",
+      "Терминатор",
+      "Бегущий по лезвию"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "8f256591-8d44-4727-b614-8ba07c8d83b3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Как зовут главного динозавра-антагониста в 'Парке юрского периода'?",
+    "correct_answer": "Тираннозавр рекс",
+    "choices": [
+      "Велоцираптор",
+      "Тираннозавр рекс",
+      "Брахиозавр",
+      "Дилофозавр"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "993399cf-614b-4e68-851b-d61899ad6174"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В каком фильме акула-убийца терроризирует прибрежный город?",
+    "correct_answer": "Челюсти",
+    "choices": [
+      "Мелководье",
+      "Глубокое синее море",
+      "Шторм",
+      "Челюсти"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "d46da805-d7d7-4244-8250-09254ca3e3a7"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Кто снял 'Начало'?",
+    "correct_answer": "Кристофер Нолан",
+    "choices": [
+      "Кристофер Нолан",
+      "Дэвид Линч",
+      "Дени Вильнёв",
+      "Ридли Скотт"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "2372548f-3b98-48db-8c30-c160e4e57a5b"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Какой самый кассовый фильм всех времен (без учета инфляции)?",
+    "correct_answer": "Аватар",
+    "choices": [
+      "Аватар",
+      "Звездные войны: Пробуждение силы",
+      "Титаник",
+      "Мстители: Финал"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a1726a9f-c801-4390-ac6d-2b98d860af47"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "Какой фильм получил премию 'Оскар' за лучший фильм в 2020 году?",
+    "correct_answer": "Паразиты",
+    "choices": [
+      "Джокер",
+      "1917",
+      "Однажды в Голливуде",
+      "Паразиты"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "e477dfd8-b2bc-4025-b09d-445013e534ed"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Как называется вымышленная школа волшебства в фильмах о Гарри Поттере?",
+    "correct_answer": "Хогвартс",
+    "choices": [
+      "Ильверморни",
+      "Хогвартс",
+      "Дурмстранг",
+      "Шармбатон"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f825e5f1-87a0-4f40-9f4d-6ed2faa48a06"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какая группа выпустила альбом 'Abbey Road'?",
+    "correct_answer": "The Beatles",
+    "choices": [
+      "Led Zeppelin",
+      "The Who",
+      "The Beatles",
+      "The Rolling Stones"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "57bbb99f-ca92-489c-aac6-2c1c169f782a"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой самый продаваемый альбом всех времен?",
+    "correct_answer": "Thriller",
+    "choices": [
+      "The Dark Side of the Moon",
+      "Abbey Road",
+      "Back in Black",
+      "Thriller"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1d8db3c6-5014-49ee-90f7-875bc91dd87e"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Кого называют 'Королем поп-музыки'?",
+    "correct_answer": "Майкл Джексон",
+    "choices": [
+      "Элвис Пресли",
+      "Майкл Джексон",
+      "Мадонна",
+      "Принс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "615ad9e1-a81f-4e7e-b571-75db8fd3a6be"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Сколько клавиш у стандартного пианино?",
+    "correct_answer": "88",
+    "choices": [
+      "88",
+      "92",
+      "76",
+      "108"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "089e2d6c-e45d-4dd5-a06e-0e961b7f4439"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "Какой был первый музыкальный клип, показанный на MTV?",
+    "correct_answer": "Video Killed the Radio Star",
+    "choices": [
+      "Video Killed the Radio Star",
+      "Radio Ga Ga",
+      "Like a Virgin",
+      "Billie Jean"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "06da090c-4434-443e-8966-71b1269e0666"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой композитор написал 'Времена года'?",
+    "correct_answer": "Вивальди",
+    "choices": [
+      "Бах",
+      "Бетховен",
+      "Моцарт",
+      "Вивальди"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "0a9fb2bd-2aa8-4f9c-b6c2-11489e60e0ff"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой музыкальный жанр возник в Новом Орлеане в начале XX века?",
+    "correct_answer": "Джаз",
+    "choices": [
+      "Рок-н-ролл",
+      "Блюз",
+      "Кантри",
+      "Джаз"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "ae676840-d079-4c52-a1e0-64e5dda2eee0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой исполнитель выпустил альбом 'Purple Rain'?",
+    "correct_answer": "Принс",
+    "choices": [
+      "Принс",
+      "Дэвид Боуи",
+      "Майкл Джексон",
+      "Ленни Кравиц"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "befca16d-7dc9-4fd8-ab60-f45871131aa6"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой музыкальный термин означает 'постепенное усиление звука'?",
+    "correct_answer": "Крещендо",
+    "choices": [
+      "Крещендо",
+      "Фортиссимо",
+      "Аллегро",
+      "Диминуэндо"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "c2c0072d-8742-4686-9630-e998a780c0b0"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какая песня Queen часто играется на спортивных мероприятиях по всему миру?",
+    "correct_answer": "We Will Rock You",
+    "choices": [
+      "We Will Rock You",
+      "Another One Bites the Dust",
+      "Bohemian Rhapsody",
+      "Don't Stop Me Now"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "127b8797-1259-473a-898d-827940c32308"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "На каком инструменте играет Йо-Йо Ма?",
+    "correct_answer": "Виолончель",
+    "choices": [
+      "Виолончель",
+      "Альт",
+      "Скрипка",
+      "Контрабас"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "0ba85bd6-060b-43db-ad6e-7cf3f495222b"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "В состав какой группы 1990-х входили Курт Кобейн и Крист Новоселич?",
+    "correct_answer": "Nirvana",
+    "choices": [
+      "Soundgarden",
+      "Nirvana",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "357cdbac-4cea-4a54-8c3d-f26aef4e7084"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой самый высокий вокальный диапазон для женщины-певицы?",
+    "correct_answer": "Сопрано",
+    "choices": [
+      "Сопрано",
+      "Альт",
+      "Тенор",
+      "Меццо-сопрано"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1cca709f-b4b3-40b5-afef-139f0794396e"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какой рэпер выпустил альбом 'The Marshall Mathers LP'?",
+    "correct_answer": "Eminem",
+    "choices": [
+      "Dr. Dre",
+      "Eminem",
+      "Snoop Dogg",
+      "Jay-Z"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "8d5e9925-934e-4f5b-970a-b3729f850260"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "В каком году прошел Вудсток?",
+    "correct_answer": "1969",
+    "choices": [
+      "1975",
+      "1967",
+      "1969",
+      "1971"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5b2dc8db-70a6-4131-add7-be7da375ff68"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком телешоу есть персонажи Росс, Рэйчел, Моника, Чендлер, Джоуи и Фиби?",
+    "correct_answer": "Друзья",
+    "choices": [
+      "Как я встретил вашу маму",
+      "Друзья",
+      "Сайнфелд",
+      "Теория большого взрыва"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b5079f1e-d51e-4631-95db-04581af3a0ff"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Как называется вымышленный континент в 'Игре престолов'?",
+    "correct_answer": "Вестерос",
+    "choices": [
+      "Средиземье",
+      "Вестерос",
+      "Эссос",
+      "Нарния"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a629f956-a943-450f-918c-568c063afbdc"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком телешоу школьный учитель химии становится производителем метамфетамина?",
+    "correct_answer": "Во все тяжкие",
+    "choices": [
+      "Дурман",
+      "Прослушка",
+      "Декстер",
+      "Во все тяжкие"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "4bcab32d-4f2b-447d-8d51-15e7d8de49d7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Как называется кофейня в сериале 'Друзья'?",
+    "correct_answer": "Central Perk",
+    "choices": [
+      "Central Perk",
+      "Monk's Cafe",
+      "Java Junction",
+      "The Coffee Bean"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "382d92e8-f184-4ac6-80c7-69c7dd13534a"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Какой сериал происходит в вымышленном городке Хокинс, штат Индиана?",
+    "correct_answer": "Очень странные дела",
+    "choices": [
+      "Гравити Фолз",
+      "Секретные материалы",
+      "Очень странные дела",
+      "Твин Пикс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6907d1a5-faff-494d-998c-d970fbddbf15"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В какой серии фильмов главную героиню зовут Китнисс Эвердин?",
+    "correct_answer": "Голодные игры",
+    "choices": [
+      "Сумерки",
+      "Дивергент",
+      "Голодные игры",
+      "Бегущий в лабиринте"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b1c246c9-8373-4b90-bcbd-7722205c5faa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Кто был режиссёром фильма «2001: Космическая одиссея»?",
+    "correct_answer": "Стэнли Кубрик",
+    "choices": [
+      "Ридли Скотт",
+      "Андрей Тарковский",
+      "Стэнли Кубрик",
+      "Кристофер Нолан"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5c6f2539-3448-4df6-8c9c-ea7ddf671841"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "В каком фильме есть персонаж по имени Миа Уоллес?",
+    "correct_answer": "Криминальное чтиво",
+    "choices": [
+      "Убить Билла",
+      "Бешеные псы",
+      "Криминальное чтиво",
+      "Джеки Браун"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a57adfda-f696-44b6-928f-2d0ea3d4e92f"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Как называется вымышленный металл в «Чёрной пантере», который есть только в Ваканде?",
+    "correct_answer": "Вибраниум",
+    "choices": [
+      "Вибраниум",
+      "Адамантий",
+      "Уру",
+      "Прометий"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b41b7e11-c4f1-47dd-babe-e1a234630724"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "Какой фильм первым собрал в прокате более 1 миллиарда долларов?",
+    "correct_answer": "Титаник",
+    "choices": [
+      "Гарри Поттер и философский камень",
+      "Парк юрского периода",
+      "Звёздные войны: Эпизод I",
+      "Титаник"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "0009ef90-12bb-436e-905a-643f84165f5a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В каком фильме звучит песня «My Heart Will Go On»?",
+    "correct_answer": "Титаник",
+    "choices": [
+      "Телохранитель",
+      "Касабланка",
+      "Титаник",
+      "Ромео + Джульетта"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a10cb2a4-4186-4737-93e8-8a5e9e94cc7f"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Кто сыграл Джека Воробья в «Пиратах Карибского моря»?",
+    "correct_answer": "Джонни Депп",
+    "choices": [
+      "Джонни Депп",
+      "Джеффри Раш",
+      "Орландо Блум",
+      "Кевин Макнелли"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "05ced800-968d-4213-8469-9756dc0392a5"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "В каком фильме фигурирует вымышленная страна Дженовия?",
+    "correct_answer": "Дневники принцессы",
+    "choices": [
+      "Поездка в Америку",
+      "Дневники принцессы",
+      "Евротур",
+      "Римские каникулы"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "38cd1e93-709b-4d1f-8bfe-b9dcabf8ea07"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Какой актёр чаще всего играл Джеймса Бонда?",
+    "correct_answer": "Роджер Мур",
+    "choices": [
+      "Роджер Мур",
+      "Дэниел Крейг",
+      "Пирс Броснан",
+      "Шон Коннери"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "63ee5421-2615-48f7-a612-b6e3cc7c4118"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "Как называется вымышленный динозавр из «Парка юрского периода», который плюётся ядом?",
+    "correct_answer": "Дилофозавр",
+    "choices": [
+      "Спинозавр",
+      "Велоцираптор",
+      "Компсогнат",
+      "Дилофозавр"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "95b18c03-af86-42bb-8d6b-294b3d920e3a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В каком фильме звучит фраза «Да пребудет с тобой Сила»?",
+    "correct_answer": "Звёздные войны",
+    "choices": [
+      "Дюна",
+      "Звёздные войны",
+      "Стражи Галактики",
+      "Звёздный путь"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3a2e30c5-5354-4117-8810-0eb366290c0c"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "Какой кинорежиссёр известен своими камео в собственных фильмах, включая «Головокружение» и «Психо»?",
+    "correct_answer": "Альфред Хичкок",
+    "choices": [
+      "Квентин Тарантино",
+      "Стэнли Кубрик",
+      "Мартин Скорсезе",
+      "Альфред Хичкок"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "4eefb8ef-fab2-4657-bb88-c2f232e5fd8a"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В каком фильме Pixar фигурирует крыса, мечтающая стать шеф-поваром?",
+    "correct_answer": "Рататуй",
+    "choices": [
+      "Рататуй",
+      "Суперсемейка",
+      "Вверх",
+      "В поисках Немо"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a98d0b0f-e405-413c-ae36-96f56c51e07b"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Как называется вымышленный город, где действует Бэтмен?",
+    "correct_answer": "Готэм-сити",
+    "choices": [
+      "Сентрал-сити",
+      "Готэм-сити",
+      "Метрополис",
+      "Стар-сити"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "da9f51c8-e9c1-4c43-b82e-33a2ec79e96d"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Кто сыграл главную роль в фильме 2023 года «Оппенгеймер»?",
+    "correct_answer": "Киллиан Мерфи",
+    "choices": [
+      "Том Харди",
+      "Мэтт Деймон",
+      "Киллиан Мерфи",
+      "Роберт Дауни-младший"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "aff64c0a-a4ed-4561-b721-c64b34d9fcfa"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "Какой фильм стал первым полнометражным анимационным фильмом в истории?",
+    "correct_answer": "Белоснежка и семь гномов",
+    "choices": [
+      "Пиноккио",
+      "Фантазия",
+      "Белоснежка и семь гномов",
+      "Приключения принца Ахмеда"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "99fc4686-1568-4be3-8458-4812bb00e87e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В каком фильме звучит фраза «Тебе понадобится лодка побольше»?",
+    "correct_answer": "Челюсти",
+    "choices": [
+      "Моби Дик",
+      "Мег: Монстр глубины",
+      "Идеальный шторм",
+      "Челюсти"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "597f8f48-57f2-41b1-966a-4f28fb7ea86e"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Как называется королевство в диснеевском «Холодном сердце»?",
+    "correct_answer": "Эренделл",
+    "choices": [
+      "Аграба",
+      "Корона",
+      "Эренделл",
+      "Атлантика"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5e8e78fd-ae79-4d89-9eab-fcd543b8dd00"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Кто снял фильм «Дюна» (2021)?",
+    "correct_answer": "Дени Вильнёв",
+    "choices": [
+      "Джеймс Кэмерон",
+      "Дени Вильнёв",
+      "Ридли Скотт",
+      "Кристофер Нолан"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "39915e53-6be9-45ed-91a3-b157efecff24"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "В каком фильме фигурирует парк развлечений, где генномодифицированные динозавры вырываются на волю?",
+    "correct_answer": "Парк юрского периода",
+    "choices": [
+      "Кинг Конг",
+      "Затерянный мир",
+      "Планета обезьян",
+      "Парк юрского периода"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3e97e217-5a6e-4ae5-a3c3-7dcba039f79c"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Как называется вымышленный вид спорта в «Гарри Поттере», в который играют на мётлах?",
+    "correct_answer": "Квиддич",
+    "choices": [
+      "Бладжерс",
+      "Снитчбол",
+      "Брумбол",
+      "Квиддич"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "53027014-0441-4b52-94da-06d2606b78bb"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "В каком фильме 1999 года звучит фраза «Я вижу мёртвых людей»?",
+    "correct_answer": "Шестое чувство",
+    "choices": [
+      "Звонок",
+      "Шестое чувство",
+      "Другие",
+      "Ведьма из Блэр"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1c66c1c8-28de-42b8-97b9-a3331e172351"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Кто озвучивал Вуди в «Истории игрушек»?",
+    "correct_answer": "Том Хэнкс",
+    "choices": [
+      "Том Хэнкс",
+      "Джон Гудман",
+      "Билли Кристал",
+      "Тим Аллен"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7ea61de5-85dc-4fdd-a5c7-818f49d37cc3"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой композитор написал «Лунную сонату»?",
+    "correct_answer": "Бетховен",
+    "choices": [
+      "Бетховен",
+      "Бах",
+      "Моцарт",
+      "Шопен"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "c3446fce-848b-444e-ab10-a174ffc0b940"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "Какой самый продаваемый сингл всех времён?",
+    "correct_answer": "White Christmas",
+    "choices": [
+      "Candle in the Wind 1997",
+      "White Christmas",
+      "Shape of You",
+      "Bohemian Rhapsody"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "c150c379-be62-423c-ba9e-52f09b9bfcdf"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какая рок-группа исполнила песню «Stairway to Heaven»?",
+    "correct_answer": "Led Zeppelin",
+    "choices": [
+      "Led Zeppelin",
+      "The Who",
+      "Black Sabbath",
+      "Deep Purple"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6781ef4b-2d91-4b45-9337-b60fdc01247c"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "На каком музыкальном инструменте знаменит Йо-Йо Ма?",
+    "correct_answer": "Виолончель",
+    "choices": [
+      "Контрабас",
+      "Скрипка",
+      "Виолончель",
+      "Фортепиано"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1238501b-5850-4b9f-b4c0-0e4085e689c8"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какая исполнительница выпустила альбом «21»?",
+    "correct_answer": "Адель",
+    "choices": [
+      "Нора Джонс",
+      "Эми Уайнхаус",
+      "Адель",
+      "Бейонсе"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "0a79915b-8d69-441f-a3ac-d6fbfe0bf8a3"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "В каком жанре музыки в основном выступал Элвис Пресли?",
+    "correct_answer": "Рок-н-ролл",
+    "choices": [
+      "Госпел",
+      "Кантри",
+      "Блюз",
+      "Рок-н-ролл"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3b2f70f0-d251-43d2-bc17-9accf6c6da10"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "Какой музыкальный термин обозначает произведение из пяти частей?",
+    "correct_answer": "Квинтет",
+    "choices": [
+      "Секстет",
+      "Квартет",
+      "Квинтет",
+      "Сюита"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "aa8dc314-4533-4c4f-8c8f-7318742602a0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой композитор-классик потерял слух в более позднем возрасте, но продолжал сочинять?",
+    "correct_answer": "Бетховен",
+    "choices": [
+      "Бах",
+      "Моцарт",
+      "Чайковский",
+      "Бетховен"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "c141af0a-8e58-46d2-a7a0-b526afa99ff4"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Как называется первый альбом The Beatles?",
+    "correct_answer": "Please Please Me",
+    "choices": [
+      "Please Please Me",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Help!",
+      "A Hard Day's Night"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "25192e17-d34e-4bd4-8a7a-9748d73d28ae"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "К какому семейству инструментов относится саксофон?",
+    "correct_answer": "Деревянные духовые",
+    "choices": [
+      "Медные духовые",
+      "Деревянные духовые",
+      "Струнные",
+      "Ударные"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "326f4c2f-4a7b-413c-bfb4-0bc43e9a1983"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой популярный музыкальный стриминговый сервис был запущен в 2008 году в Швеции?",
+    "correct_answer": "Spotify",
+    "choices": [
+      "Spotify",
+      "Apple Music",
+      "Pandora",
+      "Tidal"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3794fb14-3374-46d6-b05e-ca762f726794"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какую певицу называют «Королевой соула»?",
+    "correct_answer": "Арета Франклин",
+    "choices": [
+      "Арета Франклин",
+      "Этта Джеймс",
+      "Уитни Хьюстон",
+      "Тина Тёрнер"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6e458d7d-00f6-4f1f-9da3-9019c309f606"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Как называется самый низкий мужской певческий голос?",
+    "correct_answer": "Бас",
+    "choices": [
+      "Тенор",
+      "Баритон",
+      "Бас",
+      "Контртенор"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "80696fcb-a2db-40ae-8f4e-1cfbb5a72153"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какая группа прославилась хитом «Smells Like Teen Spirit»?",
+    "correct_answer": "Nirvana",
+    "choices": [
+      "Alice in Chains",
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "01e5e6e6-6c46-4ae1-95d4-216fef0b7080"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "Какой инструмент имеет педали, изменяющие его высоту звука, и обычно играется ногами?",
+    "correct_answer": "Педальная арфа",
+    "choices": [
+      "Педальная арфа",
+      "Орган",
+      "Клавесин",
+      "Челеста"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "4aabbe3a-f87b-47a3-b44b-ee60085cd102"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой музыкальный фестиваль ежегодно проводится в пустыне Невада?",
+    "correct_answer": "Burning Man",
+    "choices": [
+      "Glastonbury",
+      "Burning Man",
+      "Lollapalooza",
+      "Coachella"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "341ee300-754e-4857-ac4c-b1d16b72ab5a"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Кто написал «Щелкунчик»?",
+    "correct_answer": "Чайковский",
+    "choices": [
+      "Чайковский",
+      "Стравинский",
+      "Римский-Корсаков",
+      "Прокофьев"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "ae11a4e4-97cc-4605-acbc-063774cb2181"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "Как называется мелодия, которая исполняется или поётся в каноне?",
+    "correct_answer": "Канон",
+    "choices": [
+      "Рондо",
+      "Канон",
+      "Фуга",
+      "Соната"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "287c4fc4-9cea-4706-a908-8a90963dd644"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какая поп-звезда выпустила песню «Bad Guy»?",
+    "correct_answer": "Билли Айлиш",
+    "choices": [
+      "Холзи",
+      "Лиззо",
+      "Дуа Липа",
+      "Билли Айлиш"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "38cd5ac6-3330-45ce-89cf-6e054eb0a2cb"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Как называется группа из четырёх музыкантов, выступающих вместе?",
+    "correct_answer": "Квартет",
+    "choices": [
+      "Трио",
+      "Дуэт",
+      "Квартет",
+      "Квинтет"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a811efa0-6e64-4b3b-937b-29c774d41a4d"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой рэпер известен альбомом «good kid, m.A.A.d city»?",
+    "correct_answer": "Кендрик Ламар",
+    "choices": [
+      "Кендрик Ламар",
+      "Джей Коул",
+      "Канье Уэст",
+      "Дрейк"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "cea62b3e-2a35-467a-a761-be7c682960ba"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какой танцевальный стиль зародился в Аргентине в конце XIX века?",
+    "correct_answer": "Танго",
+    "choices": [
+      "Самба",
+      "Сальса",
+      "Танго",
+      "Фламенко"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "fcfb4d52-272f-40fa-9297-0229ed74c5f0"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Какая британская рок-группа выпустила альбом «The Dark Side of the Moon»?",
+    "correct_answer": "Pink Floyd",
+    "choices": [
+      "Led Zeppelin",
+      "Queen",
+      "The Who",
+      "Pink Floyd"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "81aef0ce-f6c9-4123-abf4-c806341d6716"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "Какая нота на полтона выше ля?",
+    "correct_answer": "Ля-диез (A♯)",
+    "choices": [
+      "Си-бемоль (B♭)",
+      "Соль-диез (G♯)",
+      "Ля-диез (A♯)",
+      "Си"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "deb2e3cb-719d-45a1-ad46-a6ffec204fab"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какого певца называли «Королём рок-н-ролла»?",
+    "correct_answer": "Элвис Пресли",
+    "choices": [
+      "Бадди Холли",
+      "Литл Ричард",
+      "Элвис Пресли",
+      "Чак Берри"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "47e0647f-2496-48b1-88c5-6b4182206fb7"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "Какой инструмент обычно используется для поддержания ритма в группе и может быть акустическим или электронным?",
+    "correct_answer": "Барабаны",
+    "choices": [
+      "Бас-гитара",
+      "Гитара",
+      "Пианино",
+      "Барабаны"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5999c4e0-72da-4a12-8c41-093a12a47497"
+  },
+  {
+    "category": "music",
+    "difficulty": "easy",
+    "question_text": "В какой группе Фредди Меркьюри был ведущим вокалистом?",
+    "correct_answer": "Queen",
+    "choices": [
+      "The Rolling Stones",
+      "Queen",
+      "AC/DC",
+      "The Who"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "43d57e41-db12-46a0-8c28-8cec5a29b8fc"
+  },
+  {
+    "category": "music",
+    "difficulty": "hard",
+    "question_text": "Как называется музыкальная гамма с паттерном целый-целый-половина-целый-целый-целый-половина?",
+    "correct_answer": "Мажорная гамма",
+    "choices": [
+      "Пентатоническая гамма",
+      "Хроматическая гамма",
+      "Мажорная гамма",
+      "Минорная гамма"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "97b5b344-a039-4331-8131-17784126653e"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Кто выпустил альбом 'Lemonade' в 2016 году?",
+    "correct_answer": "Бейонсе",
+    "choices": [
+      "Кэти Перри",
+      "Бейонсе",
+      "Рианна",
+      "Адель"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "e83e40fc-1155-401d-9ea6-8df80fa780e4"
+  },
+  {
+    "category": "music",
+    "difficulty": "medium",
+    "question_text": "Как называется музыкальный инструмент, который по сути является большим ксилофоном?",
+    "correct_answer": "Маримба",
+    "choices": [
+      "Маримба",
+      "Челеста",
+      "Глокеншпиль",
+      "Вибрафон"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6ac06db6-4806-47f3-8f66-4c9d1b5972f3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком телешоу показана вымышленная компания по продаже бумаги Dunder Mifflin?",
+    "correct_answer": "Офис",
+    "choices": [
+      "Парки и зоны отдыха",
+      "Лучше звоните Солу",
+      "Офис",
+      "Студия 30"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "63e9aaa6-424a-4aba-8b60-a9547eec074d"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Кто сыграл Уолтера Уайта в сериале 'Во все тяжкие'?",
+    "correct_answer": "Брайан Крэнстон",
+    "choices": [
+      "Джон Хэмм",
+      "Кевин Спейси",
+      "Джеймс Гандольфини",
+      "Брайан Крэнстон"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7409fce5-2e7c-4ccf-96b8-99463ac4880d"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком британском телешоу фигурирует путешествующий во времени инопланетянин по имени Доктор?",
+    "correct_answer": "Доктор Кто",
+    "choices": [
+      "Автостопом по галактике",
+      "Красный карлик",
+      "Звёздный путь",
+      "Доктор Кто"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "07ba91a2-e3dd-4674-bb33-b781d74bd6f2"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Какой сериал основан на книгах Джорджа Р.Р. Мартина?",
+    "correct_answer": "Игра престолов",
+    "choices": [
+      "Чужестранка",
+      "Ведьмак",
+      "Игра престолов",
+      "Властелин колец: Кольца власти"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "c760ad79-2b14-4d1a-ba4f-be7db5fe82a0"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Как называется кофейня в сериале 'Сайнфелд'?",
+    "correct_answer": "Monk's Cafe",
+    "choices": [
+      "Central Perk",
+      "The Diner",
+      "Tom's Restaurant",
+      "Monk's Cafe"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b880739e-4141-4a26-a620-0d922aec5a20"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком сериале показана группа друзей, живущих в Нью-Йорке в возрасте около 20 лет?",
+    "correct_answer": "Друзья",
+    "choices": [
+      "Новенькая",
+      "Друзья",
+      "Как я встретил вашу маму",
+      "Секс в большом городе"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f28bdcfe-c752-4049-91ab-a050d4e4262f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "В каком сериале показан вымышленный департамент парков города Пауни, Индиана?",
+    "correct_answer": "Парки и зоны отдыха",
+    "choices": [
+      "Бруклин 9-9",
+      "Парки и зоны отдыха",
+      "Сообщество",
+      "Офис"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7c7e6dda-5d4d-4b51-8dfd-99bcf5addfd3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Кто сыграл Тони Сопрано в сериале 'Клан Сопрано'?",
+    "correct_answer": "Джеймс Гандольфини",
+    "choices": [
+      "Джо Пеши",
+      "Рэй Лиотта",
+      "Майкл Империоли",
+      "Джеймс Гандольфини"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "dea180e3-b04e-44a4-ac26-579440df1844"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "В каком сериале показано вымышленное рекламное агентство Sterling Cooper?",
+    "correct_answer": "Безумцы",
+    "choices": [
+      "Форс-мажоры",
+      "Дурнушка",
+      "Западное крыло",
+      "Безумцы"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b2ac393d-b234-4693-b6ec-10dc1c3137a2"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "В каком реалити-шоу на талантах есть вращающиеся кресла?",
+    "correct_answer": "Голос",
+    "choices": [
+      "America's Got Talent",
+      "Голос",
+      "X Factor",
+      "American Idol"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f77ae607-0bb5-41a6-bc86-ed36abbddf42"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Какое анимационное шоу является самым продолжительным в истории телевидения?",
+    "correct_answer": "Симпсоны",
+    "choices": [
+      "Губка Боб Квадратные Штаны",
+      "Южный Парк",
+      "Симпсоны",
+      "Гриффины"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f20e80e5-d642-4d6d-b914-4b49050df55b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком сериале показаны школьный учитель химии и его бывший ученик Джесси Пинкман?",
+    "correct_answer": "Во все тяжкие",
+    "choices": [
+      "Озарк",
+      "Во все тяжкие",
+      "Нарко",
+      "Трава"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "ba31d4e2-8cc8-495d-98cb-74a6eadbedb8"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "В каком сериале показан вымышленный городок Звёздная Лощина?",
+    "correct_answer": "Девочки Гилмор",
+    "choices": [
+      "Твин Пикс",
+      "Эвервуд",
+      "О.С. — Одинокие сердца",
+      "Девочки Гилмор"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "63f9cc29-ec24-4efe-9808-d9bd18039291"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "Как называется вымышленная школа в сериале 'Дневники вампира'?",
+    "correct_answer": "Старшая школа Мистик Фоллс",
+    "choices": [
+      "Школа-интернат Сальваторе",
+      "Западная Беверли Хай",
+      "Саннидейл Хай",
+      "Старшая школа Мистик Фоллс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "621324e0-79c9-4cb5-acce-7490b16ab0b5"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком ситкоме есть персонаж по имени Шелдон Купер?",
+    "correct_answer": "Теория большого взрыва",
+    "choices": [
+      "Компьютерщики",
+      "Кремниевая долина",
+      "Теория большого взрыва",
+      "Сообщество"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "14816f51-3f53-46ca-ae35-aeeab2f40429"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком сериале фигурируют детективы Джейк Перальта и Роза Диас?",
+    "correct_answer": "Бруклин 9-9",
+    "choices": [
+      "Бруклин 9-9",
+      "Супермаркет",
+      "Парки и зоны отдыха",
+      "Офис"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7c0cd304-1be8-4c8e-8c65-974656e40711"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Какой сериал HBO рассказывает о рекламной индустрии на Мэдисон-авеню в 1960-х годах?",
+    "correct_answer": "Безумцы",
+    "choices": [
+      "Подпольная империя",
+      "Deuce",
+      "Удивительная миссис Мейзел",
+      "Безумцы"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "70824c22-7348-415e-b3ae-f1589ccebb54"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Какое телешоу популяризовало фразу 'Зима близко'?",
+    "correct_answer": "Игра престолов",
+    "choices": [
+      "Чужестранка",
+      "Последнее королевство",
+      "Игра престолов",
+      "Викинги"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "c11216ee-8bce-48da-9bfa-1b5bf5c6d677"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Какой сериал Netflix рассказывает о братьях и сестрах, управляющих хостелом в Тулуме?",
+    "correct_answer": "The Resort",
+    "choices": [
+      "The Resort",
+      "Элита",
+      "Белый лотос",
+      "Внешние отмели"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1a81796f-59c6-44dd-a57e-81372a1971da"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Как называется сериал о зомби-апокалипсисе, основанный на комиксах Роберта Киркмана?",
+    "correct_answer": "Ходячие мертвецы",
+    "choices": [
+      "iЗомби",
+      "З-Нация",
+      "Чёрное лето",
+      "Ходячие мертвецы"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "507ce506-559b-4d7f-b7d0-ef23cdf434a5"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "В каком сериале есть суперкомпьютер по имени 'МАТЬ' и колониальный корабль?",
+    "correct_answer": "100",
+    "choices": [
+      "Пространство",
+      "Затерянные в космосе",
+      "Звёздный крейсер 'Галактика'",
+      "100"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "364f1137-3ed6-4891-86f8-3499404a4947"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "Какой телевизионный драматический сериал получил премию 'Эмми' за лучший драматический сериал в 2024 году?",
+    "correct_answer": "Сёгун",
+    "choices": [
+      "Наследники",
+      "Сёгун",
+      "Медведь",
+      "Корона"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "9d0ae308-d665-4821-933c-fef05557f41b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Какой сериал происходит в муниципальном колледже Гриндейла, штат Колорадо?",
+    "correct_answer": "Сообщество",
+    "choices": [
+      "Греческий",
+      "Необъявленный",
+      "Сообщество",
+      "Теория большого взрыва"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "93caa574-8f9d-40df-b7db-46d1fd086e8f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Как называется тюрьма в сериале 'Побег'?",
+    "correct_answer": "Тюрьма округа Фокс Ривер",
+    "choices": [
+      "Тюрьма Литчфилд",
+      "Тюрьма округа Фокс Ривер",
+      "Алькатрас",
+      "Исправительное учреждение Освальд"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1fe84437-68e5-4b78-b76a-7593008933b3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Какой мини-сериал повествует о чернобыльской ядерной катастрофе?",
+    "correct_answer": "Чернобыль",
+    "choices": [
+      "Расплав",
+      "Катастрофа",
+      "Ядерный",
+      "Чернобыль"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "68993b51-213c-43a1-9bdc-fc7b2779348b"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Как называется вымышленный город в 'Симпсонах'?",
+    "correct_answer": "Спрингфилд",
+    "choices": [
+      "Столица",
+      "Норт-Хейвен",
+      "Спрингфилд",
+      "Шелбивилл"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "74b36ba4-0c3a-49de-a162-502036016ced"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком сериале фигурирует подросток по имени Уэнсдэй Аддамс?",
+    "correct_answer": "Уэнсдэй",
+    "choices": [
+      "Сабрина",
+      "Леденящие душу приключения Сабрины",
+      "Уэнсдэй",
+      "Семейка Аддамс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3428d961-75f6-4c1d-878a-097b658e7a62"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "Какой сериал показывает жизнь семьи Пирсонов в несколько временных линий?",
+    "correct_answer": "Это мы",
+    "choices": [
+      "Американская семейка",
+      "Родительство",
+      "Братья и сёстры",
+      "Это мы"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7574aecc-fd83-4434-974e-852cc3fb9c5f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "Какой британский сериал показывает группу студентов в университете Эдинбурга?",
+    "correct_answer": "Молодые",
+    "choices": [
+      "Шкура",
+      "Завсегдатаи",
+      "Молодые",
+      "Fresh Meat"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "ba6c7cea-649f-46bb-bbf0-a0b6b9ccd04f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Как называется космический корабль в оригинальном сериале «Звёздный путь»?",
+    "correct_answer": "USS Enterprise",
+    "choices": [
+      "USS Defiant",
+      "USS Voyager",
+      "USS Discovery",
+      "USS Enterprise"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "75eca4c6-a1bc-4b9b-ac9f-efcf60254d24"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "Какой мультсериал популяризировал фразу «D'oh!»?",
+    "correct_answer": "Симпсоны",
+    "choices": [
+      "Гриффины",
+      "Симпсоны",
+      "Южный Парк",
+      "Губка Боб Квадратные Штаны"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5a85c28e-6f01-4624-9589-1a73a2c3626f"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "В каком году вышла первая серия «Симпсонов»?",
+    "correct_answer": "1989",
+    "choices": [
+      "1993",
+      "1991",
+      "1989",
+      "1987"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5cbbd4c8-fbe8-4620-b97d-6db258795cfe"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком телешоу есть персонаж по имени Дуайт Шрут?",
+    "correct_answer": "Офис",
+    "choices": [
+      "30 потрясений",
+      "Парки и зоны отдыха",
+      "Бруклин 9-9",
+      "Офис"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6ac6aeb0-1653-4be9-b438-097196c6361c"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "Какое самое продолжительное сценарное телешоу в прайм-тайм в США?",
+    "correct_answer": "Симпсоны",
+    "choices": [
+      "Анатомия страсти",
+      "Симпсоны",
+      "Закон и порядок",
+      "Дымок из ствола"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "61dd20ce-c4d1-443b-bfff-e07f3f1195f7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком телесериале звучит заставка «I'll Be There for You»?",
+    "correct_answer": "Друзья",
+    "choices": [
+      "Принц из Беверли-Хиллз",
+      "Как я встретил вашу маму",
+      "Полный дом",
+      "Друзья"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b440590e-5e8e-44ea-950d-75d01cfa2415"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "Как зовут вымышленного британского шпиона в сериале «Американцы»?",
+    "correct_answer": "Кларк Вестерфельд",
+    "choices": [
+      "Майкл Вестен",
+      "Джеймс Бонд",
+      "Филипп Дженнингс",
+      "Кларк Вестерфельд"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f72d41a6-ac5c-422a-bcdc-180f12d739c3"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "В каком реалити-шоу есть фраза «Племя высказалось»?",
+    "correct_answer": "Остаться в живых",
+    "choices": [
+      "Большой брат",
+      "Остаться в живых",
+      "Удивительная гонка",
+      "Американский идол"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5c2596e9-ba0f-40e1-8b09-76655230d845"
+  },
+  {
+    "category": "tv",
+    "difficulty": "hard",
+    "question_text": "Какой сериал популяризировал термин «прыгнуть через акулу»?",
+    "correct_answer": "Счастливые дни",
+    "choices": [
+      "Семейные узы",
+      "Симпсоны",
+      "Трое — это компания",
+      "Счастливые дни"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "d1137628-e339-49cf-bf21-4c5db3638ab7"
+  },
+  {
+    "category": "tv",
+    "difficulty": "medium",
+    "question_text": "В каком городе в основном происходит действие сериала «Прослушка»?",
+    "correct_answer": "Балтимор",
+    "choices": [
+      "Балтимор",
+      "Нью-Йорк",
+      "Филадельфия",
+      "Чикаго"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3ee3c5df-9610-4a92-b8dd-ed938a89b138"
+  },
+  {
+    "category": "tv",
+    "difficulty": "easy",
+    "question_text": "В каком телесериале есть персонаж по имени Доктор, который путешествует во времени в синей коробке?",
+    "correct_answer": "Доктор Кто",
+    "choices": [
+      "Квантовый скачок",
+      "Сумеречная зона",
+      "Звёздный путь",
+      "Доктор Кто"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1160dbd3-fe8b-464c-a07c-fd4d6ee55f9d"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какая знаменитость начала музыкальную карьеру с альбома «The Fame» в 2008 году?",
+    "correct_answer": "Леди Гага",
+    "choices": [
+      "Бритни Спирс",
+      "Рианна",
+      "Кэти Перри",
+      "Леди Гага"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a0c667ff-8aa3-468e-b39e-aa7a142aa156"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой актёр сыграл роль Джона Уика?",
+    "correct_answer": "Киану Ривз",
+    "choices": [
+      "Киану Ривз",
+      "Мэтт Деймон",
+      "Джейсон Стэтхэм",
+      "Том Круз"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "af2446cc-2365-4f62-87d7-69d772d516cb"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто самый богатый человек в мире по состоянию на 2025 год?",
+    "correct_answer": "Илон Маск",
+    "choices": [
+      "Джефф Безос",
+      "Илон Маск",
+      "Марк Цукерберг",
+      "Бернар Арно"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a6363639-f6c7-4b93-ad3a-507d28327a34"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какой спортсмен известен тем, что вставал на колено во время национального гимна?",
+    "correct_answer": "Колин Каперник",
+    "choices": [
+      "Колин Каперник",
+      "Мухаммед Али",
+      "Леброн Джеймс",
+      "Том Брэди"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "bb06891b-cbb6-4f7d-a9f5-96b4ea4727ba"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто является ведущим вокалистом группы U2?",
+    "correct_answer": "Боно",
+    "choices": [
+      "Боно",
+      "Стинг",
+      "Крис Мартин",
+      "Мик Джаггер"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "50d41fe7-b0a6-46e8-bbf0-8d058128b46d"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой ютубер известен благодаря песне «Gangnam Style»?",
+    "correct_answer": "Пси",
+    "choices": [
+      "Пси",
+      "Рейн",
+      "CL",
+      "BTS"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f89262df-c781-4fff-84c1-aa003fb68b43"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Кто стал первым афроамериканским президентом США?",
+    "correct_answer": "Барак Обама",
+    "choices": [
+      "Мартин Лютер Кинг мл.",
+      "Фредерик Дуглас",
+      "Барак Обама",
+      "Колин Пауэлл"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "24f81933-514e-4711-9af1-6686c380b768"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какая актриса сыграла Китнисс Эвердин в «Голодных играх»?",
+    "correct_answer": "Дженнифер Лоуренс",
+    "choices": [
+      "Кристен Стюарт",
+      "Шейлин Вудли",
+      "Эмма Стоун",
+      "Дженнифер Лоуренс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3510115e-f746-489f-8947-4c41b602dff4"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто самый популярный человек в Instagram?",
+    "correct_answer": "Криштиану Роналду",
+    "choices": [
+      "Селена Гомес",
+      "Кайли Дженнер",
+      "Лионель Месси",
+      "Криштиану Роналду"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "144db4df-c5f4-41e2-b4a9-95923351bf84"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой знаменитый шеф-повар известен тем, что кричит на участников шоу «Адская кухня»?",
+    "correct_answer": "Гордон Рамзи",
+    "choices": [
+      "Джейми Оливер",
+      "Вольфганг Пак",
+      "Бобби Флэй",
+      "Гордон Рамзи"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "4270bf36-1f11-47d2-8e34-07d431bec76a"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "Какой музыкант получил Пулитцеровскую премию по музыке в 2018 году за альбом?",
+    "correct_answer": "Кендрик Ламар",
+    "choices": [
+      "Канье Уэст",
+      "Childish Gambino",
+      "Кендрик Ламар",
+      "Jay-Z"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1bd14d9d-df26-4ab1-96ef-58f717475a28"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто была первой женщиной, совершившей одиночный перелёт через Атлантический океан?",
+    "correct_answer": "Амелия Эрхарт",
+    "choices": [
+      "Амелия Эрхарт",
+      "Жаклин Кокран",
+      "Харриет Квимби",
+      "Бесси Коулман"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a6164b9c-35a8-46dd-bcbd-0369396d7e4b"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой актёр сыграл роль Гэндальфа во «Властелине колец»?",
+    "correct_answer": "Иэн Маккеллен",
+    "choices": [
+      "Иэн Маккеллен",
+      "Кристофер Ли",
+      "Майкл Гэмбон",
+      "Ричард Харрис"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "ea246d6d-415d-49f7-82b8-2618d96cbdfc"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Кто основатель Amazon?",
+    "correct_answer": "Джефф Безос",
+    "choices": [
+      "Билл Гейтс",
+      "Стив Джобс",
+      "Джефф Безос",
+      "Марк Цукерберг"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6bac09fb-a94e-4bf7-9508-2c00cfa7f609"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой актёр сыграл роль Джокера в фильме «Джокер» 2019 года?",
+    "correct_answer": "Хоакин Феникс",
+    "choices": [
+      "Хоакин Феникс",
+      "Хит Леджер",
+      "Джек Николсон",
+      "Джаред Лето"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "9b61fabc-bcd8-4cf6-a99d-0545c1de2ec3"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто самая молодая женщина-миллиардер, заработавшая состояние самостоятельно?",
+    "correct_answer": "Кайли Дженнер",
+    "choices": [
+      "Кайли Дженнер",
+      "Бейонсе",
+      "Рианна",
+      "Тейлор Свифт"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "5879714f-2a0c-4226-8c2a-1a4bb4c05c93"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какой учёный известен теорией эволюции путём естественного отбора?",
+    "correct_answer": "Чарльз Дарвин",
+    "choices": [
+      "Жан-Батист Ламарк",
+      "Грегор Мендель",
+      "Чарльз Дарвин",
+      "Альфред Рассел Уоллес"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "2d1b5848-0962-435d-bf6a-1e9e0e1d7083"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Кто сыграл персонажа капитана Джека Воробья?",
+    "correct_answer": "Джонни Депп",
+    "choices": [
+      "Джонни Депп",
+      "Кевин МакНэлли",
+      "Орландо Блум",
+      "Джеффри Раш"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "a2739ed9-fdf3-4865-b7dd-82db6f6c33b9"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "Какой музыкант известен тем, что носил на лбу протез рога во время выступлений?",
+    "correct_answer": "Леди Гага",
+    "choices": [
+      "Бьорк",
+      "Леди Гага",
+      "Мадонна",
+      "Грейс Джонс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "78471557-f019-42e4-9cb1-6274d1a1ae0a"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Кто создатель Facebook?",
+    "correct_answer": "Марк Цукерберг",
+    "choices": [
+      "Шон Паркер",
+      "Дастин Московиц",
+      "Эдуардо Саверин",
+      "Марк Цукерберг"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "c2833968-a110-4290-9a0b-dbe98db9f550"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "Какой актёр был номинирован на наибольшее количество премий «Оскар»?",
+    "correct_answer": "Мерил Стрип",
+    "choices": [
+      "Кэтрин Хепбёрн",
+      "Мерил Стрип",
+      "Бетт Дейвис",
+      "Джек Николсон"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "edde0d42-459d-4638-8ae2-9c8a13e996db"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "hard",
+    "question_text": "Кто самый высокооплачиваемый спортсмен всех времён с поправкой на инфляцию?",
+    "correct_answer": "Майкл Джордан",
+    "choices": [
+      "Арнольд Палмер",
+      "Тайгер Вудс",
+      "Михаэль Шумахер",
+      "Майкл Джордан"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "be3779a2-971a-43d8-876a-d83dbad80047"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Какая актриса сыграла роль Гермионы Грейнджер?",
+    "correct_answer": "Эмма Уотсон",
+    "choices": [
+      "Мэгги Смит",
+      "Эмма Уотсон",
+      "Бонни Райт",
+      "Эванна Линч"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7e204ca6-ef04-4724-8240-7cd2c02724df"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какая активистка известна своей работой в сфере образования девочек и получила Нобелевскую премию мира в 2014 году?",
+    "correct_answer": "Малала Юсуфзай",
+    "choices": [
+      "Грета Тунберг",
+      "Малала Юсуфзай",
+      "Ригоберта Менчу",
+      "Вангари Маатаи"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "4ea4c7f4-3826-41fe-8ea8-02e75fdca9fe"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какая знаменитость получила больше всего «Оскаров» за актёрскую работу?",
+    "correct_answer": "Кэтрин Хепбёрн",
+    "choices": [
+      "Дэниел Дэй-Льюис",
+      "Кэтрин Хепбёрн",
+      "Джек Николсон",
+      "Мерил Стрип"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "f7c4d469-e504-4031-844e-cf3399ea8770"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "easy",
+    "question_text": "Кто автор книг о Гарри Поттере?",
+    "correct_answer": "Дж.К. Роулинг",
+    "choices": [
+      "Дж.К. Роулинг",
+      "Дж.Р.Р. Толкин",
+      "К.С. Льюис",
+      "Роальд Даль"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "30400f8a-0625-42bd-9811-083b88f9822b"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Какой актёр озвучил Дарта Вейдера в оригинальной трилогии «Звёздных войн»?",
+    "correct_answer": "Джеймс Эрл Джонс",
+    "choices": [
+      "Питер Кушинг",
+      "Франк Оз",
+      "Джеймс Эрл Джонс",
+      "Дэвид Проуз"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "0057b1eb-2422-41e4-9ee0-dbdbf55ce4cc"
+  },
+  {
+    "category": "celebrities",
+    "difficulty": "medium",
+    "question_text": "Кто первая афроамериканка, побывавшая в космосе?",
+    "correct_answer": "Мэй Джемисон",
+    "choices": [
+      "Пегги Уитсон",
+      "Мэй Джемисон",
+      "Валентина Терешкова",
+      "Салли Райд"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "e0de2d8a-c4c1-478f-9398-d650b65b5042"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "В каком фильме звучит фраза «Вы не выдержите правды!»?",
+    "correct_answer": "Несколько хороших парней",
+    "choices": [
+      "Фирма",
+      "Филадельфия",
+      "Несколько хороших парней",
+      "Дело фирмы"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "1557df79-86de-433d-8cf0-14fcea881493"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Кто снял «Список Шиндлера»?",
+    "correct_answer": "Стивен Спилберг",
+    "choices": [
+      "Стэнли Кубрик",
+      "Роман Полански",
+      "Стивен Спилберг",
+      "Мартин Скорсезе"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "6a519ede-6e17-4833-b030-1b0c834332a4"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Какой мультфильм рассказывает о рыбке-клоуне, ищущей своего сына?",
+    "correct_answer": "В поисках Немо",
+    "choices": [
+      "Русалочка",
+      "Подводная братва",
+      "Унесённые призраками",
+      "В поисках Немо"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "3e75d220-2ab2-4279-a259-9efaf47c7ecb"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Какой фильм содержит фразу «Я вернусь»?",
+    "correct_answer": "Терминатор",
+    "choices": [
+      "Робокоп",
+      "Вспомнить всё",
+      "Терминатор",
+      "Хищник"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "8533f143-2e13-4367-90ac-2c92af628ed7"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Кто сыграл заглавную роль в фильмах об Индиане Джонсе?",
+    "correct_answer": "Харрисон Форд",
+    "choices": [
+      "Курт Рассел",
+      "Том Селлек",
+      "Шон Коннери",
+      "Харрисон Форд"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "80b70644-c0b3-436b-9680-f57616704588"
+  },
+  {
+    "category": "movies",
+    "difficulty": "hard",
+    "question_text": "Какой фильм получил премию «Оскар» за лучший анимационный фильм в 2024 году?",
+    "correct_answer": "Мальчик и птица",
+    "choices": [
+      "Мальчик и птица",
+      "Человек-паук: Паутина вселенных",
+      "Элементарно",
+      "Заветное желание"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "b17cbe97-334c-49a3-9ec6-a2504cd696f3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "easy",
+    "question_text": "Какая франшиза фильмов включает транспортные средства, которые трансформируются в роботов?",
+    "correct_answer": "Трансформеры",
+    "choices": [
+      "G.I. Joe",
+      "Вольтрон",
+      "Могучие рейнджеры",
+      "Трансформеры"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7bb23c2b-345a-4183-a76b-8e34f18651c3"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Кто снял «Крёстного отца»?",
+    "correct_answer": "Фрэнсис Форд Коппола",
+    "choices": [
+      "Серджио Леоне",
+      "Фрэнсис Форд Коппола",
+      "Мартин Скорсезе",
+      "Брайан Де Пальма"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "de2db945-71cc-441e-bdbc-a6a2e87fa7a9"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Какой самый кассовый анимационный фильм всех времён?",
+    "correct_answer": "Головоломка 2",
+    "choices": [
+      "Холодное сердце",
+      "Головоломка 2",
+      "Король Лев",
+      "Холодное сердце 2"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "48d02825-8523-4d22-a78c-5ed1b0ee3be8"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "В «Волшебнике страны Оз» что говорит Дороти, чтобы вернуться в Канзас?",
+    "correct_answer": "Нет места лучше дома",
+    "choices": [
+      "Я хочу домой",
+      "Нет места лучше дома",
+      "Милый дом",
+      "Забери меня домой"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "327ed134-880b-4dd3-957f-62f380c78426"
+  },
+  {
+    "category": "movies",
+    "difficulty": "medium",
+    "question_text": "Какой актёр сыграл Ганнибала Лектера в фильме «Молчание ягнят»?",
+    "correct_answer": "Энтони Хопкинс",
+    "choices": [
+      "Мэдс Миккельсен",
+      "Гэри Олдман",
+      "Энтони Хопкинс",
+      "Брайан Кокс"
+    ],
+    "image_asset": null,
+    "theme": "pop-culture",
+    "language": "ru",
+    "translation_key": "7ef4efc3-14cb-48e4-b5ad-38eb6b3c77d8"
+  }
+]

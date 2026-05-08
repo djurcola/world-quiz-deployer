@@ -1,0 +1,4242 @@
+[
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Что является активным материалом катода в LFP-аккумуляторе?",
+    "correct_answer": "Литий-железо-фосфат",
+    "choices": [
+      "Литий-железо-фосфат",
+      "Оксид литий-кобальта",
+      "Оксид литий-марганца",
+      "Оксид литий-никеля"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b7d4ac19b3e6ef35234bc430e10a934cc1e7df90a76f5b399b3053c392a19b1b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Что происходит с внутренним сопротивлением литий-ионного элемента по мере его старения?",
+    "correct_answer": "Оно увеличивается",
+    "choices": [
+      "Оно увеличивается",
+      "Оно уменьшается",
+      "Оно остаётся постоянным",
+      "Оно колеблется"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "36fad1b8cf03ac4d3f1da4b7abeffb0c63a6d110fa3b2fb81881047af5ee97ff"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Что такое слой SEI в литий-ионном аккумуляторе?",
+    "correct_answer": "Пассивирующая пленка, образующаяся на аноде во время первого заряда",
+    "choices": [
+      "Пассивирующая пленка, образующаяся на аноде во время первого заряда",
+      "Защитный изолирующий слой между элементами",
+      "Токопроводящее покрытие на катоде",
+      "Тепловой барьер между модулями"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "065c3dccb5913d6232bb115061ab396fa3d234d5e40be05b176820a4ebb7d7a3"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Что в первую очередь обеспечивает электролит в литий-ионном элементе?",
+    "correct_answer": "Транспорт ионов между анодом и катодом",
+    "choices": [
+      "Транспорт ионов между анодом и катодом",
+      "Проводимость электронов к внешним выводам",
+      "Механическую поддержку электродов",
+      "Отвод тепла к корпусу элемента"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d4114b4a288256e727a384019f82f68a15b7efc319885c801b2bd9718d779bf4"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Какой самый распространенный растворитель, используемый в электролитах литий-ионных аккумуляторов?",
+    "correct_answer": "Этиленкарбонат",
+    "choices": [
+      "Этиленкарбонат",
+      "Пропиленгликоль",
+      "Дистиллированная вода",
+      "Серная кислота"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "01a6a96a15424e79bce5836f4a78ed90cd2c7138d409623b926d0dada3d383f5"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Какая литиевая соль обычно растворяется в электролите литий-ионного аккумулятора?",
+    "correct_answer": "LiPF₆ (гексафторфосфат лития)",
+    "choices": [
+      "LiPF₆ (гексафторфосфат лития)",
+      "NaCl (хлорид натрия)",
+      "LiOH (гидроксид лития)",
+      "KOH (гидроксид калия)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e904708ed6f489f7a70e4be7e1c0119e2add046797c85cbc5a68edfd427937a8"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "При какой температуре обычно начинается тепловой разгон в NMC-элементе?",
+    "correct_answer": "Около 150-180 °C",
+    "choices": [
+      "Около 70-90 °C",
+      "Около 100-120 °C",
+      "Около 150-180 °C",
+      "Выше 300 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d102caaf38cfce9bb5688458dd30cf4f8a2f0e3d9ac48a60daa6f612619ef967"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какова типичная скорость саморазряда LFP-элемента в месяц?",
+    "correct_answer": "1-3%",
+    "choices": [
+      "0.1-0.3%",
+      "1-3%",
+      "5-8%",
+      "10-15%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "be8dacd40a81e57e31182653c5a9e3c45c87bfa95da7190140294f61bfbdd44c"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Что такое литиевое покрытие (lithium plating) в аккумуляторе?",
+    "correct_answer": "Осаждение металлического лития на аноде при быстром заряде или низкой температуре",
+    "choices": [
+      "Осаждение металлического лития на аноде при быстром заряде или низкой температуре",
+      "Производственный процесс покрытия поверхности катода",
+      "Добавление внешнего слоя лития для увеличения ёмкости",
+      "Естественное образование кристаллов лития при разряде"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "11544758692a5141973a937efb47e8a51f64777c1a3808dfe6a6e89ce7ec2101"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "В чем преимущество гравиметрической энергетической плотности NMC по сравнению с LFP?",
+    "correct_answer": "На 30-50% выше",
+    "choices": [
+      "На 5-10% выше",
+      "На 30-50% выше",
+      "На 80-100% выше",
+      "NMC на самом деле ниже, чем LFP"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3b3824211f892c7565369b3cef3ee1942381e18ef8368d81f582c7428f7322e0"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура OCV в характеристиках аккумулятора?",
+    "correct_answer": "Напряжение разомкнутой цепи",
+    "choices": [
+      "Напряжение разомкнутой цепи",
+      "Напряжение перегрузки по току",
+      "Оптимальное напряжение элемента",
+      "Рабочее напряжение зарядки"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "308778c9f700d5eae118d5947c2117c0f39c3d6f5603333c3f4effcf45e64622"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Что такое формовочный цикл (formation cycling) в производстве аккумуляторов?",
+    "correct_answer": "Начальные циклы заряда-разряда для формирования слоя SEI",
+    "choices": [
+      "Начальные циклы заряда-разряда для формирования слоя SEI",
+      "Финальная сборка элементов в модули",
+      "Тестирование элементов при повышенных температурах",
+      "Калибровка датчиков напряжения BMS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "06e43d36e9e15ad1b77723988e66df4195a2f9ff290fc84b599de75f35bf958d"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Каков типичный критерий окончания срока службы для сетевой BESS?",
+    "correct_answer": "Снижение ёмкости до 70-80% от начальной номинальной ёмкости",
+    "choices": [
+      "Снижение ёмкости до 70-80% от начальной номинальной ёмкости",
+      "Снижение ёмкости до 50%",
+      "Полный отказ любого отдельного элемента",
+      "После ровно 10 лет эксплуатации"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "5834d56f9cd387c34096bc506aa5b0be0d7bc095131c9d638e015d0031cf9e0b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какова цель сепаратора в литий-ионном элементе?",
+    "correct_answer": "Предотвращает электрический контакт между анодом и катодом, обеспечивая поток ионов",
+    "choices": [
+      "Предотвращает электрический контакт между анодом и катодом, обеспечивая поток ионов",
+      "Разделяет разные модули аккумуляторов в стойке",
+      "Фильтрует примеси из электролита",
+      "Изолирует аккумулятор от внешней цепи"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2dccc97c7d33180b60a3ca56d3f3cc472bd03c71928656a8b1fbb66660979cc2"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Что происходит с ёмкостью элемента при низких температурах?",
+    "correct_answer": "Она временно уменьшается из-за повышенного внутреннего сопротивления",
+    "choices": [
+      "Она временно уменьшается из-за повышенного внутреннего сопротивления",
+      "Она увеличивается из-за снижения саморазряда",
+      "Она остаётся точно такой же",
+      "Это необратимо ухудшает элемент"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d2e85517e6861cf41df95821b8c9bcc7e3bc0554442bdf1b1ba09011554072cf"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура LFP в химии аккумуляторов?",
+    "correct_answer": "Литий-железо-фосфат",
+    "choices": [
+      "Литий-железо-фосфат",
+      "Литий-фторидный полимер",
+      "Литий-железистый пероксид",
+      "Литий-ионный фосфат"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "65e8051af4904db681d0de68b7ee1b8f1eabfa8cc0423c6cc5abc1bd64a4d08e"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Каково номинальное напряжение элемента LFP?",
+    "correct_answer": "3,2 В",
+    "choices": [
+      "2,5 В",
+      "3,2 В",
+      "3,7 В",
+      "4,2 В"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6e3c58409a92aa4b47f6b924b08cac31ab88784b3eb2bbc3def7664c8214b280"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какой материал катода используется в NMC-аккумуляторе?",
+    "correct_answer": "Никель-марганец-кобальт",
+    "choices": [
+      "Никель-марганец-кобальт",
+      "Никель-магний-медь",
+      "Азот-молибден-углерод",
+      "Неодим-магний-церий"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "516b0927666006a44048977ff589c6a1c819a8de5276f42c67da4c55bcc0f983"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "В чем ключевое преимущество LFP по безопасности по сравнению с NMC?",
+    "correct_answer": "Более высокая температура начала теплового разгона",
+    "choices": [
+      "Более высокая температура начала теплового разгона",
+      "Более высокая энергетическая плотность",
+      "Более низкая стоимость производства",
+      "Более высокая скорость зарядки"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "caf7f3e4bd5d6408c97242e513e6e7786169489582de9e5caa2accf2f8866521"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какова эффективность преобразования энергии (round-trip efficiency) для типичной сетевой BESS?",
+    "correct_answer": "85-90%",
+    "choices": [
+      "65-70%",
+      "75-80%",
+      "85-90%",
+      "95-99%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b13e674a2a0f3d4e8819549213d5ea2981436a8d1108ce8da420fe8bf2f5c61a"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "Что описывает C-rate для аккумулятора?",
+    "correct_answer": "Ток заряда или разряда относительно ёмкости",
+    "choices": [
+      "Ток заряда или разряда относительно ёмкости",
+      "Стоимость за кВт·ч хранения",
+      "Углеродный след производства",
+      "Диапазон рабочих температур элемента"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a1b275208da3d43fceb5c855b1e58055f9fc2f50fd2f0953c06086ec41a2fdcc"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Каков типичный циклический ресурс современного LFP-аккумулятора при глубине разряда 80%?",
+    "correct_answer": "6 000 - 10 000 циклов",
+    "choices": [
+      "500 - 1 000 циклов",
+      "2 000 - 4 000 циклов",
+      "6 000 - 10 000 циклов",
+      "15 000 - 20 000 циклов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "32d7af24f5815630eaedcb624779fb844ae0b8241e6e4a11ccd75d6a08f9c6f1"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура SOC в терминологии аккумуляторов?",
+    "correct_answer": "Состояние заряда (State of Charge)",
+    "choices": [
+      "Состояние заряда (State of Charge)",
+      "Состояние ёмкости (State of Capacity)",
+      "Статус элемента (Status of Cell)",
+      "Системное рабочее условие (System Operating Condition)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d32b90dbd51ae5bb189a7c6e8f75d70d30651f673aef68ef2512e6acd0aed370"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Каков основной механизм деградации литий-ионных аккумуляторов при циклировании?",
+    "correct_answer": "Рост слоя SEI (Solid Electrolyte Interphase) на аноде",
+    "choices": [
+      "Рост слоя SEI (Solid Electrolyte Interphase) на аноде",
+      "Испарение материала катода",
+      "Кипение электролита",
+      "Физическое растрескивание корпуса элемента"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ba2d7a35203415be3a3b8090699644535eaf917e1be18b6b1b42e3c164eca45b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "Что означает DOD?",
+    "correct_answer": "Глубина разряда (Depth of Discharge)",
+    "choices": [
+      "Глубина разряда (Depth of Discharge)",
+      "Степень истощения (Degree of Depletion)",
+      "Длительность разряда (Duration of Discharge)",
+      "Диффузия разряда (Diffusion of Discharge)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ff98db1a737a88f06928821b9380f913d275561ade8b9a39c92bd4cde3dbaa2f"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Какова типичная энергетическая плотность LFP-аккумулятора на уровне элемента?",
+    "correct_answer": "90-160 Вт·ч/кг",
+    "choices": [
+      "50-80 Вт·ч/кг",
+      "90-160 Вт·ч/кг",
+      "200-260 Вт·ч/кг",
+      "300-350 Вт·ч/кг"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e4817fc9bddbc8f7e4bb375a8fe6f214f4d7c8eac0146637ba4b2b77d2843453"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какой материал анода наиболее распространен в коммерческих литий-ионных элементах?",
+    "correct_answer": "Графит",
+    "choices": [
+      "Графит",
+      "Кремний",
+      "Титанат лития",
+      "Алюминий"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "5494222f1cb29a30b29b6357ed4c8fc6c6eb06ae74269b577b42351c6140ecca"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какова типичная энергоэффективность DC-DC (round-trip) отдельного литий-ионного элемента?",
+    "correct_answer": ">95%",
+    "choices": [
+      ">65%",
+      ">80%",
+      ">95%",
+      ">99,5%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "5007e1eaeca7d3661e4fcd7cced9c8199ffca0fe5bc8bd8db59f5b7b42f124bb"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какая химия аккумулятора использует жидкие ванадиевые электролиты?",
+    "correct_answer": "Ванадиевая проточная окислительно-восстановительная батарея",
+    "choices": [
+      "Ванадиевая проточная окислительно-восстановительная батарея",
+      "Титанат лития",
+      "Натрий-серный",
+      "Никель-железо"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8ab2b72be3d1cddb1c017a15f05be62ecfee251db85553f8c3473bbe1fe81f57"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Каков типичный диапазон рабочих температур для контейнера литий-ионной BESS?",
+    "correct_answer": "15-30 °C",
+    "choices": [
+      "-20 - 0 °C",
+      "0 - 15 °C",
+      "15-30 °C",
+      "40-60 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "928d979cecc9cebffec001a186c96abea055e8e8f719dfb79a058d1b4d406edb"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "В чем основное преимущество натрий-серных аккумуляторов для сетевого хранения?",
+    "correct_answer": "Обилие и низкая стоимость сырья",
+    "choices": [
+      "Обилие и низкая стоимость сырья",
+      "Наивысшая доступная энергетическая плотность",
+      "Работа при комнатной температуре",
+      "Самое быстрое время отклика"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8ed137d006f7eaed4c3a36741eedc7d6e2be509be16715b689cb7b732dafb87c"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "easy",
+    "question_text": "Что означает SOH в управлении аккумуляторами?",
+    "correct_answer": "Состояние здоровья (State of Health)",
+    "choices": [
+      "Состояние здоровья (State of Health)",
+      "Состояние тепла (State of Heat)",
+      "Системная эксплуатационная помощь (System Operating Help)",
+      "Стандартные часы работы (Standard Operating Hours)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ead6c07d257a6d1e542e27b183b6872f304c2c85098791f8e31501c50aaa3e86"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "medium",
+    "question_text": "Какая самоусиливающаяся экзотермическая реакция является основной причиной пожаров аккумуляторов?",
+    "correct_answer": "Тепловой разгон (Thermal runaway)",
+    "choices": [
+      "Тепловой разгон (Thermal runaway)",
+      "Тепловое равновесие (Thermal equilibrium)",
+      "Экзотермический разряд (Exothermic discharge)",
+      "Каскад перегрузки по току (Overcurrent cascade)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2c533ef7f1a98037aefac1afd946bbe7f57024eb1153dd096f70f993c56bfcf9"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "При каком напряжении элемента обычно начинается растворение меди в литий-ионных элементах?",
+    "correct_answer": "Ниже 2,0 В",
+    "choices": [
+      "Ниже 2,0 В",
+      "Ниже 1,0 В",
+      "Выше 3,8 В",
+      "Выше 4,5 В"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d20b31aeaa0f2cfb64323a23d1ea377ee2fa47bce90ccd0c9b404c55d9eb556b"
+  },
+  {
+    "category": "battery-tech",
+    "difficulty": "hard",
+    "question_text": "Каков типичный уровень напряжения на стороне постоянного тока контейнера BESS коммунального масштаба?",
+    "correct_answer": "1 000 - 1 500 В",
+    "choices": [
+      "400 - 600 В",
+      "1 000 - 1 500 В",
+      "3 000 - 5 000 В",
+      "150 - 300 В"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6c0e067a67db9b0ce15d7f43ded378ae935996de9e86f77ba2bbc6029debf820"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какая компания по хранению энергии была основана бывшими руководителями Tesla по энергетике?",
+    "correct_answer": "Plus Power",
+    "choices": [
+      "Plus Power",
+      "Fluence",
+      "Powin",
+      "Key Capture Energy"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ea15a419126263c969fda78d498f6591e64d475f667c5779b3dcd5313ddfdf0c"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Как называется бренд продукта BESS коммунального масштаба от Huawei?",
+    "correct_answer": "Luna 2.0",
+    "choices": [
+      "Luna 2.0",
+      "Blade BESS",
+      "PowerVault",
+      "Sungrid"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "bbc2fbde7ea9862feeba9ae5807055211f63787d6c9b663b42174d375f03d78d"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какая компания по хранению энергии находится в Орегоне и известна платформой Centipede?",
+    "correct_answer": "Powin",
+    "choices": [
+      "Powin",
+      "Fluence",
+      "FlexGen",
+      "Stem"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d6fc872a326e6798fe2401d938d652c63e3af081e0860bf7daa95c6e2803f2d8"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Как называется линейка продуктов BESS компании Wartsila?",
+    "correct_answer": "GridSolv Quantum",
+    "choices": [
+      "GridSolv Quantum",
+      "GridScale Power",
+      "WattStore",
+      "EnergyArk"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "546622d598aa7d14badb4978abc4c8a2e074d83accef66c3efee4c6a8c17e55f"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Как называется продукт BESS от EVE Energy?",
+    "correct_answer": "Mr. Giant",
+    "choices": [
+      "Mr. Giant",
+      "Mr. Big",
+      "Power Stack",
+      "E-Cube"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6b713a8abc9c57120f9dcee61278f17228da650d97b50e8bbd4904651f449bf5"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какой интегратор систем хранения энергии использует платформу HybridOS EMS?",
+    "correct_answer": "FlexGen",
+    "choices": [
+      "FlexGen",
+      "Fluence",
+      "Powin",
+      "Wartsila"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "81e181ceb375fba56a86f8d78de02563d120efe3d6a6b5119bac28e968cb0a5c"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Что означает LTSA в услугах по хранению энергии?",
+    "correct_answer": "Долгосрочное сервисное соглашение (Long Term Service Agreement)",
+    "choices": [
+      "Долгосрочное сервисное соглашение (Long Term Service Agreement)",
+      "Передача нагрузки и распределение хранения (Load Transfer and Storage Allocation)",
+      "Лицензированный технический сервисный агент (Licensed Technical Service Agent)",
+      "Аудит безопасности и тестирование жизненного цикла (Lifecycle Testing and Safety Audit)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "7e408748a948cb8ee87672a84304f40f36fa9e86fa8344b9ffda32dfef597299"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Какой китайский производитель BESS поставляет технологию Blade Battery?",
+    "correct_answer": "BYD",
+    "choices": [
+      "BYD",
+      "CATL",
+      "Gotion",
+      "CALB"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "764fc4920f183b6ac2752eac32b9e7d7caae953fd154d1c66fe606bba2fc8ba4"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "В чем ключевое отличие технологии cell-to-pack (CTP) от CATL?",
+    "correct_answer": "Устраняет уровень модуля, упаковывая элементы непосредственно в блок",
+    "choices": [
+      "Устраняет уровень модуля, упаковывая элементы непосредственно в блок",
+      "Использует беспроводной мониторинг элементов вместо проводной BMS",
+      "Интегрирует PCS внутрь модуля аккумулятора",
+      "Заменяет жидкостное охлаждение пассивным воздушным охлаждением"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b94178f470c6e589c514536957973b726f9c428e235ca6ad4fd15d1586aeec7b"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какая компания производит элементы BESS REC 2.0 ГВт·ч/год в первую очередь для североамериканского рынка?",
+    "correct_answer": "American Battery Factory (ABF)",
+    "choices": [
+      "American Battery Factory (ABF)",
+      "Tesla",
+      "Kore Power",
+      "LG Energy Solution"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e7a55522ab692abf2d43e654d29d3f3d608e1f3d552130b1965ab801bf061e39"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "easy",
+    "question_text": "Какая компания производит продукт Megapack для аккумуляторных систем коммунального масштаба?",
+    "correct_answer": "Tesla",
+    "choices": [
+      "Tesla",
+      "Fluence",
+      "Sungrow",
+      "Powin"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8b637cf8b58510077e38808892441f10e210884c77f79fecd623e0d6efd3ca38"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Какой интегратор систем хранения энергии является совместным предприятием Siemens и AES?",
+    "correct_answer": "Fluence",
+    "choices": [
+      "Fluence",
+      "Wartsila",
+      "Sungrow",
+      "Powin"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4ffeff1bd011edd3b0b9b87e15a774c61d0fb7fc81903b78ffda2b4436b6a00c"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "easy",
+    "question_text": "Какая китайская компания является крупнейшим в мире производителем аккумуляторов для электромобилей и стационарных систем по ёмкости?",
+    "correct_answer": "CATL",
+    "choices": [
+      "CATL",
+      "BYD",
+      "EVE Energy",
+      "Gotion"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "73b169f12095240f779ecdaebfd8cb20b73442aec352ac8113eb1ded7a427288"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Как называется продукт BESS коммунального масштаба от BYD?",
+    "correct_answer": "BYD Cube",
+    "choices": [
+      "BYD Cube",
+      "BYD Blade",
+      "BYD Stack",
+      "BYD Block"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ba636f767fde64afdcf4e1733beffe831af335e0d41893e6929222470c02e3e7"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Какая финская технологическая компания имеет крупное подразделение BESS сетевого масштаба?",
+    "correct_answer": "Wartsila",
+    "choices": [
+      "Wartsila",
+      "ABB",
+      "Nokia",
+      "KONE"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4fd0585092449b28c312602bb28fdd3c2415748817d027e5ae0683b3957a0966"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какая компания разработала платформы BESS GridStack и Centipede?",
+    "correct_answer": "Fluence",
+    "choices": [
+      "Fluence",
+      "Tesla",
+      "Wartsila",
+      "Sungrow"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c2f5dab1993624a4e636435e27ba124fa42be4d8f7ecf2608e1c5b56f0fd9bca"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Какой крупный производитель инверторов со штаб-квартирой в Хэфэе, Китай, входит в тройку мировых лидеров по интеграции BESS?",
+    "correct_answer": "Sungrow",
+    "choices": [
+      "Sungrow",
+      "Huawei",
+      "Ginlong Solis",
+      "Chint Power"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a2394e88db8ad7b310c53839d7e24f077f1df5a4115bc4b893df1fa9185f00e4"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какой американский интегратор BESS был приобретен дочерней компанией SK Group?",
+    "correct_answer": "Key Capture Energy",
+    "choices": [
+      "Key Capture Energy",
+      "Powin",
+      "FlexGen",
+      "Plus Power"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "bae032dc19fb7132f550a00e11f547792d985818eea71cc8f734e4cb9d1a7738"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Как называется производственное предприятие BESS компании Tesla в Калифорнии?",
+    "correct_answer": "Мегафабрика в Латропе",
+    "choices": [
+      "Мегафабрика в Латропе",
+      "Гигафабрика 1 в Неваде",
+      "Гигафабрика Техас",
+      "Завод Фремонт"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "737e3db30c391cbee30fb312a2f49fb08f9444096e4ceb478cbe9244d317f6a4"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "medium",
+    "question_text": "Какой корейский производитель аккумуляторов также является крупным поставщиком BESS-ячеек по всему миру?",
+    "correct_answer": "LG Energy Solution",
+    "choices": [
+      "LG Energy Solution",
+      "Hyundai Electric",
+      "Doosan GridTech",
+      "POSCO"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e512cae36e74989be66143ef1cf4820b6979dfb1704093bd75c4f7a611970f91"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какой интегратор BESS использует программную платформу Modular StackOS?",
+    "correct_answer": "Powin",
+    "choices": [
+      "Powin",
+      "Fluence",
+      "Tesla",
+      "Wartsila"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e44c8eb877bc44224b7e1d0cef97913e598f0a881934a1be2345bcf35aab0e87"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Как называется литий-железо-фосфатный аккумуляторный элемент CATL, широко используемый в BESS?",
+    "correct_answer": "LFP 280 Ah элемент",
+    "choices": [
+      "LFP 280 Ah элемент",
+      "LFP 100 Ah элемент",
+      "LFP 500 Ah элемент",
+      "LFP 1,000 Ah элемент"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "61c10840846038dc92ba2e96ea3f870e5525a17fdb7afa0a22c1ce36ee78a011"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какая компания владеет совместным предприятием Fluence вместе с Siemens?",
+    "correct_answer": "AES Corporation",
+    "choices": [
+      "AES Corporation",
+      "Duke Energy",
+      "NextEra Energy",
+      "Southern Company"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "36dc7f9236b4df257e2e48727a415bd149f527b84b783f7c35482fb9c19e9f72"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какой базирующийся в США ИИ-оптимизатор накопления энергии был приобретен компанией Enphase?",
+    "correct_answer": "GreenCom Networks",
+    "choices": [
+      "GreenCom Networks",
+      "AutoGrid",
+      "Stem",
+      "AMS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "1727618f4bb3bb1372f6636f27f80f37b70eb430f61796069f86273b6bac2541"
+  },
+  {
+    "category": "bess-companies",
+    "difficulty": "hard",
+    "question_text": "Какую программную платформу BESS и EMS использует Wartsila для своих систем сетевого масштаба?",
+    "correct_answer": "GEMS Digital Energy Platform",
+    "choices": [
+      "GEMS Digital Energy Platform",
+      "MOSAIC",
+      "Autobidder",
+      "OSPI"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "dd3d1319a3afdc3750dc73a9ca681f3fddf4148af6ca60c43b8640326e327188"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "Сколько примерно батарей, эквивалентных Hornsdale Power Reserve на 100 дней, потребовалось бы для питания всего мира в течение одного дня?",
+    "correct_answer": "Примерно 2 миллиона",
+    "choices": [
+      "Примерно 2 миллиона",
+      "Около 500 000",
+      "Около 100 000",
+      "Около 50 миллионов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "358f488f0b018d1603c7f12d464c71adf2dfc099eb66109dd9973161d32e559a"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "Какое распространенное горнодобывающее транспортное средство было успешно переоборудовано в самый большой в мире электромобиль с массивной батареей?",
+    "correct_answer": "Самосвал Komatsu (eDumper)",
+    "choices": [
+      "Самосвал Komatsu (eDumper)",
+      "Бульдозер Caterpillar",
+      "Роторный экскаватор",
+      "Тоннелепроходческий щит"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f4c3a9169b9f6844f9a13ada905387904b1c86d4fa6001ba6ba9b91507282b06"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "Какой предмет повседневного обихода содержит аккумулятор с примерно таким же содержанием лития, как около 10 000 аккумуляторов смартфонов?",
+    "correct_answer": "Один Tesla Megapack",
+    "choices": [
+      "Один Tesla Megapack",
+      "Apple MacBook",
+      "Аккумуляторная дрель",
+      "Слуховой аппарат"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "bb867ae8ebd4f9bc1d6029627057ee92808353dd570948d39589b59e254401ed"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "easy",
+    "question_text": "Какая самая большая батарея в известной Вселенной (по массе и энергии), диаметром примерно 1,4 миллиона км?",
+    "correct_answer": "Солнце",
+    "choices": [
+      "Солнце",
+      "Юпитер",
+      "Проточная батарея Даляня",
+      "Гигафабрика Tesla"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c1672219fa2e1974b5dded230e552a985474f122deed8a9a8bb593cb6ed50e30"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "Как долго типичный Megapack может питать среднее австралийское домохозяйство?",
+    "correct_answer": "Около 2 дней при типичном дневном потреблении",
+    "choices": [
+      "Около 2 часов",
+      "Около 2 дней при типичном дневном потреблении",
+      "Около 2 недель",
+      "Около 2 месяцев"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6b1a619793777079f57e07d56b4542245180778bc53fc38823bbef8ef2d060c7"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "В знаменитом твит-пари Илона Маска, которое привело к созданию Hornsdale Power Reserve, за сколько дней он пообещал его построить?",
+    "correct_answer": "100 дней или бесплатно",
+    "choices": [
+      "100 дней или бесплатно",
+      "60 дней или полцены",
+      "200 дней или бесплатно",
+      "30 дней или удвоенная гарантия"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "400da1650380f8792f5ff0d09ffae061db88573eb5dc9b8b7c705376932b3f5f"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "Сколько Hornsdale Power Reserve сэкономила потребителям Южной Австралии за первый год?",
+    "correct_answer": "Примерно 40-50 миллионов австралийских долларов",
+    "choices": [
+      "Примерно 1 миллион австралийских долларов",
+      "Примерно 5 миллионов австралийских долларов",
+      "Примерно 40-50 миллионов австралийских долларов",
+      "Примерно 500 миллионов австралийских долларов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8ea5e2da58aac7018fa8442b52f135af83d5a968558d583af29a00aa5a66a354"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "Какова примерная эффективность преобразования энергии (round-trip efficiency) гидроаккумулирующих станций по сравнению с литий-ионными BESS?",
+    "correct_answer": "Гидроаккумуляция: 70-80%; Li-ion BESS: 85-95%",
+    "choices": [
+      "Гидроаккумуляция: 70-80%; Li-ion BESS: 85-95%",
+      "Гидроаккумуляция: 50-60%; Li-ion BESS: 70-80%",
+      "Обе примерно 80-85%",
+      "Гидроаккумуляция: 90-95%; Li-ion BESS: 70-80%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "44d4671ec909b385b35e53663368a7cdbb92eff37fe0c88b730b65d4f8a87411"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "Когда было зафиксировано первое использование батареи для хранения электроэнергии?",
+    "correct_answer": "1800 год, вольтов столб Алессандро Вольта",
+    "choices": [
+      "1800 год, вольтов столб Алессандро Вольта",
+      "1752 год, эксперимент с воздушным змеем Бенджамина Франклина",
+      "1859 год, свинцово-кислотная батарея Гастона Планте",
+      "1899 год, никель-кадмиевая батарея Вальдемара Юнгнера"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "49c9f2a886f762cbf8f145931391d6d7469a3816b2893343181460befd8dba1d"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "hard",
+    "question_text": "Сколько щелочных батареек AA потребуется, чтобы сравняться по емкости с одним контейнером SolBank 3.0?",
+    "correct_answer": "Примерно 1,7 миллиона батареек AA",
+    "choices": [
+      "Примерно 10 000 батареек AA",
+      "Примерно 100 000 батареек AA",
+      "Примерно 1,7 миллиона батареек AA",
+      "Примерно 10 миллионов батареек AA"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6ce7c2151457afeb28364b322afd60bf4f1438a2689a99bfe2a4db68ac21f537"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "К 2024 году примерно какой процент мировых продаж новых автомобилей составляли электромобили (BEV + PHEV)?",
+    "correct_answer": "Около 18%",
+    "choices": [
+      "Около 5%",
+      "Около 10%",
+      "Около 18%",
+      "Около 35%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a2eb3270c36d392b081ac421804ac72208d3122cb68d3aaf1bbf51e8fbc6b74a"
+  },
+  {
+    "category": "bess-fun-facts",
+    "difficulty": "medium",
+    "question_text": "Каково общее годовое мировое потребление электроэнергии в приблизительных цифрах?",
+    "correct_answer": "Около 25 000–30 000 ТВт·ч",
+    "choices": [
+      "Около 5 000 ТВт·ч",
+      "Около 25 000–30 000 ТВт·ч",
+      "Около 100 000 ТВт·ч",
+      "Около 500 000 ТВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e28d1e8d18286da5a3714a0713ede34c34d6610296b65c0b84ee888ba803cc3f"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "В каком году Hornsdale Power Reserve в Южной Австралии начала работу?",
+    "correct_answer": "2017",
+    "choices": [
+      "2014",
+      "2015",
+      "2017",
+      "2019"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "0f930c07877046fcdea61abaa4faf48dd99b95f1ea31dd3e422bab3144172c40"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "Кому приписывают изобретение первого литий-ионного аккумулятора в 1970-х годах?",
+    "correct_answer": "М. Стэнли Уиттингем",
+    "choices": [
+      "М. Стэнли Уиттингем",
+      "Томас Эдисон",
+      "Алессандро Вольта",
+      "Никола Тесла"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ac386c44405a20b8c3172712ed25bce13fd41d3f0bfd6fb2b03af36b88d62a36"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "Какая компания коммерциализировала первый литий-ионный аккумулятор в 1991 году?",
+    "correct_answer": "Sony",
+    "choices": [
+      "Sony",
+      "Panasonic",
+      "Samsung",
+      "Toshiba"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2a7e1c6acf37b293acb7e88266bb94181784005eff933b2abc092d51eb557945"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "В каком году вступил в силу Приказ FERC 841, требующий от операторов сетей учитывать накопители энергии?",
+    "correct_answer": "2018",
+    "choices": [
+      "2014",
+      "2016",
+      "2018",
+      "2020"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "9523cdbf7da1fb1b4dd511e57c66f118f509b2dc89ee93b0fee22b7697658d16"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "В какой номинации Нобелевской премии была присуждена награда за разработку литий-ионных аккумуляторов в 2019 году?",
+    "correct_answer": "Химия",
+    "choices": [
+      "Химия",
+      "Физика",
+      "Инженерия",
+      "Мир"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "065a011e9c7cf77849e6e3f7363b604a2a9a588d83ead1bfdcb3b99767245dcf"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "Какое было первое в мире гидроаккумулирующее энергохранилище и когда оно было построено?",
+    "correct_answer": "Энгевейер, Швейцария, построено в 1882 году",
+    "choices": [
+      "Энгевейер, Швейцария, построено в 1882 году",
+      "Ниагарский водопад, США, построен в 1920 году",
+      "Динорвиг, Уэльс, построен в 1975 году",
+      "Бат-Каунти, США, построен в 1985 году"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8ebbd7487f6f6739dbd20739e715ee8a29149963399ab2630bccd21cc94f314c"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "Когда глобальная установленная мощность BESS впервые превысила 10 ГВт?",
+    "correct_answer": "2020",
+    "choices": [
+      "2015",
+      "2017",
+      "2020",
+      "2022"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c7d257de5138fff7632ac34a41bb9db8d403eed7b62c7b2bfa02618c3ef3bf9d"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "Какова была примерная установленная стоимость литий-ионного BESS за кВт·ч в 2010 году?",
+    "correct_answer": "Около $1000/кВт·ч",
+    "choices": [
+      "Около $500/кВт·ч",
+      "Около $1000/кВт·ч",
+      "Около $200/кВт·ч",
+      "Около $100/кВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "43ceb8bcc7fd6709f68a616777a885efac8d1d797f7b7d0c97e0d41061d44fb9"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "Какова была примерная установленная стоимость литий-ионного BESS за кВт·ч к 2023 году?",
+    "correct_answer": "Около $150–200/кВт·ч",
+    "choices": [
+      "Около $50/кВт·ч",
+      "Около $150–200/кВт·ч",
+      "Около $500/кВт·ч",
+      "Около $800/кВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2759043acd044d692a7597cd4df86e8700c7e5806e1220938608ee669131fa3d"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "Какой был первый штат США, установивший обязательные цели по закупкам накопителей энергии?",
+    "correct_answer": "Калифорния",
+    "choices": [
+      "Калифорния",
+      "Нью-Йорк",
+      "Техас",
+      "Массачусетс"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "309de3dcadbfe5c1cbf44ff15c77b162c8a3fb63d42e8f3a599b0a7bf1598b07"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "medium",
+    "question_text": "В каком году Tesla анонсировала домашнюю аккумуляторную систему Powerwall?",
+    "correct_answer": "2015",
+    "choices": [
+      "2013",
+      "2015",
+      "2017",
+      "2019"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f3f651ce4dbc5c9747b0db7527b3490571c9123a27117f42b0b8b9a2e1269bd1"
+  },
+  {
+    "category": "bess-history",
+    "difficulty": "hard",
+    "question_text": "Какой был крупнейший в мире проект аккумуляторного хранения энергии по МВт·ч, когда он был завершен поэтапно к 2023 году?",
+    "correct_answer": "Moss Landing Energy Storage Facility в Калифорнии",
+    "choices": [
+      "Moss Landing Energy Storage Facility в Калифорнии",
+      "Hornsdale Power Reserve в Австралии",
+      "Dalian Flow Battery в Китае",
+      "Victorian Big Battery в Австралии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b74d2113b9f15425f8525f96fd450a328f4f9b082bbbe2bedd9389daa820b09a"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какова мощность Wallgrove Grid Battery в западном Сиднее?",
+    "correct_answer": "50 МВт / 75 МВт·ч",
+    "choices": [
+      "25 МВт / 50 МВт·ч",
+      "50 МВт / 75 МВт·ч",
+      "100 МВт / 150 МВт·ч",
+      "200 МВт / 350 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "689c671cdae0df2babf89cfe687dee2fa27c7e6b157e58e1b7bea52a1a556e41"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какой самый большой BESS в Квинсленде, Австралия, по состоянию на 2024 год?",
+    "correct_answer": "Wandoan South BESS",
+    "choices": [
+      "Wandoan South BESS",
+      "Kogan Creek BESS",
+      "Bouldercombe BESS",
+      "Greenbank BESS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c2340fbd6d343160f5d961c338fe71590fdb42a0788aaa222a5a70d2f013858f"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какой инновационный подход продемонстрировала Wallgrove Grid Battery в Австралии?",
+    "correct_answer": "Синтетическая инерция и возможность сеткообразующего инвертора",
+    "choices": [
+      "Синтетическая инерция и возможность сеткообразующего инвертора",
+      "Подводное размещение батареи",
+      "Интеграция солнечных панелей на крыше контейнера",
+      "Беспроводная передача энергии в сеть"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "5e2ada24078239e61467c1fa6aa733b60768446a548f19b1897b8418a4a5c989"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "В каком штате США находится проект Edwards & Sanborn solar-plus-storage, один из крупнейших в мире?",
+    "correct_answer": "Калифорния",
+    "choices": [
+      "Калифорния",
+      "Техас",
+      "Аризона",
+      "Невада"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6b69372353052a87dc97d65d7767a47fc7af5df9ec9f4e2898363d3bdb3265d0"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какая компания поставила элементы для Victorian Big Battery?",
+    "correct_answer": "Tesla (Megapacks с элементами CATL)",
+    "choices": [
+      "Tesla (Megapacks с элементами CATL)",
+      "Samsung SDI",
+      "LG Energy Solution",
+      "Panasonic"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "7b2bd89c4e986f9423272f115a7428ee14c357a7ac2545faa792f6feb7c5f289"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какова мощность проекта Gateway Energy Storage в Калифорнии?",
+    "correct_answer": "250 МВт / 250 МВт·ч (Фаза 1)",
+    "choices": [
+      "100 МВт / 100 МВт·ч",
+      "250 МВт / 250 МВт·ч (Фаза 1)",
+      "500 МВт / 1 000 МВт·ч",
+      "750 МВт / 3 000 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a631925577b0f8e9068404dc5ddc828233daa62e9b5ddc81f0e87618eb5951eb"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Какова цель Lake Bonney BESS в Южной Австралии?",
+    "correct_answer": "Совместное размещение с ветряной электростанцией для стабильности сети и FCAS",
+    "choices": [
+      "Совместное размещение с ветряной электростанцией для стабильности сети и FCAS",
+      "Обеспечение резервного питания для местного поселка",
+      "Работа в качестве автономной электростанции для торговли энергией",
+      "Поддержка близлежащего опреснительного завода"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "9c270d7bdcc77ff3b766fd9e15a27daff5d0dee5fa095c99bb8cdfe398683148"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какова мощность проекта Crimson I BESS?",
+    "correct_answer": "200 МВт / 800 МВт·ч",
+    "choices": [
+      "100 МВт / 400 МВт·ч",
+      "200 МВт / 800 МВт·ч",
+      "350 МВт / 1 400 МВт·ч",
+      "500 МВт / 2 000 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "09512598026c22f88b2a1462fac62113f2d14ca6f93120848566c1bfce513623"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какая компания владеет Manatee Energy Storage Center во Флориде?",
+    "correct_answer": "Florida Power & Light (FPL)",
+    "choices": [
+      "Florida Power & Light (FPL)",
+      "Duke Energy",
+      "Vistra Energy",
+      "NextEra Energy"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f4960ebde0dc91c86d04ccbccd593ad9718bcb6e79f88a41997145f586bdd4ca"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Для чего предназначен Broken Hill BESS в Австралии?",
+    "correct_answer": "Резервное питание для удаленного горнодобывающего сообщества при потере сетевого подключения",
+    "choices": [
+      "Резервное питание для удаленного горнодобывающего сообщества при потере сетевого подключения",
+      "Сдвиг пиковой нагрузки для Сиднея",
+      "Регулирование частоты для Квинсленда",
+      "Экспортная мощность в Индонезию"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "aa3d147db7e9a7f16dbe1cb7ef56ab42cb08b8e9d9118f0c31ca14109f9bbadf"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "easy",
+    "question_text": "Как называлась первая в мире сетевая большая батарея Tesla, установленная в Южной Австралии?",
+    "correct_answer": "Hornsdale Power Reserve",
+    "choices": [
+      "Hornsdale Power Reserve",
+      "Victorian Big Battery",
+      "Lake Bonney BESS",
+      "Dalrymple BESS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a3cd8eea06e3d5fbb87d039a0bbd09cac5884156ddd481d09ab24e96fdaf48af"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Какова была первоначальная номинальная мощность и емкость Hornsdale Power Reserve при вводе в эксплуатацию в 2017 году?",
+    "correct_answer": "100 МВт / 129 МВт·ч",
+    "choices": [
+      "50 МВт / 75 МВт·ч",
+      "100 МВт / 129 МВт·ч",
+      "150 МВт / 194 МВт·ч",
+      "300 МВт / 450 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "fdecb8639dc3186629293ed3b1214e54d080e18915bc7233f3a132c18be4ba22"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Какова номинальная мощность Victorian Big Battery?",
+    "correct_answer": "300 МВт / 450 МВт·ч",
+    "choices": [
+      "100 МВт / 129 МВт·ч",
+      "200 МВт / 300 МВт·ч",
+      "300 МВт / 450 МВт·ч",
+      "500 МВт / 1 000 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "547e9a93094c52abc357907364f8ccee41513fc0a051d9d95924f2acada3d5c9"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Какая компания разработала Moss Landing Energy Storage Facility в Калифорнии?",
+    "correct_answer": "Vistra Energy",
+    "choices": [
+      "Vistra Energy",
+      "Tesla",
+      "Fluence",
+      "NextEra Energy"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "938f980def654528b1b954cd5727077096b8ce1d9462db61e7adfe4f8c0eb013"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какова полная мощность Moss Landing BESS в Калифорнии после завершения строительства?",
+    "correct_answer": "750 МВт / 3 000 МВт·ч",
+    "choices": [
+      "300 МВт / 1 200 МВт·ч",
+      "500 МВт / 2 000 МВт·ч",
+      "750 МВт / 3 000 МВт·ч",
+      "1 000 МВт / 4 000 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6f249c911f5f988191225a1d0168707ad2d9022dd060f0605f87e6faaa936817"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какая самая большая в мире ванадиевая проточная батарея на сегодняшний день?",
+    "correct_answer": "Dalian Flow Battery Energy Storage Peaking Station",
+    "choices": [
+      "Dalian Flow Battery Energy Storage Peaking Station",
+      "Hokkaido Flow Battery Project",
+      "Fraunhofer RedoxWind",
+      "Sumitomo Hokkaido VRB"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d40816e15aa4b07f0d5206d2158011796145f02464de907ba5ff20d2c3fa2b95"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какое первое сетевое BESS обеспечило синтетическую инерцию в Австралии?",
+    "correct_answer": "Dalrymple ESCRI BESS в Южной Австралии",
+    "choices": [
+      "Dalrymple ESCRI BESS в Южной Австралии",
+      "Hornsdale Power Reserve",
+      "Victorian Big Battery",
+      "Wallgrove Grid Battery"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3e54f055b42e5431c239e16c9ddb9c7d823dd97f9db969d5f2ed048b93ae1661"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "В какой стране находится проект солнечной энергии с накоплением Edwards & Sanborn?",
+    "correct_answer": "Соединенные Штаты",
+    "choices": [
+      "Соединенные Штаты",
+      "Австралия",
+      "Япония",
+      "Тайвань"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b720438dbcbb75419715c4103cf5519f9de18bbc07ce0edc5e12159d57a51aba"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Какой основной источник дохода прославился Hornsdale Power Reserve?",
+    "correct_answer": "Услуги регулирования частоты FCAS, снижающие затраты на сеть",
+    "choices": [
+      "Услуги регулирования частоты FCAS, снижающие затраты на сеть",
+      "Временной сдвиг солнечной энергии",
+      "Возможность черного старта для угольных станций",
+      "Зарядный узел для электромобилей"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b0fed8dcbcfc66a3980bf3a5ce54ed905567a6c46ca95b6a2dc8d807445546be"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Какой производитель аккумуляторов поставил ячейки для Hornsdale Power Reserve?",
+    "correct_answer": "Samsung SDI",
+    "choices": [
+      "Samsung SDI",
+      "Panasonic",
+      "CATL",
+      "LG Chem"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ad1bd423433f33d7344b02e217e2ef10421b7b066c42438a6c1b095091366131"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какова номинальная мощность Manatee Energy Storage Center во Флориде?",
+    "correct_answer": "409 МВт / 900 МВт·ч",
+    "choices": [
+      "100 МВт / 200 МВт·ч",
+      "250 МВт / 500 МВт·ч",
+      "409 МВт / 900 МВт·ч",
+      "750 МВт / 1 500 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4365d92935c1f9f0676d41969c8bdde137f8b18dc000841966960f931e194ac9"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "medium",
+    "question_text": "Для чего в первую очередь предназначена Waratah Super Battery в Новом Южном Уэльсе?",
+    "correct_answer": "Замена схемы защиты целостности системы в качестве резерва передачи",
+    "choices": [
+      "Замена схемы защиты целостности системы в качестве резерва передачи",
+      "Обеспечение автономного энергоснабжения удаленных сообществ",
+      "Зарядка парка электрических автобусов Сиднея",
+      "Изолированная микросеть для устойчивости к стихийным бедствиям"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "0478e9fc428c4136a87b1cf96b44c0b817387a9305e79918a0bb7ca87cfd6ab2"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какова планируемая мощность Waratah Super Battery?",
+    "correct_answer": "850 МВт / 1 680 МВт·ч",
+    "choices": [
+      "300 МВт / 600 МВт·ч",
+      "500 МВт / 1 000 МВт·ч",
+      "850 МВт / 1 680 МВт·ч",
+      "1 200 МВт / 2 400 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2097f65b6cd517063307b568f0663ff3fbac2f39b6ff7ba44eb439d0e7751c2f"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какой поставщик технологий предоставил Hampton BESS на Тайване?",
+    "correct_answer": "Fluence",
+    "choices": [
+      "Fluence",
+      "Tesla",
+      "Sungrow",
+      "Wartsila"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2d5c1083ed0904e785f7ab5e83ca1fa7ab8a4e3fea4d17f75ff5b4ea2997bf5e"
+  },
+  {
+    "category": "bess-projects",
+    "difficulty": "hard",
+    "question_text": "Какой проект BESS в Японии является одним из крупнейших в стране, расположенным на Хоккайдо?",
+    "correct_answer": "Abira BESS",
+    "choices": [
+      "Abira BESS",
+      "Fukushima BESS",
+      "Tokyo Bay BESS",
+      "Sendai BESS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f6a2073e8b961b874ec2fcd0fbcc42a09b3030d1410f1cc6f11f43dd3c862b90"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "Для чего используется фильтр Калмана в BMS?",
+    "correct_answer": "Повышение точности оценки SOC при зашумленных измерениях",
+    "choices": [
+      "Повышение точности оценки SOC при зашумленных измерениях",
+      "Фильтрация помех связи на шине CAN",
+      "Снижение пульсаций напряжения от PCS",
+      "Расчет тепловых потерь в системе охлаждения"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "190e35e0900edadee31c3d0af9788a7a1712160cc5e9f534762da9e01a7c7550"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какова цель цепей предварительного заряда в BMS?",
+    "correct_answer": "Медленная зарядка конденсаторов DC-шины перед замыканием главных контакторов",
+    "choices": [
+      "Медленная зарядка конденсаторов DC-шины перед замыканием главных контакторов",
+      "Дозарядка напряжения ячеек перед вводом в эксплуатацию",
+      "Предварительный подогрев батарей в холодную погоду",
+      "Проверка сопротивления катушки контактора"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "78a96ba266e23f13a352d07e9e6330c3f75362185a03987d8f66d601ae6bcb27"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "Какой протокол связи обычно использует BMS на уровне ячеек/модулей?",
+    "correct_answer": "CAN шина или isoSPI",
+    "choices": [
+      "CAN шина или isoSPI",
+      "Ethernet",
+      "WiFi",
+      "Bluetooth LE"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e27bd408104af9388b24c7ef8ed2bef425b4490389043bf0ee15b9b01ebd114e"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какова цель датчика Холла в BMS?",
+    "correct_answer": "Бесконтактное измерение постоянного тока",
+    "choices": [
+      "Бесконтактное измерение постоянного тока",
+      "Измерение напряжения ячейки",
+      "Обнаружение помех магнитного поля",
+      "Измерение расхода охлаждающей жидкости"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3c7f55ee5a98a09f386ab6cade758dd08d2e9d2658b9092b8ae5f3d68d5f98ca"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Что такое обнаружение замыкания на землю в BMS?",
+    "correct_answer": "Обнаружение непреднамеренных путей тока постоянного тока на землю",
+    "choices": [
+      "Обнаружение непреднамеренных путей тока постоянного тока на землю",
+      "Обнаружение физического повреждения пола контейнера",
+      "Мониторинг сейсмической активности площадки",
+      "Обнаружение неисправностей переменного тока со стороны сети"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "0a12a3196c055fd2e94351beee070bb91145e20a47128358b20f191438fd8c6e"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "В чем разница между централизованной и распределенной архитектурой BMS?",
+    "correct_answer": "Централизованная использует один контроллер для всех ячеек; распределенная использует контроллеры на модуль",
+    "choices": [
+      "Централизованная использует один контроллер для всех ячеек; распределенная использует контроллеры на модуль",
+      "Централизованная для систем переменного тока; распределенная для постоянного",
+      "Централизованная использует облачную обработку; распределенная использует граничные вычисления",
+      "Централизованная используется внутри помещений; распределенная снаружи"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "5ef7508698c6a167e93a2ca278010000bc906f0b7795939b2c558052e98badce"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какой диапазон SOC большинство операторов BESS ограничивают для ежедневного циклирования?",
+    "correct_answer": "10-90% SOC",
+    "choices": [
+      "0-100% SOC",
+      "10-90% SOC",
+      "30-70% SOC",
+      "5-95% SOC"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "5e9ff19e3b948440ab181ff474480ba00e7cc944dbf51ab8396cec6bdde34f77"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какова цель цепи блокировки в безопасности BESS?",
+    "correct_answer": "Аппаратная цепь безопасности, отключающая контакторы при активации любого устройства безопасности",
+    "choices": [
+      "Аппаратная цепь безопасности, отключающая контакторы при активации любого устройства безопасности",
+      "Программный протокол связи BMS-PCS",
+      "Физическая ключевая система для доступа при обслуживании",
+      "Схема задержки для ступенчатого замыкания контакторов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3e8d810b61956febc830163b2ac1510a26502f0bfa9d1950aa5735e012d32f16"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какие измерения использует BMS для обнаружения перегрузки по току?",
+    "correct_answer": "Показания токового шунта или датчика Холла, сравниваемые с порогами",
+    "choices": [
+      "Показания токового шунта или датчика Холла, сравниваемые с порогами",
+      "Расчеты скорости повышения температуры",
+      "Падение напряжения на трансформаторе PCS",
+      "Изменения атмосферного давления"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "36b643f7226247cf4895f587f06421d6d9b4534184083e02ced8a27c10b82354"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "Какова типичная точность измерения напряжения ячейки у хорошей фронтальной ИС BMS?",
+    "correct_answer": "±1-3 мВ",
+    "choices": [
+      "±1-3 мВ",
+      "±50-100 мВ",
+      "±0.5-1 В",
+      "±10-20 мВ"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "fb20d6c3240c9979a6c421d5666ec1fed18d972adeb58d33b7d606ba2dce1e2c"
+  },
+  {
+    "category": "bms",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура BMS в накопителях энергии?",
+    "correct_answer": "Система управления батареей (Battery Management System)",
+    "choices": [
+      "Система управления батареей (Battery Management System)",
+      "Программное обеспечение мониторинга батарей",
+      "Двунаправленная станция управления",
+      "Секвенсор модулей батарей"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ef431af6e0e65ac4eefa1cc28b746e5f641e49893f61971029535ee26dc8e147"
+  },
+  {
+    "category": "bms",
+    "difficulty": "easy",
+    "question_text": "Какова основная функция системы управления батареей?",
+    "correct_answer": "Защита ячеек от работы за пределами безопасных значений",
+    "choices": [
+      "Защита ячеек от работы за пределами безопасных значений",
+      "Торговля энергией на оптовых рынках",
+      "Управление уставками температуры HVAC",
+      "Управление доступом на объект"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a1e2c45aac5406ba7a2f41860456f3e90a9300fc44e8e3ad33db785dc8b3c4a4"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какой протокол связи наиболее часто используется между BMS и PCS?",
+    "correct_answer": "Modbus TCP",
+    "choices": [
+      "Modbus TCP",
+      "HTTP REST",
+      "MQTT",
+      "BACnet"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "dc448e4d5345ec51146a857db2dad89acaac2c795336bf85c28a08f14d923310"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Для чего используется кулонометрический подсчет в BMS?",
+    "correct_answer": "Оценка состояния заряда путем интегрирования тока по времени",
+    "choices": [
+      "Оценка состояния заряда путем интегрирования тока по времени",
+      "Подсчет количества циклов заряда",
+      "Измерение общего А·ч, прошедшего через PCS",
+      "Подсчет количества подключенных ячеек"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "47e412eadced75dcebb674786858e43282f51054ed531af413af3f616c8e2fcf"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "В чем разница между пассивной и активной балансировкой ячеек?",
+    "correct_answer": "Пассивная рассеивает лишнюю энергию в виде тепла; активная передает её между ячейками",
+    "choices": [
+      "Пассивная рассеивает лишнюю энергию в виде тепла; активная передает её между ячейками",
+      "Пассивная использует программное управление; активная использует аппаратные реле",
+      "Пассивная работает только при разряде; активная работает в обоих режимах",
+      "Пассивная для LFP; активная для NMC"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e145b3182115c176a81e3f971f45da65a3b0b7dd718dc055b307b74fbd1615d1"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "Что обычно использует BMS для оценки состояния здоровья ячейки?",
+    "correct_answer": "Отслеживание увеличения внутреннего сопротивления и потери ёмкости",
+    "choices": [
+      "Отслеживание увеличения внутреннего сопротивления и потери ёмкости",
+      "Изменение цвета ячейки со временем",
+      "Количество примененных обновлений прошивки",
+      "История температуры окружающей среды на площадке"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ef41656a9aae28692c3c84746172b4c3a742110aed9eed56faa150341ee137c2"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "Каков типичный порог защиты от превышения напряжения для ячеек LFP?",
+    "correct_answer": "3,65 В",
+    "choices": [
+      "3,20 В",
+      "3,45 В",
+      "3,65 В",
+      "4,20 В"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6c14a8a15a41018d2ab9f50f15deac54c0085ebc4c6b420d3186713d2ee7acf9"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "Каков типичный порог защиты от низкого напряжения для ячеек LFP?",
+    "correct_answer": "2,50 В",
+    "choices": [
+      "2,00 В",
+      "2,50 В",
+      "2,80 В",
+      "3,00 В"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "36c8c0f7c3599a45fff9723e6189fcb09e8c392d471f681bb86884244681624b"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Как BMS обычно измеряет напряжение ячейки?",
+    "correct_answer": "Аналоговые фронтальные ИС с мультиплексированными каналами измерения",
+    "choices": [
+      "Аналоговые фронтальные ИС с мультиплексированными каналами измерения",
+      "Ручные измерения мультиметром",
+      "Инфракрасная тепловизия",
+      "Датчики Холла"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ba6b9fe3fa28ae63e4fcdd8dca1e3ea0e50488739618534d1daa66fb2b0689b3"
+  },
+  {
+    "category": "bms",
+    "difficulty": "hard",
+    "question_text": "Какова битрейт CAN-шины, обычно используемый во внутренней связи BMS?",
+    "correct_answer": "250 или 500 кбит/с",
+    "choices": [
+      "10 кбит/с",
+      "100 кбит/с",
+      "250 или 500 кбит/с",
+      "1 Мбит/с минимум"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "1747bc6a643a20cadfc20eb1594bb43f7694bf4c6adf9ab025fbb45131f254b7"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какую функцию выполняет BMU в архитектуре BESS?",
+    "correct_answer": "Блок управления батареей, контролирующий один модуль или стойку",
+    "choices": [
+      "Блок управления батареей, контролирующий один модуль или стойку",
+      "Резервный блок мониторинга для избыточной безопасности",
+      "Блок управления зданием для управления объектом",
+      "Блок обслуживания батарей для сервисных операций"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "624995b70b8cfa7c2c6206e36b0d9e8534f6bf3e0888c58fd27ec0375fbcaccf"
+  },
+  {
+    "category": "bms",
+    "difficulty": "easy",
+    "question_text": "Какова цель контакторов, управляемых BMS?",
+    "correct_answer": "Изоляция батареи от шины постоянного тока для защиты",
+    "choices": [
+      "Изоляция батареи от шины постоянного тока для защиты",
+      "Переключение между режимами заряда и разряда",
+      "Управление компрессором HVAC",
+      "Маршрутизация сигналов связи между стойками"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "56b356ca5a7d3273f6f5bdadba70b1f03411d85d24dfc10d70add5c4f65c4705"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Что обнаруживает мониторинг изоляции в BMS?",
+    "correct_answer": "Ток утечки между проводниками постоянного тока и землей",
+    "choices": [
+      "Ток утечки между проводниками постоянного тока и землей",
+      "Физическое повреждение корпусов ячеек",
+      "Накопление пыли на клеммах батареи",
+      "Стратификацию температуры по стойкам"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b802c13a82b27958bf1d62fa20493d2e3a16c2dad52dfc5c77acaefc230566b2"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Какой тип датчика наиболее часто используется для измерения температуры ячейки в BMS?",
+    "correct_answer": "NTC термистор",
+    "choices": [
+      "NTC термистор",
+      "RTD PT100",
+      "Термопара типа K",
+      "Инфракрасный пирометр"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "70401a7517300677d1b6497b1654d5319daaa4b25b194cdf8f9fa7df40d99ca6"
+  },
+  {
+    "category": "bms",
+    "difficulty": "medium",
+    "question_text": "Что обычно управляет главный контроллер BMS?",
+    "correct_answer": "Агрегирует данные от всех стоечных BMU и взаимодействует с EMS",
+    "choices": [
+      "Агрегирует данные от всех стоечных BMU и взаимодействует с EMS",
+      "Непосредственно балансирует отдельные ячейки на уровне модуля",
+      "Управляет автоматическим выключателем подключения к сети",
+      "Управляет системой пожаротушения"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2b18e8bfca3d3feba706a4b9d5eae0c87374df3d0210a08c215498174122a022"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "easy",
+    "question_text": "Дочерней компанией какого производителя возобновляемой энергии является e-STORAGE?",
+    "correct_answer": "Canadian Solar",
+    "choices": [
+      "Canadian Solar",
+      "First Solar",
+      "SunPower",
+      "JinkoSolar"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f04cbba6cbb17b479ae783a4ec04738121a88c47bae533bfe29be8a421c125b5"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "В каком канадском городе находится глобальная штаб-квартира e-STORAGE?",
+    "correct_answer": "Китченер, Онтарио",
+    "choices": [
+      "Китченер, Онтарио",
+      "Ванкувер, Британская Колумбия",
+      "Монреаль, Квебек",
+      "Калгари, Альберта"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4b3fb3b52058f1495a65a93cc155383ea4cbc9fe3a54995f07f409a9da2c0c39"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "easy",
+    "question_text": "Как называется контейнерный продукт BESS от e-STORAGE?",
+    "correct_answer": "SolBank",
+    "choices": [
+      "SolBank",
+      "PowerVault",
+      "GridStore",
+      "EnergyCell"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "1d7b71ccafe5ef7c52d4e8127a658458d2e5aca9e65b898ddc0e430e7f51a84c"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "Какова номинальная ёмкость одного контейнера SolBank 3.0?",
+    "correct_answer": "5 МВт·ч",
+    "choices": [
+      "2 МВт·ч",
+      "5 МВт·ч",
+      "8 МВт·ч",
+      "10 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4dbe6893534306695da247c4f4704f33495863ed9a0ef5c7bb2ed71a6d5b6129"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Какова ёмкость в ампер-часах ячеек, используемых в SolBank 3.0?",
+    "correct_answer": "314 А·ч",
+    "choices": [
+      "280 А·ч",
+      "306 А·ч",
+      "314 А·ч",
+      "330 А·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c291dfaccdcda13a7ff6fc600b5be5c1fc204c1eac8c0ed11d5790c31c2178b0"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "easy",
+    "question_text": "Какой тип химии аккумуляторов использует SolBank?",
+    "correct_answer": "Литий-железо-фосфат (LFP)",
+    "choices": [
+      "Литий-железо-фосфат (LFP)",
+      "Никель-марганец-кобальт (NMC)",
+      "Литий-титанат (LTO)",
+      "Натрий-серный (NaS)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "43a17bc33db3d08b71b97e0aab3b3195d76ed44b32f8cb1ac673ba6e1574790f"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Каков диапазон номинальной мощности контейнера SolBank 3.0?",
+    "correct_answer": "1,2–2,35 МВт",
+    "choices": [
+      "0,5–1,0 МВт",
+      "1,2–2,35 МВт",
+      "2,5–4,0 МВт",
+      "5,0–7,5 МВт"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "10ab983399a88ac581d4a337fdcf56fd31fd54cad69e4ed25c73a956df31d916"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Каков максимальный ресурс циклов SolBank 3.0 Plus?",
+    "correct_answer": "12 000 циклов",
+    "choices": [
+      "6 000 циклов",
+      "8 000 циклов",
+      "10 000 циклов",
+      "12 000 циклов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "1633239998ac8985456c732d6561d6bd840edd105041b05d623813abd6930630"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "Каков расчетный срок службы SolBank 3.0 Plus?",
+    "correct_answer": "25 лет",
+    "choices": [
+      "15 лет",
+      "20 лет",
+      "25 лет",
+      "30 лет"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "134ad1645c747620fecdb24ee035d96365836585d382441ae696d123b62aa889"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Какую степень защиты от проникновения имеют батарейные блоки SolBank?",
+    "correct_answer": "IP67",
+    "choices": [
+      "IP54",
+      "IP65",
+      "IP67",
+      "IP69K"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "40dc950a89c5695b2370f0a934b14dd66e9202c3e3e8e1a1cb95eae1f67563d3"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "Какую технологию охлаждения использует SolBank 3.0 Plus?",
+    "correct_answer": "Жидкостное охлаждение",
+    "choices": [
+      "Принудительное воздушное охлаждение",
+      "Жидкостное охлаждение",
+      "Естественная конвекция",
+      "Материал с фазовым переходом"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "0f78c5d9639973a98df434f1eafdf8fae00891c3ac9ab4744cefbde2c1a1f28a"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Какова ёмкость продукта e-STORAGE FlexBank 1.0?",
+    "correct_answer": "8,36 МВт·ч",
+    "choices": [
+      "5,0 МВт·ч",
+      "6,8 МВт·ч",
+      "8,36 МВт·ч",
+      "10,2 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "bbad59e7b02bd7226778a704406bcee7379bd72c7f93bcecd95a135851a90843"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "Как называется интегрированный строительный блок BESS среднего напряжения от e-STORAGE?",
+    "correct_answer": "PowerBlock",
+    "choices": [
+      "PowerBlock",
+      "GridBlock",
+      "MegaBlock",
+      "EnergyBlock"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "abba0984da7eabcb3875b29d9ad1ef3e1cf8bb0e70aae4e8ccc95e3b91b1e143"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Какова дата ввода в эксплуатацию проекта e-STORAGE Crimson I в США?",
+    "correct_answer": "Сентябрь 2022",
+    "choices": [
+      "Декабрь 2020",
+      "Июнь 2021",
+      "Сентябрь 2022",
+      "Март 2023"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6bcac6e0e284eaaab3e300be4f7447f5d38771bc3067f3b45f4be0b2d2dc08fe"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "Каков номинальный размер проекта BESS Crimson I?",
+    "correct_answer": "200 МВт / 800 МВт·ч",
+    "choices": [
+      "100 МВт / 400 МВт·ч",
+      "200 МВт / 800 МВт·ч",
+      "300 МВт / 1 200 МВт·ч",
+      "500 МВт / 2 000 МВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "60afabd84d389395ccd1def7fc799d56b59d275edeafaa686b37ceb45e34cd5a"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Какой рейтинг по шкале BNEF имеет e-STORAGE как поставщик накопителей энергии?",
+    "correct_answer": "Tier 1",
+    "choices": [
+      "Tier 1",
+      "Tier 2",
+      "Tier 3",
+      "Tier A"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4236a0898bc16715dd7f4309b7c1d4d6993882102d68fc93632907059df9c12b"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "medium",
+    "question_text": "Какова планируемая годовая производственная мощность e-STORAGE?",
+    "correct_answer": "30 ГВт·ч",
+    "choices": [
+      "10 ГВт·ч",
+      "20 ГВт·ч",
+      "30 ГВт·ч",
+      "50 ГВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "860ca11946871bfeb51aceb602e99d1b6f87afd00972317f5c5a72b54c0c5d15"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Сколько полностью автоматизированных производственных объектов управляет e-STORAGE?",
+    "correct_answer": "3",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c2d82a09f0762eb44e00890dd9dc4e1944257cbf20a63d0c9bc10a91a6f6de37"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "Какова общая развёрнутая мощность BESS e-STORAGE на сегодняшний день?",
+    "correct_answer": "Более 7 ГВт·ч",
+    "choices": [
+      "Более 1 ГВт·ч",
+      "Более 3 ГВт·ч",
+      "Более 7 ГВт·ч",
+      "Более 15 ГВт·ч"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c1e3a1c3fa25f1c31df600d37cf626ee837c3fc75325fa48fda259078fd81fa8"
+  },
+  {
+    "category": "e-storage",
+    "difficulty": "hard",
+    "question_text": "На каком этаже в 101 Collins Street, Мельбурн находится австралийский офис e-STORAGE?",
+    "correct_answer": "Уровень 27",
+    "choices": [
+      "Уровень 10",
+      "Уровень 18",
+      "Уровень 27",
+      "Уровень 35"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a8be0e7c279f0ecd857a5b4ee735fff54938454786ac0e63ecdad36ec091f8e6"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Для чего используется Autobidder, разработанный Tesla?",
+    "correct_answer": "Оптимизация торговли и диспетчеризации в реальном времени для активов BESS",
+    "choices": [
+      "Оптимизация торговли и диспетчеризации в реальном времени для активов BESS",
+      "Автоматическая балансировка ячеек во время зарядки",
+      "Участие в торгах на сырьевых рынках лития",
+      "Прогнозирование скорости деградации батарей"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "33a3158268662288f5943e102bcc57eea7ac716526efa9fd06125b66877db5a9"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "В чём разница между рынками электроэнергии на сутки вперёд и реального времени?",
+    "correct_answer": "Рынок на сутки вперёд фиксирует графики заранее; реального времени корректирует по фактическим условиям",
+    "choices": [
+      "Рынок на сутки вперёд фиксирует графики заранее; реального времени корректирует по фактическим условиям",
+      "Рынок на сутки вперёд только для ВИЭ; реального времени включает ископаемое топливо",
+      "Рынок на сутки вперёд рассчитывается в кВт·ч; реального времени — в МВт",
+      "Рынок на сутки вперёд для генераторов; реального времени только для потребителей"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ab38459c4f50bbedb986ec4a23c054684da4861141b85ec9d0a496472442dd0b"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура LMP на рынках электроэнергии?",
+    "correct_answer": "Locational Marginal Price (узловая предельная цена)",
+    "choices": [
+      "Locational Marginal Price (узловая предельная цена)",
+      "Load Management Protocol",
+      "Local Market Participant",
+      "Levelized Marginal Price"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "90871d970342481cdb3a9b72deb9c8c73eea8da148ee8923e850ee4bdf50f983"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Какова цель конечного автомата в EMS?",
+    "correct_answer": "Определяет допустимые режимы работы и переходы для BESS",
+    "choices": [
+      "Определяет допустимые режимы работы и переходы для BESS",
+      "Записывает физическое местоположение каждого модуля батареи",
+      "Отслеживает заявки на государственные субсидии",
+      "Управляет балансировкой напряжения на уровне ячеек"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "0dcde5c8c7eaaf0034be5f9bbb820bc281e4889b2834bb439cfda246b005b8a3"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "В чём основное различие между диспетчеризацией EMS по графику и по цене?",
+    "correct_answer": "По графику следует заранее определённому плану; по цене реагирует на рыночные сигналы реального времени",
+    "choices": [
+      "По графику следует заранее определённому плану; по цене реагирует на рыночные сигналы реального времени",
+      "По графику только для снижения пиков; по цене для частотного регулирования",
+      "По графику использует фиксированные временные интервалы; по цене — переменные",
+      "По графику для коммерческих клиентов; по цене для жилых"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "99fececdde8731cf46ffb2aaa4d58e64e03848426b4c4e12a43feef90497e083"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Каков типичный интервал выборки и управления EMS для сетевых BESS?",
+    "correct_answer": "100 мс - 1 секунда",
+    "choices": [
+      "1 наносекунда",
+      "100 мс - 1 секунда",
+      "10-30 секунд",
+      "5-15 минут"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f8c9da0f6f31156976a7f09fda56191c7f58473776862ac33ed69e243a6286b3"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Какой ключевой показатель эффективности измеряет доступность BESS?",
+    "correct_answer": "Процент времени безотказной работы в соответствии с контрактной гарантией доступности",
+    "choices": [
+      "Процент времени безотказной работы в соответствии с контрактной гарантией доступности",
+      "Общий объём МВт·ч, отпущенный за месяц",
+      "Количество циклов заряд-разряд в день",
+      "Максимальная мощность, достигнутая за одну диспетчеризацию"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "de17419f6cebe59828eb319b8e5328f1f019643631a1440c18aca22c8c676592"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Какова цель ограничительного модуля EMS?",
+    "correct_answer": "Обеспечивает соблюдение физических ограничений, таких как max мощность, границы SOC и скорость изменения мощности",
+    "choices": [
+      "Обеспечивает соблюдение физических ограничений, таких как max мощность, границы SOC и скорость изменения мощности",
+      "Ограничивает количество операторов, имеющих доступ к системе",
+      "Ограничивает участие в торгах только определёнными рыночными продуктами",
+      "Управляет физическим ограждением и доступом к территории"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "906c9fec22aca94484ba3172f593572f5a90f25492c6af1f8b324d23e8e1bc6c"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Что такое диспетчеризация с учётом деградации в EMS BESS?",
+    "correct_answer": "Оптимизация диспетчеризации для баланса между немедленным доходом и стоимостью срока службы батареи",
+    "choices": [
+      "Оптимизация диспетчеризации для баланса между немедленным доходом и стоимостью срока службы батареи",
+      "Планирование разрядов при низкой мощности для уменьшения физического износа",
+      "Диспетчеризация только когда батарея деградировала ниже порога",
+      "Использование старых батарей для менее критичных услуг"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "140cce7a88e6840ef2e8f4ff4fb2b7b062cf7b121aa0c722bfdfd6b5b8117c35"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Что означает ACE в балансировке энергосистемы?",
+    "correct_answer": "Area Control Error (ошибка регулирования зоны)",
+    "choices": [
+      "Area Control Error (ошибка регулирования зоны)",
+      "Automated Contingency Exchange",
+      "Active Current Equalization",
+      "Auxiliary Control Equipment"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "565fdf3bc03368eb597dff8c57dda0621d0db02d1b53ab46ce7123965c44c69a"
+  },
+  {
+    "category": "ems",
+    "difficulty": "easy",
+    "question_text": "Что означает EMS в контексте накопителей энергии?",
+    "correct_answer": "Energy Management System (система управления энергопотреблением)",
+    "choices": [
+      "Energy Management System (система управления энергопотреблением)",
+      "Electrical Monitoring Station",
+      "Energy Market Software",
+      "Emergency Management System"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "baf1e483e050f74b834aa8f4251b20f8ebc9e0432b6b673515dbaacc12e9653e"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Какова основная стратегия накопления доходов для сетевого BESS?",
+    "correct_answer": "Комбинирование энергетического арбитража с вспомогательными услугами",
+    "choices": [
+      "Комбинирование энергетического арбитража с вспомогательными услугами",
+      "Продажа энергии только в часы пиковых цен",
+      "Зарядка по нулевой стоимости от ограниченной возобновляемой генерации",
+      "Аренда мощности одному промышленному потребителю"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "24d829b1de0435939eaca12139996764450271f7bc5df9c515f38bc970503902"
+  },
+  {
+    "category": "ems",
+    "difficulty": "easy",
+    "question_text": "Что такое энергетический арбитраж в контексте BESS?",
+    "correct_answer": "Зарядка при низких ценах на электроэнергию и разрядка при высоких",
+    "choices": [
+      "Зарядка при низких ценах на электроэнергию и разрядка при высоких",
+      "Продажа энергии нескольким покупателям одновременно",
+      "Переключение между различными химическими составами батарей",
+      "Торговля сертификатами возобновляемой энергии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f330922a6c6e22c313778a89a778520efc5f37746b494da665869c6b402f1608"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Что такое срезание пиков?",
+    "correct_answer": "Использование накопленной энергии для снижения максимальной потребляемой мощности из сети",
+    "choices": [
+      "Использование накопленной энергии для снижения максимальной потребляемой мощности из сети",
+      "Разрядка батареи до минимального SOC ежедневно",
+      "Циклирование батареи с максимальной C-скоростью",
+      "Снижение солнечной генерации в полдень"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "9b5158601f877792b81032b9193732b348be13ce52b6b8168a1df7f20dd00a80"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Что означает FCAS в австралийском NEM?",
+    "correct_answer": "Frequency Control Ancillary Services (вспомогательные услуги по регулированию частоты)",
+    "choices": [
+      "Frequency Control Ancillary Services (вспомогательные услуги по регулированию частоты)",
+      "Fast Contingency Application System",
+      "Federal Clean Air Standard",
+      "Firm Capacity Assurance Scheme"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "0bd80a6e66ea91285defa3e3de004166057c857bbf0e3b8f464f6c4a5dc2c73f"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Какое требование по времени отклика для самой быстрой услуги FCAS в Австралии?",
+    "correct_answer": "В пределах 1 секунды (Fast Raise/Lower 1-second contingency)",
+    "choices": [
+      "В пределах 1 секунды (Fast Raise/Lower 1-second contingency)",
+      "В пределах 100 миллисекунд",
+      "В пределах 6 секунд",
+      "В пределах 60 секунд"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c283e573c4acdcabb70d5c89597339786675ce7db322175d09255996eaa6a4ea"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Что такое AGC в контексте регулирования частоты энергосистемы?",
+    "correct_answer": "Automatic Generation Control (автоматическое управление генерацией)",
+    "choices": [
+      "Automatic Generation Control (автоматическое управление генерацией)",
+      "Advanced Grid Converter",
+      "Auxiliary Ground Connection",
+      "Asynchronous Grid Coupling"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e520ea1342806ff2b6633820d7a003b4e649fcbf57063321436f8cc0d0d41028"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Какова цель модуля диспетчеризации в EMS BESS?",
+    "correct_answer": "Оптимизирует графики заряда и разряда с учётом рыночных цен и ограничений",
+    "choices": [
+      "Оптимизирует графики заряда и разряда с учётом рыночных цен и ограничений",
+      "Маршрутизирует сигналы аварийной остановки всему оборудованию площадки",
+      "Управляет физическим доступом на площадку",
+      "Выполняет автоматическое обновление прошивки всех подсистем"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "1bca304b3d2f3ecb2d9af8412342c015ae2773fa7dae9d23d3d8bfaf2b222f6b"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Что такое синтетическая инерция, обеспечиваемая BESS?",
+    "correct_answer": "Быстрое введение активной мощности, имитирующее инерцию вращающихся машин",
+    "choices": [
+      "Быстрое введение активной мощности, имитирующее инерцию вращающихся машин",
+      "Виртуальное представление массы батареи в сетевых моделях",
+      "Искусственное расширение ёмкости батареи с помощью ПО",
+      "Симулированная защита от провала напряжения"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "bdbb1aeb5cb97c3dfaddd44c62bfb32b09be432366e901539311a0f86f7f6878"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Какой протокол SCADA наиболее широко используется для связи EMS с системным оператором?",
+    "correct_answer": "DNP3",
+    "choices": [
+      "DNP3",
+      "OPC UA",
+      "IEC 61850 GOOSE",
+      "PROFIBUS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2f5a239085c9bd601ca9d82402cf56a2cc6dad8184ddd02a216c9f68cf041f40"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Что обычно балансирует оптимизация SOC в EMS?",
+    "correct_answer": "Поддержание достаточного запаса для предстоящих услуг (вверх и вниз)",
+    "choices": [
+      "Поддержание достаточного запаса для предстоящих услуг (вверх и вниз)",
+      "Максимизацию скорости заряда в любое время",
+      "Поддержание ячеек ровно на 50% SOC",
+      "Минимизацию количества переключений контакторов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b06256976c68940b16c5b413c4f22627e57a14e785663ce868fe3693d7265b88"
+  },
+  {
+    "category": "ems",
+    "difficulty": "medium",
+    "question_text": "Что такое виртуальная электростанция в контексте распределённых BESS?",
+    "correct_answer": "Агрегированное управление несколькими распределёнными батареями как единым ресурсом",
+    "choices": [
+      "Агрегированное управление несколькими распределёнными батареями как единым ресурсом",
+      "Программная симуляция батареи для целей тестирования",
+      "Батарея, существующая только в блокчейне",
+      "Электростанция, построенная исключительно из моделей виртуальной реальности"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "9a95c4920b19e8ef978707d71d3259fbaf3de5fb08d925dfbc15c3678498e4e7"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "В австралийском NEM, что означает 5-минутный расчёт для дохода BESS?",
+    "correct_answer": "Цены рассчитываются каждые 5 минут, что вознаграждает быстродействующие батареи",
+    "choices": [
+      "Цены рассчитываются каждые 5 минут, что вознаграждает быстродействующие батареи",
+      "Батареи должны сообщать SOC каждые 5 минут",
+      "Доход ограничен 5 минутами разряда в день",
+      "Каждый 5-й интервал диспетчеризации бесплатный"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b79457e1b3ad84bcfaae91c654a55600b37f1d9ade4ebf938fe7f691561f1e19"
+  },
+  {
+    "category": "ems",
+    "difficulty": "hard",
+    "question_text": "Что означает DERMS?",
+    "correct_answer": "Distributed Energy Resource Management System (система управления распределёнными энергоресурсами)",
+    "choices": [
+      "Distributed Energy Resource Management System (система управления распределёнными энергоресурсами)",
+      "Dynamic Emergency Response Management System",
+      "Digital Energy Routing and Monitoring Service",
+      "Distributed Equipment Reliability Monitoring System"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "9cf208e576278f1f0916988bf277e66fefffa2dc2092660509980c01aba482ec"
+  },
+  {
+    "category": "ems",
+    "difficulty": "easy",
+    "question_text": "Какова основная функция HMI в диспетчерской BESS?",
+    "correct_answer": "Предоставляет операторам графический интерфейс для мониторинга и управления установкой",
+    "choices": [
+      "Предоставляет операторам графический интерфейс для мониторинга и управления установкой",
+      "Обрабатывает быстрые защитные отключения",
+      "Шифрует всю связь между стойками и EMS",
+      "Калибрует датчики напряжения ячеек батареи"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "baa0af271c883e75664cdbed6c5215cd238651b5ef65cb6adccf88b953846e1a"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "Какой стандарт UL охватывает безопасность BESS на системном уровне?",
+    "correct_answer": "UL 9540",
+    "choices": [
+      "UL 9540",
+      "UL 1973",
+      "UL 1741",
+      "UL 1642"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f981fdb67994fb46022220a9fb7efff981952e444e775fe6cacbd7e577cf558a"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "Что именно проверяет UL 9540A в BESS?",
+    "correct_answer": "Распространение теплового разгона на уровне ячеек, модулей, блоков и установки",
+    "choices": [
+      "Распространение теплового разгона на уровне ячеек, модулей, блоков и установки",
+      "Сопротивление электрической изоляции",
+      "Сейсмическую устойчивость",
+      "Уязвимости кибербезопасности"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "221da5ee031b071279aa660dbd52660d377b9aa85db6b5dc626ab338cb21299c"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "Какой стандарт NFPA специально рассматривает установку BESS?",
+    "correct_answer": "NFPA 855",
+    "choices": [
+      "NFPA 855",
+      "NFPA 70",
+      "NFPA 72",
+      "NFPA 13"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "07718190247ddbeef3c8e564c7d61305321cdb12aec24ceb742d8579731d3895"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "Какой австралийский стандарт относится к установке систем накопления энергии на батареях?",
+    "correct_answer": "AS/NZS 5139",
+    "choices": [
+      "AS/NZS 5139",
+      "AS/NZS 3000",
+      "AS/NZS 4777",
+      "AS/NZS 5033"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "7c2cf38564221f9259eb04d28528734d28172c1b4108f629df46efbaab1fab34"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "Какой агент пожаротушения обычно используется в контейнерах BESS с чувствительной электроникой?",
+    "correct_answer": "Novec 1230",
+    "choices": [
+      "Novec 1230",
+      "Углекислый газ",
+      "Влажный химикат",
+      "Сухой порошок"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d06e741617169e5ddbe81de9069e462cb10de811313858743240c9ded1f1da0e"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "Какова основная цель обнаружения выделения газов в BESS?",
+    "correct_answer": "Раннее предупреждение о вентиляции ячеек до теплового разгона",
+    "choices": [
+      "Раннее предупреждение о вентиляции ячеек до теплового разгона",
+      "Обнаружение утечек природного газа на площадке",
+      "Мониторинг утечек хладагента HVAC",
+      "Измерение качества атмосферного воздуха для персонала"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2e2ddb16db9aaf32cc569474d311eb1eaf7eaa9d6a947416b09b684505bf1ec5"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "medium",
+    "question_text": "Для чего предназначены дефлаграционные панели на контейнере BESS?",
+    "correct_answer": "Сброс давления в случае внутреннего взрыва",
+    "choices": [
+      "Сброс давления в случае внутреннего взрыва",
+      "Обеспечение доступа для пожарных рукавов",
+      "Вентиляция тепла при нормальной работе",
+      "Сброс снега и дождевой воды"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "27754e463f122d0bffad9a9fc37b05edd76942ff39ebc87cc13329ba15e3f1c9"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "Какой стандарт IEC специально рассматривает требования безопасности для вторичных литиевых батарей?",
+    "correct_answer": "IEC 62619",
+    "choices": [
+      "IEC 62619",
+      "IEC 62109",
+      "IEC 61400",
+      "IEC 61850"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "06ded0255611daf36ceacec0d16b1e9737c714855214438b1d6010de1621fc66"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "В чём ключевое различие между UL 9540 и UL 9540A?",
+    "correct_answer": "9540 — стандарт на сертификацию; 9540A — метод испытаний на распространение огня",
+    "choices": [
+      "9540 — стандарт на сертификацию; 9540A — метод испытаний на распространение огня",
+      "9540 для жилых; 9540A для промышленных масштабов",
+      "9540 охватывает системы постоянного тока; 9540A — переменного тока",
+      "9540 только для США; 9540A международный"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c144739c5fdc709c28bf3bc0906cc49e815fd619224cf1f13335ae5b5ad15861"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "Каково типичное требование к расстоянию между контейнерами BESS в NFPA 855?",
+    "correct_answer": "Не менее 0,9 м (3 фута) между контейнерами",
+    "choices": [
+      "Не менее 0,9 м (3 фута) между контейнерами",
+      "Не менее 3 м (10 футов) между контейнерами",
+      "Не менее 6 м (20 футов) между контейнерами",
+      "Минимальное расстояние не требуется"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "65a71e70848191aaa760a9b2ee44018bcb269c650ad1c88495505f4a07b3ff01"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "Какой газ является основным горючим компонентом выбросов батарей при тепловом разгоне?",
+    "correct_answer": "Водород",
+    "choices": [
+      "Водород",
+      "Кислород",
+      "Азот",
+      "Углекислый газ"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3bb4fe9f53cac73edadb1ac68eb79a99ed2e36f0991871faa9e07b92c05daa82"
+  },
+  {
+    "category": "fire-safety",
+    "difficulty": "hard",
+    "question_text": "В чём преимущество водяного тумана для пожаротушения в приложениях BESS?",
+    "correct_answer": "Охлаждает соседние ячейки, предотвращая распространение теплового разгона",
+    "choices": [
+      "Охлаждает соседние ячейки, предотвращая распространение теплового разгона",
+      "Химически нейтрализует электролит",
+      "Подзаряжает батарею во время тушения",
+      "Создает бескислородную среду в контейнере"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "07758046595b780c80f589a8db25b124f521148e064ec2d5b308afd05273ee1e"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Что означает RTO на рынках электроэнергии Северной Америки?",
+    "correct_answer": "Regional Transmission Organization (региональная передающая организация)",
+    "choices": [
+      "Regional Transmission Organization (региональная передающая организация)",
+      "Renewable Technology Operator",
+      "Retail Trading Organization",
+      "Regulatory Tariff Office"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "bc277f1af528b355d1e4e89211f2a48dae7cd2a674fc306a43f8797732b92526"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Какой регион NEM охватывает Южную Австралию?",
+    "correct_answer": "Южная Австралия (SA)",
+    "choices": [
+      "Южная Австралия (SA)",
+      "Виктория (VIC)",
+      "Южный регион (SR)",
+      "Аделаидский регион (AR)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a7e60b2cfd6ce432a99e28c6533748e42d137c44fe9fb15b5049e7a56d93fd33"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Что означает WEM в энергетическом ландшафте Австралии?",
+    "correct_answer": "Wholesale Electricity Market (Western Australia) (оптовый рынок электроэнергии Западной Австралии)",
+    "choices": [
+      "Wholesale Electricity Market (Western Australia) (оптовый рынок электроэнергии Западной Австралии)",
+      "Wind Energy Mechanism",
+      "Western Energy Management",
+      "Wholesale Energy Mandate"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "07f77912dcac6a3ec4b6545640490a8a5e898f79114e9bbd89e9e250184ff2a1"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Что такое ISO на рынках электроэнергии Северной Америки?",
+    "correct_answer": "Independent System Operator (независимый системный оператор)",
+    "choices": [
+      "Independent System Operator (независимый системный оператор)",
+      "International Standards Organization",
+      "Integrated Solar Operator",
+      "Inverter System Overseer"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "366fc3dbf4fe5e075f9cbbba55fb0ebd70f1456cdcfa9b94deb173b72572a780"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Что означает ERCOT?",
+    "correct_answer": "Electric Reliability Council of Texas (Совет по надёжности электроснабжения Техаса)",
+    "choices": [
+      "Electric Reliability Council of Texas (Совет по надёжности электроснабжения Техаса)",
+      "Eastern Regional Control of Transmission",
+      "Emergency Response Coordination Team",
+      "Energy Resource and Capacity Optimization Taskforce"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "5d171bb1bddefc9baf312ced15be2e8d0f6fd0c6bf2413b8f044fdb6f6801256"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Каков минимальный размер заявки для участия BESS в австралийском NEM?",
+    "correct_answer": "1 МВт",
+    "choices": [
+      "100 кВт",
+      "500 кВт",
+      "1 МВт",
+      "5 МВт"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6cbec583c5f00fa3ab51966942bddff0a83437e9dce32e0b6cea9387babb9732"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Какое требование по времени отклика на рынке регулирования частоты Taiwan Power Company (Taipower)?",
+    "correct_answer": "sReg (статический) и dReg (динамический) с субсекундным откликом для dReg",
+    "choices": [
+      "sReg (статический) и dReg (динамический) с субсекундным откликом для dReg",
+      "Фиксированное время отклика 5 минут",
+      "15-минутное гарантированное изменение мощности",
+      "30-секундный отклик для всех продуктов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c5ca394ab75e9a0b761b35c04e3f81cf80de53cc485fa984c5c1534bda8e0bf5"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Что такое балансирующий рынок в электроэнергетической системе Великобритании?",
+    "correct_answer": "Рынок, на котором National Grid ESO покупает действия для балансировки спроса и предложения в реальном времени",
+    "choices": [
+      "Рынок, на котором National Grid ESO покупает действия для балансировки спроса и предложения в реальном времени",
+      "Торговая площадка для обмена батарейными ячейками между производителями",
+      "Контрактный механизм для балансировки земляных работ на площадке",
+      "Страховой рынок для владельцев активов BESS"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "de3a3610190ca638c1e3034c97d3b58045d996c369b50287c0c25582db5f6a53"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Какой уровень напряжения типичен для подключения BESS к сети в австралийском NEM?",
+    "correct_answer": "11 кВ - 132 кВ в зависимости от размера проекта",
+    "choices": [
+      "415 В",
+      "1000 В",
+      "11 кВ - 132 кВ в зависимости от размера проекта",
+      "Минимум 500 кВ"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "eba3a4b06f121dc1f8675563a7da322046dad420be19bf6447ec5962622ce224"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Какова основная функция Австралийского энергетического регулятора (AER)?",
+    "correct_answer": "Регулирование оптовых и розничных рынков электроэнергии и сетей",
+    "choices": [
+      "Регулирование оптовых и розничных рынков электроэнергии и сетей",
+      "Управление физической электрической сетью",
+      "Разработка новых аккумуляторных технологий",
+      "Предоставление субсидий для проектов возобновляемой энергии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "21959237444a81fe30e7d0a2bbd74b9ce0129e1f08343a3b1a6e88d4e71cf29d"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура AEMO?",
+    "correct_answer": "Австралийский оператор энергетического рынка",
+    "choices": [
+      "Австралийский оператор энергетического рынка",
+      "Австралийское управление по электроэнергетике",
+      "Австралазийская организация по мониторингу энергетики",
+      "Австралийский оператор рынка электроэнергии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "a864ea30ac3fc9d7a397b218d0650967a7a1c59198dbeec13e5780e96f347804"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "Что означает NEM на австралийском энергетическом рынке?",
+    "correct_answer": "Национальный рынок электроэнергии",
+    "choices": [
+      "Национальный рынок электроэнергии",
+      "Новый энергетический механизм",
+      "Национальный энергетический мандат",
+      "Сетевая модель электроэнергетики"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "45a28da0eedaf290c1584057862b5e6b494173b7fe2e5dbe8cc41e0ae3a57b33"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Какой австралийский штат НЕ подключен к NEM?",
+    "correct_answer": "Западная Австралия",
+    "choices": [
+      "Западная Австралия",
+      "Виктория",
+      "Квинсленд",
+      "Южная Австралия"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f844cc6f9b1a6f6ad7b86c9c1e61952bf90355055b12e001977636715e846a88"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "Что такое Taipower?",
+    "correct_answer": "Государственная электроэнергетическая компания Тайваня",
+    "choices": [
+      "Государственная электроэнергетическая компания Тайваня",
+      "Тайваньский производитель PCS",
+      "Тайваньское агентство по возобновляемой энергии",
+      "Региональная торговая платформа для электроэнергии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "054695409322c5279f023fc71ec8b3f853947920b323a406b8788b0f59044e87"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Что означает dReg на рынке вспомогательных услуг Taipower?",
+    "correct_answer": "Услуга динамического регулирования для быстрого частотного отклика",
+    "choices": [
+      "Услуга динамического регулирования для быстрого частотного отклика",
+      "Дерегулирование розничных рынков электроэнергии",
+      "Распределенная диспетчеризация региональной генерации",
+      "Шлюз энергосистемы для управления спросом"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "1e068d14ae12ecb7a093f445a08b7d27d799b61e21b9aec6ed08015b21c8f1de"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Что такое JEPX?",
+    "correct_answer": "Японская биржа электроэнергии",
+    "choices": [
+      "Японская биржа электроэнергии",
+      "Японский стандарт энергоэффективности",
+      "Японская ассоциация экспорта электротехнической продукции",
+      "Совместная биржа закупок энергии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "21aaf188c4c796e9d3f4bc0999284de5a14ace80c19fb5d5b22fe905b6435898"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Что такое ElectraNet?",
+    "correct_answer": "Поставщик услуг по передаче электроэнергии в Южной Австралии",
+    "choices": [
+      "Поставщик услуг по передаче электроэнергии в Южной Австралии",
+      "Национальный розничный продавец электроэнергии Австралии",
+      "Разработчик проектов BESS из Мельбурна",
+      "Производитель защитных реле для сетей"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f38b000f60fe3253a4a7d729116c10d8898ee86886c0077156a83d699e9fc942"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Что означает NSPS в контексте ElectraNet?",
+    "correct_answer": "Передача затрат на поддержку сети и вспомогательные услуги",
+    "choices": [
+      "Передача затрат на поддержку сети и вспомогательные услуги",
+      "Национальная схема защиты системы",
+      "Новая южная энергосистема",
+      "Синхронизация север-юг"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "7bffb67c853fcad3a0d1e5e513070a14596a23583a426c684a93e0aff6a2828d"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Что такое Приказ FERC 841 в США?",
+    "correct_answer": "Требует от RTO/ISO устранения барьеров для участия накопителей энергии на оптовых рынках",
+    "choices": [
+      "Требует от RTO/ISO устранения барьеров для участия накопителей энергии на оптовых рынках",
+      "Предписывает 100% возобновляемой энергии к 2050 году",
+      "Устанавливает федеральную программу по переработке аккумуляторов",
+      "Устанавливает минимальные стандарты эффективности для инверторов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "625f5d87c323c4dacbe9c3b0e36e308e6173c6ae6acf5bce6914310502dd3f7e"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "Какая частота поддерживается в австралийском NEM?",
+    "correct_answer": "50 Гц",
+    "choices": [
+      "50 Гц",
+      "60 Гц",
+      "45 Гц",
+      "55 Гц"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "feab8d998ce72c7136d37702df4efa2ac0ca7f6d9b875c258bb169b91c6365bd"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Какова частота сети на Тайване и в Японии?",
+    "correct_answer": "60 Гц (большая часть Японии — 60 Гц; Тайвань — 60 Гц)",
+    "choices": [
+      "60 Гц (большая часть Японии — 60 Гц; Тайвань — 60 Гц)",
+      "50 Гц для обеих",
+      "50 Гц на Тайване, 60 Гц в Японии",
+      "60 Гц на Тайване, 50 Гц в Японии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c46b35bdc2b1e15a57d7f0c0309478ccff2925c54a9dbf5914cc8fc57c4d2674"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "easy",
+    "question_text": "Какова частота в североамериканской сети?",
+    "correct_answer": "60 Гц",
+    "choices": [
+      "50 Гц",
+      "60 Гц",
+      "55 Гц",
+      "70 Гц"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "289edfa234c7bd024ce608b00ac6a3147df3d9406e8987be2ea9a81bad80f05a"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Что такое IRENA?",
+    "correct_answer": "Международное агентство по возобновляемой энергии",
+    "choices": [
+      "Международное агентство по возобновляемой энергии",
+      "Независимый регулятор энергетических сетей Австралии",
+      "Международные исследования по возобновляемой энергии и ядерным приложениям",
+      "Интегрированный альянс сетей возобновляемой энергии"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e48a97f50595ef93d9cd789714d6911fa4a5a93d1565c9a5077a49d6697401f6"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "medium",
+    "question_text": "Что означает CAISO?",
+    "correct_answer": "Независимый системный оператор Калифорнии",
+    "choices": [
+      "Независимый системный оператор Калифорнии",
+      "Канадская ассоциация независимых системных операторов",
+      "Организация по стандартам объединенных междержавных соединений",
+      "Калифорнийское управление по стандартам продвинутых инверторов"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b897caa98a3531228a8b4d47ed8002c0b77ac484233e38cdb934bce1692074b4"
+  },
+  {
+    "category": "grid-market",
+    "difficulty": "hard",
+    "question_text": "Каков установленный целевой показатель мощности BESS для Тайваня к 2030 году приблизительно?",
+    "correct_answer": "5,5 ГВт",
+    "choices": [
+      "500 МВт",
+      "2,5 ГВт",
+      "5,5 ГВт",
+      "20 ГВт"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "806b1a61377744f204e3170b9ff787bb04bb1aeb37a16c2a81800e90830a0ff0"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Какое напряжение звена постоянного тока типично для PCS с напряжением 1500 В?",
+    "correct_answer": "От 1100 до 1500 В постоянного тока",
+    "choices": [
+      "От 400 до 600 В постоянного тока",
+      "От 1100 до 1500 В постоянного тока",
+      "От 2500 до 3000 В постоянного тока",
+      "От 750 до 900 В постоянного тока"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c7961c33c169e0f5b5b8d16bb6299f939e34a78ef0f70eb1bc064319b8b5e7e4"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "В чем основное преимущество конструкции PCS без трансформатора?",
+    "correct_answer": "Более высокая эффективность и меньший размер",
+    "choices": [
+      "Более высокая эффективность и меньший размер",
+      "Гальваническая развязка между постоянным и переменным током",
+      "Лучшая фильтрация гармоник",
+      "Меньшее напряжение на полупроводниках"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d0d18edcdc7bc61253f5ecb7e4b843066dc5931fff658a770e86b1cde1cd4142"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Какую функцию защиты обеспечивает PCS на стороне постоянного тока?",
+    "correct_answer": "Защита от переполюсовки и от перегрузки по току",
+    "choices": [
+      "Защита от переполюсовки и от перегрузки по току",
+      "Подключение по Wi-Fi для удаленного мониторинга",
+      "Автоматическая балансировка ячеек",
+      "Управление пожаротушением"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "dc326dfc1301a3390edd51a72a64a32ef0b69de9d4f3a5beef2fa245c9d6cae8"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Каков типичный диапазон коэффициента мощности PCS промышленного масштаба?",
+    "correct_answer": "0,8 опережающий до 0,8 отстающий или шире",
+    "choices": [
+      "0,95 опережающий до 0,95 отстающий",
+      "0,8 опережающий до 0,8 отстающий или шире",
+      "Только единичный коэффициент мощности",
+      "Фиксированный 0,9 отстающий"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "1694a59671982f2de34ca75a73634b258d79fe81986f823066378cb02839083a"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Что такое LVRT в контексте соответствия PCS сетевым требованиям?",
+    "correct_answer": "Низковольтный проезд",
+    "choices": [
+      "Низковольтный проезд",
+      "Порог регулирования линейного напряжения",
+      "Испытание нагрузки и проверка отклика",
+      "Технология выпрямления с низкой дисперсией"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3f21b8b7e0354850693d68522ce35f580b65055efe853e2022b28214523a0421"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Какова типичная потеря эффективности при добавлении трансформатора к PCS?",
+    "correct_answer": "1-2% потери",
+    "choices": [
+      "0,1-0,3% потери",
+      "1-2% потери",
+      "5-8% потери",
+      "10-15% потери"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "99480cccd88018dfbd797f1ee0d512139d459a0037d80d22fd41133be5cb7ffd"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Какой диапазон индекса модуляции типичен для трехфазного инвертора PCS?",
+    "correct_answer": "От 0 до 1,15 для SVM",
+    "choices": [
+      "От 0 до 0,5",
+      "От 0 до 1,15 для SVM",
+      "От 1,5 до 2,0",
+      "От 0 до 0,8"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "49412ca3db81f1915d010f2db9e262079a403fb49bbecdae5202a1a3ecec38d3"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Как PCS взаимодействует с системой защиты сети?",
+    "correct_answer": "Через реле защиты, передающие сигналы отключения на контроллеры PCS",
+    "choices": [
+      "Через реле защиты, передающие сигналы отключения на контроллеры PCS",
+      "Напрямую через оптоволоконное соединение с SCADA энергокомпании",
+      "Только через ручное вмешательство оператора",
+      "Через BMS как посредника"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3177cbc561cb8a24b1ae969ec5a3512a50dad1d472ccc6342d68976620ccfebb"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Какой полупроводниковый прибор заменяет IGBT в некоторых перспективных конструкциях PCS?",
+    "correct_answer": "SiC MOSFET",
+    "choices": [
+      "SiC MOSFET",
+      "Транзисторы на нитриде галлия",
+      "Механические контакторы",
+      "Вакуумные лампы"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b6f5153499912cef27bb469a96bcc2934d42c185e3914a682489425bf52247f1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Что такое «мертвое время» при переключении инвертора PCS?",
+    "correct_answer": "Короткая задержка между выключением одного ключа и включением его комплементарной пары",
+    "choices": [
+      "Короткая задержка между выключением одного ключа и включением его комплементарной пары",
+      "Время, когда инвертор простаивает между циклами заряда и разряда",
+      "Период, когда PCS отключен от сети",
+      "Задержка перед перезапуском инвертора после неисправности"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "234663617d169840db9912ccaf3387dc4b3523c078538b499070c53adf5d684f"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "Что означает PCS в системе накопления энергии на аккумуляторах?",
+    "correct_answer": "Система преобразования энергии",
+    "choices": [
+      "Система преобразования энергии",
+      "Система управления мощностью",
+      "Основная система охлаждения",
+      "Система защитных цепей"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "9352036844e5c0636d25a474fb21e51228a7b775363e82438caa60d1b8a939b1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "Какова основная функция PCS в BESS?",
+    "correct_answer": "Преобразование между напряжением батареи постоянного тока и напряжением сети переменного тока",
+    "choices": [
+      "Преобразование между напряжением батареи постоянного тока и напряжением сети переменного тока",
+      "Мониторинг температур ячеек",
+      "Оптимизация стратегий рыночных заявок",
+      "Обеспечение физического охлаждения контейнера"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "110f158150406f3b4166cef15f87540c005d4e3928f6a04c91aa3a9c197323f7"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Какой полупроводниковый прибор наиболее часто используется в PCS-инверторах промышленного масштаба?",
+    "correct_answer": "IGBT",
+    "choices": [
+      "MOSFET",
+      "IGBT",
+      "Тиристор",
+      "BJT"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8c7584e92fe7d5c7a67dbc9fd343bdb6b0f244586ac05c10206515980f782999"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "В чем ключевое преимущество SiC MOSFET над IGBT в конструкциях PCS?",
+    "correct_answer": "Меньшие потери при переключении на высокой частоте",
+    "choices": [
+      "Меньшие потери при переключении на высокой частоте",
+      "Более высокое номинальное напряжение",
+      "Более низкая стоимость",
+      "Более простые требования к драйверу затвора"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4286fd84bd47accfa96610075793de039107ee9930428825dfee14f23f946e34"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Что может делать инвертор, формирующий сеть, чего не может инвертор, следящий за сетью?",
+    "correct_answer": "Устанавливать собственные эталоны напряжения и частоты",
+    "choices": [
+      "Устанавливать собственные эталоны напряжения и частоты",
+      "Синхронизироваться с существующей сетью",
+      "Заряжать батареи от солнечной энергии",
+      "Работать с более высокой эффективностью"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "9b0604e198616d2c35939b0bbe02e6751199eeffc27da8d8f0079b14bf670419"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Каково типичное выходное напряжение переменного тока PCS промышленного масштаба, подключенного на уровне среднего напряжения?",
+    "correct_answer": "11-33 кВ",
+    "choices": [
+      "400-480 В",
+      "690 В",
+      "1000 В",
+      "11-33 кВ"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "2015b5a04d66e691ec60d48e6aea4654f566ed50637d41ba13f1b9072e345cbc"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Что такое защита от островования в PCS?",
+    "correct_answer": "Обнаружение и отключение при потере вышестоящей сети",
+    "choices": [
+      "Обнаружение и отключение при потере вышестоящей сети",
+      "Предотвращение коротких замыканий между фазами",
+      "Защита от перенапряжения шины постоянного тока",
+      "Защита электроники от проникновения влаги"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ace18219630ec66c8f40bbafee1f10ab3b1459801c2bed48936a49bb637bc4e2"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Что означает THD в контексте качества выходного сигнала PCS?",
+    "correct_answer": "Суммарное гармоническое искажение",
+    "choices": [
+      "Суммарное гармоническое искажение",
+      "Тепловое рассеяние",
+      "Обнаружение высокого напряжения трансформатора",
+      "Тройное гармоническое смещение"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "307060d22e19c6d2402ee8e439e4e43bc281589ff47666c199d54d79231d5799"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Какова типичная эффективность работы от источника к нагрузке современного PCS промышленного масштаба?",
+    "correct_answer": "97-98,5%",
+    "choices": [
+      "90-92%",
+      "94-96%",
+      "97-98,5%",
+      "99,5-99,9%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "20f8be32259d3128a570e923a5cc75c2962a774335dbd8e8d4606768d57f42f9"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "Какова цель повышающего трансформатора в установке BESS?",
+    "correct_answer": "Повышение выходного напряжения PCS до напряжения подключения к сети",
+    "choices": [
+      "Повышение выходного напряжения PCS до напряжения подключения к сети",
+      "Изоляция батареи от земли",
+      "Увеличение пропускной способности по току",
+      "Фильтрация гармоник"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "83eceffd3ea5f11c7cda60fc65ae1d7ad2e7af5bd90ac2a8abe8ea8448fd89b1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Какая техника модуляции обычно используется в трехфазных PCS-инверторах?",
+    "correct_answer": "Пространственно-векторная ШИМ",
+    "choices": [
+      "Амплитудная модуляция",
+      "Частотная манипуляция",
+      "Пространственно-векторная ШИМ",
+      "Дельта-сигма модуляция"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c6d84342f2f29bea363e8841e2bb799ba55573a133cb7f5b00684833822adcd1"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Какова типичная способность по реактивной мощности современных PCS?",
+    "correct_answer": "Четырехквадрантный режим при полной номинальной полной мощности",
+    "choices": [
+      "Только единичный коэффициент мощности",
+      "Фиксированный коэффициент мощности 0,95 отстающий",
+      "Четырехквадрантный режим при полной номинальной полной мощности",
+      "Только опережающий коэффициент мощности до 50% нагрузки"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b4f1757096b02c16bfe0a1d3bbb59f2ecf80291cd73bfc72ce9fbacde55897d9"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "hard",
+    "question_text": "Какой вклад в ток короткого замыкания может обеспечить инвертор, формирующий сеть?",
+    "correct_answer": "От 1,2 до 2,0 номинального тока",
+    "choices": [
+      "От 1,2 до 2,0 номинального тока",
+      "От 6 до 10 номинального тока",
+      "0,5 номинального тока",
+      "Без ограничений"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "279c974f0f30bf1483a3b72e0f8bc75df1ccd3b53bebeddbf69a09c109af0208"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "easy",
+    "question_text": "Что означает MPPT в гибридном PCS солнечная энергия плюс накопитель?",
+    "correct_answer": "Отслеживание точки максимальной мощности",
+    "choices": [
+      "Отслеживание точки максимальной мощности",
+      "Многофазная передача мощности",
+      "Модульный терминал защиты питания",
+      "Отслеживание минимальной пиковой мощности"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "96b62794ca6baf1f4c879d080a5fe7fdffd7179605cbbb1833c48c4049accff9"
+  },
+  {
+    "category": "pcs",
+    "difficulty": "medium",
+    "question_text": "Какой метод охлаждения наиболее распространен для корпусов PCS промышленного масштаба?",
+    "correct_answer": "Принудительное воздушное охлаждение с HVAC",
+    "choices": [
+      "Естественная конвекция",
+      "Принудительное воздушное охлаждение с HVAC",
+      "Иммерсионное охлаждение",
+      "Пассивная тепловая труба"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "d61533875adcd000d1e3b0d6ce83e9a6c5e8c50b2668de02011fb02f3424ddd2"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "easy",
+    "question_text": "Какова основная цель совместного размещения BESS с солнечной электростанцией?",
+    "correct_answer": "Сместить выработку солнечной энергии на вечерние часы пикового спроса",
+    "choices": [
+      "Сместить выработку солнечной энергии на вечерние часы пикового спроса",
+      "Увеличить выходное напряжение солнечных панелей",
+      "Заменить необходимость в инверторах",
+      "Охлаждать солнечные панели в жаркие дни"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4fe2f18379429a6e576e9a33cb1bcc47b348542466ea1a31b65df80f60da2620"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "Что такое «утиная кривая» в управлении энергосистемой?",
+    "correct_answer": "Кривая чистой нагрузки, показывающая крутой вечерний подъем при снижении солнечной генерации",
+    "choices": [
+      "Кривая чистой нагрузки, показывающая крутой вечерний подъем при снижении солнечной генерации",
+      "График снижения стоимости аккумуляторов со временем",
+      "Профиль ветровой генерации в течение 24-часового цикла",
+      "Кривая деградации аккумулятора со временем"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4511cd3a962715cb6d57ce45feb9834f3379bae37ee823b626a19471bb9f5831"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "Что такое ограничение выработки возобновляемой энергии?",
+    "correct_answer": "Намеренное снижение выработки возобновляемой энергии, когда генерация превышает спрос или пропускную способность сети",
+    "choices": [
+      "Намеренное снижение выработки возобновляемой энергии, когда генерация превышает спрос или пропускную способность сети",
+      "Отключение электростанции для планового обслуживания",
+      "Добавление дополнительных солнечных панелей на существующую станцию",
+      "Преобразование постоянного тока в переменный"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "e94ec941162edee5b160654848abd7c80e26d9f32b7692e67a6ffaabdf1d4988"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "Как BESS помогает уменьшить ограничение выработки возобновляемой энергии?",
+    "correct_answer": "Поглощает избыточную генерацию, которая в противном случае была бы ограничена",
+    "choices": [
+      "Поглощает избыточную генерацию, которая в противном случае была бы ограничена",
+      "Повышает эффективность солнечных панелей",
+      "Снижает шум ветряных турбин",
+      "Заменяет необходимость в линиях электропередачи"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4741c856141b57feaf66941a59d4373f8818146655a2305d615c6c87448b0052"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "Что такое гибридный PPA в контексте солнечной энергии с накопителем?",
+    "correct_answer": "Единое соглашение о покупке электроэнергии, охватывающее как выработку солнечной энергии, так и накопителя",
+    "choices": [
+      "Единое соглашение о покупке электроэнергии, охватывающее как выработку солнечной энергии, так и накопителя",
+      "Соглашение, разделяющее выработку солнечной энергии между двумя покупателями",
+      "Контракт как на электроэнергию, так и на сертификаты возобновляемой энергии",
+      "PPA с сезонной корректировкой цен"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "c0f0c8eba20ae49cde1079fb32fd77cacc93ef1a1fa981b7a9188e2750a96b91"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "Что такое упрочнение мощности в возобновляемой энергетике?",
+    "correct_answer": "Использование BESS для сглаживания переменной выработки возобновляемой энергии до гарантированного профиля",
+    "choices": [
+      "Использование BESS для сглаживания переменной выработки возобновляемой энергии до гарантированного профиля",
+      "Установка физических опор для укрепления креплений солнечных панелей",
+      "Гарантирование минимальной скорости ветра за счет выбора площадки",
+      "Модернизация трансформаторов для работы с пиковыми нагрузками"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "b66a342f97046d73fe4fc91cb0f5b0291670856350d60483bf9ea42b5aaef6e0"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "В какое время дня утиная кривая Калифорнии достигает самого крутого подъема?",
+    "correct_answer": "С 16:00 до 20:00",
+    "choices": [
+      "С 6:00 до 9:00",
+      "С 12:00 до 14:00",
+      "С 16:00 до 20:00",
+      "С 22:00 до 0:00"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "f2e1424555bd58d5f633af518fbf3485b6fdbc34024d4e0c0b8fe1cdc4093d50"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "Что означает ITC в политике США в области возобновляемой энергетики?",
+    "correct_answer": "Инвестиционный налоговый кредит",
+    "choices": [
+      "Инвестиционный налоговый кредит",
+      "Межгосударственный транспортный коридор",
+      "Независимая сертификация испытаний",
+      "Интегрированная технологическая коалиция"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "93b92f10b06af2c5f91827c4da80ecf4032238fde36af290c427bb32361c12f6"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "Может ли автономный BESS претендовать на федеральный ITC США после Закона о снижении инфляции?",
+    "correct_answer": "Да",
+    "choices": [
+      "Да",
+      "Нет, только солнечная энергия с накопителем",
+      "Только если мощность ниже 5 МВт",
+      "Только в определенных штатах"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "375545c360eba905b79c5f027224032459ba1ff5a05ce88864ce58e38faff08d"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "hard",
+    "question_text": "Каково типичное соотношение МВт солнечной энергии к BESS в гибридной установке?",
+    "correct_answer": "Обычно 1 МВт солнечной энергии к 0.25-0.5 МВт накопителя",
+    "choices": [
+      "Обычно 1 МВт солнечной энергии к 0.25-0.5 МВт накопителя",
+      "1 МВт солнечной энергии к 1 МВт накопителя",
+      "1 МВт солнечной энергии к 2 МВт накопителя",
+      "1 МВт солнечной энергии к 0.05 МВт накопителя"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "096b739f2ba75cbd846871cbe0324386cb27fc57a768262af8c61ea449c10150"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "Что такое установка BESS за счётчиком?",
+    "correct_answer": "Аккумулятор, установленный на стороне потребителя за счётчиком",
+    "choices": [
+      "Аккумулятор, установленный на стороне потребителя за счётчиком",
+      "Аккумулятор, спрятанный за стеной по эстетическим причинам",
+      "Аккумулятор, работающий без PCS",
+      "Аккумулятор с отдельным учётом от здания"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "eabd5f853f8eb468ba2a495403904e10cc37365fbfa6ad9b658820844b6bf9ab"
+  },
+  {
+    "category": "renewable-integration",
+    "difficulty": "medium",
+    "question_text": "Какую основную услугу сети предоставляет солнечная станция с накопителем вечером в час пик?",
+    "correct_answer": "Пиковая мощность и поддержка скорости набора нагрузки",
+    "choices": [
+      "Пиковая мощность и поддержка скорости набора нагрузки",
+      "Только регулирование частоты",
+      "Снижение напряжения",
+      "Исключительно возможность чёрного старта"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "6c03d1700e88d0cdc09b781a8058fcc19aabf141b591bd688ba1232241744d0d"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "easy",
+    "question_text": "Что означает TMS в контексте BESS?",
+    "correct_answer": "Thermal Management System (Система терморегулирования)",
+    "choices": [
+      "Thermal Management System (Система терморегулирования)",
+      "Temperature Monitoring Station (Станция мониторинга температуры)",
+      "Thermal Mitigation Strategy (Стратегия снижения теплового воздействия)",
+      "Transformer Monitoring System (Система мониторинга трансформатора)"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ca01b9bb1e00ed17a9f9c892cfc44648f3b0c5d60f8a87fe735fd9d9fa4b58c6"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "В чём основное преимущество жидкостного охлаждения перед воздушным для BESS?",
+    "correct_answer": "Более высокий коэффициент теплопередачи и более равномерная температура ячеек",
+    "choices": [
+      "Более высокий коэффициент теплопередачи и более равномерная температура ячеек",
+      "Более низкие первоначальные капитальные затраты",
+      "Более простое обслуживание",
+      "Отсутствие необходимости в охлаждающей жидкости"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8fa4c17a6ce220105abb02461def145e73181a821cdcc5afa3fe42a97044642f"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "hard",
+    "question_text": "Каково типичное потребление вспомогательной мощности системой жидкостного охлаждения?",
+    "correct_answer": "2-5%",
+    "choices": [
+      "0.5-1%",
+      "2-5%",
+      "10-15%",
+      "20-25%"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "ff3b5fcdb89924e65fa51baabed4553c2cf64017a5f85c3ab5ba99708dbb5edc"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "Каков оптимальный диапазон рабочих температур для LFP-ячеек в BESS?",
+    "correct_answer": "15-30 °C",
+    "choices": [
+      "0-10 °C",
+      "15-30 °C",
+      "35-45 °C",
+      "50-60 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "127534f571666fe1b3971cfa2967fe466c1cebf3867c47cf10406eed9c810694"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "Почему важна однородность температуры по ячейкам в стойке?",
+    "correct_answer": "Разница температур ускоряет неравномерное старение ячеек",
+    "choices": [
+      "Разница температур ускоряет неравномерное старение ячеек",
+      "Неравномерная температура увеличивает энергопотребление охлаждения",
+      "Это влияет на цвет корпуса ячейки",
+      "Это изменяет физические размеры ячейки"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "28ff3f5f537127cf03241912b876e51294092392d3170a07c265b599f1c60285"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "hard",
+    "question_text": "Какая разница температур между ячейками обычно считается приемлемой в BESS?",
+    "correct_answer": "Менее 3-5 °C",
+    "choices": [
+      "Менее 0.5 °C",
+      "Менее 3-5 °C",
+      "Менее 10-15 °C",
+      "До 20 °C"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "4a44789912b2d76d948326b60a52406f0f169c6b3df7f7dcf809a0e98a242fda"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "Какая охлаждающая жидкость чаще всего используется в системах жидкостного охлаждения BESS?",
+    "correct_answer": "Водно-гликолевая смесь",
+    "choices": [
+      "Водно-гликолевая смесь",
+      "Минеральное масло",
+      "Чистая деионизированная вода",
+      "Хладагент R134a"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "61b6f1b3142d13c71dd3c6d5b210b6c08fe375568eaca6b880a55ee34344ecc3"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "easy",
+    "question_text": "Какова основная цель системы HVAC в контейнере BESS?",
+    "correct_answer": "Поддержание рабочей температуры ячеек в безопасных пределах",
+    "choices": [
+      "Поддержание рабочей температуры ячеек в безопасных пределах",
+      "Обеспечение комфортных условий для обслуживающего персонала",
+      "Создание избыточного давления в контейнере для защиты от пыли",
+      "Циркуляция воздуха для пожаротушения"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "8e6923e88045284bd203e13ed5d13a5c8a3524d865defc5bb414fbe6f548a510"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "В чём недостаток воздушного охлаждения для контейнеров BESS высокой плотности?",
+    "correct_answer": "Градиент температур увеличивается с ростом плотности энергии",
+    "choices": [
+      "Градиент температур увеличивается с ростом плотности энергии",
+      "Требуется больше площади пола",
+      "Оно шумнее жидкостного охлаждения",
+      "Использует больше охлаждающей жидкости, чем жидкостные системы"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "0af67376405ebccf72ab2221164aa9047280aac6ba7e34e4b0a33e5609de232a"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "Что такое охлаждение холодной пластиной в BESS?",
+    "correct_answer": "Пластина с жидкостным охлаждением, находящаяся в прямом контакте с поверхностью ячейки или модуля",
+    "choices": [
+      "Пластина с жидкостным охлаждением, находящаяся в прямом контакте с поверхностью ячейки или модуля",
+      "Хранение охлаждённой воды в подземных резервуарах",
+      "Охлаждение батареи за счёт работы ночью",
+      "Использование холодного наружного воздуха без активного охлаждения"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "3de8edcc400a453be0eeb11f2dc213a3e59a15c2260460bf8601ea74d64d3c4d"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "medium",
+    "question_text": "Что происходит с эффективностью BESS при работе при очень низких температурах?",
+    "correct_answer": "Более высокое внутреннее сопротивление снижает эффективность преобразования энергии",
+    "choices": [
+      "Более высокое внутреннее сопротивление снижает эффективность преобразования энергии",
+      "Эффективность улучшается за счёт снижения саморазряда",
+      "Затрагивается только эффективность заряда",
+      "Нет измеримого эффекта"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "bf5f7a1cf6be7e26ea10beb660a6499f1bf27d48fee7826809fbcb90015e0f61"
+  },
+  {
+    "category": "thermal-management",
+    "difficulty": "hard",
+    "question_text": "Каков типичный подход к охлаждению BESS в очень холодном климате?",
+    "correct_answer": "Контейнеры имеют нагреватели и могут самонагреваться за счёт потерь в инверторе",
+    "choices": [
+      "Контейнеры имеют нагреватели и могут самонагреваться за счёт потерь в инверторе",
+      "Батареи снижают мощность и работают с меньшей нагрузкой",
+      "Не требуется специальных мер",
+      "Батареи закапывают в землю для естественной изоляции"
+    ],
+    "image_asset": null,
+    "theme": "bess",
+    "language": "ru",
+    "translation_key": "327728d691cd5cd0f83c37dad8202824b6a1e03ed74088e49c0ba2baa7fb7c73"
+  }
+]

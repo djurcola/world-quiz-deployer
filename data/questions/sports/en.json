@@ -1,0 +1,3218 @@
+[
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which NBA team has won the most championships?",
+    "correct_answer": "Boston Celtics",
+    "choices": [
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e464d0de39cdd006779a4b199bda173aa430d75f6c2100f3c890db983805a17e",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "How many points is a three-point shot worth in the NBA?",
+    "correct_answer": "3",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "8be897b299052c3b352de6c83d1b937929e5541783432fb3102a2f7b03b1c224",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which player is known as 'His Airness'?",
+    "correct_answer": "Michael Jordan",
+    "choices": [
+      "Michael Jordan",
+      "LeBron James",
+      "Kobe Bryant",
+      "Magic Johnson"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "7ccb876ab2d3262e91b9744dd6147f345b32af7cd1f641a1899f29072ddb909f",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "What is the height of a standard NBA basketball hoop?",
+    "correct_answer": "10 feet",
+    "choices": [
+      "9 feet",
+      "10 feet",
+      "11 feet",
+      "12 feet"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d8814de3ed887f16b03aed99728f99fa054372d71acd0ee9e6d5695ab968fdee",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which country invented the sport of basketball?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "Canada",
+      "England",
+      "Australia"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "aef882ccd6929f8d3db9387dd6d63cc398501730fbdae1f21b088768a4c0a153",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "How many players from each team are on the court during an NBA game?",
+    "correct_answer": "5",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d2403c67c4b16b01dd8b8e5c6dd8b428269582e71f243d61e4d8a47cd993aa12",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "What is the diameter of a basketball hoop in inches?",
+    "correct_answer": "18 inches",
+    "choices": [
+      "16 inches",
+      "18 inches",
+      "20 inches",
+      "22 inches"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "56983d9835c6d92b0d65e50c9b5c1a207c8fbc483b4431ef97fbc6aa20498da8",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which team did Michael Jordan win his six NBA championships with?",
+    "correct_answer": "Chicago Bulls",
+    "choices": [
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Detroit Pistons"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "fe021eb5bd63129362e4ef44489dfc10f57fced65b7e8e7fb5df8874a90d7317",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "What is the duration of a regulation NBA quarter?",
+    "correct_answer": "12 minutes",
+    "choices": [
+      "10 minutes",
+      "12 minutes",
+      "15 minutes",
+      "20 minutes"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "ce456b966ce9a0f51732fb079a327dbf2ec6c36e3e4888876e7c6c296e6e57a2",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which player holds the record for most career points in NBA history?",
+    "correct_answer": "LeBron James",
+    "choices": [
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "Kobe Bryant"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "557cb74f32261e8a5962ce79d89840ead1fd31418f0f324f503bf2af020fc9e3",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "How many NBA championships did Bill Russell win as a player?",
+    "correct_answer": "11",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3d52906184db04f0cfab6a7949fe3fc5c38d70f57170976ebdd6646f3784fe07",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which player scored 100 points in a single NBA game?",
+    "correct_answer": "Wilt Chamberlain",
+    "choices": [
+      "Wilt Chamberlain",
+      "Michael Jordan",
+      "Kobe Bryant",
+      "Larry Bird"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "76dc0fbd80bed98f75e9a0a8a99ba70aa5c5137e4ec2cd15cd0d33d1b1994d30",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "In what year was the NBA founded?",
+    "correct_answer": "1946",
+    "choices": [
+      "1946",
+      "1950",
+      "1954",
+      "1960"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "715f6e2ce412b0e21cd381fb4469a1b8f1f7ea883c42db96037d9e6512a89016",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which player is nicknamed 'King James'?",
+    "correct_answer": "LeBron James",
+    "choices": [
+      "LeBron James",
+      "James Harden",
+      "Larry Bird",
+      "Magic Johnson"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "35f554fd02e32950c6ca56a9c024735d1851c315ae082aa47d2c9ddd65edd380",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "What was the name of Michael Jordan's college team?",
+    "correct_answer": "North Carolina Tar Heels",
+    "choices": [
+      "North Carolina Tar Heels",
+      "Duke Blue Devils",
+      "Kentucky Wildcats",
+      "Kansas Jayhawks"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "f98aec3fc531fa2d2a7d7cca1d32708ad2851ff0ccd05f21069f3d39604cd138",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "How many seconds is the NBA shot clock?",
+    "correct_answer": "24 seconds",
+    "choices": [
+      "24 seconds",
+      "30 seconds",
+      "35 seconds",
+      "45 seconds"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "56758239779ce71eb4d1935168033cd2fc0640cf52aa059a8a842445b57bb2d5",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which team did Kobe Bryant play his entire NBA career with?",
+    "correct_answer": "Los Angeles Lakers",
+    "choices": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Miami Heat"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "4a1999817bd54da7219bb1d44c1f055ccb1f89dfd49dec36b68ce58a71bdb675",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Who is the all-time leader in NBA assists?",
+    "correct_answer": "John Stockton",
+    "choices": [
+      "John Stockton",
+      "Magic Johnson",
+      "Chris Paul",
+      "Jason Kidd"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "db8075e53d920497501da796f20c2ebb56096d342316303a74205f856c7d56fc",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "What is the name of the NBA's annual championship trophy?",
+    "correct_answer": "Larry O'Brien Trophy",
+    "choices": [
+      "Larry O'Brien Trophy",
+      "NBA Championship Trophy",
+      "Walter A. Brown Trophy",
+      "Bill Russell Trophy"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "44cf9fa95d69674ce1589771c321f6009a06324392e85847b499a120550a73a5",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which NBA team is known as the 'Celtics'?",
+    "correct_answer": "Boston Celtics",
+    "choices": [
+      "Boston Celtics",
+      "New York Knicks",
+      "Philadelphia 76ers",
+      "Brooklyn Nets"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "4ab8023e0ef72b6dc7a0c8757e6e44dca8b66b70b07c6df2848e541b7afbcef1",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Who was the first overall pick in the 2003 NBA Draft?",
+    "correct_answer": "LeBron James",
+    "choices": [
+      "LeBron James",
+      "Carmelo Anthony",
+      "Dwyane Wade",
+      "Chris Bosh"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d412970b845e05682538f9e2f98eb2ee4287a9bb586769e1c52a805ea9621945",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Which player won the NBA MVP award unanimously in 2016?",
+    "correct_answer": "Stephen Curry",
+    "choices": [
+      "Stephen Curry",
+      "LeBron James",
+      "Kevin Durant",
+      "Russell Westbrook"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e7a03363bfe6a049e849bddfc25e0fdd349f6729a9a0675862f468dda7a00b30",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "How many fouls does an NBA player need to foul out?",
+    "correct_answer": "6",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "cf02f5026a73e659b6fd4573ad37fae70eb98843def4851cb9a2e43edc3b22af",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which player is known as 'The Black Mamba'?",
+    "correct_answer": "Kobe Bryant",
+    "choices": [
+      "Kobe Bryant",
+      "Michael Jordan",
+      "LeBron James",
+      "Kevin Durant"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "041a7c5a4dae46bee6c00720f723ba969ebcb9b966e34f712441b71b579718b5",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "What is the width of the NBA three-point line at its farthest point?",
+    "correct_answer": "23 feet 9 inches",
+    "choices": [
+      "22 feet",
+      "23 feet 9 inches",
+      "24 feet",
+      "25 feet"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d0b7d134a8746bb7311a186a4d6dce94c7aadd33f4897222ea42740ca30827bb",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Which team won the first NBA championship in 1947?",
+    "correct_answer": "Philadelphia Warriors",
+    "choices": [
+      "Philadelphia Warriors",
+      "Boston Celtics",
+      "Minneapolis Lakers",
+      "New York Knicks"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "dd0f088470a45a79eee7e5733b13fdbddfc099eea2e402d125fb92589de3494a",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Who is the only player to win NBA MVP and NCAA championship in the same year?",
+    "correct_answer": "Magic Johnson",
+    "choices": [
+      "Magic Johnson",
+      "Michael Jordan",
+      "Larry Bird",
+      "Bill Walton"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3aaaecb920bacf9b552dc7a23727ae831a20a4cb8afc43421c9b8a97733c29d1",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "How many seasons did Michael Jordan play for the Chicago Bulls?",
+    "correct_answer": "13",
+    "choices": [
+      "11",
+      "13",
+      "15",
+      "10"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "091be44f785ab6004c710d4637d58646040b7143b211bd995c97cc6b791165e9",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which NBA team holds the record for most wins in a regular season?",
+    "correct_answer": "Golden State Warriors",
+    "choices": [
+      "Golden State Warriors",
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Boston Celtics"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d3d89105b1ba73c22ac83e1d4fe06f92503fde9e6b648c5c870d25229d012e52",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "What jersey number did Kobe Bryant wear for most of his career?",
+    "correct_answer": "24",
+    "choices": [
+      "23",
+      "24",
+      "33",
+      "8"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "2a6852ec7f5242554fa719c568f8d5c98b76052ab53f334090fc2c73d6650c48",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Who coached the Chicago Bulls to their six NBA championships?",
+    "correct_answer": "Phil Jackson",
+    "choices": [
+      "Phil Jackson",
+      "Pat Riley",
+      "Gregg Popovich",
+      "Red Auerbach"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "4d11bf9b7d4f61f1dbf49d88e24f41d73ab9c17c7e75db4b2e3bdb12a7773080",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which country has won the most Olympic gold medals in men's basketball?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "Soviet Union",
+      "Spain",
+      "Argentina"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "50c69ca72c7f07ee966669fe8af360dc6ddcc2ede078ae53a781a8b15a0b5a55",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "What is the name of the WNBA's most valuable player award?",
+    "correct_answer": "WNBA MVP Award",
+    "choices": [
+      "WNBA MVP Award",
+      "Sheryl Swoopes Trophy",
+      "Lisa Leslie Cup",
+      "Commissioner's Cup MVP"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "be5fffde557bb2f9f85c2b55afb5e2977b8db763b9e912c46580505df7e5b04c",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Which WNBA player has the most career points?",
+    "correct_answer": "Diana Taurasi",
+    "choices": [
+      "Diana Taurasi",
+      "Tamika Catchings",
+      "Tina Thompson",
+      "Lisa Leslie"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "62fd01f9eb8ca95b0e537d21e5159255b81b069288decf17cc90505d1bc53859",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Who was the first player drafted in NBA history?",
+    "correct_answer": "Clifton McNeely",
+    "choices": [
+      "Clifton McNeely",
+      "George Mikan",
+      "Bob Cousy",
+      "Chuck Share"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "44a9e525013ac4854e8328bfc92f4c98d4d7d011ba08a20a12129d5b30ce4a9e",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "What is the maximum width of the NBA court?",
+    "correct_answer": "50 feet",
+    "choices": [
+      "45 feet",
+      "50 feet",
+      "55 feet",
+      "60 feet"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "0d8b83fa4ee2e48fafa264f37aad9745a326f5dffb9c602523a10cb51be49e0b",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which team did Larry Bird play his entire career with?",
+    "correct_answer": "Boston Celtics",
+    "choices": [
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Indiana Pacers",
+      "Chicago Bulls"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "fdcbf641237cc4a51ed8e577208e11fd5fcd35a5cf0777b6115d23f299e2fe10",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Who is the only player to record a triple-double in an NBA All-Star Game?",
+    "correct_answer": "LeBron James",
+    "choices": [
+      "LeBron James",
+      "Michael Jordan",
+      "Magic Johnson",
+      "Russell Westbrook"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a32e8259f459f827f42adca94d50380d52e3a6772cda1518a56e12430dc66da2",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "What is the format of the NCAA Division I men's basketball tournament commonly called?",
+    "correct_answer": "March Madness",
+    "choices": [
+      "March Madness",
+      "Final Four",
+      "Sweet Sixteen",
+      "The Big Dance"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c56787e8439c530c2d97ddfb43a5bcb8458226b7bceba24a43cf185c1cf71e26",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "How many teams make the NCAA Division I men's basketball tournament?",
+    "correct_answer": "68",
+    "choices": [
+      "64",
+      "68",
+      "72",
+      "65"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "cb335bad6c01da3c992b297d9e43dfa3db868c94fc2caa769ecfa83074c72ae8",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which NBA player scored 81 points in a single game in 2006?",
+    "correct_answer": "Kobe Bryant",
+    "choices": [
+      "Kobe Bryant",
+      "Michael Jordan",
+      "Wilt Chamberlain",
+      "David Thompson"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "cff3759bfbe181d8e68a099c81e9ac8caefae65111a1efe8d58f2a17023a07de",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Who invented the game of basketball?",
+    "correct_answer": "James Naismith",
+    "choices": [
+      "James Naismith",
+      "William Morgan",
+      "John McLendon",
+      "Luther Gulick"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "f637e675cf75b64e1d709e18d40707ef3e121c84d2772a350cf88fd3d86efaf8",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "In what year was the three-point line introduced to the NBA?",
+    "correct_answer": "1979",
+    "choices": [
+      "1976",
+      "1979",
+      "1984",
+      "1987"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e5e03b149aeb8d43b02e184292537390e128c9e2e73d5a0d6e9c50003bf6ae9e",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which player has the most NBA MVP awards?",
+    "correct_answer": "Kareem Abdul-Jabbar",
+    "choices": [
+      "Kareem Abdul-Jabbar",
+      "Michael Jordan",
+      "LeBron James",
+      "Bill Russell"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "894690f7d3348ad76ed4f4f1a1ea583023c93d903fe8e9f33b3dd0fd25333a7f",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Who is the all-time leading scorer in NCAA Division I men's basketball history?",
+    "correct_answer": "Pete Maravich",
+    "choices": [
+      "Pete Maravich",
+      "Kareem Abdul-Jabbar",
+      "Larry Bird",
+      "Tyler Hansbrough"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1153f3e0d120c673e7160c914422b9deb3918200b447aa2aa50797b26350058e",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which NBA team won 72 games in the 1995-96 season?",
+    "correct_answer": "Chicago Bulls",
+    "choices": [
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Golden State Warriors",
+      "Boston Celtics"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "347dc213e336990825ed0e294f45f8a9fd06c429e57af88a3294c21b081be627",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "What is the name of the NBA's developmental league?",
+    "correct_answer": "NBA G League",
+    "choices": [
+      "NBA G League",
+      "NBA D-League",
+      "NBA Development League",
+      "NBA Minor League"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "fa542a2701d79931d00978bc5916d2824d37a0baff2e91b22a478c5af2dfcb4f",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "Which country won the FIBA Basketball World Cup in 2019?",
+    "correct_answer": "Spain",
+    "choices": [
+      "Spain",
+      "Argentina",
+      "France",
+      "United States"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "515c79ed4cd5b350aca635edd1071036f635421d35e6e2b3641a627de23b95cc",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "Who is the shortest player to ever play in the NBA?",
+    "correct_answer": "Muggsy Bogues",
+    "choices": [
+      "Muggsy Bogues",
+      "Spud Webb",
+      "Nate Robinson",
+      "Earl Boykins"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c73c6fc4b6f2e4f3b0268c53dadef4e60599fa53fc3b956af81f94663ded17ba",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "How many teams were in the original NBA in 1946?",
+    "correct_answer": "11",
+    "choices": [
+      "8",
+      "11",
+      "12",
+      "10"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "05bead8e802d517f3d5562eb5cdc7e571435652f2324fb944625ca5adc41c2eb",
+    "language": "en"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "Which NBA team drafted Giannis Antetokounmpo?",
+    "correct_answer": "Milwaukee Bucks",
+    "choices": [
+      "Milwaukee Bucks",
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Toronto Raptors"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "038b2ae72d21e1031e91cc90e964bdfb4ea331dc44c9ca4c3a78a0cd449098f1",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which country won the first FIFA World Cup in 1930?",
+    "correct_answer": "Uruguay",
+    "choices": [
+      "Uruguay",
+      "Brazil",
+      "Argentina",
+      "Italy"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3214bbbdfbb3630246db0fb6bc1aaea6f4d6b6f24df5eb30881fcae236fc9dbd",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which country has won the most FIFA World Cup titles?",
+    "correct_answer": "Brazil",
+    "choices": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d27dc86b8629cfc7068246ccb5e454e48128f7291a2c2df0c327250e795878ff",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "How many World Cup titles has Brazil won?",
+    "correct_answer": "5",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "9ed637448951bebc3c328987706ccefba10e8090b221a389818bd14371e340d1",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Who is the all-time top scorer in FIFA World Cup history?",
+    "correct_answer": "Miroslav Klose",
+    "choices": [
+      "Miroslav Klose",
+      "Ronaldo",
+      "Lionel Messi",
+      "Pelé"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3a8d87529d4aa238476f8674c500253176ae485e5a4c17d2be0396cd7cc5842e",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "How many goals did Miroslav Klose score in World Cups?",
+    "correct_answer": "16",
+    "choices": [
+      "16",
+      "15",
+      "14",
+      "17"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "66d1ecaa4dcb02735194de66f38d8fc0b086676841a390166d4eacfe8b9d39de",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which country hosted the 2014 FIFA World Cup?",
+    "correct_answer": "Brazil",
+    "choices": [
+      "Brazil",
+      "South Africa",
+      "Russia",
+      "Germany"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "b043d3dcd076d5f6b6914c0f57318c662d14f00ad429a271516749b0ade3eb56",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Who is known as 'The King of Football' and won three World Cups?",
+    "correct_answer": "Pelé",
+    "choices": [
+      "Pelé",
+      "Diego Maradona",
+      "Lionel Messi",
+      "Johan Cruyff"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "ab6621f1f18c97be04007d939a94f25c66ecf0665d799c663efef429accdc9c6",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "In which year did Diego Maradona score his infamous 'Hand of God' goal?",
+    "correct_answer": "1986",
+    "choices": [
+      "1986",
+      "1982",
+      "1990",
+      "1978"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "9c1261f611719a4322a87a74425020e05ee17483b8acfaa697cdd5e7e772a965",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Against which country did Maradona score the 'Hand of God' goal?",
+    "correct_answer": "England",
+    "choices": [
+      "England",
+      "Argentina",
+      "West Germany",
+      "Belgium"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a343ef17d0745e45258f3086428a050b44933c7b1fb894cc786bab2c3f0cd2a4",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which club has won the most UEFA Champions League titles?",
+    "correct_answer": "Real Madrid",
+    "choices": [
+      "Real Madrid",
+      "AC Milan",
+      "Bayern Munich",
+      "Liverpool"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1476d613664deeb7511798942b80f94433fad5fec2fbbf47565c6356b0b7efed",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "How many Champions League titles has Real Madrid won?",
+    "correct_answer": "14",
+    "choices": [
+      "14",
+      "13",
+      "15",
+      "12"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "642e527399769d2b4748e08686f207ad770d6f2f361165825acd9df5d119c9bb",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Who is the all-time top scorer in UEFA Champions League history?",
+    "correct_answer": "Cristiano Ronaldo",
+    "choices": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Karim Benzema"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d57f77e2016e38d4f939b4874ea89284981abec374391b4360259c3927d4ba4e",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "How many Ballon d'Or awards has Lionel Messi won?",
+    "correct_answer": "7",
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1ab9a64aa1c2987d015695996a47649d3304f4e08e215023e1dcfda778aa0253",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which country has won the UEFA European Championship the most times?",
+    "correct_answer": "Germany",
+    "choices": [
+      "Germany",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "5d03959f3228b80dd3f77a665ae394fa383276a92057581b3c568f2c6ff9aaf0",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "In what year did the Premier League begin?",
+    "correct_answer": "1992",
+    "choices": [
+      "1992",
+      "1990",
+      "1994",
+      "1888"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a0934baf337ad5b4c3256ac3d96e88f2a83322636f51ddd01a3583d3d2738cc2",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which player has the most Premier League goals of all time?",
+    "correct_answer": "Alan Shearer",
+    "choices": [
+      "Alan Shearer",
+      "Wayne Rooney",
+      "Harry Kane",
+      "Thierry Henry"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "dde04537c695a6a3a64bc815d0892066517d108a880cd1172f380746aa680c64",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which club has won the most Premier League titles?",
+    "correct_answer": "Manchester United",
+    "choices": [
+      "Manchester United",
+      "Chelsea",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1f96511f56b31345b10c96194fe6277ef69827260938ab417aeb560799e7c6b3",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Who is the only player to have won the World Cup with two different countries?",
+    "correct_answer": "Luis Monti",
+    "choices": [
+      "Luis Monti",
+      "Alfredo Di Stéfano",
+      "Ferenc Puskás",
+      "Luis Suárez"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "71ba07694e8086473f5f1d87c833f4155a871c9e8f1c25ed164c6e5a3b845955",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which country won the 2018 FIFA World Cup?",
+    "correct_answer": "France",
+    "choices": [
+      "France",
+      "Croatia",
+      "Belgium",
+      "Argentina"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "43fbf6ec7639fd2c9116382421aa40bb4c6c82f6d72bd395c148c6fe2ff58e76",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which player scored a hat-trick in the 2022 World Cup final?",
+    "correct_answer": "Kylian Mbappé",
+    "choices": [
+      "Kylian Mbappé",
+      "Lionel Messi",
+      "Ángel Di María",
+      "Antoine Griezmann"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d44268e5e4b0e7f7af66e291dfb96d941baa626d47978a53b34dba4acfd7649b",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Who won the 2022 FIFA World Cup?",
+    "correct_answer": "Argentina",
+    "choices": [
+      "Argentina",
+      "France",
+      "Brazil",
+      "Germany"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a1b53d0acd43421ee3176b722f3e3d90c8d7a70453d23b7221f07352747916c6",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which stadium is known as the 'Theatre of Dreams'?",
+    "correct_answer": "Old Trafford",
+    "choices": [
+      "Old Trafford",
+      "Camp Nou",
+      "Anfield",
+      "Wembley"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "5f64221068a8695b941617fe9917b6d39ee555d6d46186aba0474aaea9a5a1f3",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "What is the capacity of Camp Nou, Europe's largest stadium?",
+    "correct_answer": "99,354",
+    "choices": [
+      "99,354",
+      "90,000",
+      "81,000",
+      "105,000"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "28a1b4a9112f2564bbe686e20b957cd00a1fafb30717c7b3c5d9c56a34834ed3",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which country has won the most Copa América titles?",
+    "correct_answer": "Argentina",
+    "choices": [
+      "Argentina",
+      "Uruguay",
+      "Brazil",
+      "Chile"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d510ae91baa509da2b1f1443a643af4cd4901742a66245ced63f1e126c089322",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Who is the all-time top scorer in men's international football?",
+    "correct_answer": "Cristiano Ronaldo",
+    "choices": [
+      "Cristiano Ronaldo",
+      "Ali Daei",
+      "Lionel Messi",
+      "Sunil Chhetri"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "830d907666c443126ded101024fd4a1c504014809f425d9437a386b9c67ad383",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "How many players are on the field for each team in a standard football match?",
+    "correct_answer": "11",
+    "choices": [
+      "11",
+      "10",
+      "12",
+      "9"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a19b5c64533099ccfed5685bcf314c8f05a13fb91f7bb1322284fd1c99065d2e",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "What color card indicates a player has been sent off?",
+    "correct_answer": "Red",
+    "choices": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Black"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c7e0dfc2276f10981f609f7c916726d68e598bec7322c993faae9f1b6ce4c5cb",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "What is the distance from the goal line to the penalty spot?",
+    "correct_answer": "12 yards",
+    "choices": [
+      "12 yards",
+      "18 yards",
+      "10 yards",
+      "6 yards"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "0f723947ebeb256234feda23c23ad18e175fba84f68a0c750a662b17b951979d",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which manager is known as 'The Special One'?",
+    "correct_answer": "José Mourinho",
+    "choices": [
+      "José Mourinho",
+      "Pep Guardiola",
+      "Alex Ferguson",
+      "Arsène Wenger"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d06b774b7b8b594c77d87a93d9e646469423079aef21c665753b2082b826faa7",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Who is the longest-serving manager in Manchester United's history?",
+    "correct_answer": "Alex Ferguson",
+    "choices": [
+      "Alex Ferguson",
+      "Matt Busby",
+      "Ernest Mangnall",
+      "José Mourinho"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "191cb0d15f50406b5e1eadf8d067845ec75ad28a373ac0ba431e23fa4c978a07",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which club did Johan Cruyff famously play for and later manage?",
+    "correct_answer": "Barcelona",
+    "choices": [
+      "Barcelona",
+      "Ajax",
+      "Real Madrid",
+      "Bayern Munich"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "bf2c148bd7daf3b7e4d674ec1e5238eaa0712f7cdee479d4880fd0ef1e964282",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Which country invented the offside rule?",
+    "correct_answer": "England",
+    "choices": [
+      "England",
+      "Scotland",
+      "Italy",
+      "France"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "680fc3c99610dad7453f7519542026d16f7d287c424a6f94c19ab2464caa4593",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Who was the first footballer to be knighted?",
+    "correct_answer": "Sir Stanley Matthews",
+    "choices": [
+      "Sir Stanley Matthews",
+      "Sir Bobby Charlton",
+      "Sir Geoff Hurst",
+      "Sir Bobby Moore"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "157fae05954e51a4e25f798547cc59756f97a2073732e9b9e4a5d369df0f102a",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which country has never missed a FIFA World Cup?",
+    "correct_answer": "Brazil",
+    "choices": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c2d8e9a1647e979c765e0c9d4223d82719fa3bd9261f938f80dd6bb90cde98a9",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Which African country was the first to reach the World Cup quarterfinals?",
+    "correct_answer": "Cameroon",
+    "choices": [
+      "Cameroon",
+      "Nigeria",
+      "Senegal",
+      "Ghana"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3dd0e29f22bf8339bb57e0a155ddb45c226c4c6e01913351ea7cf26800331586",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which year was the first Women's World Cup held?",
+    "correct_answer": "1991",
+    "choices": [
+      "1991",
+      "1995",
+      "1999",
+      "1987"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "108c811343d7acde75e434bde9bc6c0a4dd0c9360a56e04ffa8459bf2b86b57d",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which country has won the most Women's World Cup titles?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "Germany",
+      "Norway",
+      "Japan"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "70d76e57b68c5ffc24aeaa2452d483f1bd8a03582a8d8a36fc810006d30e3e2c",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "How many Women's World Cup titles has the US won?",
+    "correct_answer": "4",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1825d4fb228aaac169e82e2b14dabc8761338a97b243dd7e3baf14988c1d6cc5",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which club is known as 'The Invincibles' for going undefeated in a Premier League season?",
+    "correct_answer": "Arsenal",
+    "choices": [
+      "Arsenal",
+      "Manchester United",
+      "Chelsea",
+      "Liverpool"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3bc365896eef25f058f3470daffac4653c8b45a9c5cf077932ca0c325d094f7a",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "In which year did Arsenal complete their 'Invincible' season?",
+    "correct_answer": "2004",
+    "choices": [
+      "2004",
+      "2003",
+      "2005",
+      "2002"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "42f66a0e0e5d2c5cb46f395bac2367f6327a7131afc529511cd143ce25109b89",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Which German club is known for the 'Mia san mia' motto?",
+    "correct_answer": "Bayern Munich",
+    "choices": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Schalke",
+      "Hamburg"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c3ef29426916902ea9c284a4762ee2b77e635769dc574c7d17f6b3ac49c87f2e",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Who is the all-time top scorer for the Brazilian national team?",
+    "correct_answer": "Neymar",
+    "choices": [
+      "Neymar",
+      "Pelé",
+      "Ronaldo",
+      "Romário"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "5bed862db5e6a03d58a97f47ac39f1efbe264397c001579c56bfb54d2ed1b00d",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "What is the name of the trophy awarded to the World Cup winner?",
+    "correct_answer": "FIFA World Cup Trophy",
+    "choices": [
+      "FIFA World Cup Trophy",
+      "Jules Rimet Trophy",
+      "World Cup Trophy",
+      "Gold Cup"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "49fc2e2d9edcc53c969eaaa15f8539b566820598b569a3142f1d315cd2a758bf",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Which country won the first ever UEFA European Championship in 1960?",
+    "correct_answer": "Soviet Union",
+    "choices": [
+      "Soviet Union",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e8b29db8bc2674ce0a4597aae84b55f01d23cdf129c84ed6927014277df4a8a6",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Who scored the most goals in a single Premier League season (38 games)?",
+    "correct_answer": "Erling Haaland",
+    "choices": [
+      "Erling Haaland",
+      "Mohamed Salah",
+      "Alan Shearer",
+      "Cristiano Ronaldo"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "ecf1856ee39672a459abd5cd84b8bfa6e15d68df5b41b976ee438fb3c8a7b781",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "How many goals did Erling Haaland score in the 2022-23 Premier League season?",
+    "correct_answer": "36",
+    "choices": [
+      "36",
+      "38",
+      "34",
+      "32"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "53be9868c567f15cf3a472922d0288088f1518f9a493d1d88d3afc36815ed5d6",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "Which country is credited with inventing modern football?",
+    "correct_answer": "England",
+    "choices": [
+      "England",
+      "Scotland",
+      "Brazil",
+      "Italy"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "022712a9da78f5d64f2b0e0cd50bcee8942ba532b8ac9c24bcacf6af4ec095cd",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "medium",
+    "question_text": "Which club has won the most La Liga titles?",
+    "correct_answer": "Real Madrid",
+    "choices": [
+      "Real Madrid",
+      "Barcelona",
+      "Atlético Madrid",
+      "Athletic Bilbao"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "80ba138ac5c65fe02b0955010c73c5dd22b5e39104df8277394e29931789a96f",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "Which player has the most assists in Premier League history?",
+    "correct_answer": "Ryan Giggs",
+    "choices": [
+      "Ryan Giggs",
+      "Cesc Fàbregas",
+      "Kevin De Bruyne",
+      "Wayne Rooney"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c6366fb98467f233adcf15f37097a187ce84f5bb28d34c167d0dda630f3fb936",
+    "language": "en"
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question_text": "What is the standard width of a football goal?",
+    "correct_answer": "8 yards",
+    "choices": [
+      "8 yards",
+      "7 yards",
+      "9 yards",
+      "6 yards"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a1d069fee53edfb7eb6c20ab4b6307d6f278998fc41dca1d983d652b7b809e20",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "In which year did the ancient Olympic Games begin?",
+    "correct_answer": "776 BCE",
+    "choices": [
+      "776 BCE",
+      "490 BCE",
+      "632 BCE",
+      "850 BCE"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "dac99b890d00ccd4036a5b63bfd3abf29bafce5d51313785aeaa433a0f151811",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Who is credited with founding the modern Olympic Games?",
+    "correct_answer": "Pierre de Coubertin",
+    "choices": [
+      "Pierre de Coubertin",
+      "Baron von Steuben",
+      "Jules Rimet",
+      "Avery Brundage"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "12da511fd65058ab52a0ce1edcadded14968dc1fd2d46009bc90e18055bc93f5",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "In what year were the first modern Olympic Games held?",
+    "correct_answer": "1896",
+    "choices": [
+      "1896",
+      "1900",
+      "1904",
+      "1890"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "f612f061236cfed50c016b7c3c5d219458787dcf1337c0e262aacb225ee6a2cc",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Which city hosted the first modern Olympic Games?",
+    "correct_answer": "Athens",
+    "choices": [
+      "Athens",
+      "Paris",
+      "London",
+      "Rome"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c4202bea5e5807b7ec5031fd8225758cff2e3f2ebc5c8bf1c56d5a2ad6803842",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "How many rings appear on the Olympic flag?",
+    "correct_answer": "5",
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "83e3b47358aad58b57b9ea2ef7bdf85afcdbe989f50eda4f20bb9c18d242d20c",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "What do the five Olympic rings represent?",
+    "correct_answer": "The five inhabited continents",
+    "choices": [
+      "The five inhabited continents",
+      "The five original sports",
+      "The five founding nations",
+      "The five Olympic values"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "7fa46b4878acaebc78739b1c6961785cdde0cb75ca61da060ad48b8511c418f4",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "What is the official Olympic motto?",
+    "correct_answer": "Citius, Altius, Fortius",
+    "choices": [
+      "Citius, Altius, Fortius",
+      "Swifter, Higher, Stronger Together",
+      "One World, One Dream",
+      "Faster, Higher, Braver"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "607a4beabea2562e926cb2cb9386af02c434f3894944d42452271e58d84bcdcc",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "What is the Olympic motto in English?",
+    "correct_answer": "Faster, Higher, Stronger",
+    "choices": [
+      "Faster, Higher, Stronger",
+      "Swifter, Higher, Braver",
+      "Quick, High, Strong",
+      "Speed, Height, Power"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "75448ea9c10e2044b36ed746b64033b52c0f07526c9e05242e671167e53e10bf",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which athlete holds the record for the most Olympic gold medals?",
+    "correct_answer": "Michael Phelps",
+    "choices": [
+      "Michael Phelps",
+      "Usain Bolt",
+      "Carl Lewis",
+      "Mark Spitz"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "30f585d449df4ada0457c7bbede3fb77eb2407c7c8b5b23a01d24eae21c3c8df",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "How many Olympic gold medals did Michael Phelps win in total?",
+    "correct_answer": "23",
+    "choices": [
+      "23",
+      "18",
+      "28",
+      "15"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3036642e907ae8e5139e182279e23a40efa8f27c0de0522e2a982264417d2a60",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "In which event did Usain Bolt win his first Olympic gold medal?",
+    "correct_answer": "100 meters",
+    "choices": [
+      "100 meters",
+      "200 meters",
+      "4x100 meter relay",
+      "400 meters"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "6d2322e4234fbd8f90cd76b9df6803650a90484e36869928ede8fef32a203b56",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "What year did Usain Bolt complete his first Olympic triple-triple?",
+    "correct_answer": "2016",
+    "choices": [
+      "2016",
+      "2012",
+      "2008",
+      "2020"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e07e57a7987cb149aba1bceb9427032a89aae5fc39c5c3ada2c288104865c334",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "How many Olympic gold medals did Carl Lewis win in his career?",
+    "correct_answer": "9",
+    "choices": [
+      "9",
+      "10",
+      "8",
+      "7"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "109e70e8496b1da3bd312655bb55647bce36d0048aec7227b351a74916c8334a",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Who was the first woman to win an Olympic gold medal in gymnastics all-around?",
+    "correct_answer": "Larisa Latynina",
+    "choices": [
+      "Larisa Latynina",
+      "Simone Biles",
+      "Nadia Comaneci",
+      "Olga Korbut"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "544121dd36038ec130f3da4896be764e8998cb329de780d88e990b037aa7ae8b",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "At the 1936 Berlin Olympics, which African American athlete won four gold medals?",
+    "correct_answer": "Jesse Owens",
+    "choices": [
+      "Jesse Owens",
+      "Joe Louis",
+      "Jackie Robinson",
+      "Ralph Metcalfe"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d3f5a7acea68821854d6f26e30cb2652f7fe48d72107bbba556ee9c2dd67b60f",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which country has hosted the Summer Olympics the most times?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "United Kingdom",
+      "France",
+      "Greece"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "cc924e6f8ec35f3981a848bf40ebefcb305e0a03f6bc1e643edbb9bc85ea5487",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "How many times has London hosted the Olympic Games?",
+    "correct_answer": "3",
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "51a1c87e1a1eb53e7f3cfc842851791984d3c8ae95f8f11791c62edd9610de0a",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Which city hosted the 2000 Summer Olympics?",
+    "correct_answer": "Sydney",
+    "choices": [
+      "Sydney",
+      "Atlanta",
+      "Beijing",
+      "Athens"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "aacd4021576c259aaa5feb192e161bd7594f21daae44c50f37fa6c07995726b4",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "In which year did the Olympic Games first include women's athletics events?",
+    "correct_answer": "1928",
+    "choices": [
+      "1928",
+      "1900",
+      "1912",
+      "1936"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "5f4bf5154413bc79150bf1135918399d02bb451c9995da63af20611bb9c8a1dc",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "What is the oldest continuously contested Olympic sport?",
+    "correct_answer": "Athletics",
+    "choices": [
+      "Athletics",
+      "Swimming",
+      "Fencing",
+      "Wrestling"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "2b538af91b6175d5c73493c1c27bd907c2d0d66735a445b38131b3b6e2ad7726",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which country has won the most Olympic medals in history?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "Soviet Union",
+      "Great Britain",
+      "China"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a04ede3edc174e3f2f216422fd5a29c39ce22fb8890cca2455c49b092d4700b9",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Which gymnast scored a perfect 10 at the 1976 Montreal Olympics?",
+    "correct_answer": "Nadia Comaneci",
+    "choices": [
+      "Nadia Comaneci",
+      "Simone Biles",
+      "Mary Lou Retton",
+      "Olga Korbut"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "69081195059a81e5dce03e97233d883f6badfda14ab77eedb29e05a75156aace",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "How many gold medals did Simone Biles win at the 2016 Rio Olympics?",
+    "correct_answer": "4",
+    "choices": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "ba0c5029d2b45353eaec95d91fbc1851263ad61571da5e899bff1e4f2c47f481",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "What does the Olympic torch flame symbolize?",
+    "correct_answer": "Purity and the pursuit of perfection",
+    "choices": [
+      "Purity and the pursuit of perfection",
+      "The fire of competition",
+      "The sun god Apollo",
+      "The light of knowledge"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e046eb60964ba6714a8a778408b607a6829f5dd0e343c654dd07c7e44a7fcc18",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which country boycotted the 1980 Moscow Olympics?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "Soviet Union",
+      "China",
+      "East Germany"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1c87c3b3355ed81b0d8030f655e86b2ea18a5c852548ff9b7e5ff665feadd931",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which country boycotted the 1984 Los Angeles Olympics in retaliation?",
+    "correct_answer": "Soviet Union",
+    "choices": [
+      "Soviet Union",
+      "China",
+      "East Germany",
+      "Cuba"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "f703101f563e45967e6531abfd1066309e3b440b090f4329524f81e70e512968",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "In which sport does a competitor perform a routine on a 4-inch wide beam?",
+    "correct_answer": "Gymnastics",
+    "choices": [
+      "Gymnastics",
+      "Diving",
+      "Figure skating",
+      "Rhythmic gymnastics"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c561c9b7b9b58ce1a1ec96f8fa9c76b9ca4c4bc218f2b36e3f9ed58e38e30630",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which event in swimming is the longest Olympic distance?",
+    "correct_answer": "1500 meters freestyle",
+    "choices": [
+      "1500 meters freestyle",
+      "800 meters freestyle",
+      "400 meters individual medley",
+      "200 meters butterfly"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c38f8ec6fad212a6c78c9ae91b1602544b3eb78b91df5b3beb58337f1f61c01e",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "How many events are in a modern pentathlon?",
+    "correct_answer": "5",
+    "choices": [
+      "5",
+      "7",
+      "3",
+      "6"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "eb2a2b7fc22437f62a6b209c7d13ed34ab96c2c685a5cf1a800e4b104bf9d437",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which country won the most medals at the 2020 Tokyo Olympics?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "China",
+      "Japan",
+      "Great Britain"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "6be861393379776d1ef931126ada60f3cb3168d2c463b82ac784f53449e87941",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "In which year were the Winter and Summer Olympics held in the same year for the last time?",
+    "correct_answer": "1992",
+    "choices": [
+      "1992",
+      "1994",
+      "1996",
+      "1988"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "25d21eb0a3f2079b5a5ec179530aeb3ee9a20f14c607200725973605a20c957a",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which country has won the most Winter Olympic medals of all time?",
+    "correct_answer": "Norway",
+    "choices": [
+      "Norway",
+      "United States",
+      "Canada",
+      "Russia"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "fece42b4a6d5bd3e13574731c1ef9919d621c1518fe76841dd2787cbe9dbe6ad",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Which athlete has the most Winter Olympic medals?",
+    "correct_answer": "Marit Bjørgen",
+    "choices": [
+      "Marit Bjørgen",
+      "Ole Einar Bjørndalen",
+      "Bjørn Dæhlie",
+      "Ireen Wüst"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1648f4079d7f9af9124940f91efa0f45da011557b10b035ffe54acc8aa719dbc",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "What is the only Olympic sport that requires competitors to bring their own horse?",
+    "correct_answer": "Equestrian",
+    "choices": [
+      "Equestrian",
+      "Pentathlon",
+      "Polo",
+      "Chariot racing"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1fbcbcb0597b86df399fd0a5741ced60a83fe44e9984fe32b938fab39d251fac",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Which Olympic sport was contested at the 1900 Paris Games and featured live pigeon shooting?",
+    "correct_answer": "Live pigeon shooting",
+    "choices": [
+      "Live pigeon shooting",
+      "Archery",
+      "Trap shooting",
+      "Crossbow"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e154969949badf2933e80899d6269516e56f0313ac48d1621071e9d47cfc636a",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "At which Olympics did women's marathon debut?",
+    "correct_answer": "1984 Los Angeles",
+    "choices": [
+      "1984 Los Angeles",
+      "1988 Seoul",
+      "1976 Montreal",
+      "1992 Barcelona"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "87c0665d840a641768746e99f31029828fa748636acdac7db3758cba200d7493",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Which country won the first Olympic gold medal in women's football?",
+    "correct_answer": "United States",
+    "choices": [
+      "United States",
+      "Norway",
+      "Germany",
+      "Brazil"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "7fec1a125acf34df90abaece6168bd4961dfa5f7ef3b1bf04bc9d83baf6a1b6e",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Who won the first Olympic gold medal for the United States in 1896?",
+    "correct_answer": "James Connolly",
+    "choices": [
+      "James Connolly",
+      "Thomas Burke",
+      "Robert Garrett",
+      "John Paine"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "2e3deb8ed0df1bee1496899432fdb9f943d858838a4381b591da318f1729763d",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "Which Olympic swimming stroke is the slowest?",
+    "correct_answer": "Breaststroke",
+    "choices": [
+      "Breaststroke",
+      "Butterfly",
+      "Backstroke",
+      "Freestyle"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "162df3de53a08044d8751aeb49c1a7be6b77977cfb188049aaf0fe690a15dcba",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which of these is NOT an Olympic combat sport?",
+    "correct_answer": "Mixed martial arts",
+    "choices": [
+      "Mixed martial arts",
+      "Judo",
+      "Taekwondo",
+      "Boxing"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "889b86bd0eb0c918b8f3fa2d1188832691b417a101d643f571e27aef453e893b",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Who was the flag bearer for the Refugee Olympic Team at the 2016 Rio opening ceremony?",
+    "correct_answer": "Popole Misenga",
+    "choices": [
+      "Popole Misenga",
+      "Yusra Mardini",
+      "Rami Anis",
+      "Yiech Pur Biel"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "efbcd9768e5612878ff80876d74c6a21ad8979618bc6ae3a182c407931b49cc5",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "easy",
+    "question_text": "What is the distance of an Olympic marathon?",
+    "correct_answer": "42.195 kilometers",
+    "choices": [
+      "42.195 kilometers",
+      "26 miles",
+      "40 kilometers",
+      "42 kilometers"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d2b0eb9fa39e03cb050845bfd84c352fdfec3066f2fdea43332c4748aa057755",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "In which year did the Paralympic Games begin?",
+    "correct_answer": "1960",
+    "choices": [
+      "1960",
+      "1948",
+      "1952",
+      "1964"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "55823da8b6e5ace102504ca82efaac953d9e87e7541893f6c38cd11d43d05ef8",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Who founded the Paralympic movement?",
+    "correct_answer": "Sir Ludwig Guttmann",
+    "choices": [
+      "Sir Ludwig Guttmann",
+      "Pierre de Coubertin",
+      "Avery Brundage",
+      "Juan Antonio Samaranch"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "fae8aa8b7321d493159495bfe302e3dc509f35d5359d1eee4f949cf1d925ba2e",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which country has hosted the Olympic Games that were not held in the scheduled year?",
+    "correct_answer": "Japan",
+    "choices": [
+      "Japan",
+      "Germany",
+      "United States",
+      "Australia"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "026f62c79073d41e119de481741061b0145652ffff24e6d787db62f3506b7879",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "What year were the 1916 Olympic Games canceled?",
+    "correct_answer": "World War I",
+    "choices": [
+      "World War I",
+      "World War II",
+      "The Great Depression",
+      "Spanish Flu"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e6b256670587c3ef4b7138b8e41e73caa6c5cf6e232f4a94e27c5f68f8a90df8",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "Which Olympic Games were canceled due to World War II?",
+    "correct_answer": "1940 and 1944",
+    "choices": [
+      "1940 and 1944",
+      "1940 only",
+      "1944 only",
+      "1936 and 1940"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "37a2985b8c9c393e1ec06ddf6042ffdd721463c1b8ab16614d8a3d1eb3458df6",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Which country won its first ever Olympic gold medal in the 2020 Tokyo Olympics in women's 100m breaststroke?",
+    "correct_answer": "South Africa",
+    "choices": [
+      "South Africa",
+      "Jamaica",
+      "Kenya",
+      "Philippines"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "448742d201bf4c28a49499a8cf67e319ebf796a76714007b8f04bc43a4627616",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "hard",
+    "question_text": "Which US basketball player famously refused his gold medal at the 1936 Olympics because of racial discrimination?",
+    "correct_answer": "Joe Fortenberry",
+    "choices": [
+      "Joe Fortenberry",
+      "Jesse Owens",
+      "Sammy Lee",
+      "John Woodruff"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "60d2fafb5e9f9fd4402dbba0ad026271cf56a6db42756c33a4da13ca31032759",
+    "language": "en"
+  },
+  {
+    "category": "olympics",
+    "difficulty": "medium",
+    "question_text": "What is the only sport that has been contested at every modern Olympic Games since 1896?",
+    "correct_answer": "Athletics, cycling, fencing, and gymnastics",
+    "choices": [
+      "Athletics, cycling, fencing, and gymnastics",
+      "Swimming, athletics, and wrestling",
+      "Athletics, swimming, and cycling",
+      "Athletics, swimming, fencing, and weightlifting"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "17d52a4dee66ab21fff054cce6ebe9d46fa4150883658be399ec80eff00f9f8a",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Which Grand Slam tournament is played on clay courts?",
+    "correct_answer": "French Open",
+    "choices": [
+      "French Open",
+      "Wimbledon",
+      "Australian Open",
+      "US Open"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "7d7e7fc835d7b7a7b0d04e721fe11341d85642fb24b0b535434504dff8f0eb6e",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "How many Grand Slam singles titles does Roger Federer have?",
+    "correct_answer": "20",
+    "choices": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "659b58f682434c2fce1ba52885b5129e7a55f28cfa393d76d3d550428fad4b36",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What is the surface of Wimbledon's courts?",
+    "correct_answer": "Grass",
+    "choices": [
+      "Grass",
+      "Clay",
+      "Hard court",
+      "Carpet"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "6c12e3644f11ebc9d954ae5460779726f78c66ef0bf5481a31591f16b08f13d4",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which player holds the record for most Grand Slam singles titles?",
+    "correct_answer": "Novak Djokovic",
+    "choices": [
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Roger Federer",
+      "Serena Williams"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "aa64fc1a4626bb3cdc24e760b9130ceb93ded6895c0bc1df6df64a538f1b12a7",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What is a score of zero called in tennis?",
+    "correct_answer": "Love",
+    "choices": [
+      "Love",
+      "Nil",
+      "Zero",
+      "Ace"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "64de9c01f8313d7a425b4a504465139861555c66c49724c206d98b945a496521",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "How many games are needed to win a standard tennis set?",
+    "correct_answer": "6",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e9aa137b4b51e729e3c6542f3ec646ef7d7033ba0576c7d62593d49aa17518c5",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Who is known as the 'King of Clay'?",
+    "correct_answer": "Rafael Nadal",
+    "choices": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Roger Federer",
+      "Bjorn Borg"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a8a3b43d4bdd810fd239ce07d9e70e25e25a17cabbe22ca26b916294a9f27375",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "In what year was the first Wimbledon tournament held?",
+    "correct_answer": "1877",
+    "choices": [
+      "1877",
+      "1884",
+      "1890",
+      "1901"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d8c3be991ef2cdc7922b8a7ef3defc66196df0ac7bad5ac19754082be439a759",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What is the name of the trophy awarded to the Wimbledon men's singles champion?",
+    "correct_answer": "Gentlemen's Singles Trophy",
+    "choices": [
+      "Gentlemen's Singles Trophy",
+      "Wimbledon Cup",
+      "Challenge Cup",
+      "The Golden Trophy"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "23cdd51a926f4934d9f3cbd1902935f5a304f83b330f0ba1b8718e3945b41653",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Which country hosts the Australian Open?",
+    "correct_answer": "Australia",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "South Africa",
+      "United States"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "33aa4ad2fbf0f29696bb43d077bc553702a4a633846ab67c7139803858fa4c8f",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "How many times has Rafael Nadal won the French Open?",
+    "correct_answer": "14",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "f84407ee4ed8710af86f18c42ddc7bb01d1e3448cae0884670dfc997b0829a01",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Who is the only tennis player to win a Golden Slam (all four majors plus Olympic gold in the same year)?",
+    "correct_answer": "Steffi Graf",
+    "choices": [
+      "Steffi Graf",
+      "Serena Williams",
+      "Martina Navratilova",
+      "Margaret Court"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "feb71ae94c28e62d35d8e3b01aca5ff1b77a60e5e22725e7a2e854007bbb2111",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What does 'deuce' mean in tennis scoring?",
+    "correct_answer": "Both players have 40 points",
+    "choices": [
+      "Both players have 40 points",
+      "One player needs one more point to win",
+      "The score is 15-15",
+      "The game is over"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c0ab5876fa12ef91ba80447bdd94b96a42dab178b9407b0e4222c814ce037882",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Which Grand Slam tournament is played on hard courts in New York?",
+    "correct_answer": "US Open",
+    "choices": [
+      "US Open",
+      "Australian Open",
+      "French Open",
+      "Wimbledon"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "7de64699a2240f5e4d915c816fd31d96ffad5fb7f7a3463ab3c6afb1342f160a",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Who holds the record for the fastest serve in tennis history?",
+    "correct_answer": "John Isner",
+    "choices": [
+      "John Isner",
+      "Andy Roddick",
+      "Sam Groth",
+      "Ivo Karlovic"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "adeb6b25725b17d7dd840d0d3feb9c25c3dbe161c55cd9c9e3ce0d66f4b85e21",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which two players played the longest match in tennis history at Wimbledon in 2010?",
+    "correct_answer": "John Isner and Nicolas Mahut",
+    "choices": [
+      "John Isner and Nicolas Mahut",
+      "Roger Federer and Rafael Nadal",
+      "Novak Djokovic and Andy Murray",
+      "Pete Sampras and Andre Agassi"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "c8afa3d93f4b691c087d082318913ecfbf670b89bae2c9f5fe2432424c07a16e",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "How many Grand Slam singles titles does Serena Williams have?",
+    "correct_answer": "23",
+    "choices": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "2f27d50eba87528dbb7f423a0a0ca8d0da888b26b43ebb40ef39728e3597e2c0",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What is the name of the international team competition for men's tennis?",
+    "correct_answer": "Davis Cup",
+    "choices": [
+      "Davis Cup",
+      "Fed Cup",
+      "Hopman Cup",
+      "Laver Cup"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a46af6a03e6733b45d6bc3245da82215ae63a760042e3797a6b3650cc3cf45f8",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Which American player won the first US Open in 1881?",
+    "correct_answer": "Richard Sears",
+    "choices": [
+      "Richard Sears",
+      "Bill Tilden",
+      "Don Budge",
+      "Jimmy Connors"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "70cd5d06969260ea588b181d09d589cc9c23d14d960a7189b4b9ae2089a3954b",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What type of swing is used to hit a tennis ball with topspin?",
+    "correct_answer": "Low to high",
+    "choices": [
+      "Low to high",
+      "High to low",
+      "Side to side",
+      "Flat through"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "9b13ec07795907424b2f2c8c5b73cc6793734e9333424e2733fa82c4d5497dbd",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Who is the youngest player to win a Grand Slam singles title?",
+    "correct_answer": "Martina Hingis",
+    "choices": [
+      "Martina Hingis",
+      "Monica Seles",
+      "Tracy Austin",
+      "Jennifer Capriati"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "b561f98175465b4811ca3eddd2324ef7734aa74ae3f515dfa718629523acfc53",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which player won the 'Battle of the Sexes' match in 1973?",
+    "correct_answer": "Billie Jean King",
+    "choices": [
+      "Billie Jean King",
+      "Margaret Court",
+      "Martina Navratilova",
+      "Chris Evert"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "7c1b088f577c8199d6bb79f64e522637ea9e2d18718daaa8f1417e04bf904c72",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What is the width of a singles tennis court?",
+    "correct_answer": "27 feet",
+    "choices": [
+      "27 feet",
+      "30 feet",
+      "36 feet",
+      "24 feet"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "bba2edf2fdcf71041d2e323ddaa1706eef60cee2cb4ebc8540cb0fe3f2b50f89",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which player has won the most Wimbledon men's singles titles?",
+    "correct_answer": "Roger Federer",
+    "choices": [
+      "Roger Federer",
+      "Novak Djokovic",
+      "Pete Sampras",
+      "Bjorn Borg"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "8689e5418b3e838b04e4b213d8c31065c950ca7182fa9d09b763907f6626a910",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What is the final major tournament of the tennis calendar year?",
+    "correct_answer": "US Open",
+    "choices": [
+      "US Open",
+      "Australian Open",
+      "French Open",
+      "Wimbledon"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "9d43674348b284426128466175856fced797fe4b13e6bd165aed5fe97eef4772",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What color are tennis balls at Wimbledon?",
+    "correct_answer": "White",
+    "choices": [
+      "White",
+      "Yellow",
+      "Green",
+      "Orange"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a233eda4d8b9e8b170400c34e4391434e068109fba4a1b73ea3ca424cf90af25",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Who defeated Roger Federer in the 2008 Wimbledon final?",
+    "correct_answer": "Rafael Nadal",
+    "choices": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Andy Murray",
+      "Pete Sampras"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "b2609b19b36150c3c6d936862843b17d0d38cf25da7440ad54f266dcd9d4e51e",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "How many times has Novak Djokovic won the Australian Open?",
+    "correct_answer": "10",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "88d8e4e7b460d24b608aea6d3a26b5e7fb098399f53d8b3c1bb470c9729f0938",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which surface is typically the fastest for tennis?",
+    "correct_answer": "Grass",
+    "choices": [
+      "Grass",
+      "Clay",
+      "Hard court",
+      "Carpet"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "e28b45d7c15334f1ed6e6a8c4102ee25d6d6306f2935ef836cd48b5fc4fbb052",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What is the term for a serve that the receiver does not touch?",
+    "correct_answer": "Ace",
+    "choices": [
+      "Ace",
+      "Fault",
+      "Let",
+      "Smash"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "bc038675d87d8ededc3a641286c53d26271893481df441ed5b38f210d52e2750",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Who was the first African American woman to win a Grand Slam title?",
+    "correct_answer": "Althea Gibson",
+    "choices": [
+      "Althea Gibson",
+      "Serena Williams",
+      "Venus Williams",
+      "Zina Garrison"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "14246b5c064369aee8e08c4a064c9bfc975dba588bcffddc63b2e5b4ffc508c1",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What is the name of the annual team competition between Europe and the Rest of the World?",
+    "correct_answer": "Laver Cup",
+    "choices": [
+      "Laver Cup",
+      "Davis Cup",
+      "Hopman Cup",
+      "ATP Cup"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a0e93901e048ba24c287cd0f325978cf9655a722a41eb7605680defd4d50c95d",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "Which player is nicknamed 'The Djoker'?",
+    "correct_answer": "Novak Djokovic",
+    "choices": [
+      "Novak Djokovic",
+      "Roger Federer",
+      "Andy Murray",
+      "Stan Wawrinka"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3e880a3db155d66ee7837f9af22bc2b29b6689849ed01022c43e3000c7d95068",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "How many games are in a typical tiebreak?",
+    "correct_answer": "First to 7 points",
+    "choices": [
+      "First to 7 points",
+      "First to 5 points",
+      "First to 10 points",
+      "First to 6 points"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "b89bb82d1da0f348ad1a8e86c42d5a1ebc520bc4e6bc66b8362ecad45c4f76c5",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "In which year did tennis return to the Olympic Games as a full medal sport?",
+    "correct_answer": "1988",
+    "choices": [
+      "1984",
+      "1988",
+      "1992",
+      "1996"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "eec20e5eab36ec4de7a326b91cd34e3b03c64fdb111c490ec167c04a1abc3182",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which player has spent the most weeks as world No. 1 in tennis history?",
+    "correct_answer": "Novak Djokovic",
+    "choices": [
+      "Novak Djokovic",
+      "Roger Federer",
+      "Rafael Nadal",
+      "Pete Sampras"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "01e4ca4b7bb276364c3442c146e414aec1a5dfe57c87c1d87939500792143230",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What is the name of the international team competition for women's tennis?",
+    "correct_answer": "Billie Jean King Cup",
+    "choices": [
+      "Billie Jean King Cup",
+      "Fed Cup",
+      "WTA Cup",
+      "Women's Davis Cup"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "ffd9ba92f5364035220df0bc50f90956b43fe1f06a70c60e9898b745d1b5c922",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Which player won the most Grand Slam singles titles in the 1990s?",
+    "correct_answer": "Pete Sampras",
+    "choices": [
+      "Pete Sampras",
+      "Andre Agassi",
+      "Jim Courier",
+      "Boris Becker"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "1293b1e317fe18c3ab2a00162d76f18c702523d7dd2594ff7485fa6a990111ac",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What does 'let' mean in tennis?",
+    "correct_answer": "A serve that hits the net but lands in",
+    "choices": [
+      "A serve that hits the net but lands in",
+      "A serve that lands out",
+      "A double fault",
+      "A missed shot"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "160ded439ecf980ee5d9bcb3d56275f0c1f31ccbb6660b46f2532eb2dadb1bc3",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which player wore iconic Fila outfits during the 1980s?",
+    "correct_answer": "Bjorn Borg",
+    "choices": [
+      "Bjorn Borg",
+      "John McEnroe",
+      "Jimmy Connors",
+      "Ivan Lendl"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "d97a8cbbe012ce61fff98a269565e1d0e9c58ede4baae8932a78cecb20cbf15e",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "What is the height of a standard tennis net at the center?",
+    "correct_answer": "3 feet",
+    "choices": [
+      "2 feet 6 inches",
+      "3 feet",
+      "3 feet 6 inches",
+      "2 feet"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "6a6eded71c7db1b8bd2360fad46afdb8e16d78e7e99843d983774438c09bb6eb",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which Chinese player won two Grand Slam singles titles in 2011 and 2014?",
+    "correct_answer": "Li Na",
+    "choices": [
+      "Li Na",
+      "Zhang Shuai",
+      "Wang Qiang",
+      "Zheng Jie"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "57319fb749a837a2b49de32a59dc0ce1176c0cc3e7cf9d8dd08fcb96a96c4c62",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Who is the oldest player to win a Grand Slam singles title in the Open Era?",
+    "correct_answer": "Roger Federer",
+    "choices": [
+      "Roger Federer",
+      "Ken Rosewall",
+      "Rafael Nadal",
+      "Novak Djokovic"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "3a2ba9678beebe925628ed4936e2c2f53a5872497f41f63a5111e09a28ef814b",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What is the name of the trophy awarded to the French Open men's singles champion?",
+    "correct_answer": "Coupe des Mousquetaires",
+    "choices": [
+      "Coupe des Mousquetaires",
+      "French Open Cup",
+      "Roland Garros Trophy",
+      "Musketeers' Cup"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "32f4916867e59768488b7ccb2034ca80c5e48939234591959e792fa08b8f2bfb",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "Which player won the gold medal in men's singles at the 2008 Beijing Olympics?",
+    "correct_answer": "Rafael Nadal",
+    "choices": [
+      "Rafael Nadal",
+      "Roger Federer",
+      "Novak Djokovic",
+      "Andy Murray"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "36150ee83a9caf39fd3bb813c461afd8557005d3ff823da42b71f2e8f76418c2",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "What does 'ATP' stand for in tennis?",
+    "correct_answer": "Association of Tennis Professionals",
+    "choices": [
+      "Association of Tennis Professionals",
+      "Advanced Tennis Players",
+      "American Tennis Professionals",
+      "All Tennis Players"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "8f4dbd55bb4cdfe4235823edc8fbeae901cd2a0dca4f8f6398843242ce6d7a6a",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Which female player has the longest streak of consecutive weeks at world No. 1?",
+    "correct_answer": "Steffi Graf",
+    "choices": [
+      "Steffi Graf",
+      "Martina Navratilova",
+      "Serena Williams",
+      "Chris Evert"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "6030dc0101ef5d45679b2b7d3bf476c65a3397d3c14561ca4ada2cb5398cc3bb",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "easy",
+    "question_text": "How many players compete in a standard doubles tennis team?",
+    "correct_answer": "2",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "a1e30b87f92f8c447be9b3ed767ddfa81affa0db00ba9d998bf1ac86c45e1f4b",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "hard",
+    "question_text": "Which player defeated Serena Williams in the 2018 Wimbledon final?",
+    "correct_answer": "Angelique Kerber",
+    "choices": [
+      "Angelique Kerber",
+      "Simona Halep",
+      "Naomi Osaka",
+      "Garbine Muguruza"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "6cdcb6376abadc25b42e25b332b5d9478d33df696ace614c817cea502a931c18",
+    "language": "en"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "What is the diameter of a tennis ball in inches?",
+    "correct_answer": "2.7 inches",
+    "choices": [
+      "2.5 inches",
+      "2.7 inches",
+      "3.0 inches",
+      "2.3 inches"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "0dadc93f325fe83e15a20283674e4fa5522e1903dee7d4f3e5369c8954653105",
+    "language": "en"
+  }
+]
