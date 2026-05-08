@@ -26,19 +26,20 @@ set -euo pipefail
 APP_DIR="/opt/world-quiz"
 SPACETIME_VERSION="2.1.0"
 SERVICE_USER="${SERVICE_USER:-${SUDO_USER:-$(whoami)}}"
-SPACETIME_PUBLIC_URI="${1:-${SPACETIME_PUBLIC_URI:-wss://spacetime.dnas.place}}"
 SPACETIME_PORT="${SPACETIME_PORT:-3080}"
 WEB_PORT="${WEB_PORT:-8060}"
 CLEAR_DATABASE="${CLEAR_DATABASE:-false}"
 UPDATE_MODULE="${UPDATE_MODULE:-false}"
 
-# Check for explicit flags
+# Parse arguments: first non-flag positional arg is the public URI
+SPACETIME_PUBLIC_URI="${SPACETIME_PUBLIC_URI:-wss://spacetime.dnas.place}"
 for arg in "$@"; do
     if [[ "$arg" == "--clear-database" ]]; then
         CLEAR_DATABASE="true"
-    fi
-    if [[ "$arg" == "--update" ]]; then
+    elif [[ "$arg" == "--update" ]]; then
         UPDATE_MODULE="true"
+    elif [[ "$arg" != --* ]]; then
+        SPACETIME_PUBLIC_URI="$arg"
     fi
 done
 
@@ -266,11 +267,11 @@ fi
 
 # --- 8b. Publish questions (only after fresh publish or clear-database) ---
 if [[ "$CLEAR_DATABASE" == "true" ]] || [[ "$MODULE_EXISTS" == "false" ]]; then
-    if command -v node &>/dev/null && command -v npm &>/dev/null; then
+    if su "${SERVICE_USER}" -c "command -v node &>/dev/null && command -v npm &>/dev/null"; then
         log "Publishing questions to the database..."
         su "${SERVICE_USER}" -c "cd ${APP_DIR} && bash ${APP_DIR}/publish-questions.sh"
     else
-        warn "Node.js/npm not found. Skipping automatic question publishing."
+        warn "Node.js/npm not found for user ${SERVICE_USER}. Skipping automatic question publishing."
         warn "To publish questions manually after installing Node.js 20+:"
         warn "  sudo bash ${APP_DIR}/publish-questions.sh"
     fi
