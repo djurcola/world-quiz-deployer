@@ -123,33 +123,6 @@ const finalizeSyncReducer = {
   active_translation_keys: spacetime.t.array(spacetime.t.string()),
 };
 
-const syncStateRow = spacetime.t.row({
-  id: spacetime.t.u8().primaryKey(),
-  sync_in_progress: spacetime.t.bool(),
-  publisher_identity: spacetime.t.identity(),
-  started_at: spacetime.t.timestamp(),
-});
-
-const tablesSchema = spacetime.schema({
-  sync_state: spacetime.table(
-    {
-      name: 'sync_state',
-      indexes: [
-        {
-          accessor: 'id',
-          name: 'sync_state_id_idx',
-          algorithm: 'btree',
-          columns: ['id'],
-        },
-      ],
-      constraints: [
-        { name: 'sync_state_id_key', constraint: 'unique', columns: ['id'] },
-      ],
-    },
-    syncStateRow
-  ),
-});
-
 const reducersSchema = spacetime.reducers(
   spacetime.reducerSchema('abort_sync', abortSyncReducer),
   spacetime.reducerSchema('add_question_batch', addQuestionBatchReducer),
@@ -160,7 +133,7 @@ const proceduresSchema = spacetime.procedures();
 
 const REMOTE_MODULE = {
   versionInfo: { cliVersion: '2.1.0' },
-  tables: tablesSchema.schemaType.tables,
+  tables: {},
   reducers: reducersSchema.reducersType.reducers,
   procedures: proceduresSchema.procedures,
 };
@@ -246,20 +219,6 @@ function getThemes(baseDir) {
 }
 
 // ============================================================================
-// Sync Lock Handling
-// ============================================================================
-
-function isSyncLockStale(syncState) {
-  if (!syncState.sync_in_progress) {
-    return false;
-  }
-  const nowMicros = BigInt(Date.now()) * 1000n;
-  const startedMicros = syncState.started_at.microsSinceUnixEpoch;
-  const elapsedSecs = Number(nowMicros - startedMicros) / 1_000_000;
-  return elapsedSecs >= 300; // 5 minutes
-}
-
-// ============================================================================
 // Main Publisher Logic
 // ============================================================================
 
@@ -299,27 +258,16 @@ async function main() {
     })
     .build();
 
-  // Wait for connection and subscription
+  // Wait for connection
   await new Promise((resolve, reject) => {
     let resolved = false;
 
     conn.onConnect((c, identity, _token) => {
       console.log(`Connected as ${identity.toHexString()}`);
-
-      c.subscriptionBuilder()
-        .onApplied(() => {
-          if (!resolved) {
-            resolved = true;
-            resolve();
-          }
-        })
-        .onError((err) => {
-          if (!resolved) {
-            resolved = true;
-            reject(err);
-          }
-        })
-        .subscribe('SELECT * FROM sync_state');
+      if (!resolved) {
+        resolved = true;
+        resolve();
+      }
     });
 
     conn.onConnectError((_, err) => {
@@ -337,20 +285,10 @@ async function main() {
     }, 10000);
   });
 
-  // Check for stale sync lock
-  let syncState = null;
-  for (const row of conn.db.sync_state.iter()) {
-    syncState = row;
-  }
-
-  if (syncState && isSyncLockStale(syncState)) {
-    console.log('Detected stale sync lock (>5 min). Calling abort_sync...');
-    await withRetry(
-      () => conn.reducers.abortSync(),
-      'abort_sync'
-    );
-    console.log('Sync lock cleared.');
-  }
+  // Clear any existing sync lock (safe to call even if no lock exists)
+  console.log('Clearing any existing sync lock...');
+  await withRetry(() => conn.reducers.abortSync(), 'abort_sync');
+  console.log('Sync lock cleared.');
 
   // Collect all translation keys for finalize_sync
   const allTranslationKeys = new Set();
