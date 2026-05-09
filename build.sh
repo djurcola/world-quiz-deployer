@@ -1,12 +1,15 @@
 #!/bin/bash
 set -euo pipefail
 
-# World Quiz Deployment Build Script
-# Usage: ./deploy/build.sh [spacetime_uri] [db_name]
+# World Quiz Local Build Script
+# Usage: ./.deploy/build.sh [spacetime_uri] [db_name]
 #
-# This script:
+# This script is for LOCAL DEVELOPMENT ONLY:
 # 1. Publishes the Rust SpacetimeDB module to the local server
 # 2. Builds the React frontend into static files
+#
+# For PRODUCTION deploy preparation, use prepare-deploy.sh instead:
+#   ./.deploy/prepare-deploy.sh
 #
 # Prerequisites:
 # - SpacetimeDB CLI 2.1.0 installed and available in PATH

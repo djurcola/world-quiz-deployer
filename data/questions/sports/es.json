@@ -5,15 +5,15 @@
     "question_text": "¿Qué equipo de la NBA ha ganado más campeonatos?",
     "correct_answer": "Boston Celtics",
     "choices": [
-      "Golden State Warriors",
       "Boston Celtics",
       "Los Angeles Lakers",
-      "Chicago Bulls"
+      "Chicago Bulls",
+      "Golden State Warriors"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5164a108-b6b4-4324-aecd-c128112df450"
+    "translation_key": "e464d0de39cdd006779a4b199bda173aa430d75f6c2100f3c890db983805a17e"
   },
   {
     "category": "basketball",
@@ -21,31 +21,31 @@
     "question_text": "¿Cuántos puntos vale un tiro de tres puntos en la NBA?",
     "correct_answer": "3",
     "choices": [
-      "4",
+      "2",
       "3",
-      "5",
-      "2"
+      "4",
+      "5"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f34207fe-4d67-4a79-8b2c-010eb782808a"
+    "translation_key": "8be897b299052c3b352de6c83d1b937929e5541783432fb3102a2f7b03b1c224"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "¿Qué jugador es conocido como 'Su Aire'?",
+    "question_text": "¿Qué jugador es conocido como 'Su Majestad del Aire'?",
     "correct_answer": "Michael Jordan",
     "choices": [
-      "Kobe Bryant",
       "Michael Jordan",
-      "Magic Johnson",
-      "LeBron James"
+      "LeBron James",
+      "Kobe Bryant",
+      "Magic Johnson"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "56e5853e-33e7-4b0b-859c-f9f6d610bdae"
+    "translation_key": "7ccb876ab2d3262e91b9744dd6147f345b32af7cd1f641a1899f29072ddb909f"
   },
   {
     "category": "basketball",
@@ -53,15 +53,15 @@
     "question_text": "¿Cuál es la altura de un aro de baloncesto estándar de la NBA?",
     "correct_answer": "10 pies",
     "choices": [
+      "9 pies",
       "10 pies",
-      "12 pies",
       "11 pies",
-      "9 pies"
+      "12 pies"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "03dcc37d-7e1c-4dec-8d72-573162d00ed9"
+    "translation_key": "d8814de3ed887f16b03aed99728f99fa054372d71acd0ee9e6d5695ab968fdee"
   },
   {
     "category": "basketball",
@@ -69,15 +69,15 @@
     "question_text": "¿Qué país inventó el deporte del baloncesto?",
     "correct_answer": "Estados Unidos",
     "choices": [
+      "Estados Unidos",
       "Canadá",
-      "Australia",
       "Inglaterra",
-      "Estados Unidos"
+      "Australia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "596c90cb-d6bb-45fd-bdc9-7ee4cacd942b"
+    "translation_key": "aef882ccd6929f8d3db9387dd6d63cc398501730fbdae1f21b088768a4c0a153"
   },
   {
     "category": "basketball",
@@ -85,15 +85,15 @@
     "question_text": "¿Cuántos jugadores de cada equipo están en la cancha durante un partido de la NBA?",
     "correct_answer": "5",
     "choices": [
-      "6",
       "4",
       "5",
+      "6",
       "7"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "cf8012f5-3d39-4013-bdd5-f17e85c03e12"
+    "translation_key": "d2403c67c4b16b01dd8b8e5c6dd8b428269582e71f243d61e4d8a47cd993aa12"
   },
   {
     "category": "basketball",
@@ -101,15 +101,15 @@
     "question_text": "¿Cuál es el diámetro de un aro de baloncesto en pulgadas?",
     "correct_answer": "18 pulgadas",
     "choices": [
+      "16 pulgadas",
       "18 pulgadas",
       "20 pulgadas",
-      "22 pulgadas",
-      "16 pulgadas"
+      "22 pulgadas"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "1190e2f6-2e31-4c02-834a-780cd5cb6d69"
+    "translation_key": "56983d9835c6d92b0d65e50c9b5c1a207c8fbc483b4431ef97fbc6aa20498da8"
   },
   {
     "category": "basketball",
@@ -117,15 +117,15 @@
     "question_text": "¿Con qué equipo ganó Michael Jordan sus seis campeonatos de la NBA?",
     "correct_answer": "Chicago Bulls",
     "choices": [
-      "Detroit Pistons",
-      "Boston Celtics",
       "Chicago Bulls",
-      "Los Angeles Lakers"
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Detroit Pistons"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "03afb46c-9adc-4c54-84fc-5548f18d1b65"
+    "translation_key": "fe021eb5bd63129362e4ef44489dfc10f57fced65b7e8e7fb5df8874a90d7317"
   },
   {
     "category": "basketball",
@@ -133,15 +133,15 @@
     "question_text": "¿Cuál es la duración de un cuarto reglamentario de la NBA?",
     "correct_answer": "12 minutos",
     "choices": [
+      "10 minutos",
       "12 minutos",
       "15 minutos",
-      "20 minutos",
-      "10 minutos"
+      "20 minutos"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c1689a73-9748-470d-aea5-1246546ec90e"
+    "translation_key": "ce456b966ce9a0f51732fb079a327dbf2ec6c36e3e4888876e7c6c296e6e57a2"
   },
   {
     "category": "basketball",
@@ -149,15 +149,15 @@
     "question_text": "¿Qué jugador tiene el récord de más puntos en la historia de la NBA?",
     "correct_answer": "LeBron James",
     "choices": [
-      "Michael Jordan",
+      "LeBron James",
       "Kareem Abdul-Jabbar",
-      "Kobe Bryant",
-      "LeBron James"
+      "Michael Jordan",
+      "Kobe Bryant"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "19816de9-6bbb-4da5-81b4-d42c93e49bf9"
+    "translation_key": "557cb74f32261e8a5962ce79d89840ead1fd31418f0f324f503bf2af020fc9e3"
   },
   {
     "category": "basketball",
@@ -165,15 +165,15 @@
     "question_text": "¿Cuántos campeonatos de la NBA ganó Bill Russell como jugador?",
     "correct_answer": "11",
     "choices": [
-      "10",
-      "9",
       "8",
+      "9",
+      "10",
       "11"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a3d4ae6e-6663-4a58-a56b-961cc23894d9"
+    "translation_key": "3d52906184db04f0cfab6a7949fe3fc5c38d70f57170976ebdd6646f3784fe07"
   },
   {
     "category": "basketball",
@@ -181,15 +181,15 @@
     "question_text": "¿Qué jugador anotó 100 puntos en un solo partido de la NBA?",
     "correct_answer": "Wilt Chamberlain",
     "choices": [
+      "Wilt Chamberlain",
       "Michael Jordan",
       "Kobe Bryant",
-      "Larry Bird",
-      "Wilt Chamberlain"
+      "Larry Bird"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "10e92193-6d0e-486f-8d5e-3ee7576a3062"
+    "translation_key": "76dc0fbd80bed98f75e9a0a8a99ba70aa5c5137e4ec2cd15cd0d33d1b1994d30"
   },
   {
     "category": "basketball",
@@ -197,15 +197,15 @@
     "question_text": "¿En qué año se fundó la NBA?",
     "correct_answer": "1946",
     "choices": [
-      "1954",
-      "1950",
       "1946",
+      "1950",
+      "1954",
       "1960"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "9492a58b-6781-4ce5-a053-ad5a0ab54c36"
+    "translation_key": "715f6e2ce412b0e21cd381fb4469a1b8f1f7ea883c42db96037d9e6512a89016"
   },
   {
     "category": "basketball",
@@ -213,20 +213,20 @@
     "question_text": "¿Qué jugador tiene el apodo de 'King James'?",
     "correct_answer": "LeBron James",
     "choices": [
+      "LeBron James",
       "James Harden",
       "Larry Bird",
-      "Magic Johnson",
-      "LeBron James"
+      "Magic Johnson"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "4d501b81-3ff8-4e04-a462-268001cd0e56"
+    "translation_key": "35f554fd02e32950c6ca56a9c024735d1851c315ae082aa47d2c9ddd65edd380"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "¿Cuál era el nombre del equipo universitario de Michael Jordan?",
+    "question_text": "¿Cómo se llamaba el equipo universitario de Michael Jordan?",
     "correct_answer": "North Carolina Tar Heels",
     "choices": [
       "North Carolina Tar Heels",
@@ -237,7 +237,7 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f92ab02d-48d1-465b-bb00-0d205edc6760"
+    "translation_key": "f98aec3fc531fa2d2a7d7cca1d32708ad2851ff0ccd05f21069f3d39604cd138"
   },
   {
     "category": "basketball",
@@ -245,15 +245,15 @@
     "question_text": "¿Cuántos segundos tiene el reloj de tiro de la NBA?",
     "correct_answer": "24 segundos",
     "choices": [
-      "30 segundos",
       "24 segundos",
+      "30 segundos",
       "35 segundos",
       "45 segundos"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "cacd2ab1-9db2-40a1-8fb0-5bb0ebfd9952"
+    "translation_key": "56758239779ce71eb4d1935168033cd2fc0640cf52aa059a8a842445b57bb2d5"
   },
   {
     "category": "basketball",
@@ -261,31 +261,31 @@
     "question_text": "¿Con qué equipo jugó Kobe Bryant toda su carrera en la NBA?",
     "correct_answer": "Los Angeles Lakers",
     "choices": [
-      "Chicago Bulls",
+      "Los Angeles Lakers",
       "Boston Celtics",
-      "Miami Heat",
-      "Los Angeles Lakers"
+      "Chicago Bulls",
+      "Miami Heat"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "808be162-5711-47a3-8224-158cf6332c89"
+    "translation_key": "4a1999817bd54da7219bb1d44c1f055ccb1f89dfd49dec36b68ce58a71bdb675"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "¿Quién es el líder histórico de asistencias en la NBA?",
+    "question_text": "¿Quién es el líder histórico en asistencias de la NBA?",
     "correct_answer": "John Stockton",
     "choices": [
-      "Chris Paul",
-      "Jason Kidd",
+      "John Stockton",
       "Magic Johnson",
-      "John Stockton"
+      "Chris Paul",
+      "Jason Kidd"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f614f656-822f-4f67-b6c9-0f7c3541939a"
+    "translation_key": "db8075e53d920497501da796f20c2ebb56096d342316303a74205f856c7d56fc"
   },
   {
     "category": "basketball",
@@ -293,15 +293,15 @@
     "question_text": "¿Cómo se llama el trofeo anual del campeonato de la NBA?",
     "correct_answer": "Trofeo Larry O'Brien",
     "choices": [
-      "Trofeo Bill Russell",
+      "Trofeo Larry O'Brien",
       "Trofeo del Campeonato de la NBA",
       "Trofeo Walter A. Brown",
-      "Trofeo Larry O'Brien"
+      "Trofeo Bill Russell"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7f10cc4d-a9ac-4c09-b718-d5484ad46e36"
+    "translation_key": "44cf9fa95d69674ce1589771c321f6009a06324392e85847b499a120550a73a5"
   },
   {
     "category": "basketball",
@@ -309,15 +309,15 @@
     "question_text": "¿Qué equipo de la NBA es conocido como los 'Celtics'?",
     "correct_answer": "Boston Celtics",
     "choices": [
-      "Brooklyn Nets",
-      "New York Knicks",
       "Boston Celtics",
-      "Philadelphia 76ers"
+      "New York Knicks",
+      "Philadelphia 76ers",
+      "Brooklyn Nets"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "742e6429-1a90-43c9-8c23-6ff88b7d4734"
+    "translation_key": "4ab8023e0ef72b6dc7a0c8757e6e44dca8b66b70b07c6df2848e541b7afbcef1"
   },
   {
     "category": "basketball",
@@ -325,47 +325,47 @@
     "question_text": "¿Quién fue la primera selección general en el Draft de la NBA de 2003?",
     "correct_answer": "LeBron James",
     "choices": [
-      "Chris Bosh",
       "LeBron James",
       "Carmelo Anthony",
-      "Dwyane Wade"
+      "Dwyane Wade",
+      "Chris Bosh"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "8320edb7-96ed-4438-9e03-060f55b3028c"
+    "translation_key": "d412970b845e05682538f9e2f98eb2ee4287a9bb586769e1c52a805ea9621945"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "¿Qué jugador ganó el premio MVP de la NBA por unanimidad en 2016?",
+    "question_text": "¿Qué jugador ganó el MVP de la NBA de manera unánime en 2016?",
     "correct_answer": "Stephen Curry",
     "choices": [
       "Stephen Curry",
-      "Kevin Durant",
       "LeBron James",
+      "Kevin Durant",
       "Russell Westbrook"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7279da86-65f8-46c7-9ab3-484b49fff18f"
+    "translation_key": "e7a03363bfe6a049e849bddfc25e0fdd349f6729a9a0675862f468dda7a00b30"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "¿Cuántas faltas necesita un jugador de la NBA para ser eliminado?",
+    "question_text": "¿Cuántas faltas necesita un jugador de la NBA para cometer falta personal?",
     "correct_answer": "6",
     "choices": [
       "5",
+      "6",
       "7",
-      "4",
-      "6"
+      "4"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "1b63c211-1c25-476f-81c3-be9e93e2771a"
+    "translation_key": "cf02f5026a73e659b6fd4573ad37fae70eb98843def4851cb9a2e43edc3b22af"
   },
   {
     "category": "basketball",
@@ -373,31 +373,31 @@
     "question_text": "¿Qué jugador es conocido como 'La Mamba Negra'?",
     "correct_answer": "Kobe Bryant",
     "choices": [
-      "LeBron James",
+      "Kobe Bryant",
       "Michael Jordan",
-      "Kevin Durant",
-      "Kobe Bryant"
+      "LeBron James",
+      "Kevin Durant"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "291980f3-1573-4eb9-8bee-6170c79bbdd4"
+    "translation_key": "041a7c5a4dae46bee6c00720f723ba969ebcb9b966e34f712441b71b579718b5"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "¿Cuál es la anchura de la línea de tres puntos de la NBA en su punto más lejano?",
+    "question_text": "¿Cuál es el ancho de la línea de tres puntos de la NBA en su punto más lejano?",
     "correct_answer": "23 pies 9 pulgadas",
     "choices": [
-      "25 pies",
       "22 pies",
+      "23 pies 9 pulgadas",
       "24 pies",
-      "23 pies 9 pulgadas"
+      "25 pies"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ba34e433-7839-4242-af6e-be12bc0e659e"
+    "translation_key": "d0b7d134a8746bb7311a186a4d6dce94c7aadd33f4897222ea42740ca30827bb"
   },
   {
     "category": "basketball",
@@ -405,15 +405,15 @@
     "question_text": "¿Qué equipo ganó el primer campeonato de la NBA en 1947?",
     "correct_answer": "Philadelphia Warriors",
     "choices": [
-      "Minneapolis Lakers",
-      "New York Knicks",
       "Philadelphia Warriors",
-      "Boston Celtics"
+      "Boston Celtics",
+      "Minneapolis Lakers",
+      "New York Knicks"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "0b9a0d5e-8b31-49d7-8050-86164b5b4b41"
+    "translation_key": "dd0f088470a45a79eee7e5733b13fdbddfc099eea2e402d125fb92589de3494a"
   },
   {
     "category": "basketball",
@@ -421,15 +421,15 @@
     "question_text": "¿Quién es el único jugador en ganar el MVP de la NBA y el campeonato de la NCAA en el mismo año?",
     "correct_answer": "Magic Johnson",
     "choices": [
-      "Larry Bird",
       "Magic Johnson",
       "Michael Jordan",
+      "Larry Bird",
       "Bill Walton"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "82265e80-6d5a-467b-b2fb-7b208bd2e3ba"
+    "translation_key": "3aaaecb920bacf9b552dc7a23727ae831a20a4cb8afc43421c9b8a97733c29d1"
   },
   {
     "category": "basketball",
@@ -437,15 +437,15 @@
     "question_text": "¿Cuántas temporadas jugó Michael Jordan para los Chicago Bulls?",
     "correct_answer": "13",
     "choices": [
-      "15",
       "11",
-      "10",
-      "13"
+      "13",
+      "15",
+      "10"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e7e4f272-82d1-4916-a3a2-a68ac46fd3f8"
+    "translation_key": "091be44f785ab6004c710d4637d58646040b7143b211bd995c97cc6b791165e9"
   },
   {
     "category": "basketball",
@@ -453,20 +453,20 @@
     "question_text": "¿Qué equipo de la NBA tiene el récord de más victorias en una temporada regular?",
     "correct_answer": "Golden State Warriors",
     "choices": [
-      "Chicago Bulls",
-      "Boston Celtics",
       "Golden State Warriors",
-      "Los Angeles Lakers"
+      "Chicago Bulls",
+      "Los Angeles Lakers",
+      "Boston Celtics"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c3d88b32-6006-474e-8321-05c2ffc5068a"
+    "translation_key": "d3d89105b1ba73c22ac83e1d4fe06f92503fde9e6b648c5c870d25229d012e52"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "¿Qué número de camiseta usó Kobe Bryant durante la mayor parte de su carrera?",
+    "question_text": "¿Qué número de camiseta usó Kobe Bryant la mayor parte de su carrera?",
     "correct_answer": "24",
     "choices": [
       "23",
@@ -477,23 +477,23 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a62d0476-cf86-44f4-98a9-e39bbb55206d"
+    "translation_key": "2a6852ec7f5242554fa719c568f8d5c98b76052ab53f334090fc2c73d6650c48"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "¿Quién entrenó a los Chicago Bulls para sus seis campeonatos de la NBA?",
+    "question_text": "¿Quién entrenó a los Chicago Bulls en sus seis campeonatos de la NBA?",
     "correct_answer": "Phil Jackson",
     "choices": [
-      "Gregg Popovich",
       "Phil Jackson",
       "Pat Riley",
+      "Gregg Popovich",
       "Red Auerbach"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "57ac6f94-56e7-4834-97d7-fcb249b21fd2"
+    "translation_key": "4d11bf9b7d4f61f1dbf49d88e24f41d73ab9c17c7e75db4b2e3bdb12a7773080"
   },
   {
     "category": "basketball",
@@ -501,31 +501,31 @@
     "question_text": "¿Qué país ha ganado más medallas de oro olímpicas en baloncesto masculino?",
     "correct_answer": "Estados Unidos",
     "choices": [
+      "Estados Unidos",
       "Unión Soviética",
       "España",
-      "Argentina",
-      "Estados Unidos"
+      "Argentina"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "efe23be2-f5b1-4470-8b5d-b4cfa4bbdc92"
+    "translation_key": "50c69ca72c7f07ee966669fe8af360dc6ddcc2ede078ae53a781a8b15a0b5a55"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "¿Cómo se llama el premio al jugador más valioso de la WNBA?",
+    "question_text": "¿Cómo se llama el premio a la jugadora más valiosa de la WNBA?",
     "correct_answer": "Premio MVP de la WNBA",
     "choices": [
-      "MVP de la Copa del Comisionado",
-      "Copa Lisa Leslie",
+      "Premio MVP de la WNBA",
       "Trofeo Sheryl Swoopes",
-      "Premio MVP de la WNBA"
+      "Copa Lisa Leslie",
+      "MVP de la Copa de la Comisionada"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e9c2aa8e-6f9a-4c68-88b1-9228690353a0"
+    "translation_key": "be5fffde557bb2f9f85c2b55afb5e2977b8db763b9e912c46580505df7e5b04c"
   },
   {
     "category": "basketball",
@@ -533,15 +533,15 @@
     "question_text": "¿Qué jugadora de la WNBA tiene más puntos en su carrera?",
     "correct_answer": "Diana Taurasi",
     "choices": [
-      "Tina Thompson",
       "Diana Taurasi",
-      "Lisa Leslie",
-      "Tamika Catchings"
+      "Tamika Catchings",
+      "Tina Thompson",
+      "Lisa Leslie"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c780ab3c-347d-4b63-aada-d510ab55aca7"
+    "translation_key": "62fd01f9eb8ca95b0e537d21e5159255b81b069288decf17cc90505d1bc53859"
   },
   {
     "category": "basketball",
@@ -557,7 +557,7 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "2a6219c7-6312-4418-b2a2-07638dd37419"
+    "translation_key": "44a9e525013ac4854e8328bfc92f4c98d4d7d011ba08a20a12129d5b30ce4a9e"
   },
   {
     "category": "basketball",
@@ -565,15 +565,15 @@
     "question_text": "¿Cuál es el ancho máximo de la cancha de la NBA?",
     "correct_answer": "50 pies",
     "choices": [
-      "50 pies",
       "45 pies",
-      "60 pies",
-      "55 pies"
+      "50 pies",
+      "55 pies",
+      "60 pies"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "50fea5f5-6cc0-48d2-88ad-4f2a4139b8b9"
+    "translation_key": "0d8b83fa4ee2e48fafa264f37aad9745a326f5dffb9c602523a10cb51be49e0b"
   },
   {
     "category": "basketball",
@@ -581,47 +581,47 @@
     "question_text": "¿Con qué equipo jugó Larry Bird toda su carrera?",
     "correct_answer": "Boston Celtics",
     "choices": [
-      "Los Angeles Lakers",
       "Boston Celtics",
-      "Chicago Bulls",
-      "Indiana Pacers"
+      "Los Angeles Lakers",
+      "Indiana Pacers",
+      "Chicago Bulls"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "36f58f6f-3120-4bec-b70c-4e8d558d47a6"
+    "translation_key": "fdcbf641237cc4a51ed8e577208e11fd5fcd35a5cf0777b6115d23f299e2fe10"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "¿Quién es el único jugador en registrar un triple-doble en un Juego de las Estrellas de la NBA?",
+    "question_text": "¿Quién es el único jugador en registrar un triple-doble en un Juego de Estrellas de la NBA?",
     "correct_answer": "LeBron James",
     "choices": [
-      "Magic Johnson",
+      "LeBron James",
       "Michael Jordan",
-      "Russell Westbrook",
-      "LeBron James"
+      "Magic Johnson",
+      "Russell Westbrook"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5ec1642c-e5d6-46fe-a14e-2674346be600"
+    "translation_key": "a32e8259f459f827f42adca94d50380d52e3a6772cda1518a56e12430dc66da2"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
     "question_text": "¿Cómo se llama comúnmente el formato del torneo de baloncesto masculino de la División I de la NCAA?",
-    "correct_answer": "March Madness",
+    "correct_answer": "Locura de Marzo",
     "choices": [
-      "El Gran Baile",
-      "March Madness",
+      "Locura de Marzo",
       "Final Four",
-      "Sweet Sixteen"
+      "Sweet Sixteen",
+      "El Gran Baile"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e07caa52-5c79-4c3c-a57c-93d87d7a8f9b"
+    "translation_key": "c56787e8439c530c2d97ddfb43a5bcb8458226b7bceba24a43cf185c1cf71e26"
   },
   {
     "category": "basketball",
@@ -629,15 +629,15 @@
     "question_text": "¿Cuántos equipos participan en el torneo de baloncesto masculino de la División I de la NCAA?",
     "correct_answer": "68",
     "choices": [
-      "68",
-      "65",
       "64",
-      "72"
+      "68",
+      "72",
+      "65"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "551678f2-d036-46db-b4d6-31786ce0d170"
+    "translation_key": "cb335bad6c01da3c992b297d9e43dfa3db868c94fc2caa769ecfa83074c72ae8"
   },
   {
     "category": "basketball",
@@ -645,15 +645,15 @@
     "question_text": "¿Qué jugador de la NBA anotó 81 puntos en un solo partido en 2006?",
     "correct_answer": "Kobe Bryant",
     "choices": [
-      "Wilt Chamberlain",
       "Kobe Bryant",
-      "David Thompson",
-      "Michael Jordan"
+      "Michael Jordan",
+      "Wilt Chamberlain",
+      "David Thompson"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f38739ad-c1e4-4f66-9b52-315c32e3e5c7"
+    "translation_key": "cff3759bfbe181d8e68a099c81e9ac8caefae65111a1efe8d58f2a17023a07de"
   },
   {
     "category": "basketball",
@@ -661,15 +661,15 @@
     "question_text": "¿Quién inventó el juego del baloncesto?",
     "correct_answer": "James Naismith",
     "choices": [
-      "Luther Gulick",
-      "William Morgan",
       "James Naismith",
-      "John McLendon"
+      "William Morgan",
+      "John McLendon",
+      "Luther Gulick"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "4be8ec74-e642-452e-b62a-eae08610400d"
+    "translation_key": "f637e675cf75b64e1d709e18d40707ef3e121c84d2772a350cf88fd3d86efaf8"
   },
   {
     "category": "basketball",
@@ -678,14 +678,14 @@
     "correct_answer": "1979",
     "choices": [
       "1976",
-      "1987",
+      "1979",
       "1984",
-      "1979"
+      "1987"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7e8394ce-e019-40a4-b2d1-f7a07c5f14bb"
+    "translation_key": "e5e03b149aeb8d43b02e184292537390e128c9e2e73d5a0d6e9c50003bf6ae9e"
   },
   {
     "category": "basketball",
@@ -694,14 +694,14 @@
     "correct_answer": "Kareem Abdul-Jabbar",
     "choices": [
       "Kareem Abdul-Jabbar",
-      "Bill Russell",
       "Michael Jordan",
-      "LeBron James"
+      "LeBron James",
+      "Bill Russell"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "caa2a110-d773-491b-bd08-e67b453686d7"
+    "translation_key": "894690f7d3348ad76ed4f4f1a1ea583023c93d903fe8e9f33b3dd0fd25333a7f"
   },
   {
     "category": "basketball",
@@ -709,15 +709,15 @@
     "question_text": "¿Quién es el máximo anotador en la historia del baloncesto masculino de la División I de la NCAA?",
     "correct_answer": "Pete Maravich",
     "choices": [
-      "Tyler Hansbrough",
-      "Larry Bird",
+      "Pete Maravich",
       "Kareem Abdul-Jabbar",
-      "Pete Maravich"
+      "Larry Bird",
+      "Tyler Hansbrough"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "28492dc1-2174-448e-bf18-c6bc77292cc2"
+    "translation_key": "1153f3e0d120c673e7160c914422b9deb3918200b447aa2aa50797b26350058e"
   },
   {
     "category": "basketball",
@@ -725,15 +725,15 @@
     "question_text": "¿Qué equipo de la NBA ganó 72 partidos en la temporada 1995-96?",
     "correct_answer": "Chicago Bulls",
     "choices": [
-      "Boston Celtics",
-      "Golden State Warriors",
       "Chicago Bulls",
-      "Los Angeles Lakers"
+      "Los Angeles Lakers",
+      "Golden State Warriors",
+      "Boston Celtics"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "71388e1b-4ae4-40dd-9a28-143b46de6033"
+    "translation_key": "347dc213e336990825ed0e294f45f8a9fd06c429e57af88a3294c21b081be627"
   },
   {
     "category": "basketball",
@@ -741,63 +741,63 @@
     "question_text": "¿Cómo se llama la liga de desarrollo de la NBA?",
     "correct_answer": "NBA G League",
     "choices": [
+      "NBA G League",
       "NBA D-League",
       "NBA Development League",
-      "NBA G League",
       "NBA Minor League"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "eab8f04a-5335-48a5-8cc1-cb74c6eb0699"
+    "translation_key": "fa542a2701d79931d00978bc5916d2824d37a0baff2e91b22a478c5af2dfcb4f"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "¿Qué país ganó la Copa Mundial de Baloncesto FIBA en 2019?",
+    "question_text": "¿Qué país ganó la Copa del Mundo de Baloncesto FIBA en 2019?",
     "correct_answer": "España",
     "choices": [
-      "Estados Unidos",
-      "Francia",
       "España",
-      "Argentina"
+      "Argentina",
+      "Francia",
+      "Estados Unidos"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "65d14ebf-efe6-492c-ad0c-0a1f63d764cb"
+    "translation_key": "515c79ed4cd5b350aca635edd1071036f635421d35e6e2b3641a627de23b95cc"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "¿Quién es el jugador más bajo en jugar en la NBA?",
+    "question_text": "¿Quién es el jugador más bajo que ha jugado en la NBA?",
     "correct_answer": "Muggsy Bogues",
     "choices": [
       "Muggsy Bogues",
-      "Earl Boykins",
+      "Spud Webb",
       "Nate Robinson",
-      "Spud Webb"
+      "Earl Boykins"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "645596c6-cb20-439e-ba7d-40632d296313"
+    "translation_key": "c73c6fc4b6f2e4f3b0268c53dadef4e60599fa53fc3b956af81f94663ded17ba"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "¿Cuántos equipos había en la NBA original en 1946?",
+    "question_text": "¿Cuántos equipos tenía la NBA original en 1946?",
     "correct_answer": "11",
     "choices": [
       "8",
-      "10",
+      "11",
       "12",
-      "11"
+      "10"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "181e7cd3-2e46-44f4-ae37-0f638055eb55"
+    "translation_key": "05bead8e802d517f3d5562eb5cdc7e571435652f2324fb944625ca5adc41c2eb"
   },
   {
     "category": "basketball",
@@ -805,15 +805,15 @@
     "question_text": "¿Qué equipo de la NBA seleccionó a Giannis Antetokounmpo?",
     "correct_answer": "Milwaukee Bucks",
     "choices": [
-      "Miami Heat",
       "Milwaukee Bucks",
       "Los Angeles Lakers",
+      "Miami Heat",
       "Toronto Raptors"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ceda145e-61bf-4f59-8fa3-a1aaaa88dd95"
+    "translation_key": "038b2ae72d21e1031e91cc90e964bdfb4ea331dc44c9ca4c3a78a0cd449098f1"
   },
   {
     "category": "football",
@@ -823,13 +823,13 @@
     "choices": [
       "Uruguay",
       "Brasil",
-      "Italia",
-      "Argentina"
+      "Argentina",
+      "Italia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "16489e2f-8c5a-440d-a209-699280424afd"
+    "translation_key": "3214bbbdfbb3630246db0fb6bc1aaea6f4d6b6f24df5eb30881fcae236fc9dbd"
   },
   {
     "category": "football",
@@ -837,31 +837,31 @@
     "question_text": "¿Qué país ha ganado más títulos de la Copa Mundial de la FIFA?",
     "correct_answer": "Brasil",
     "choices": [
-      "Italia",
+      "Brasil",
       "Alemania",
-      "Argentina",
-      "Brasil"
+      "Italia",
+      "Argentina"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "d4ee9ff2-950a-46ad-bde7-7e4f9f0ec549"
+    "translation_key": "d27dc86b8629cfc7068246ccb5e454e48128f7291a2c2df0c327250e795878ff"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿Cuántos títulos mundiales ha ganado Brasil?",
+    "question_text": "¿Cuántos títulos de la Copa Mundial ha ganado Brasil?",
     "correct_answer": "5",
     "choices": [
-      "3",
-      "4",
       "5",
-      "6"
+      "4",
+      "6",
+      "3"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f988956a-b8d6-45c1-abf1-ef7274a3cc05"
+    "translation_key": "9ed637448951bebc3c328987706ccefba10e8090b221a389818bd14371e340d1"
   },
   {
     "category": "football",
@@ -869,47 +869,47 @@
     "question_text": "¿Quién es el máximo goleador de la historia de la Copa Mundial de la FIFA?",
     "correct_answer": "Miroslav Klose",
     "choices": [
-      "Pelé",
-      "Lionel Messi",
       "Miroslav Klose",
-      "Ronaldo"
+      "Ronaldo",
+      "Lionel Messi",
+      "Pelé"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5d365cc0-35b4-47ef-b92d-fe27fe31c705"
+    "translation_key": "3a8d87529d4aa238476f8674c500253176ae485e5a4c17d2be0396cd7cc5842e"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "¿Cuántos goles marcó Miroslav Klose en los Mundiales?",
+    "question_text": "¿Cuántos goles marcó Miroslav Klose en las Copas Mundiales?",
     "correct_answer": "16",
     "choices": [
-      "17",
+      "16",
       "15",
       "14",
-      "16"
+      "17"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "dafd799d-e046-4fdd-a969-9485d14d27b1"
+    "translation_key": "66d1ecaa4dcb02735194de66f38d8fc0b086676841a390166d4eacfe8b9d39de"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "¿Qué país fue sede de la Copa Mundial de la FIFA 2014?",
+    "question_text": "¿Qué país fue anfitrión de la Copa Mundial de la FIFA 2014?",
     "correct_answer": "Brasil",
     "choices": [
-      "Rusia",
       "Brasil",
       "Sudáfrica",
+      "Rusia",
       "Alemania"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "9eeeda20-aafc-4f41-8099-a09bf489fe83"
+    "translation_key": "b043d3dcd076d5f6b6914c0f57318c662d14f00ad429a271516749b0ade3eb56"
   },
   {
     "category": "football",
@@ -918,46 +918,46 @@
     "correct_answer": "Pelé",
     "choices": [
       "Pelé",
+      "Diego Maradona",
       "Lionel Messi",
-      "Johan Cruyff",
-      "Diego Maradona"
+      "Johan Cruyff"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "6e7bd9ee-9a33-4dd9-be05-c48c50bb6886"
+    "translation_key": "ab6621f1f18c97be04007d939a94f25c66ecf0665d799c663efef429accdc9c6"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿En qué año Diego Maradona anotó su infame gol 'La Mano de Dios'?",
+    "question_text": "¿En qué año Diego Maradona marcó su infame gol de 'La Mano de Dios'?",
     "correct_answer": "1986",
     "choices": [
+      "1986",
       "1982",
       "1990",
-      "1986",
       "1978"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "3312f1c7-d7a6-4998-be00-cde6c34a64a6"
+    "translation_key": "9c1261f611719a4322a87a74425020e05ee17483b8acfaa697cdd5e7e772a965"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿Contra qué país anotó Maradona el gol de 'La Mano de Dios'?",
+    "question_text": "¿Contra qué país marcó Maradona el gol de 'La Mano de Dios'?",
     "correct_answer": "Inglaterra",
     "choices": [
-      "Argentina",
       "Inglaterra",
+      "Argentina",
       "Alemania Occidental",
       "Bélgica"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "72a594e6-aad6-43c8-98a8-7eb3af2788a1"
+    "translation_key": "a343ef17d0745e45258f3086428a050b44933c7b1fb894cc786bab2c3f0cd2a4"
   },
   {
     "category": "football",
@@ -966,14 +966,14 @@
     "correct_answer": "Real Madrid",
     "choices": [
       "Real Madrid",
-      "Bayern Múnich",
-      "Liverpool",
-      "AC Milan"
+      "AC Milan",
+      "Bayern Munich",
+      "Liverpool"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f1c34e04-c233-4869-a14c-f3bb0cba7f24"
+    "translation_key": "1476d613664deeb7511798942b80f94433fad5fec2fbbf47565c6356b0b7efed"
   },
   {
     "category": "football",
@@ -982,14 +982,14 @@
     "correct_answer": "14",
     "choices": [
       "14",
-      "12",
       "13",
-      "15"
+      "15",
+      "12"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e90c0e7f-7632-4eac-8dc6-985e7de6bae0"
+    "translation_key": "642e527399769d2b4748e08686f207ad770d6f2f361165825acd9df5d119c9bb"
   },
   {
     "category": "football",
@@ -997,47 +997,47 @@
     "question_text": "¿Quién es el máximo goleador de la historia de la UEFA Champions League?",
     "correct_answer": "Cristiano Ronaldo",
     "choices": [
-      "Lionel Messi",
-      "Karim Benzema",
       "Cristiano Ronaldo",
-      "Robert Lewandowski"
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Karim Benzema"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "b45f9086-93a4-45af-8af5-cc602fa95e12"
+    "translation_key": "d57f77e2016e38d4f939b4874ea89284981abec374391b4360259c3927d4ba4e"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿Cuántos Balones de Oro ha ganado Lionel Messi?",
+    "question_text": "¿Cuántos premios Ballon d'Or ha ganado Lionel Messi?",
     "correct_answer": "7",
     "choices": [
       "7",
       "8",
-      "5",
-      "6"
+      "6",
+      "5"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "47ddb088-5c49-4f8c-863e-85ad424444b9"
+    "translation_key": "1ab9a64aa1c2987d015695996a47649d3304f4e08e215023e1dcfda778aa0253"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿Qué país ha ganado más veces la Eurocopa?",
+    "question_text": "¿Qué país ha ganado más veces la Eurocopa de la UEFA?",
     "correct_answer": "Alemania",
     "choices": [
       "Alemania",
       "España",
-      "Italia",
-      "Francia"
+      "Francia",
+      "Italia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "42d2919f-b8e8-4d6b-96ef-368e5f96b804"
+    "translation_key": "5d03959f3228b80dd3f77a665ae394fa383276a92057581b3c568f2c6ff9aaf0"
   },
   {
     "category": "football",
@@ -1053,7 +1053,7 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "80f57a46-66bd-44f5-9bf2-daab2329e1ab"
+    "translation_key": "a0934baf337ad5b4c3256ac3d96e88f2a83322636f51ddd01a3583d3d2738cc2"
   },
   {
     "category": "football",
@@ -1061,15 +1061,15 @@
     "question_text": "¿Qué jugador tiene más goles en la historia de la Premier League?",
     "correct_answer": "Alan Shearer",
     "choices": [
-      "Thierry Henry",
       "Alan Shearer",
+      "Wayne Rooney",
       "Harry Kane",
-      "Wayne Rooney"
+      "Thierry Henry"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "0b746551-8cd1-4c3c-844d-208bca14ced6"
+    "translation_key": "dde04537c695a6a3a64bc815d0892066517d108a880cd1172f380746aa680c64"
   },
   {
     "category": "football",
@@ -1078,30 +1078,30 @@
     "correct_answer": "Manchester United",
     "choices": [
       "Manchester United",
-      "Liverpool",
       "Chelsea",
+      "Liverpool",
       "Arsenal"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c1ae22f7-f11b-477f-94b5-0a6432635548"
+    "translation_key": "1f96511f56b31345b10c96194fe6277ef69827260938ab417aeb560799e7c6b3"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "¿Quién es el único jugador que ha ganado el Mundial con dos países diferentes?",
+    "question_text": "¿Quién es el único jugador que ha ganado la Copa del Mundo con dos países diferentes?",
     "correct_answer": "Luis Monti",
     "choices": [
-      "Alfredo Di Stéfano",
-      "Luis Suárez",
       "Luis Monti",
-      "Ferenc Puskás"
+      "Alfredo Di Stéfano",
+      "Ferenc Puskás",
+      "Luis Suárez"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ce5ffcc4-281b-4efb-9898-ce547069cf6f"
+    "translation_key": "71ba07694e8086473f5f1d87c833f4155a871c9e8f1c25ed164c6e5a3b845955"
   },
   {
     "category": "football",
@@ -1109,31 +1109,31 @@
     "question_text": "¿Qué país ganó la Copa Mundial de la FIFA 2018?",
     "correct_answer": "Francia",
     "choices": [
-      "Bélgica",
-      "Croacia",
       "Francia",
+      "Croacia",
+      "Bélgica",
       "Argentina"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f8ea1e47-1a3e-4201-875c-b8458d4d09f2"
+    "translation_key": "43fbf6ec7639fd2c9116382421aa40bb4c6c82f6d72bd395c148c6fe2ff58e76"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿Qué jugador marcó un hat-trick en la final del Mundial 2022?",
+    "question_text": "¿Qué jugador marcó un triplete en la final de la Copa Mundial 2022?",
     "correct_answer": "Kylian Mbappé",
     "choices": [
-      "Ángel Di María",
-      "Antoine Griezmann",
+      "Kylian Mbappé",
       "Lionel Messi",
-      "Kylian Mbappé"
+      "Ángel Di María",
+      "Antoine Griezmann"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7d852420-0aa7-4777-a18a-b7de1bff2eeb"
+    "translation_key": "d44268e5e4b0e7f7af66e291dfb96d941baa626d47978a53b34dba4acfd7649b"
   },
   {
     "category": "football",
@@ -1149,7 +1149,7 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "71a03cb5-df0b-4984-ba2a-92943e441927"
+    "translation_key": "a1b53d0acd43421ee3176b722f3e3d90c8d7a70453d23b7221f07352747916c6"
   },
   {
     "category": "football",
@@ -1157,15 +1157,15 @@
     "question_text": "¿Qué estadio es conocido como el 'Teatro de los Sueños'?",
     "correct_answer": "Old Trafford",
     "choices": [
+      "Old Trafford",
       "Camp Nou",
-      "Wembley",
       "Anfield",
-      "Old Trafford"
+      "Wembley"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a4eb5414-45ea-492e-bd63-367f104ac7d1"
+    "translation_key": "5f64221068a8695b941617fe9917b6d39ee555d6d46186aba0474aaea9a5a1f3"
   },
   {
     "category": "football",
@@ -1173,15 +1173,15 @@
     "question_text": "¿Cuál es la capacidad del Camp Nou, el estadio más grande de Europa?",
     "correct_answer": "99,354",
     "choices": [
+      "99,354",
       "90,000",
-      "105,000",
       "81,000",
-      "99,354"
+      "105,000"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c607a78f-483f-44fa-9dbf-dd3e146e941c"
+    "translation_key": "28a1b4a9112f2564bbe686e20b957cd00a1fafb30717c7b3c5d9c56a34834ed3"
   },
   {
     "category": "football",
@@ -1189,15 +1189,15 @@
     "question_text": "¿Qué país ha ganado más títulos de la Copa América?",
     "correct_answer": "Argentina",
     "choices": [
-      "Brasil",
-      "Uruguay",
       "Argentina",
+      "Uruguay",
+      "Brasil",
       "Chile"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ffd42365-a5ee-409c-a38f-ed8afe8aaa87"
+    "translation_key": "d510ae91baa509da2b1f1443a643af4cd4901742a66245ced63f1e126c089322"
   },
   {
     "category": "football",
@@ -1205,15 +1205,15 @@
     "question_text": "¿Quién es el máximo goleador de la historia del fútbol internacional masculino?",
     "correct_answer": "Cristiano Ronaldo",
     "choices": [
-      "Lionel Messi",
       "Cristiano Ronaldo",
       "Ali Daei",
+      "Lionel Messi",
       "Sunil Chhetri"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "23a8f593-0fc3-4d88-a1d0-ac9533d2bd48"
+    "translation_key": "830d907666c443126ded101024fd4a1c504014809f425d9437a386b9c67ad383"
   },
   {
     "category": "football",
@@ -1221,15 +1221,15 @@
     "question_text": "¿Cuántos jugadores hay en el campo por cada equipo en un partido de fútbol estándar?",
     "correct_answer": "11",
     "choices": [
-      "12",
+      "11",
       "10",
-      "9",
-      "11"
+      "12",
+      "9"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "d62bf4ed-eedc-4e3d-8b9d-4e7225f2b208"
+    "translation_key": "a19b5c64533099ccfed5685bcf314c8f05a13fb91f7bb1322284fd1c99065d2e"
   },
   {
     "category": "football",
@@ -1237,15 +1237,15 @@
     "question_text": "¿De qué color es la tarjeta que indica que un jugador ha sido expulsado?",
     "correct_answer": "Roja",
     "choices": [
-      "Negra",
-      "Amarilla",
       "Roja",
-      "Azul"
+      "Amarilla",
+      "Azul",
+      "Negra"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "fedc681c-74eb-4f54-bb79-6e46113079b6"
+    "translation_key": "c7e0dfc2276f10981f609f7c916726d68e598bec7322c993faae9f1b6ce4c5cb"
   },
   {
     "category": "football",
@@ -1253,31 +1253,31 @@
     "question_text": "¿Cuál es la distancia desde la línea de gol hasta el punto de penalti?",
     "correct_answer": "12 yardas",
     "choices": [
-      "10 yardas",
-      "6 yardas",
       "12 yardas",
-      "18 yardas"
+      "18 yardas",
+      "10 yardas",
+      "6 yardas"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "fe40932a-9e3f-4e65-ab86-d977fe83d67a"
+    "translation_key": "0f723947ebeb256234feda23c23ad18e175fba84f68a0c750a662b17b951979d"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "¿Qué entrenador es conocido como 'The Special One'?",
+    "question_text": "¿Qué entrenador es conocido como 'El Especial'?",
     "correct_answer": "José Mourinho",
     "choices": [
-      "Pep Guardiola",
       "José Mourinho",
+      "Pep Guardiola",
       "Alex Ferguson",
       "Arsène Wenger"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "cc0cb4de-32ab-4ce8-8a05-b124866f5178"
+    "translation_key": "d06b774b7b8b594c77d87a93d9e646469423079aef21c665753b2082b826faa7"
   },
   {
     "category": "football",
@@ -1285,31 +1285,31 @@
     "question_text": "¿Quién es el entrenador con más tiempo en el cargo en la historia del Manchester United?",
     "correct_answer": "Alex Ferguson",
     "choices": [
+      "Alex Ferguson",
       "Matt Busby",
-      "José Mourinho",
       "Ernest Mangnall",
-      "Alex Ferguson"
+      "José Mourinho"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a8a36aa4-dc7c-4caf-80fe-1fd016fab390"
+    "translation_key": "191cb0d15f50406b5e1eadf8d067845ec75ad28a373ac0ba431e23fa4c978a07"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿Qué club es famoso por Johan Cruyff, quien jugó y luego dirigió allí?",
+    "question_text": "¿Qué club tuvo a Johan Cruyff como jugador y posteriormente como entrenador?",
     "correct_answer": "Barcelona",
     "choices": [
+      "Barcelona",
       "Ajax",
       "Real Madrid",
-      "Bayern Múnich",
-      "Barcelona"
+      "Bayern Munich"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "8e414c79-61e1-4f5d-8ee3-23c513b709f7"
+    "translation_key": "bf2c148bd7daf3b7e4d674ec1e5238eaa0712f7cdee479d4880fd0ef1e964282"
   },
   {
     "category": "football",
@@ -1317,15 +1317,15 @@
     "question_text": "¿Qué país inventó la regla del fuera de juego?",
     "correct_answer": "Inglaterra",
     "choices": [
-      "Francia",
       "Inglaterra",
       "Escocia",
-      "Italia"
+      "Italia",
+      "Francia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "b09edf4b-ce0c-41a6-ade4-d1a50ee9f9be"
+    "translation_key": "680fc3c99610dad7453f7519542026d16f7d287c424a6f94c19ab2464caa4593"
   },
   {
     "category": "football",
@@ -1333,15 +1333,15 @@
     "question_text": "¿Quién fue el primer futbolista en ser nombrado caballero?",
     "correct_answer": "Sir Stanley Matthews",
     "choices": [
-      "Sir Bobby Moore",
-      "Sir Bobby Charlton",
       "Sir Stanley Matthews",
-      "Sir Geoff Hurst"
+      "Sir Bobby Charlton",
+      "Sir Geoff Hurst",
+      "Sir Bobby Moore"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "4ce61d4e-1dff-4b0f-989b-cb66262815b6"
+    "translation_key": "157fae05954e51a4e25f798547cc59756f97a2073732e9b9e4a5d369df0f102a"
   },
   {
     "category": "football",
@@ -1349,31 +1349,31 @@
     "question_text": "¿Qué país nunca se ha perdido una Copa Mundial de la FIFA?",
     "correct_answer": "Brasil",
     "choices": [
-      "Italia",
-      "Alemania",
       "Brasil",
+      "Alemania",
+      "Italia",
       "Argentina"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7b1af6ed-19f2-4580-8189-b93e33b8d32b"
+    "translation_key": "c2d8e9a1647e979c765e0c9d4223d82719fa3bd9261f938f80dd6bb90cde98a9"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "¿Qué país africano fue el primero en llegar a los cuartos de final de un Mundial?",
+    "question_text": "¿Qué país africano fue el primero en llegar a los cuartos de final de la Copa del Mundo?",
     "correct_answer": "Camerún",
     "choices": [
       "Camerún",
-      "Ghana",
+      "Nigeria",
       "Senegal",
-      "Nigeria"
+      "Ghana"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "60e760b0-03f1-4123-ada3-6f9246f853a8"
+    "translation_key": "3dd0e29f22bf8339bb57e0a155ddb45c226c4c6e01913351ea7cf26800331586"
   },
   {
     "category": "football",
@@ -1389,7 +1389,7 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "43e3dba6-b76d-448a-9648-995377fb0856"
+    "translation_key": "108c811343d7acde75e434bde9bc6c0a4dd0c9360a56e04ffa8459bf2b86b57d"
   },
   {
     "category": "football",
@@ -1397,15 +1397,15 @@
     "question_text": "¿Qué país ha ganado más títulos de la Copa Mundial Femenina?",
     "correct_answer": "Estados Unidos",
     "choices": [
-      "Noruega",
       "Estados Unidos",
       "Alemania",
+      "Noruega",
       "Japón"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "35f35099-6523-4a06-bb62-446df1774849"
+    "translation_key": "70d76e57b68c5ffc24aeaa2452d483f1bd8a03582a8d8a36fc810006d30e3e2c"
   },
   {
     "category": "football",
@@ -1413,63 +1413,63 @@
     "question_text": "¿Cuántos títulos de la Copa Mundial Femenina ha ganado Estados Unidos?",
     "correct_answer": "4",
     "choices": [
-      "5",
       "4",
-      "2",
-      "3"
+      "3",
+      "5",
+      "2"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "df335ffc-10da-44c4-b948-73ee585dba0b"
+    "translation_key": "1825d4fb228aaac169e82e2b14dabc8761338a97b243dd7e3baf14988c1d6cc5"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "¿Qué club es conocido como 'Los Invencibles' por terminar una temporada de la Premier League sin perder?",
+    "question_text": "¿Qué club es conocido como 'Los Invencibles' por no perder ningún partido en una temporada de la Premier League?",
     "correct_answer": "Arsenal",
     "choices": [
-      "Liverpool",
       "Arsenal",
       "Manchester United",
-      "Chelsea"
+      "Chelsea",
+      "Liverpool"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "46bede50-52ee-44ee-9e15-1284adf2c92f"
+    "translation_key": "3bc365896eef25f058f3470daffac4653c8b45a9c5cf077932ca0c325d094f7a"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "¿En qué año el Arsenal completó su temporada 'Invencible'?",
+    "question_text": "¿En qué año completó el Arsenal su temporada de 'Invencibles'?",
     "correct_answer": "2004",
     "choices": [
-      "2005",
-      "2002",
+      "2004",
       "2003",
-      "2004"
+      "2005",
+      "2002"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ac7b5649-00ad-4142-ad51-c95db8f06259"
+    "translation_key": "42f66a0e0e5d2c5cb46f395bac2367f6327a7131afc529511cd143ce25109b89"
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question_text": "¿Qué club alemán es conocido por el lema 'Mia san mia'?",
-    "correct_answer": "Bayern Múnich",
+    "correct_answer": "Bayern Munich",
     "choices": [
+      "Bayern Munich",
+      "Borussia Dortmund",
       "Schalke",
-      "Bayern Múnich",
-      "Hamburgo",
-      "Borussia Dortmund"
+      "Hamburgo"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "d17aa56c-5170-46a7-b409-d1217f279061"
+    "translation_key": "c3ef29426916902ea9c284a4762ee2b77e635769dc574c7d17f6b3ac49c87f2e"
   },
   {
     "category": "football",
@@ -1478,14 +1478,14 @@
     "correct_answer": "Neymar",
     "choices": [
       "Neymar",
+      "Pelé",
       "Ronaldo",
-      "Romário",
-      "Pelé"
+      "Romário"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "47a553ee-9471-433d-984e-463c95ab8d80"
+    "translation_key": "5bed862db5e6a03d58a97f47ac39f1efbe264397c001579c56bfb54d2ed1b00d"
   },
   {
     "category": "football",
@@ -1493,31 +1493,31 @@
     "question_text": "¿Cómo se llama el trofeo que se otorga al ganador de la Copa del Mundo?",
     "correct_answer": "Trofeo de la Copa Mundial de la FIFA",
     "choices": [
+      "Trofeo de la Copa Mundial de la FIFA",
       "Trofeo Jules Rimet",
       "Trofeo de la Copa del Mundo",
-      "Trofeo de la Copa Mundial de la FIFA",
       "Copa de Oro"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e9c0628d-b002-40c7-9c63-59512bd16cca"
+    "translation_key": "49fc2e2d9edcc53c969eaaa15f8539b566820598b569a3142f1d315cd2a758bf"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "¿Qué país ganó la primera Eurocopa en 1960?",
+    "question_text": "¿Qué país ganó la primera Eurocopa de la UEFA en 1960?",
     "correct_answer": "Unión Soviética",
     "choices": [
       "Unión Soviética",
-      "Italia",
+      "España",
       "Francia",
-      "España"
+      "Italia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "babd4a2b-339e-40d4-b4d0-9b142ee7d958"
+    "translation_key": "e8b29db8bc2674ce0a4597aae84b55f01d23cdf129c84ed6927014277df4a8a6"
   },
   {
     "category": "football",
@@ -1525,15 +1525,15 @@
     "question_text": "¿Quién marcó más goles en una sola temporada de la Premier League (38 partidos)?",
     "correct_answer": "Erling Haaland",
     "choices": [
-      "Mohamed Salah",
       "Erling Haaland",
-      "Cristiano Ronaldo",
-      "Alan Shearer"
+      "Mohamed Salah",
+      "Alan Shearer",
+      "Cristiano Ronaldo"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "3aecb583-7bca-46f6-9a18-073468352bad"
+    "translation_key": "ecf1856ee39672a459abd5cd84b8bfa6e15d68df5b41b976ee438fb3c8a7b781"
   },
   {
     "category": "football",
@@ -1541,15 +1541,15 @@
     "question_text": "¿Cuántos goles marcó Erling Haaland en la temporada 2022-23 de la Premier League?",
     "correct_answer": "36",
     "choices": [
+      "36",
       "38",
-      "32",
       "34",
-      "36"
+      "32"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e3f4ee04-3108-4615-9331-379caa9b27c4"
+    "translation_key": "53be9868c567f15cf3a472922d0288088f1518f9a493d1d88d3afc36815ed5d6"
   },
   {
     "category": "football",
@@ -1557,15 +1557,15 @@
     "question_text": "¿Qué país se atribuye la invención del fútbol moderno?",
     "correct_answer": "Inglaterra",
     "choices": [
-      "Escocia",
-      "Italia",
       "Inglaterra",
-      "Brasil"
+      "Escocia",
+      "Brasil",
+      "Italia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "27848198-9dcf-4fef-a4ba-d7049a40eba5"
+    "translation_key": "022712a9da78f5d64f2b0e0cd50bcee8942ba532b8ac9c24bcacf6af4ec095cd"
   },
   {
     "category": "football",
@@ -1573,15 +1573,15 @@
     "question_text": "¿Qué club ha ganado más títulos de La Liga?",
     "correct_answer": "Real Madrid",
     "choices": [
-      "Barcelona",
       "Real Madrid",
-      "Athletic Bilbao",
-      "Atlético Madrid"
+      "Barcelona",
+      "Atlético Madrid",
+      "Athletic Bilbao"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ea4423db-69c9-426f-909d-4937880cf78a"
+    "translation_key": "80ba138ac5c65fe02b0955010c73c5dd22b5e39104df8277394e29931789a96f"
   },
   {
     "category": "football",
@@ -1589,15 +1589,15 @@
     "question_text": "¿Qué jugador tiene más asistencias en la historia de la Premier League?",
     "correct_answer": "Ryan Giggs",
     "choices": [
-      "Cesc Fàbregas",
       "Ryan Giggs",
-      "Wayne Rooney",
-      "Kevin De Bruyne"
+      "Cesc Fàbregas",
+      "Kevin De Bruyne",
+      "Wayne Rooney"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c3e813d8-4feb-4dbc-8e42-535456520f0b"
+    "translation_key": "c6366fb98467f233adcf15f37097a187ce84f5bb28d34c167d0dda630f3fb936"
   },
   {
     "category": "football",
@@ -1605,15 +1605,15 @@
     "question_text": "¿Cuál es el ancho estándar de una portería de fútbol?",
     "correct_answer": "8 yardas",
     "choices": [
-      "9 yardas",
       "8 yardas",
-      "6 yardas",
-      "7 yardas"
+      "7 yardas",
+      "9 yardas",
+      "6 yardas"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "3167d7b1-7053-4452-b980-198b57ca2972"
+    "translation_key": "a1d069fee53edfb7eb6c20ab4b6307d6f278998fc41dca1d983d652b7b809e20"
   },
   {
     "category": "olympics",
@@ -1622,14 +1622,14 @@
     "correct_answer": "776 a.C.",
     "choices": [
       "776 a.C.",
-      "632 a.C.",
       "490 a.C.",
+      "632 a.C.",
       "850 a.C."
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "92ec1a2e-2eb6-42cd-92c8-00b34b1a755a"
+    "translation_key": "dac99b890d00ccd4036a5b63bfd3abf29bafce5d51313785aeaa433a0f151811"
   },
   {
     "category": "olympics",
@@ -1637,15 +1637,15 @@
     "question_text": "¿A quién se le atribuye la fundación de los Juegos Olímpicos modernos?",
     "correct_answer": "Pierre de Coubertin",
     "choices": [
-      "Avery Brundage",
-      "Barón von Steuben",
       "Pierre de Coubertin",
-      "Jules Rimet"
+      "Baron von Steuben",
+      "Jules Rimet",
+      "Avery Brundage"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "0b5e149a-8e6c-41f6-ac38-220315d44ac9"
+    "translation_key": "12da511fd65058ab52a0ce1edcadded14968dc1fd2d46009bc90e18055bc93f5"
   },
   {
     "category": "olympics",
@@ -1653,31 +1653,31 @@
     "question_text": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
     "correct_answer": "1896",
     "choices": [
-      "1890",
       "1896",
       "1900",
-      "1904"
+      "1904",
+      "1890"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ce5e24a2-95dc-4277-bb17-b9c494656847"
+    "translation_key": "f612f061236cfed50c016b7c3c5d219458787dcf1337c0e262aacb225ee6a2cc"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "¿Qué ciudad albergó los primeros Juegos Olímpicos modernos?",
+    "question_text": "¿Qué ciudad fue sede de los primeros Juegos Olímpicos modernos?",
     "correct_answer": "Atenas",
     "choices": [
-      "Roma",
+      "Atenas",
       "París",
       "Londres",
-      "Atenas"
+      "Roma"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "8288bf24-e4f7-4eb1-b5ea-6645d30a883e"
+    "translation_key": "c4202bea5e5807b7ec5031fd8225758cff2e3f2ebc5c8bf1c56d5a2ad6803842"
   },
   {
     "category": "olympics",
@@ -1687,13 +1687,13 @@
     "choices": [
       "5",
       "6",
-      "7",
-      "4"
+      "4",
+      "7"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "2d56011e-6b37-4cdc-a60d-a1468575de7a"
+    "translation_key": "83e3b47358aad58b57b9ea2ef7bdf85afcdbe989f50eda4f20bb9c18d242d20c"
   },
   {
     "category": "olympics",
@@ -1701,63 +1701,63 @@
     "question_text": "¿Qué representan los cinco anillos olímpicos?",
     "correct_answer": "Los cinco continentes habitados",
     "choices": [
-      "Las cinco naciones fundadoras",
       "Los cinco continentes habitados",
-      "Los cinco valores olímpicos",
-      "Los cinco deportes originales"
+      "Los cinco deportes originales",
+      "Las cinco naciones fundadoras",
+      "Los cinco valores olímpicos"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ac9e7ad0-73a3-4813-a904-279d12cda821"
+    "translation_key": "7fa46b4878acaebc78739b1c6961785cdde0cb75ca61da060ad48b8511c418f4"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Cuál es el lema olímpico oficial?",
+    "question_text": "¿Cuál es el lema oficial de los Juegos Olímpicos?",
     "correct_answer": "Citius, Altius, Fortius",
     "choices": [
       "Citius, Altius, Fortius",
-      "Más rápido, más alto, más valiente",
+      "Más rápido, más alto, más fuerte juntos",
       "Un mundo, un sueño",
-      "Más veloz, más alto, más fuerte juntos"
+      "Más rápido, más alto, más valiente"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "6dce4598-dfd6-4ad7-959a-cd6c1bddaf78"
+    "translation_key": "607a4beabea2562e926cb2cb9386af02c434f3894944d42452271e58d84bcdcc"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Cuál es el lema olímpico en inglés?",
-    "correct_answer": "Faster, Higher, Stronger",
+    "question_text": "¿Cuál es el lema olímpico en español?",
+    "correct_answer": "Más rápido, más alto, más fuerte",
     "choices": [
-      "Faster, Higher, Stronger",
-      "Quick, High, Strong",
-      "Speed, Height, Power",
-      "Swifter, Higher, Braver"
+      "Más rápido, más alto, más fuerte",
+      "Más rápido, más alto, más valiente",
+      "Rápido, alto, fuerte",
+      "Velocidad, altura, poder"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f2fa8e17-e95e-4392-a00a-e24121e6a635"
+    "translation_key": "75448ea9c10e2044b36ed746b64033b52c0f07526c9e05242e671167e53e10bf"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Qué atleta posee el récord de la mayor cantidad de medallas de oro olímpicas?",
+    "question_text": "¿Qué atleta tiene el récord de la mayor cantidad de medallas de oro olímpicas?",
     "correct_answer": "Michael Phelps",
     "choices": [
       "Michael Phelps",
+      "Usain Bolt",
       "Carl Lewis",
-      "Mark Spitz",
-      "Usain Bolt"
+      "Mark Spitz"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "3739f259-da1c-4702-9c4d-7a86197f0207"
+    "translation_key": "30f585d449df4ada0457c7bbede3fb77eb2407c7c8b5b23a01d24eae21c3c8df"
   },
   {
     "category": "olympics",
@@ -1765,31 +1765,31 @@
     "question_text": "¿Cuántas medallas de oro olímpicas ganó Michael Phelps en total?",
     "correct_answer": "23",
     "choices": [
-      "28",
-      "18",
       "23",
+      "18",
+      "28",
       "15"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "aa44855c-bed9-485f-baf8-36fcaca19c39"
+    "translation_key": "3036642e907ae8e5139e182279e23a40efa8f27c0de0522e2a982264417d2a60"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿En qué prueba ganó Usain Bolt su primera medalla de oro olímpica?",
+    "question_text": "¿En qué evento ganó Usain Bolt su primera medalla de oro olímpica?",
     "correct_answer": "100 metros",
     "choices": [
-      "Relevo 4x100 metros",
+      "100 metros",
       "200 metros",
-      "400 metros",
-      "100 metros"
+      "Relevos 4x100 metros",
+      "400 metros"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c565ca43-8b84-45bd-9b1f-1463f6437785"
+    "translation_key": "6d2322e4234fbd8f90cd76b9df6803650a90484e36869928ede8fef32a203b56"
   },
   {
     "category": "olympics",
@@ -1798,14 +1798,14 @@
     "correct_answer": "2016",
     "choices": [
       "2016",
-      "2008",
       "2012",
+      "2008",
       "2020"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5dc0a269-eea6-4d4f-b82d-34fda1effbcc"
+    "translation_key": "e07e57a7987cb149aba1bceb9427032a89aae5fc39c5c3ada2c288104865c334"
   },
   {
     "category": "olympics",
@@ -1813,95 +1813,95 @@
     "question_text": "¿Cuántas medallas de oro olímpicas ganó Carl Lewis en su carrera?",
     "correct_answer": "9",
     "choices": [
-      "8",
-      "10",
       "9",
+      "10",
+      "8",
       "7"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "67d6abf4-a61f-4ec1-9f88-84e72aebc616"
+    "translation_key": "109e70e8496b1da3bd312655bb55647bce36d0048aec7227b351a74916c8334a"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "¿Quién fue la primera mujer en ganar una medalla de oro olímpica en la gimnasia artística individual?",
+    "question_text": "¿Quién fue la primera mujer en ganar una medalla de oro olímpica en el concurso completo de gimnasia?",
     "correct_answer": "Larisa Latynina",
     "choices": [
-      "Olga Korbut",
       "Larisa Latynina",
+      "Simone Biles",
       "Nadia Comaneci",
-      "Simone Biles"
+      "Olga Korbut"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5ae4ff69-6347-4d89-a36b-3e2ae96b13fc"
+    "translation_key": "544121dd36038ec130f3da4896be764e8998cb329de780d88e990b037aa7ae8b"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "En los Juegos Olímpicos de Berlín 1936, ¿qué atleta afroamericano ganó cuatro medallas de oro?",
+    "question_text": "En los Juegos Olímpicos de Berlín de 1936, ¿qué atleta afroamericano ganó cuatro medallas de oro?",
     "correct_answer": "Jesse Owens",
     "choices": [
-      "Jackie Robinson",
-      "Ralph Metcalfe",
       "Jesse Owens",
-      "Joe Louis"
+      "Joe Louis",
+      "Jackie Robinson",
+      "Ralph Metcalfe"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f36fbb2b-6c47-4bf7-9b27-3a4dd5dd0a03"
+    "translation_key": "d3f5a7acea68821854d6f26e30cb2652f7fe48d72107bbba556ee9c2dd67b60f"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Qué país ha albergado los Juegos Olímpicos de verano la mayor cantidad de veces?",
+    "question_text": "¿Qué país ha sido sede de los Juegos Olímpicos de verano la mayor cantidad de veces?",
     "correct_answer": "Estados Unidos",
     "choices": [
       "Estados Unidos",
       "Reino Unido",
-      "Grecia",
-      "Francia"
+      "Francia",
+      "Grecia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "546ff341-3a4d-4159-86dc-9cf018ac407d"
+    "translation_key": "cc924e6f8ec35f3981a848bf40ebefcb305e0a03f6bc1e643edbb9bc85ea5487"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "¿Cuántas veces ha albergado Londres los Juegos Olímpicos?",
+    "question_text": "¿Cuántas veces ha sido Londres sede de los Juegos Olímpicos?",
     "correct_answer": "3",
     "choices": [
       "3",
-      "4",
       "2",
+      "4",
       "1"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "8d831bea-496a-4da6-9a8d-1592908c7470"
+    "translation_key": "51a1c87e1a1eb53e7f3cfc842851791984d3c8ae95f8f11791c62edd9610de0a"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "¿Qué ciudad albergó los Juegos Olímpicos de verano de 2000?",
+    "question_text": "¿Qué ciudad fue sede de los Juegos Olímpicos de verano de 2000?",
     "correct_answer": "Sídney",
     "choices": [
-      "Pekín",
+      "Sídney",
       "Atlanta",
-      "Atenas",
-      "Sídney"
+      "Pekín",
+      "Atenas"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "c0783d3c-1187-4320-8c9c-7310aa953880"
+    "translation_key": "aacd4021576c259aaa5feb192e161bd7594f21daae44c50f37fa6c07995726b4"
   },
   {
     "category": "olympics",
@@ -1910,14 +1910,14 @@
     "correct_answer": "1928",
     "choices": [
       "1928",
-      "1936",
+      "1900",
       "1912",
-      "1900"
+      "1936"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "8365b43a-ad84-4082-9a3d-c1638e276e0d"
+    "translation_key": "5f4bf5154413bc79150bf1135918399d02bb451c9995da63af20611bb9c8a1dc"
   },
   {
     "category": "olympics",
@@ -1925,15 +1925,15 @@
     "question_text": "¿Cuál es el deporte olímpico más antiguo que se ha disputado de forma continua?",
     "correct_answer": "Atletismo",
     "choices": [
-      "Esgrima",
       "Atletismo",
-      "Lucha",
-      "Natación"
+      "Natación",
+      "Esgrima",
+      "Lucha"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "84791304-eac7-471c-95be-29f0c0caf8af"
+    "translation_key": "2b538af91b6175d5c73493c1c27bd907c2d0d66735a445b38131b3b6e2ad7726"
   },
   {
     "category": "olympics",
@@ -1941,31 +1941,31 @@
     "question_text": "¿Qué país ha ganado la mayor cantidad de medallas olímpicas en la historia?",
     "correct_answer": "Estados Unidos",
     "choices": [
-      "China",
-      "Gran Bretaña",
       "Estados Unidos",
-      "Unión Soviética"
+      "Unión Soviética",
+      "Gran Bretaña",
+      "China"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "97713bd9-7ab9-44a0-9c7e-20d47803569a"
+    "translation_key": "a04ede3edc174e3f2f216422fd5a29c39ce22fb8890cca2455c49b092d4700b9"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "¿Qué gimnasta obtuvo un 10 perfecto en los Juegos Olímpicos de Montreal 1976?",
+    "question_text": "¿Qué gimnasta obtuvo un 10 perfecto en los Juegos Olímpicos de Montreal de 1976?",
     "correct_answer": "Nadia Comaneci",
     "choices": [
-      "Olga Korbut",
-      "Simone Biles",
       "Nadia Comaneci",
-      "Mary Lou Retton"
+      "Simone Biles",
+      "Mary Lou Retton",
+      "Olga Korbut"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "65417b80-2dc5-4bb1-beb1-7013db91a718"
+    "translation_key": "69081195059a81e5dce03e97233d883f6badfda14ab77eedb29e05a75156aace"
   },
   {
     "category": "olympics",
@@ -1973,111 +1973,111 @@
     "question_text": "¿Cuántas medallas de oro ganó Simone Biles en los Juegos Olímpicos de Río 2016?",
     "correct_answer": "4",
     "choices": [
-      "3",
-      "6",
       "4",
-      "5"
+      "5",
+      "3",
+      "6"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "b6a9d684-958a-46a1-9b3d-016593041908"
+    "translation_key": "ba0c5029d2b45353eaec95d91fbc1851263ad61571da5e899bff1e4f2c47f481"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
     "question_text": "¿Qué simboliza la llama de la antorcha olímpica?",
-    "correct_answer": "Pureza y la búsqueda de la perfección",
+    "correct_answer": "La pureza y la búsqueda de la perfección",
     "choices": [
-      "El dios sol Apolo",
-      "La luz del conocimiento",
+      "La pureza y la búsqueda de la perfección",
       "El fuego de la competencia",
-      "Pureza y la búsqueda de la perfección"
+      "El dios sol Apolo",
+      "La luz del conocimiento"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5fe9f958-c6f2-4555-a096-042a833bf735"
+    "translation_key": "e046eb60964ba6714a8a778408b607a6829f5dd0e343c654dd07c7e44a7fcc18"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Qué país boicoteó los Juegos Olímpicos de Moscú 1980?",
+    "question_text": "¿Qué país boicoteó los Juegos Olímpicos de Moscú de 1980?",
     "correct_answer": "Estados Unidos",
     "choices": [
-      "China",
-      "Unión Soviética",
       "Estados Unidos",
+      "Unión Soviética",
+      "China",
       "Alemania Oriental"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "0f3f94bf-8be4-4567-be15-cab395d53790"
+    "translation_key": "1c87c3b3355ed81b0d8030f655e86b2ea18a5c852548ff9b7e5ff665feadd931"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Qué país boicoteó los Juegos Olímpicos de Los Ángeles 1984 en represalia?",
+    "question_text": "¿Qué país boicoteó los Juegos Olímpicos de Los Ángeles de 1984 en represalia?",
     "correct_answer": "Unión Soviética",
     "choices": [
+      "Unión Soviética",
       "China",
-      "Cuba",
       "Alemania Oriental",
-      "Unión Soviética"
+      "Cuba"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "9b029875-fd24-4377-9860-c988c16b098a"
+    "translation_key": "f703101f563e45967e6531abfd1066309e3b440b090f4329524f81e70e512968"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "¿En qué deporte un competidor realiza una rutina sobre una barra de 4 pulgadas de ancho?",
+    "question_text": "¿En qué deporte un competidor realiza una rutina sobre una viga de 4 pulgadas de ancho?",
     "correct_answer": "Gimnasia",
     "choices": [
+      "Gimnasia",
+      "Saltos",
       "Patinaje artístico",
-      "Gimnasia rítmica",
-      "Clavados",
-      "Gimnasia"
+      "Gimnasia rítmica"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "1ced3747-2c53-4c84-94c8-541e002a0d70"
+    "translation_key": "c561c9b7b9b58ce1a1ec96f8fa9c76b9ca4c4bc218f2b36e3f9ed58e38e30630"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Cuál es la prueba de natación olímpica de mayor distancia?",
+    "question_text": "¿Qué evento de natación es la distancia olímpica más larga?",
     "correct_answer": "1500 metros estilo libre",
     "choices": [
-      "200 metros mariposa",
+      "1500 metros estilo libre",
       "800 metros estilo libre",
       "400 metros combinado individual",
-      "1500 metros estilo libre"
+      "200 metros mariposa"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5786e62f-4145-4597-86ee-007200578f79"
+    "translation_key": "c38f8ec6fad212a6c78c9ae91b1602544b3eb78b91df5b3beb58337f1f61c01e"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "¿Cuántas pruebas componen un pentatlón moderno?",
+    "question_text": "¿Cuántos eventos componen un pentatlón moderno?",
     "correct_answer": "5",
     "choices": [
+      "5",
       "7",
-      "6",
       "3",
-      "5"
+      "6"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "89c82fd7-5dd7-45c4-ac5e-2e75e8d8e3a2"
+    "translation_key": "eb2a2b7fc22437f62a6b209c7d13ed34ab96c2c685a5cf1a800e4b104bf9d437"
   },
   {
     "category": "olympics",
@@ -2085,31 +2085,31 @@
     "question_text": "¿Qué país ganó la mayor cantidad de medallas en los Juegos Olímpicos de Tokio 2020?",
     "correct_answer": "Estados Unidos",
     "choices": [
+      "Estados Unidos",
       "China",
       "Japón",
-      "Estados Unidos",
       "Gran Bretaña"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "93014822-1219-4bee-9185-cb4dd942a6c8"
+    "translation_key": "6be861393379776d1ef931126ada60f3cb3168d2c463b82ac784f53449e87941"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "¿En qué año se celebraron los Juegos Olímpicos de invierno y verano en el mismo año por última vez?",
+    "question_text": "¿En qué año se celebraron por última vez los Juegos Olímpicos de invierno y verano en el mismo año?",
     "correct_answer": "1992",
     "choices": [
-      "1996",
       "1992",
-      "1988",
-      "1994"
+      "1994",
+      "1996",
+      "1988"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "ffc7c2ef-5a1e-4720-87f2-b724f5a63b17"
+    "translation_key": "25d21eb0a3f2079b5a5ec179530aeb3ee9a20f14c607200725973605a20c957a"
   },
   {
     "category": "olympics",
@@ -2117,15 +2117,15 @@
     "question_text": "¿Qué país ha ganado la mayor cantidad de medallas en los Juegos Olímpicos de invierno de todos los tiempos?",
     "correct_answer": "Noruega",
     "choices": [
-      "Canadá",
+      "Noruega",
       "Estados Unidos",
-      "Rusia",
-      "Noruega"
+      "Canadá",
+      "Rusia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7aa50e81-3419-4bb5-bc60-a90b90040b0a"
+    "translation_key": "fece42b4a6d5bd3e13574731c1ef9919d621c1518fe76841dd2787cbe9dbe6ad"
   },
   {
     "category": "olympics",
@@ -2133,15 +2133,15 @@
     "question_text": "¿Qué atleta tiene la mayor cantidad de medallas olímpicas de invierno?",
     "correct_answer": "Marit Bjørgen",
     "choices": [
-      "Ireen Wüst",
-      "Bjørn Dæhlie",
+      "Marit Bjørgen",
       "Ole Einar Bjørndalen",
-      "Marit Bjørgen"
+      "Bjørn Dæhlie",
+      "Ireen Wüst"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e6379fe8-0875-4668-9435-5f2fe1304f65"
+    "translation_key": "1648f4079d7f9af9124940f91efa0f45da011557b10b035ffe54acc8aa719dbc"
   },
   {
     "category": "olympics",
@@ -2149,31 +2149,31 @@
     "question_text": "¿Cuál es el único deporte olímpico que requiere que los competidores traigan su propio caballo?",
     "correct_answer": "Equitación",
     "choices": [
-      "Pentatlón",
-      "Carreras de carros",
       "Equitación",
-      "Polo"
+      "Pentatlón",
+      "Polo",
+      "Carreras de carros"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "15be5783-65ea-4ba1-9d42-ac42c486915f"
+    "translation_key": "1fbcbcb0597b86df399fd0a5741ced60a83fe44e9984fe32b938fab39d251fac"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "¿Qué deporte olímpico se disputó en los Juegos de París 1900 e incluyó tiro a palomas vivas?",
+    "question_text": "¿Qué deporte olímpico se disputó en los Juegos de París de 1900 e incluyó tiro a palomas vivas?",
     "correct_answer": "Tiro a palomas vivas",
     "choices": [
       "Tiro a palomas vivas",
+      "Tiro con arco",
       "Tiro al plato",
-      "Ballesta",
-      "Tiro con arco"
+      "Ballesta"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f7d52bd6-025e-475c-af7b-5dc07631facf"
+    "translation_key": "e154969949badf2933e80899d6269516e56f0313ac48d1621071e9d47cfc636a"
   },
   {
     "category": "olympics",
@@ -2181,15 +2181,15 @@
     "question_text": "¿En qué Juegos Olímpicos debutó el maratón femenino?",
     "correct_answer": "Los Ángeles 1984",
     "choices": [
+      "Los Ángeles 1984",
       "Seúl 1988",
       "Montreal 1976",
-      "Barcelona 1992",
-      "Los Ángeles 1984"
+      "Barcelona 1992"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "00fca2ce-88aa-4b71-b810-3fc9e8c08108"
+    "translation_key": "87c0665d840a641768746e99f31029828fa748636acdac7db3758cba200d7493"
   },
   {
     "category": "olympics",
@@ -2197,31 +2197,31 @@
     "question_text": "¿Qué país ganó la primera medalla de oro olímpica en fútbol femenino?",
     "correct_answer": "Estados Unidos",
     "choices": [
+      "Estados Unidos",
       "Noruega",
       "Alemania",
-      "Estados Unidos",
       "Brasil"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "15fb6497-557b-4172-b333-8ef798372a08"
+    "translation_key": "7fec1a125acf34df90abaece6168bd4961dfa5f7ef3b1bf04bc9d83baf6a1b6e"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "¿Quién ganó la primera medalla de oro olímpica para Estados Unidos en 1896?",
+    "question_text": "¿Quién ganó la primera medalla de oro olímpica para los Estados Unidos en 1896?",
     "correct_answer": "James Connolly",
     "choices": [
-      "John Paine",
       "James Connolly",
       "Thomas Burke",
-      "Robert Garrett"
+      "Robert Garrett",
+      "John Paine"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "18537635-dd31-4307-a89a-ecf7320bf00e"
+    "translation_key": "2e3deb8ed0df1bee1496899432fdb9f943d858838a4381b591da318f1729763d"
   },
   {
     "category": "olympics",
@@ -2229,15 +2229,15 @@
     "question_text": "¿Qué estilo de natación olímpico es el más lento?",
     "correct_answer": "Braza",
     "choices": [
-      "Estilo libre",
       "Braza",
+      "Mariposa",
       "Espalda",
-      "Mariposa"
+      "Estilo libre"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "068d95e9-75ea-4e01-ae4f-25f3e481bf9b"
+    "translation_key": "162df3de53a08044d8751aeb49c1a7be6b77977cfb188049aaf0fe690a15dcba"
   },
   {
     "category": "olympics",
@@ -2245,15 +2245,15 @@
     "question_text": "¿Cuál de estos NO es un deporte de combate olímpico?",
     "correct_answer": "Artes marciales mixtas",
     "choices": [
-      "Boxeo",
       "Artes marciales mixtas",
+      "Judo",
       "Taekwondo",
-      "Judo"
+      "Boxeo"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a82ee632-f6ae-4795-a11d-523e5ed0a443"
+    "translation_key": "889b86bd0eb0c918b8f3fa2d1188832691b417a101d643f571e27aef453e893b"
   },
   {
     "category": "olympics",
@@ -2261,15 +2261,15 @@
     "question_text": "¿Quién fue el abanderado del Equipo Olímpico de Refugiados en la ceremonia de apertura de Río 2016?",
     "correct_answer": "Popole Misenga",
     "choices": [
-      "Rami Anis",
-      "Yiech Pur Biel",
+      "Popole Misenga",
       "Yusra Mardini",
-      "Popole Misenga"
+      "Rami Anis",
+      "Yiech Pur Biel"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "2d8e93e5-8ab9-475e-bee4-45e4c2456b7b"
+    "translation_key": "efbcd9768e5612878ff80876d74c6a21ad8979618bc6ae3a182c407931b49cc5"
   },
   {
     "category": "olympics",
@@ -2277,15 +2277,15 @@
     "question_text": "¿Cuál es la distancia de un maratón olímpico?",
     "correct_answer": "42.195 kilómetros",
     "choices": [
-      "26 millas",
-      "42 kilómetros",
       "42.195 kilómetros",
-      "40 kilómetros"
+      "26 millas",
+      "40 kilómetros",
+      "42 kilómetros"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "0043eccb-385b-4db3-955b-88623a1084a4"
+    "translation_key": "d2b0eb9fa39e03cb050845bfd84c352fdfec3066f2fdea43332c4748aa057755"
   },
   {
     "category": "olympics",
@@ -2293,15 +2293,15 @@
     "question_text": "¿En qué año comenzaron los Juegos Paralímpicos?",
     "correct_answer": "1960",
     "choices": [
-      "1952",
-      "1964",
       "1960",
-      "1948"
+      "1948",
+      "1952",
+      "1964"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "46904d52-6d61-4bc1-accf-38c20a5c5c22"
+    "translation_key": "55823da8b6e5ace102504ca82efaac953d9e87e7541893f6c38cd11d43d05ef8"
   },
   {
     "category": "olympics",
@@ -2309,47 +2309,47 @@
     "question_text": "¿Quién fundó el movimiento paralímpico?",
     "correct_answer": "Sir Ludwig Guttmann",
     "choices": [
+      "Sir Ludwig Guttmann",
       "Pierre de Coubertin",
       "Avery Brundage",
-      "Sir Ludwig Guttmann",
       "Juan Antonio Samaranch"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "1488e1b7-5521-4bfe-8302-3dd26f46fefd"
+    "translation_key": "fae8aa8b7321d493159495bfe302e3dc509f35d5359d1eee4f949cf1d925ba2e"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Qué país ha albergado los Juegos Olímpicos que no se celebraron en el año programado?",
+    "question_text": "¿Qué país ha sido sede de los Juegos Olímpicos que no se celebraron en el año programado?",
     "correct_answer": "Japón",
     "choices": [
+      "Japón",
       "Alemania",
-      "Australia",
       "Estados Unidos",
-      "Japón"
+      "Australia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "21670ca5-7caf-40ba-8d1b-e23113a2abfc"
+    "translation_key": "026f62c79073d41e119de481741061b0145652ffff24e6d787db62f3506b7879"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "¿Por qué se cancelaron los Juegos Olímpicos de 1916?",
+    "question_text": "¿Por qué fueron cancelados los Juegos Olímpicos de 1916?",
     "correct_answer": "Primera Guerra Mundial",
     "choices": [
-      "Gripe española",
-      "La Gran Depresión",
+      "Primera Guerra Mundial",
       "Segunda Guerra Mundial",
-      "Primera Guerra Mundial"
+      "La Gran Depresión",
+      "Gripe española"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "9ff1c3b8-a228-4fd5-8899-7377b3d63574"
+    "translation_key": "e6b256670587c3ef4b7138b8e41e73caa6c5cf6e232f4a94e27c5f68f8a90df8"
   },
   {
     "category": "olympics",
@@ -2357,31 +2357,31 @@
     "question_text": "¿Qué Juegos Olímpicos fueron cancelados debido a la Segunda Guerra Mundial?",
     "correct_answer": "1940 y 1944",
     "choices": [
-      "Solo 1944",
-      "1936 y 1940",
       "1940 y 1944",
-      "Solo 1940"
+      "1940 solo",
+      "1944 solo",
+      "1936 y 1940"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "bffeacf9-92b4-42a6-ac95-a92db24be79b"
+    "translation_key": "37a2985b8c9c393e1ec06ddf6042ffdd721463c1b8ab16614d8a3d1eb3458df6"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "¿Qué país ganó su primera medalla de oro olímpica en los Juegos Olímpicos de Tokio 2020 en los 100 m braza femenino?",
+    "question_text": "¿Qué país ganó su primera medalla de oro olímpica en los Juegos de Tokio 2020 en los 100 m braza femenino?",
     "correct_answer": "Sudáfrica",
     "choices": [
-      "Kenia",
-      "Filipinas",
       "Sudáfrica",
-      "Jamaica"
+      "Jamaica",
+      "Kenia",
+      "Filipinas"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e04889d2-e45c-46dd-80d1-f1777d9ebef3"
+    "translation_key": "448742d201bf4c28a49499a8cf67e319ebf796a76714007b8f04bc43a4627616"
   },
   {
     "category": "olympics",
@@ -2397,23 +2397,7 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "cee5a041-1c9b-4ab4-98d3-ade2fd31c6d4"
-  },
-  {
-    "category": "tennis",
-    "difficulty": "medium",
-    "question_text": "¿Cuál es el diámetro de una pelota de tenis en pulgadas?",
-    "correct_answer": "2.7 pulgadas",
-    "choices": [
-      "2.3 pulgadas",
-      "2.7 pulgadas",
-      "3.0 pulgadas",
-      "2.5 pulgadas"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "es",
-    "translation_key": "312f8088-9dff-4594-bdf6-5214e5eacc55"
+    "translation_key": "60d2fafb5e9f9fd4402dbba0ad026271cf56a6db42756c33a4da13ca31032759"
   },
   {
     "category": "olympics",
@@ -2422,14 +2406,14 @@
     "correct_answer": "Atletismo, ciclismo, esgrima y gimnasia",
     "choices": [
       "Atletismo, ciclismo, esgrima y gimnasia",
-      "Atletismo, natación, esgrima y halterofilia",
+      "Natación, atletismo y lucha",
       "Atletismo, natación y ciclismo",
-      "Natación, atletismo y lucha libre"
+      "Atletismo, natación, esgrima y halterofilia"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5f664c77-58e1-4e5d-a2aa-247b13e10031"
+    "translation_key": "17d52a4dee66ab21fff054cce6ebe9d46fa4150883658be399ec80eff00f9f8a"
   },
   {
     "category": "tennis",
@@ -2439,29 +2423,29 @@
     "choices": [
       "Roland Garros",
       "Wimbledon",
-      "US Open",
-      "Abierto de Australia"
+      "Abierto de Australia",
+      "Abierto de Estados Unidos"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "64fc8f94-a7d5-4cac-9243-08125b0a9763"
+    "translation_key": "7d7e7fc835d7b7a7b0d04e721fe11341d85642fb24b0b535434504dff8f0eb6e"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cuántos títulos de Grand Slam individuales tiene Roger Federer?",
+    "question_text": "¿Cuántos títulos de Grand Slam en individuales tiene Roger Federer?",
     "correct_answer": "20",
     "choices": [
-      "24",
+      "18",
       "20",
       "22",
-      "18"
+      "24"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "58ee8c0b-5fe0-46df-a63f-62a1d353aca9"
+    "translation_key": "659b58f682434c2fce1ba52885b5129e7a55f28cfa393d76d3d550428fad4b36"
   },
   {
     "category": "tennis",
@@ -2471,45 +2455,45 @@
     "choices": [
       "Hierba",
       "Arcilla",
-      "Superficie dura",
+      "Pista dura",
       "Moqueta"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "9164b4d0-96f3-4535-a0cd-029d916d7cd7"
+    "translation_key": "6c12e3644f11ebc9d954ae5460779726f78c66ef0bf5481a31591f16b08f13d4"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué jugador tiene el récord de más títulos individuales de Grand Slam?",
+    "question_text": "¿Qué jugador tiene el récord de más títulos de Grand Slam en individuales?",
     "correct_answer": "Novak Djokovic",
     "choices": [
-      "Roger Federer",
       "Novak Djokovic",
-      "Serena Williams",
-      "Rafael Nadal"
+      "Rafael Nadal",
+      "Roger Federer",
+      "Serena Williams"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "899a0d9a-7ae5-4202-932b-59b2ef33f3fd"
+    "translation_key": "aa64fc1a4626bb3cdc24e760b9130ceb93ded6895c0bc1df6df64a538f1b12a7"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "¿Cómo se llama una puntuación de cero en tenis?",
+    "question_text": "¿Cómo se llama la puntuación de cero en tenis?",
     "correct_answer": "Love",
     "choices": [
-      "Nil",
+      "Love",
       "Cero",
-      "Ace",
-      "Love"
+      "Nada",
+      "Ace"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "b3a41f35-04a7-439c-99ad-cde382c649aa"
+    "translation_key": "64de9c01f8313d7a425b4a504465139861555c66c49724c206d98b945a496521"
   },
   {
     "category": "tennis",
@@ -2517,15 +2501,15 @@
     "question_text": "¿Cuántos juegos se necesitan para ganar un set estándar de tenis?",
     "correct_answer": "6",
     "choices": [
-      "6",
       "5",
+      "6",
       "7",
       "4"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "9685eb21-0c41-4bed-b550-35596b8f668c"
+    "translation_key": "e9aa137b4b51e729e3c6542f3ec646ef7d7033ba0576c7d62593d49aa17518c5"
   },
   {
     "category": "tennis",
@@ -2533,15 +2517,15 @@
     "question_text": "¿Quién es conocido como el 'Rey de la Arcilla'?",
     "correct_answer": "Rafael Nadal",
     "choices": [
-      "Bjorn Borg",
+      "Rafael Nadal",
       "Novak Djokovic",
       "Roger Federer",
-      "Rafael Nadal"
+      "Bjorn Borg"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "762f48a9-e0e4-450d-a6d5-52b01756fc22"
+    "translation_key": "a8a3b43d4bdd810fd239ce07d9e70e25e25a17cabbe22ca26b916294a9f27375"
   },
   {
     "category": "tennis",
@@ -2549,68 +2533,68 @@
     "question_text": "¿En qué año se celebró el primer torneo de Wimbledon?",
     "correct_answer": "1877",
     "choices": [
-      "1890",
       "1877",
       "1884",
+      "1890",
       "1901"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "1cb8cc47-3920-4a61-9b47-949756793c2a"
+    "translation_key": "d8c3be991ef2cdc7922b8a7ef3defc66196df0ac7bad5ac19754082be439a759"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama el trofeo que se otorga al campeón masculino individual de Wimbledon?",
+    "question_text": "¿Cómo se llama el trofeo que se otorga al campeón de individuales masculinos de Wimbledon?",
     "correct_answer": "Trofeo de Individuales Caballeros",
     "choices": [
-      "Copa Desafío",
-      "El Trofeo Dorado",
+      "Trofeo de Individuales Caballeros",
       "Copa Wimbledon",
-      "Trofeo de Individuales Caballeros"
+      "Copa Desafío",
+      "El Trofeo Dorado"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7763c649-4e82-4c55-84ee-27fb54a46970"
+    "translation_key": "23cdd51a926f4934d9f3cbd1902935f5a304f83b330f0ba1b8718e3945b41653"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "¿Qué país acoge el Abierto de Australia?",
+    "question_text": "¿Qué país alberga el Abierto de Australia?",
     "correct_answer": "Australia",
     "choices": [
-      "Nueva Zelanda",
       "Australia",
+      "Nueva Zelanda",
       "Sudáfrica",
       "Estados Unidos"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "af65b55c-d05c-4683-9386-8ea70d13bf62"
+    "translation_key": "33aa4ad2fbf0f29696bb43d077bc553702a4a633846ab67c7139803858fa4c8f"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cuántas veces ha ganado Rafael Nadal el Abierto de Francia?",
+    "question_text": "¿Cuántas veces ha ganado Rafael Nadal el Roland Garros?",
     "correct_answer": "14",
     "choices": [
-      "14",
-      "15",
+      "12",
       "13",
-      "12"
+      "14",
+      "15"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "b0cb8c4b-5f94-4d9f-9b9e-43f849ce9722"
+    "translation_key": "f84407ee4ed8710af86f18c42ddc7bb01d1e3448cae0884670dfc997b0829a01"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "¿Quién es el único tenista en ganar un Grand Slam Dorado (los cuatro grandes más el oro olímpico en el mismo año)?",
+    "question_text": "¿Quién es el único tenista en ganar un Golden Slam (los cuatro grandes más el oro olímpico en el mismo año)?",
     "correct_answer": "Steffi Graf",
     "choices": [
       "Steffi Graf",
@@ -2621,7 +2605,7 @@
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "fd9179a1-f50f-4686-90f0-f3b6180fb1d3"
+    "translation_key": "feb71ae94c28e62d35d8e3b01aca5ff1b77a60e5e22725e7a2e854007bbb2111"
   },
   {
     "category": "tennis",
@@ -2629,31 +2613,31 @@
     "question_text": "¿Qué significa 'deuce' en la puntuación del tenis?",
     "correct_answer": "Ambos jugadores tienen 40 puntos",
     "choices": [
-      "El marcador es 15-15",
       "Ambos jugadores tienen 40 puntos",
       "Un jugador necesita un punto más para ganar",
-      "El juego ha terminado"
+      "El marcador es 15-15",
+      "El juego terminó"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "6770bcb3-04f6-4210-96c8-4a0fa3081fd7"
+    "translation_key": "c0ab5876fa12ef91ba80447bdd94b96a42dab178b9407b0e4222c814ce037882"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "¿Qué torneo de Grand Slam se juega en canchas duras en Nueva York?",
-    "correct_answer": "US Open",
+    "question_text": "¿Qué torneo de Grand Slam se juega en pistas duras en Nueva York?",
+    "correct_answer": "Abierto de Estados Unidos",
     "choices": [
+      "Abierto de Estados Unidos",
       "Abierto de Australia",
-      "US Open",
-      "Wimbledon",
-      "Roland Garros"
+      "Roland Garros",
+      "Wimbledon"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "4fa3e3f7-8f45-4594-8500-10147210bd0c"
+    "translation_key": "7de64699a2240f5e4d915c816fd31d96ffad5fb7f7a3463ab3c6afb1342f160a"
   },
   {
     "category": "tennis",
@@ -2661,127 +2645,127 @@
     "question_text": "¿Quién tiene el récord del saque más rápido en la historia del tenis?",
     "correct_answer": "John Isner",
     "choices": [
-      "Andy Roddick",
       "John Isner",
+      "Andy Roddick",
       "Sam Groth",
       "Ivo Karlovic"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "46d12547-57f3-4286-a82e-d505a752ab4c"
+    "translation_key": "adeb6b25725b17d7dd840d0d3feb9c25c3dbe161c55cd9c9e3ce0d66f4b85e21"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué dos jugadores disputaron el partido más largo en la historia del tenis en Wimbledon en 2010?",
+    "question_text": "¿Qué dos jugadores protagonizaron el partido más largo de la historia del tenis en Wimbledon 2010?",
     "correct_answer": "John Isner y Nicolas Mahut",
     "choices": [
       "John Isner y Nicolas Mahut",
-      "Novak Djokovic y Andy Murray",
       "Roger Federer y Rafael Nadal",
+      "Novak Djokovic y Andy Murray",
       "Pete Sampras y Andre Agassi"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "99219587-9875-4d88-a46e-e5750dfde553"
+    "translation_key": "c8afa3d93f4b691c087d082318913ecfbf670b89bae2c9f5fe2432424c07a16e"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cuántos títulos de Grand Slam individuales tiene Serena Williams?",
+    "question_text": "¿Cuántos títulos de Grand Slam en individuales tiene Serena Williams?",
     "correct_answer": "23",
     "choices": [
       "21",
       "22",
-      "24",
-      "23"
+      "23",
+      "24"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "dbe2a7a0-de91-438e-a197-c110e55e202b"
+    "translation_key": "2f27d50eba87528dbb7f423a0a0ca8d0da888b26b43ebb40ef39728e3597e2c0"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama la competición internacional por equipos de tenis masculino?",
+    "question_text": "¿Cómo se llama la competencia internacional por equipos de tenis masculino?",
     "correct_answer": "Copa Davis",
     "choices": [
-      "Copa Hopman",
-      "Copa Laver",
       "Copa Davis",
-      "Copa Federación"
+      "Copa Federación",
+      "Copa Hopman",
+      "Copa Laver"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "068bceb4-a620-4991-a795-2f7cfd7bdcfb"
+    "translation_key": "a46af6a03e6733b45d6bc3245da82215ae63a760042e3797a6b3650cc3cf45f8"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "¿Qué jugador estadounidense ganó el primer US Open en 1881?",
+    "question_text": "¿Qué jugador estadounidense ganó el primer Abierto de Estados Unidos en 1881?",
     "correct_answer": "Richard Sears",
     "choices": [
-      "Jimmy Connors",
+      "Richard Sears",
       "Bill Tilden",
       "Don Budge",
-      "Richard Sears"
+      "Jimmy Connors"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5092e85a-7fbd-4e22-bb4f-2e03d9ab1206"
+    "translation_key": "70cd5d06969260ea588b181d09d589cc9c23d14d960a7189b4b9ae2089a3954b"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué tipo de movimiento se usa para golpear una pelota de tenis con efecto liftado?",
+    "question_text": "¿Qué tipo de swing se usa para golpear una pelota de tenis con topspin?",
     "correct_answer": "De abajo a arriba",
     "choices": [
+      "De abajo a arriba",
       "De arriba a abajo",
-      "Plano hacia adelante",
       "De lado a lado",
-      "De abajo a arriba"
+      "Plano a través"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "0513e434-40ac-4d30-85e2-2d3b10af352b"
+    "translation_key": "9b13ec07795907424b2f2c8c5b73cc6793734e9333424e2733fa82c4d5497dbd"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "¿Quién es la jugadora más joven en ganar un título individual de Grand Slam?",
+    "question_text": "¿Quién es el jugador más joven en ganar un título de Grand Slam en individuales?",
     "correct_answer": "Martina Hingis",
     "choices": [
-      "Tracy Austin",
-      "Jennifer Capriati",
+      "Martina Hingis",
       "Monica Seles",
-      "Martina Hingis"
+      "Tracy Austin",
+      "Jennifer Capriati"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "cd8fc47b-ceb9-46de-b4d8-c73fe217063c"
+    "translation_key": "b561f98175465b4811ca3eddd2324ef7734aa74ae3f515dfa718629523acfc53"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué jugadora ganó el partido 'Batalla de los Sexos' en 1973?",
+    "question_text": "¿Qué jugadora ganó el 'Partido de la Batalla de los Sexos' en 1973?",
     "correct_answer": "Billie Jean King",
     "choices": [
       "Billie Jean King",
-      "Chris Evert",
       "Margaret Court",
-      "Martina Navratilova"
+      "Martina Navratilova",
+      "Chris Evert"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "712b06c0-cbb1-4665-b5cf-1b374bad6b37"
+    "translation_key": "7c1b088f577c8199d6bb79f64e522637ea9e2d18718daaa8f1417e04bf904c72"
   },
   {
     "category": "tennis",
@@ -2789,47 +2773,47 @@
     "question_text": "¿Cuál es el ancho de una cancha de tenis individual?",
     "correct_answer": "27 pies",
     "choices": [
-      "36 pies",
-      "30 pies",
       "27 pies",
+      "30 pies",
+      "36 pies",
       "24 pies"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a63c66a1-e4a8-465e-8d6e-bb0c3fd3d6a2"
+    "translation_key": "bba2edf2fdcf71041d2e323ddaa1706eef60cee2cb4ebc8540cb0fe3f2b50f89"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué jugador ha ganado más títulos individuales masculinos de Wimbledon?",
+    "question_text": "¿Qué jugador ha ganado más títulos de individuales masculinos en Wimbledon?",
     "correct_answer": "Roger Federer",
     "choices": [
       "Roger Federer",
+      "Novak Djokovic",
       "Pete Sampras",
-      "Bjorn Borg",
-      "Novak Djokovic"
+      "Bjorn Borg"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "5e66e31b-8a2e-4802-94fc-505d98ea17ec"
+    "translation_key": "8689e5418b3e838b04e4b213d8c31065c950ca7182fa9d09b763907f6626a910"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "¿Cuál es el último torneo importante del calendario tenístico?",
-    "correct_answer": "US Open",
+    "question_text": "¿Cuál es el último torneo importante del calendario de tenis?",
+    "correct_answer": "Abierto de Estados Unidos",
     "choices": [
-      "US Open",
-      "Australian Open",
-      "Wimbledon",
-      "French Open"
+      "Abierto de Estados Unidos",
+      "Abierto de Australia",
+      "Roland Garros",
+      "Wimbledon"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "fc9c801a-0a55-4884-a94c-c7fdf34d8ba7"
+    "translation_key": "9d43674348b284426128466175856fced797fe4b13e6bd165aed5fe97eef4772"
   },
   {
     "category": "tennis",
@@ -2838,14 +2822,14 @@
     "correct_answer": "Blanco",
     "choices": [
       "Blanco",
-      "Naranja",
+      "Amarillo",
       "Verde",
-      "Amarillo"
+      "Naranja"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "63f2e1c4-ece5-4878-8a80-aadd7b198913"
+    "translation_key": "a233eda4d8b9e8b170400c34e4391434e068109fba4a1b73ea3ca424cf90af25"
   },
   {
     "category": "tennis",
@@ -2853,15 +2837,15 @@
     "question_text": "¿Quién derrotó a Roger Federer en la final de Wimbledon 2008?",
     "correct_answer": "Rafael Nadal",
     "choices": [
-      "Andy Murray",
       "Rafael Nadal",
       "Novak Djokovic",
+      "Andy Murray",
       "Pete Sampras"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "50773d38-50cd-4fef-a66d-561081d81b5e"
+    "translation_key": "b2609b19b36150c3c6d936862843b17d0d38cf25da7440ad54f266dcd9d4e51e"
   },
   {
     "category": "tennis",
@@ -2869,31 +2853,31 @@
     "question_text": "¿Cuántas veces ha ganado Novak Djokovic el Abierto de Australia?",
     "correct_answer": "10",
     "choices": [
-      "10",
-      "11",
+      "8",
       "9",
-      "8"
+      "10",
+      "11"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "07f4beb0-afd9-438e-8d07-99de1cbdb8dc"
+    "translation_key": "88d8e4e7b460d24b608aea6d3a26b5e7fb098399f53d8b3c1bb470c9729f0938"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué superficie suele ser la más rápida en el tenis?",
+    "question_text": "¿Qué superficie es típicamente la más rápida para el tenis?",
     "correct_answer": "Hierba",
     "choices": [
       "Hierba",
+      "Arcilla",
       "Pista dura",
-      "Moqueta",
-      "Arcilla"
+      "Moqueta"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "7c2000d6-47d8-4a59-bc3d-62d605c4593e"
+    "translation_key": "e28b45d7c15334f1ed6e6a8c4102ee25d6d6306f2935ef836cd48b5fc4fbb052"
   },
   {
     "category": "tennis",
@@ -2901,15 +2885,15 @@
     "question_text": "¿Cuál es el término para un saque que el receptor no toca?",
     "correct_answer": "Ace",
     "choices": [
-      "Let",
+      "Ace",
       "Falta",
-      "Remate",
-      "Ace"
+      "Let",
+      "Remate"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "687c3130-df5f-41c0-9a20-26a242866b0f"
+    "translation_key": "bc038675d87d8ededc3a641286c53d26271893481df441ed5b38f210d52e2750"
   },
   {
     "category": "tennis",
@@ -2918,78 +2902,78 @@
     "correct_answer": "Althea Gibson",
     "choices": [
       "Althea Gibson",
-      "Zina Garrison",
       "Serena Williams",
-      "Venus Williams"
+      "Venus Williams",
+      "Zina Garrison"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "71085d5a-4268-4a04-ae46-58558e5420ca"
+    "translation_key": "14246b5c064369aee8e08c4a064c9bfc975dba588bcffddc63b2e5b4ffc508c1"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama la competición por equipos anual entre Europa y el Resto del Mundo?",
-    "correct_answer": "Laver Cup",
+    "question_text": "¿Cuál es el nombre de la competición anual por equipos entre Europa y el Resto del Mundo?",
+    "correct_answer": "Copa Laver",
     "choices": [
-      "Hopman Cup",
-      "ATP Cup",
-      "Laver Cup",
-      "Davis Cup"
+      "Copa Laver",
+      "Copa Davis",
+      "Copa Hopman",
+      "Copa ATP"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "d4248cc8-a2cb-4852-bca0-537900ad9568"
+    "translation_key": "a0e93901e048ba24c287cd0f325978cf9655a722a41eb7605680defd4d50c95d"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "¿Qué jugador es apodado 'El Djoker'?",
+    "question_text": "¿Qué jugador tiene el apodo de 'El Djoker'?",
     "correct_answer": "Novak Djokovic",
     "choices": [
-      "Stan Wawrinka",
-      "Andy Murray",
+      "Novak Djokovic",
       "Roger Federer",
-      "Novak Djokovic"
+      "Andy Murray",
+      "Stan Wawrinka"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "e1fe921e-9f99-488c-abd6-bade36271043"
+    "translation_key": "3e880a3db155d66ee7837f9af22bc2b29b6689849ed01022c43e3000c7d95068"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cuántos juegos tiene un tiebreak típico?",
-    "correct_answer": "Primero a 7 puntos",
+    "question_text": "¿Cuántos puntos tiene un tiebreak típico?",
+    "correct_answer": "Primero en llegar a 7 puntos",
     "choices": [
-      "Primero a 7 puntos",
-      "Primero a 6 puntos",
-      "Primero a 5 puntos",
-      "Primero a 10 puntos"
+      "Primero en llegar a 7 puntos",
+      "Primero en llegar a 5 puntos",
+      "Primero en llegar a 10 puntos",
+      "Primero en llegar a 6 puntos"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "605af3f9-4dd7-42b3-970f-dccb02c02a16"
+    "translation_key": "b89bb82d1da0f348ad1a8e86c42d5a1ebc520bc4e6bc66b8362ecad45c4f76c5"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "¿En qué año regresó el tenis a los Juegos Olímpicos como deporte de medalla completa?",
+    "question_text": "¿En qué año volvió el tenis a los Juegos Olímpicos como deporte de medalla completo?",
     "correct_answer": "1988",
     "choices": [
+      "1984",
       "1988",
-      "1996",
       "1992",
-      "1984"
+      "1996"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "43f4a466-be26-4d1e-bc06-b167108412df"
+    "translation_key": "eec20e5eab36ec4de7a326b91cd34e3b03c64fdb111c490ec167c04a1abc3182"
   },
   {
     "category": "tennis",
@@ -2997,47 +2981,47 @@
     "question_text": "¿Qué jugador ha pasado más semanas como número 1 del mundo en la historia del tenis?",
     "correct_answer": "Novak Djokovic",
     "choices": [
-      "Pete Sampras",
-      "Roger Federer",
       "Novak Djokovic",
-      "Rafael Nadal"
+      "Roger Federer",
+      "Rafael Nadal",
+      "Pete Sampras"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "161e9027-4578-486a-9726-66157205b230"
+    "translation_key": "01e4ca4b7bb276364c3442c146e414aec1a5dfe57c87c1d87939500792143230"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama la competición internacional por equipos de tenis femenino?",
-    "correct_answer": "Billie Jean King Cup",
+    "question_text": "¿Cómo se llama la competencia internacional por equipos de tenis femenino?",
+    "correct_answer": "Copa Billie Jean King",
     "choices": [
-      "Women's Davis Cup",
-      "WTA Cup",
-      "Fed Cup",
-      "Billie Jean King Cup"
+      "Copa Billie Jean King",
+      "Copa Federación",
+      "Copa WTA",
+      "Copa Davis Femenina"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "63b950ef-2c41-40f8-841e-f6d79be3ffba"
+    "translation_key": "ffd9ba92f5364035220df0bc50f90956b43fe1f06a70c60e9898b745d1b5c922"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "¿Qué jugador ganó más títulos individuales de Grand Slam en la década de 1990?",
+    "question_text": "¿Qué jugador ganó la mayoría de los títulos de Grand Slam en individuales en la década de 1990?",
     "correct_answer": "Pete Sampras",
     "choices": [
       "Pete Sampras",
-      "Jim Courier",
       "Andre Agassi",
+      "Jim Courier",
       "Boris Becker"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "844d4b47-a075-4c2e-81f3-804c63f90937"
+    "translation_key": "1293b1e317fe18c3ab2a00162d76f18c702523d7dd2594ff7485fa6a990111ac"
   },
   {
     "category": "tennis",
@@ -3047,29 +3031,29 @@
     "choices": [
       "Un saque que toca la red pero cae dentro",
       "Un saque que cae fuera",
-      "Un golpe fallido",
-      "Una doble falta"
+      "Una doble falta",
+      "Un golpe fallido"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "42520f31-fb4e-4772-bf23-8eb5fb62e36e"
+    "translation_key": "160ded439ecf980ee5d9bcb3d56275f0c1f31ccbb6660b46f2532eb2dadb1bc3"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué jugador llevaba icónicos conjuntos de Fila durante la década de 1980?",
+    "question_text": "¿Qué jugador usó icónicos atuendos de Fila durante los años 80?",
     "correct_answer": "Bjorn Borg",
     "choices": [
       "Bjorn Borg",
-      "Ivan Lendl",
+      "John McEnroe",
       "Jimmy Connors",
-      "John McEnroe"
+      "Ivan Lendl"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "27fd597a-1fa9-49ab-90c1-cd435fd52331"
+    "translation_key": "d97a8cbbe012ce61fff98a269565e1d0e9c58ede4baae8932a78cecb20cbf15e"
   },
   {
     "category": "tennis",
@@ -3077,47 +3061,63 @@
     "question_text": "¿Cuál es la altura de una red de tenis estándar en el centro?",
     "correct_answer": "3 pies",
     "choices": [
-      "3 pies",
       "2 pies 6 pulgadas",
-      "2 pies",
-      "3 pies 6 pulgadas"
+      "3 pies",
+      "3 pies 6 pulgadas",
+      "2 pies"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "fedf61d4-e4ef-4861-90b1-a1daff30efc8"
+    "translation_key": "6a6eded71c7db1b8bd2360fad46afdb8e16d78e7e99843d983774438c09bb6eb"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Qué jugadora china ganó dos títulos individuales de Grand Slam en 2011 y 2014?",
+    "question_text": "¿Qué jugadora china ganó dos títulos de Grand Slam en individuales en 2011 y 2014?",
     "correct_answer": "Li Na",
     "choices": [
       "Li Na",
-      "Zheng Jie",
       "Zhang Shuai",
-      "Wang Qiang"
+      "Wang Qiang",
+      "Zheng Jie"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a9ce7bf5-9a7f-4b8e-a6d5-658076522e5d"
+    "translation_key": "57319fb749a837a2b49de32a59dc0ce1176c0cc3e7cf9d8dd08fcb96a96c4c62"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "¿Quién es el jugador más longevo en ganar un título individual de Grand Slam en la Era Abierta?",
+    "question_text": "¿Quién es el jugador más veterano en ganar un título de Grand Slam en individuales en la Era Abierta?",
     "correct_answer": "Roger Federer",
     "choices": [
-      "Novak Djokovic",
-      "Rafael Nadal",
+      "Roger Federer",
       "Ken Rosewall",
-      "Roger Federer"
+      "Rafael Nadal",
+      "Novak Djokovic"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "85a975ab-bbeb-4d62-a3e8-177934004d08"
+    "translation_key": "3a2ba9678beebe925628ed4936e2c2f53a5872497f41f63a5111e09a28ef814b"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "¿Cómo se llama el trofeo que se otorga al campeón individual masculino del Abierto de Francia?",
+    "correct_answer": "Copa de los Mosqueteros",
+    "choices": [
+      "Copa de los Mosqueteros",
+      "Copa del Abierto de Francia",
+      "Trofeo Roland Garros",
+      "Copa Philippe Chatrier"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "es",
+    "translation_key": "32f4916867e59768488b7ccb2034ca80c5e48939234591959e792fa08b8f2bfb"
   },
   {
     "category": "tennis",
@@ -3125,15 +3125,15 @@
     "question_text": "¿Qué jugador ganó la medalla de oro en individuales masculinos en los Juegos Olímpicos de Pekín 2008?",
     "correct_answer": "Rafael Nadal",
     "choices": [
-      "Novak Djokovic",
       "Rafael Nadal",
       "Roger Federer",
+      "Novak Djokovic",
       "Andy Murray"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "4d5aadb7-5910-402c-9f21-87b8c0ac64ab"
+    "translation_key": "36150ee83a9caf39fd3bb813c461afd8557005d3ff823da42b71f2e8f76418c2"
   },
   {
     "category": "tennis",
@@ -3142,14 +3142,14 @@
     "correct_answer": "Asociación de Tenistas Profesionales",
     "choices": [
       "Asociación de Tenistas Profesionales",
-      "Tenistas Profesionales Americanos",
-      "Todos los Jugadores de Tenis",
-      "Jugadores de Tenis Avanzados"
+      "Jugadores de Tenis Avanzados",
+      "Profesionales de Tenis Americanos",
+      "Todos los Jugadores de Tenis"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "da2f12dd-da9b-4d14-86c4-7146e8c6bb6f"
+    "translation_key": "8f4dbd55bb4cdfe4235823edc8fbeae901cd2a0dca4f8f6398843242ce6d7a6a"
   },
   {
     "category": "tennis",
@@ -3157,31 +3157,31 @@
     "question_text": "¿Qué tenista femenina tiene la racha más larga de semanas consecutivas como número 1 del mundo?",
     "correct_answer": "Steffi Graf",
     "choices": [
+      "Steffi Graf",
       "Martina Navratilova",
       "Serena Williams",
-      "Chris Evert",
-      "Steffi Graf"
+      "Chris Evert"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "f490b721-a7b9-4965-a5c4-1a4993882684"
+    "translation_key": "6030dc0101ef5d45679b2b7d3bf476c65a3397d3c14561ca4ada2cb5398cc3bb"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "¿Cuántos jugadores componen un equipo estándar de dobles en tenis?",
+    "question_text": "¿Cuántos jugadores componen un equipo de dobles estándar en tenis?",
     "correct_answer": "2",
     "choices": [
-      "4",
-      "3",
       "2",
+      "3",
+      "4",
       "1"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "a75c0163-bd8f-426b-bb6d-be5429e81724"
+    "translation_key": "a1e30b87f92f8c447be9b3ed767ddfa81affa0db00ba9d998bf1ac86c45e1f4b"
   },
   {
     "category": "tennis",
@@ -3189,30 +3189,30 @@
     "question_text": "¿Qué jugadora derrotó a Serena Williams en la final de Wimbledon 2018?",
     "correct_answer": "Angelique Kerber",
     "choices": [
-      "Garbine Muguruza",
       "Angelique Kerber",
+      "Simona Halep",
       "Naomi Osaka",
-      "Simona Halep"
+      "Garbine Muguruza"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "79840e08-a0f6-4997-b626-58428729b9fd"
+    "translation_key": "6cdcb6376abadc25b42e25b332b5d9478d33df696ace614c817cea502a931c18"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "¿Cuál es el nombre del trofeo que se otorga al campeón de individuales masculinos del Abierto de Francia?",
-    "correct_answer": "Coupe des Mousquetaires",
+    "question_text": "¿Cuál es el diámetro de una pelota de tenis en pulgadas?",
+    "correct_answer": "2.7 pulgadas",
     "choices": [
-      "Trofeo Roland Garros",
-      "Copa del Abierto de Francia",
-      "Copa de los Mosqueteros",
-      "Coupe des Mousquetaires"
+      "2.5 pulgadas",
+      "2.7 pulgadas",
+      "3.0 pulgadas",
+      "2.3 pulgadas"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "es",
-    "translation_key": "855fcc4c-a482-4f4d-ae3c-d5b734b6b188"
+    "translation_key": "0dadc93f325fe83e15a20283674e4fa5522e1903dee7d4f3e5369c8954653105"
   }
 ]

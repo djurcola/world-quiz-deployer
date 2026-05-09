@@ -2,1250 +2,18 @@
   {
     "category": "astronomy",
     "difficulty": "easy",
-    "question_text": "¿Cuál es la estrella más cercana a la Tierra?",
-    "correct_answer": "El Sol",
-    "choices": [
-      "Alfa Centauri",
-      "Sirio",
-      "El Sol",
-      "Próxima Centauri"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "8104e8d5-0d9e-4e92-9d00-ce981555f2a5"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "easy",
-    "question_text": "¿En qué galaxia se encuentra la Tierra?",
-    "correct_answer": "Vía Láctea",
-    "choices": [
-      "Triángulo",
-      "Sombrero",
-      "Andrómeda",
-      "Vía Láctea"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "a4a1dadf-3acc-46c8-bd14-4bf86163ef3a"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es el planeta más grande de nuestro sistema solar?",
-    "correct_answer": "Júpiter",
-    "choices": [
-      "Urano",
-      "Júpiter",
-      "Saturno",
-      "Neptuno"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "4229f739-5c8e-4161-89bd-153cfa683791"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "hard",
-    "question_text": "¿Qué objeto astronómico se conoce como una 'estrella fallida'?",
-    "correct_answer": "Enana marrón",
-    "choices": [
-      "Estrella de neutrones",
-      "Gigante roja",
-      "Enana blanca",
-      "Enana marrón"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "028dd544-a07b-40e2-8479-5eaff2c00b99"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "medium",
-    "question_text": "¿Cómo se llama el límite alrededor de un agujero negro más allá del cual nada puede escapar?",
-    "correct_answer": "Horizonte de sucesos",
-    "choices": [
-      "Horizonte de sucesos",
-      "Disco de acreción",
-      "Esfera de fotones",
-      "Singularidad"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "ad7ae448-7146-48dc-b14b-8bd5524ff06d"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "medium",
-    "question_text": "¿Qué causa las fases de la Luna?",
-    "correct_answer": "Su órbita alrededor de la Tierra",
-    "choices": [
-      "Su órbita alrededor de la Tierra",
-      "Cobertura de nubes",
-      "La sombra de la Tierra",
-      "La distancia del Sol"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "4160443c-0f4d-47b1-b588-48c5f5c318f4"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "medium",
-    "question_text": "¿Cuál es el elemento más abundante en el universo?",
-    "correct_answer": "Hidrógeno",
-    "choices": [
-      "Oxígeno",
-      "Hidrógeno",
-      "Helio",
-      "Carbono"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "ee04a9ab-d2b4-4690-8e3c-be51feeda6fe"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "easy",
-    "question_text": "¿Cómo se llama la teoría que describe el origen del universo?",
-    "correct_answer": "Teoría del Big Bang",
-    "choices": [
-      "Teoría del Big Bang",
-      "Teoría de cuerdas",
-      "Teoría del estado estacionario",
-      "Hipótesis nebular"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "4447c985-0884-43b1-ac2e-9de3d26b621a"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "medium",
-    "question_text": "¿Qué es una supernova?",
-    "correct_answer": "La explosión de una estrella",
-    "choices": [
-      "El nacimiento de una estrella",
-      "La explosión de una estrella",
-      "Una colisión de cometas",
-      "Un tipo de galaxia"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "fcfb6a2c-4aa3-49a2-934a-cc21157ac074"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "medium",
-    "question_text": "¿Qué planeta tiene más lunas confirmadas?",
-    "correct_answer": "Saturno",
-    "choices": [
-      "Júpiter",
-      "Neptuno",
-      "Saturno",
-      "Urano"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "dee22934-da33-4ec7-bfc5-4bc895d72737"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "easy",
-    "question_text": "¿Cuánto tarda la luz del sol en llegar a la Tierra?",
-    "correct_answer": "Unos 8 minutos",
-    "choices": [
-      "Unos 8 segundos",
-      "Unos 8 días",
-      "Unos 8 minutos",
-      "Unas 8 horas"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "6337c80c-facd-43ef-981e-a1c1c9f61a46"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "medium",
-    "question_text": "¿Cuál es el nombre de la estrella más brillante en el cielo nocturno?",
-    "correct_answer": "Sirio",
-    "choices": [
-      "Vega",
-      "Polaris",
-      "Sirio",
-      "Betelgeuse"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "c7dff344-597a-4f05-8d0b-707c434a1526"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "medium",
-    "question_text": "¿Qué tipo de galaxia es la Vía Láctea?",
-    "correct_answer": "Galaxia espiral",
-    "choices": [
-      "Galaxia espiral",
-      "Galaxia lenticular",
-      "Galaxia elíptica",
-      "Galaxia irregular"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "7674a1be-8fee-45f5-b5d1-a7a138b671d5"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "easy",
-    "question_text": "¿Qué planeta es conocido como la 'Estrella de la mañana' o 'Estrella de la tarde'?",
-    "correct_answer": "Venus",
-    "choices": [
-      "Mercurio",
-      "Marte",
-      "Júpiter",
-      "Venus"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "aa00fd5c-6674-4074-add6-e6f0c1e39323"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "hard",
-    "question_text": "¿Cuál es el nombre del primer objeto hecho por el hombre en salir del sistema solar?",
-    "correct_answer": "Voyager 1",
-    "choices": [
-      "Cassini",
-      "Voyager 1",
-      "Pioneer 10",
-      "New Horizons"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "09838392-fa5e-493e-bec8-40157882d6f0"
-  },
-  {
-    "category": "biology",
-    "difficulty": "medium",
-    "question_text": "¿Qué orgánulo es responsable de producir ATP en las células?",
-    "correct_answer": "Mitocondria",
-    "choices": [
-      "Aparato de Golgi",
-      "Núcleo",
-      "Ribosoma",
-      "Mitocondria"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "ae63e4fa-3df0-4a9b-b1dd-0232869bca6f"
-  },
-  {
-    "category": "biology",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es el órgano más grande del cuerpo humano?",
-    "correct_answer": "Piel",
-    "choices": [
-      "Corazón",
-      "Cerebro",
-      "Piel",
-      "Hígado"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "9deda994-dcc2-4f88-9fe2-7daedbc8e77e"
-  },
-  {
-    "category": "biology",
-    "difficulty": "easy",
-    "question_text": "¿Qué proceso utilizan las plantas para convertir la luz solar en energía?",
-    "correct_answer": "Fotosíntesis",
-    "choices": [
-      "Fermentación",
-      "Respiración celular",
-      "Fotosíntesis",
-      "Quimiosíntesis"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "7cab999d-4bec-4f8f-a169-5255510d2aaf"
-  },
-  {
-    "category": "biology",
-    "difficulty": "medium",
-    "question_text": "¿Qué tipo de sangre se conoce como donante universal?",
-    "correct_answer": "O negativo",
-    "choices": [
-      "O negativo",
-      "A positivo",
-      "B negativo",
-      "AB positivo"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "17d961f4-b818-4259-949f-f3e1b1899a4c"
-  },
-  {
-    "category": "biology",
-    "difficulty": "easy",
-    "question_text": "¿Cuántos cromosomas tienen típicamente los humanos?",
-    "correct_answer": "46",
-    "choices": [
-      "48",
-      "46",
-      "44",
-      "23"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "d5ea6f83-d835-406f-8738-a0be59165198"
-  },
-  {
-    "category": "biology",
-    "difficulty": "hard",
-    "question_text": "¿Cómo se llama la enzima que descompone la lactosa?",
-    "correct_answer": "Lactasa",
-    "choices": [
-      "Amilasa",
-      "Lactasa",
-      "Lipasa",
-      "Proteasa"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "aac4b5cb-ee4f-41b4-9ed5-1219182fe684"
-  },
-  {
-    "category": "biology",
-    "difficulty": "medium",
-    "question_text": "¿Qué término describe a un organismo que puede fabricar su propio alimento?",
-    "correct_answer": "Autótrofo",
-    "choices": [
-      "Heterótrofo",
-      "Parásito",
-      "Autótrofo",
-      "Descomponedor"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "eecdaf87-80f8-46ed-bf84-c325ff2d1215"
-  },
-  {
-    "category": "biology",
-    "difficulty": "easy",
-    "question_text": "¿Qué vitamina produce el cuerpo humano al exponerse a la luz solar?",
-    "correct_answer": "Vitamina D",
-    "choices": [
-      "Vitamina B12",
-      "Vitamina D",
-      "Vitamina C",
-      "Vitamina A"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "a19e4559-04b3-4324-82fe-fc35221e54fa"
-  },
-  {
-    "category": "biology",
-    "difficulty": "hard",
-    "question_text": "¿Cómo se llama el estudio científico de los hongos?",
-    "correct_answer": "Micología",
-    "choices": [
-      "Botánica",
-      "Virología",
-      "Entomología",
-      "Micología"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "6396bd7a-ed79-495f-bcd1-31f80e3b36a9"
-  },
-  {
-    "category": "biology",
-    "difficulty": "easy",
-    "question_text": "¿Qué tipo de animal es un ornitorrinco?",
-    "correct_answer": "Un mamífero",
-    "choices": [
-      "Un ave",
-      "Un anfibio",
-      "Un reptil",
-      "Un mamífero"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "57cae2af-4204-44da-82a5-71043ad6d337"
-  },
-  {
-    "category": "biology",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es el hueso más grande y fuerte del cuerpo?",
-    "correct_answer": "Fémur",
-    "choices": [
-      "Tibia",
-      "Columna vertebral",
-      "Fémur",
-      "Húmero"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "7db7a13a-f4c5-4bab-a93c-53b15749105b"
-  },
-  {
-    "category": "biology",
-    "difficulty": "medium",
-    "question_text": "¿Cómo se llama el proceso por el cual las células se dividen para formar dos células hijas idénticas?",
-    "correct_answer": "Mitosis",
-    "choices": [
-      "Fisión binaria",
-      "Meiosis",
-      "Mitosis",
-      "Gemación"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "3a74dc78-317f-406a-8e59-37480cb8c850"
-  },
-  {
-    "category": "biology",
-    "difficulty": "medium",
-    "question_text": "¿Cuál de estos animales tiene sangre azul?",
-    "correct_answer": "Pulpo",
-    "choices": [
-      "Pulpo",
-      "Lombriz",
-      "Tiburón",
-      "Langosta"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "76225d36-15b6-4682-a9c5-d1069e832e1f"
-  },
-  {
-    "category": "biology",
-    "difficulty": "medium",
-    "question_text": "¿Qué parte del ojo humano es responsable de enfocar la luz?",
-    "correct_answer": "Cristalino",
-    "choices": [
-      "Retina",
-      "Cristalino",
-      "Córnea",
-      "Iris"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "0bfb3e61-c1ed-4624-af88-2f6ef3d5f227"
-  },
-  {
-    "category": "biology",
-    "difficulty": "easy",
-    "question_text": "¿Aproximadamente qué porcentaje del cuerpo humano es agua?",
-    "correct_answer": "60%",
-    "choices": [
-      "95%",
-      "60%",
-      "80%",
-      "40%"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "f0199979-c340-47a0-9330-fa578db62d6f"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es el pH del agua pura?",
-    "correct_answer": "7",
-    "choices": [
-      "10",
-      "0",
-      "7",
-      "14"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "db63b748-fdf4-4b95-b974-a05043a44337"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Qué elemento tiene el número atómico 1?",
-    "correct_answer": "Hidrógeno",
-    "choices": [
-      "Oxígeno",
-      "Hidrógeno",
-      "Helio",
-      "Carbono"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "be381180-7beb-4a12-a44b-f755a60815d8"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es la fórmula química de la sal de mesa?",
-    "correct_answer": "NaCl",
-    "choices": [
-      "Na₂CO₃",
-      "KCl",
-      "NaOH",
-      "NaCl"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "fa470812-75d8-4938-9b66-25ef54bf013b"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "medium",
-    "question_text": "¿Qué tipo de enlace químico implica la compartición de electrones?",
-    "correct_answer": "Enlace covalente",
-    "choices": [
-      "Enlace covalente",
-      "Enlace de hidrógeno",
-      "Enlace metálico",
-      "Enlace iónico"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "5d55993b-6fb7-4583-9034-d1ed77729266"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
-    "correct_answer": "Nitrógeno",
-    "choices": [
-      "Oxígeno",
-      "Nitrógeno",
-      "Argón",
-      "Dióxido de carbono"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "3966689a-9db6-4625-a26b-012197d5b7e4"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Qué elemento tiene el símbolo químico 'Au'?",
-    "correct_answer": "Oro",
-    "choices": [
-      "Aluminio",
-      "Oro",
-      "Argón",
-      "Plata"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "c0e6b109-9097-472e-8966-f2328fa7c51a"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "hard",
-    "question_text": "¿Cómo se llama el proceso de un sólido que se convierte directamente en gas?",
-    "correct_answer": "Sublimación",
-    "choices": [
-      "Condensación",
-      "Deposición",
-      "Sublimación",
-      "Evaporación"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "5a99afdd-97d0-4fcd-ab98-0c4c51a5be3a"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "medium",
-    "question_text": "¿Cómo se llama una sustancia que acelera una reacción química sin consumirse?",
-    "correct_answer": "Catalizador",
-    "choices": [
-      "Producto",
-      "Reactivo",
-      "Catalizador",
-      "Inhibidor"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "5e2a6fff-d200-42b8-9c3c-d4a115729f53"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "hard",
-    "question_text": "¿Cuál es el nombre químico del bicarbonato de sodio?",
-    "correct_answer": "Bicarbonato de sodio",
-    "choices": [
-      "Bicarbonato de sodio",
-      "Cloruro de sodio",
-      "Hidróxido de sodio",
-      "Carbonato de sodio"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "952a9d8a-920b-4d60-aebb-fc453b2c52ff"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "medium",
-    "question_text": "¿Qué elemento es líquido a temperatura ambiente?",
-    "correct_answer": "Mercurio",
-    "choices": [
-      "Mercurio",
-      "Plata",
-      "Hierro",
-      "Plomo"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "68865f17-4a45-438d-9525-c0f474f9efce"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es el elemento más ligero de la tabla periódica?",
-    "correct_answer": "Hidrógeno",
-    "choices": [
-      "Helio",
-      "Oxígeno",
-      "Hidrógeno",
-      "Litio"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "894dc9d2-697c-4c1c-98ed-3550fb2bf3f5"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "medium",
-    "question_text": "¿Cuál es la fórmula química del peróxido de hidrógeno?",
-    "correct_answer": "H₂O₂",
-    "choices": [
-      "HO₂",
-      "H₂O₂",
-      "H₂SO₄",
-      "H₂O"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "402fc73a-fa20-4358-8322-d82f8d670ec2"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Qué gas noble se utiliza en carteles luminosos?",
-    "correct_answer": "Neón",
-    "choices": [
-      "Kriptón",
-      "Argón",
-      "Xenón",
-      "Neón"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "d7a9f3d0-ad31-4f37-917d-21722c3facab"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "medium",
-    "question_text": "¿Cómo se llama el estudio de los compuestos que contienen carbono?",
-    "correct_answer": "Química orgánica",
-    "choices": [
-      "Química inorgánica",
-      "Química orgánica",
-      "Química física",
-      "Bioquímica"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "6b1c9889-a67c-4b38-97dc-7a189d0ba62f"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Qué ácido se encuentra en el estómago y ayuda a digerir los alimentos?",
-    "correct_answer": "Ácido clorhídrico",
-    "choices": [
-      "Ácido clorhídrico",
-      "Ácido nítrico",
-      "Ácido sulfúrico",
-      "Ácido acético"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "008c4d33-73be-436c-a4b9-23a8d86fe3c3"
-  },
-  {
-    "category": "physics",
-    "difficulty": "easy",
-    "question_text": "¿Qué fuerza mantiene a los planetas orbitando alrededor del Sol?",
-    "correct_answer": "Gravedad",
-    "choices": [
-      "Fricción",
-      "Gravedad",
-      "Fuerza nuclear",
-      "Magnetismo"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "894ba997-6943-456a-bf38-2299dc5fa5cc"
-  },
-  {
-    "category": "physics",
-    "difficulty": "medium",
-    "question_text": "¿A qué es aproximadamente igual la velocidad de la luz en el vacío?",
-    "correct_answer": "300,000 km/s",
-    "choices": [
-      "300,000 km/s",
-      "150,000 km/s",
-      "1,000,000 km/s",
-      "500,000 km/s"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "0ae9d04c-e836-438f-86e2-d60e6ea112e8"
-  },
-  {
-    "category": "physics",
-    "difficulty": "hard",
-    "question_text": "¿Qué partícula es responsable de transportar la fuerza electromagnética?",
-    "correct_answer": "Fotón",
-    "choices": [
-      "Mesón",
-      "Gravitón",
-      "Gluón",
-      "Fotón"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "8cc8999a-f8ee-4d57-80d2-1178c43a1b3f"
-  },
-  {
-    "category": "physics",
-    "difficulty": "easy",
-    "question_text": "Cuando la temperatura aumenta a presión constante, ¿qué ocurre con el volumen de un gas?",
-    "correct_answer": "Se expande",
-    "choices": [
-      "Permanece igual",
-      "Se contrae",
-      "Se ioniza",
-      "Se expande"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "587a10eb-68c9-4e52-990e-982d38c7aacf"
-  },
-  {
-    "category": "physics",
-    "difficulty": "medium",
-    "question_text": "¿Cuál de estas es una cantidad escalar?",
-    "correct_answer": "Masa",
-    "choices": [
-      "Masa",
-      "Aceleración",
-      "Fuerza",
-      "Velocidad"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "e37f2490-cf95-4ec7-8e3a-5b9dd2fe90f1"
-  },
-  {
-    "category": "physics",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es la unidad SI de la corriente eléctrica?",
-    "correct_answer": "Amperio",
-    "choices": [
-      "Voltio",
-      "Amperio",
-      "Ohmio",
-      "Vatio"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "170a46ff-ee08-4179-b897-6c4e7f9abd75"
-  },
-  {
-    "category": "physics",
-    "difficulty": "medium",
-    "question_text": "¿Qué fenómeno hace que una pajilla parezca doblada cuando se coloca en un vaso de agua?",
-    "correct_answer": "Refracción",
-    "choices": [
-      "Absorción",
-      "Difracción",
-      "Reflexión",
-      "Refracción"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "20c2ccf9-073d-4f9d-91c4-3e3d0fb047ca"
-  },
-  {
-    "category": "physics",
-    "difficulty": "hard",
-    "question_text": "¿Aproximadamente cuánto dura la vida media del carbono-14?",
-    "correct_answer": "5,730 años",
-    "choices": [
-      "10,000 años",
-      "5,730 años",
-      "1,000 años",
-      "25,000 años"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "612b0feb-90fa-443a-a7bf-621956081fe2"
-  },
-  {
-    "category": "physics",
-    "difficulty": "easy",
-    "question_text": "¿Qué tipo de energía tiene principalmente un automóvil en movimiento?",
-    "correct_answer": "Energía cinética",
-    "choices": [
-      "Energía térmica",
-      "Energía cinética",
-      "Energía potencial",
-      "Energía química"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "e2373e30-a270-4401-9a2a-055f16e26172"
-  },
-  {
-    "category": "physics",
-    "difficulty": "easy",
-    "question_text": "¿Qué ley establece que toda acción tiene una reacción igual y opuesta?",
-    "correct_answer": "Tercera ley de Newton",
-    "choices": [
-      "Segunda ley de Newton",
-      "Primera ley de Newton",
-      "Tercera ley de Newton",
-      "La ley de la gravitación universal"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "e6c59eb8-be30-46ed-87e4-fa29955206b2"
-  },
-  {
-    "category": "physics",
-    "difficulty": "hard",
-    "question_text": "¿Cuál es el nombre de la partícula teórica que da masa a otras partículas?",
-    "correct_answer": "Bosón de Higgs",
-    "choices": [
-      "Gluón",
-      "Taquión",
-      "Bosón de Higgs",
-      "Neutrino"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "c13fa813-4944-4f2b-be67-e62ef8d304e2"
-  },
-  {
-    "category": "physics",
-    "difficulty": "easy",
-    "question_text": "¿De qué color es el cielo debido a la dispersión de la luz solar por la atmósfera?",
-    "correct_answer": "Azul",
-    "choices": [
-      "Rojo",
-      "Azul",
-      "Violeta",
-      "Verde"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "b95ca564-ad14-41f8-82b7-b17be02b474d"
-  },
-  {
-    "category": "physics",
-    "difficulty": "medium",
-    "question_text": "¿Qué hace un prisma con la luz blanca?",
-    "correct_answer": "La divide en sus colores componentes",
-    "choices": [
-      "La convierte en ultravioleta",
-      "Absorbe todos los colores",
-      "La divide en sus colores componentes",
-      "Duplica su intensidad"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "fe285f15-348e-4bf0-a6dc-12004322e74b"
-  },
-  {
-    "category": "physics",
-    "difficulty": "medium",
-    "question_text": "¿Cuál es el cero absoluto en grados Celsius?",
-    "correct_answer": "-273.15°C",
-    "choices": [
-      "-100°C",
-      "-200°C",
-      "-373.15°C",
-      "-273.15°C"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "c1736bc4-dbe7-4436-ae12-9d7bb7b048db"
-  },
-  {
-    "category": "physics",
-    "difficulty": "easy",
-    "question_text": "¿Qué tipo de onda es el sonido?",
-    "correct_answer": "Una onda longitudinal",
-    "choices": [
-      "Una onda superficial",
-      "Una onda electromagnética",
-      "Una onda transversal",
-      "Una onda longitudinal"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "8619172e-ed3d-4130-9e24-1507c0e50c95"
-  },
-  {
-    "category": "chemistry",
-    "difficulty": "easy",
-    "question_text": "¿Cuál es el símbolo químico del agua?",
-    "correct_answer": "H₂O",
-    "choices": [
-      "CO₂",
-      "O₂",
-      "H₂O",
-      "NaCl"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "319bb4c7-f807-47ec-9057-d7b9956b6264"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "easy",
-    "question_text": "¿Qué planeta es conocido como el Planeta Rojo?",
-    "correct_answer": "Marte",
-    "choices": [
-      "Marte",
-      "Júpiter",
-      "Venus",
-      "Saturno"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "259cfeb7-05c5-4442-9dd9-f4559b7fe8fa"
-  },
-  {
-    "category": "technology",
-    "difficulty": "easy",
-    "question_text": "¿Qué significa 'CPU'?",
-    "correct_answer": "Unidad Central de Procesamiento",
-    "choices": [
-      "Unidad Central de Programa",
-      "Unidad Personal de Computadora",
-      "Utilidad Central de Procesos",
-      "Unidad Central de Procesamiento"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "79e08758-8085-489b-b2ba-1fc3285ecbdc"
-  },
-  {
-    "category": "technology",
-    "difficulty": "easy",
-    "question_text": "¿Qué significa 'HTTP'?",
-    "correct_answer": "Protocolo de Transferencia de Hipertexto",
-    "choices": [
-      "Protocolo de Transferencia de Hipertexto",
-      "Protocolo de Transferencia de Texto de Alto Nivel",
-      "Programa de Transferencia de Alta Tecnología",
-      "Proceso de Transmisión de Hipertexto"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "5e460a25-4e15-43b1-84ac-87f4ad1d6565"
-  },
-  {
-    "category": "technology",
-    "difficulty": "medium",
-    "question_text": "¿Cuál es la representación binaria del número decimal 15?",
-    "correct_answer": "1111",
-    "choices": [
-      "1000",
-      "1010",
-      "1111",
-      "1100"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "8b49d59d-b38d-43d6-9513-62a62ce0e237"
-  },
-  {
-    "category": "technology",
-    "difficulty": "easy",
-    "question_text": "¿Qué significa 'RAM'?",
-    "correct_answer": "Memoria de Acceso Aleatorio",
-    "choices": [
-      "Memoria de Acceso Aleatorio",
-      "Administrador de Aplicaciones en Ejecución",
-      "Memoria de Acceso de Lectura",
-      "Módulo de Aplicación Rápida"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "a70fe002-1e73-482f-a0dd-279acae00d9d"
-  },
-  {
-    "category": "technology",
-    "difficulty": "medium",
-    "question_text": "¿Quién es considerado el padre de la informática?",
-    "correct_answer": "Alan Turing",
-    "choices": [
-      "Steve Jobs",
-      "Bill Gates",
-      "Alan Turing",
-      "Charles Babbage"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "0bdce28c-e5a9-4155-bf5b-c4940ac25c6f"
-  },
-  {
-    "category": "technology",
-    "difficulty": "easy",
-    "question_text": "¿Qué significa la 'S' en 'HTTPS'?",
-    "correct_answer": "Seguro",
-    "choices": [
-      "Servidor",
-      "Sistema",
-      "Seguro",
-      "Socket"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "64640910-85ad-4957-93a6-767238aeeb61"
-  },
-  {
-    "category": "technology",
-    "difficulty": "hard",
-    "question_text": "¿Cuál fue el nombre de la primera computadora electrónica de propósito general?",
-    "correct_answer": "ENIAC",
-    "choices": [
-      "IBM 701",
-      "ENIAC",
-      "Colossus",
-      "UNIVAC"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "158b257c-cb3e-4dca-9fa8-5a58b5376864"
-  },
-  {
-    "category": "technology",
-    "difficulty": "medium",
-    "question_text": "¿Qué significa 'SQL'?",
-    "correct_answer": "Lenguaje de Consulta Estructurado",
-    "choices": [
-      "Lenguaje de Consulta Simple",
-      "Lógica de Consulta Estándar",
-      "Lenguaje de Consulta Secuencial",
-      "Lenguaje de Consulta Estructurado"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "6184ec96-28f2-4383-858a-d785d22b3c92"
-  },
-  {
-    "category": "technology",
-    "difficulty": "medium",
-    "question_text": "¿En qué año se inventó la World Wide Web?",
-    "correct_answer": "1989",
-    "choices": [
-      "2001",
-      "1975",
-      "1989",
-      "1995"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "77224002-d05f-41d6-9ec4-ab1b85cccb20"
-  },
-  {
-    "category": "technology",
-    "difficulty": "easy",
-    "question_text": "¿Qué significa 'IP' en redes?",
-    "correct_answer": "Protocolo de Internet",
-    "choices": [
-      "Proveedor de Información",
-      "Proceso Interno",
-      "Plataforma Integrada",
-      "Protocolo de Internet"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "3f34b12e-cb19-4905-8ffd-b1058fe4e580"
-  },
-  {
-    "category": "technology",
-    "difficulty": "hard",
-    "question_text": "¿En qué lenguaje de programación está escrito Python?",
-    "correct_answer": "C",
-    "choices": [
-      "C",
-      "C++",
-      "Java",
-      "Ensamblador"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "0a6ebfef-8eda-41f1-ac5c-f16d9e84436b"
-  },
-  {
-    "category": "technology",
-    "difficulty": "easy",
-    "question_text": "¿Qué significa 'CSS' en el desarrollo web?",
-    "correct_answer": "Hojas de Estilo en Cascada",
-    "choices": [
-      "Hojas de Estilo en Cascada",
-      "Hojas de Estilo Coloridas",
-      "Hojas de Estilo Creativas",
-      "Sistema de Estilo de Computadora"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "3bde5d94-4f8c-43f2-a14c-0b061cfe3522"
-  },
-  {
-    "category": "technology",
-    "difficulty": "medium",
-    "question_text": "¿Cuál es el sistema operativo más utilizado para servidores web?",
-    "correct_answer": "Linux",
-    "choices": [
-      "FreeBSD",
-      "macOS",
-      "Linux",
-      "Windows"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "75d8b86d-4b3b-4f69-a00e-ab725f1f2aa8"
-  },
-  {
-    "category": "technology",
-    "difficulty": "easy",
-    "question_text": "¿Qué significa 'API'?",
-    "correct_answer": "Interfaz de Programación de Aplicaciones",
-    "choices": [
-      "Interfaz de Protocolo de Aplicación",
-      "Instrucción de Proceso Automático",
-      "Interfaz de Programación de Aplicaciones",
-      "Integración de Programa Avanzado"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "f508c712-4d20-40b8-9439-3b72193fd29c"
-  },
-  {
-    "category": "technology",
-    "difficulty": "hard",
-    "question_text": "¿Cuál es el nombre del primer virus informático?",
-    "correct_answer": "Creeper",
-    "choices": [
-      "Creeper",
-      "Morris Worm",
-      "ILOVEYOU",
-      "Melissa"
-    ],
-    "image_asset": null,
-    "theme": "science",
-    "language": "es",
-    "translation_key": "dee115b9-15ed-470c-bc2c-9ad84264d838"
-  },
-  {
-    "category": "astronomy",
-    "difficulty": "easy",
     "question_text": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
     "correct_answer": "Marte",
     "choices": [
       "Venus",
+      "Marte",
       "Júpiter",
-      "Mercurio",
-      "Marte"
+      "Mercurio"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "131f417f-c6b6-4fac-88a2-0384a3e0b8ed"
+    "translation_key": "22769d574a6e577abf2311c05b94e9a0fac95c73471d1ec28d51c0b396d5620e"
   },
   {
     "category": "astronomy",
@@ -1253,31 +21,31 @@
     "question_text": "¿Cuál es la luna más grande de Saturno?",
     "correct_answer": "Titán",
     "choices": [
-      "Rea",
       "Titán",
-      "Ío",
-      "Encélado"
+      "Encélado",
+      "Rea",
+      "Ío"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "267cd44b-0376-46da-a98c-104783096a75"
+    "translation_key": "c97f8920e3aca2e36b7789beff75d73e5f6873a69c79b4a2653e5b146557bae5"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
-    "question_text": "¿Cuál es el nombre del telescopio que reemplazó al Telescopio Espacial Hubble como insignia de la NASA?",
+    "question_text": "¿Cuál es el nombre del telescopio que reemplazó al Telescopio Espacial Hubble como buque insignia de la NASA?",
     "correct_answer": "Telescopio Espacial James Webb",
     "choices": [
-      "Telescopio Espacial Kepler",
-      "Telescopio Espacial Spitzer",
+      "Observatorio de Rayos X Chandra",
       "Telescopio Espacial James Webb",
-      "Observatorio de Rayos X Chandra"
+      "Telescopio Espacial Kepler",
+      "Telescopio Espacial Spitzer"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "0f0215a7-a13f-4239-bfd3-e4d05a82805d"
+    "translation_key": "3b292d763fa0b73a4754aa86710528dcab47ce6ddf45a6bcb0415756cc642aac"
   },
   {
     "category": "astronomy",
@@ -1286,14 +54,14 @@
     "correct_answer": "Mercurio",
     "choices": [
       "Marte",
-      "Plutón",
+      "Mercurio",
       "Venus",
-      "Mercurio"
+      "Plutón"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "382cf64e-dcbf-46b6-bb03-57fa92801a48"
+    "translation_key": "4f8a6ff7f8a4a3b3e72363fef148e349af1f8afba8bd3b606d63aa29135ead9c"
   },
   {
     "category": "astronomy",
@@ -1301,47 +69,47 @@
     "question_text": "¿Cómo se llama el fenómeno en el que la Luna pasa entre el Sol y la Tierra?",
     "correct_answer": "Eclipse solar",
     "choices": [
-      "Eclipse anular",
+      "Eclipse lunar",
       "Eclipse solar",
       "Eclipse penumbral",
-      "Eclipse lunar"
+      "Eclipse anular"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "029ace89-f47d-4a77-b243-fa74760a012e"
+    "translation_key": "be468c8d39e0ba198a6afdea632b0fb90f3a062d20a8dc3f5af9aa7474caa2e0"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
-    "question_text": "¿Aproximadamente qué edad tiene el universo?",
-    "correct_answer": "13.8 mil millones de años",
+    "question_text": "¿Aproximadamente cuántos años tiene el universo?",
+    "correct_answer": "13.800 millones de años",
     "choices": [
-      "4.5 mil millones de años",
-      "13.8 mil millones de años",
-      "1 billón de años",
-      "100 mil millones de años"
+      "4.500 millones de años",
+      "13.800 millones de años",
+      "100 mil millones de años",
+      "1 billón de años"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "5ab949cf-67d2-4e13-b93b-6cebddc3b2c6"
+    "translation_key": "dab58b7f46f0aab45a605a4410888b8067ece24561cceaf3fa49c6d6e0ed4d40"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
     "question_text": "¿Cuál es el nombre de la galaxia más cercana a la Vía Láctea?",
-    "correct_answer": "Galaxia Enana de Canis Major",
+    "correct_answer": "Galaxia Enana del Can Mayor",
     "choices": [
-      "Galaxia del Triángulo",
-      "Gran Nube de Magallanes",
       "Galaxia de Andrómeda",
-      "Galaxia Enana de Canis Major"
+      "Galaxia Enana del Can Mayor",
+      "Galaxia del Triángulo",
+      "Gran Nube de Magallanes"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8d6e34b9-2029-4fc9-b29f-13f0a9f9aa40"
+    "translation_key": "6d327d31e1dc39d12ac013b92e7083a5ab0bc6db3a043615050fe365710a63bc"
   },
   {
     "category": "astronomy",
@@ -1349,15 +117,15 @@
     "question_text": "¿Qué planeta tiene la Gran Mancha Roja?",
     "correct_answer": "Júpiter",
     "choices": [
+      "Saturno",
       "Júpiter",
       "Neptuno",
-      "Saturno",
       "Marte"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "93decd07-cb76-477c-b5b8-9362a2a4df7d"
+    "translation_key": "b8a3bd08be373f6ebf257ae76c9d30aac5cc673446ae617446bc9fa4e8bd2f4e"
   },
   {
     "category": "astronomy",
@@ -1366,14 +134,14 @@
     "correct_answer": "Nova",
     "choices": [
       "Supernova",
-      "Estrella fulgurante",
       "Nova",
-      "Estrella variable"
+      "Estrella variable",
+      "Estrella fulgurante"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "60cd9a01-8312-4798-b384-f740cea53b6c"
+    "translation_key": "85a4b5255afc1f9bda7aba3281eb49ca18d4b1e33395e04bfb0cb9076c83edc6"
   },
   {
     "category": "astronomy",
@@ -1381,15 +149,15 @@
     "question_text": "¿Cuál es el nombre del rover marciano más famoso de la NASA que operó desde 2004 hasta 2018?",
     "correct_answer": "Opportunity",
     "choices": [
+      "Spirit",
       "Opportunity",
       "Curiosity",
-      "Spirit",
       "Perseverance"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "a81927e7-c763-4bd1-8731-e255b428a686"
+    "translation_key": "90521ed4b9de602684ea289cb97319c34ba5a944c967e74c6eb91fe61185ae88"
   },
   {
     "category": "astronomy",
@@ -1397,15 +165,15 @@
     "question_text": "¿Qué planeta tiene el rango de temperatura más extremo del sistema solar?",
     "correct_answer": "Mercurio",
     "choices": [
-      "Neptuno",
-      "Mercurio",
+      "Venus",
       "Marte",
-      "Venus"
+      "Mercurio",
+      "Neptuno"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "5bc28868-d08a-4b47-867e-2f975256ca33"
+    "translation_key": "88ae09081beff583e16c626b23e775e4cbaaf8cca689db708c1315993ce71350"
   },
   {
     "category": "astronomy",
@@ -1413,15 +181,15 @@
     "question_text": "¿Cuál es el nombre de la teoría de que el universo se está expandiendo?",
     "correct_answer": "Ley de Hubble",
     "choices": [
-      "Ley de Kepler",
-      "Ley de Newton",
+      "Teoría de Einstein",
       "Ley de Hubble",
-      "Teoría de Einstein"
+      "Ley de Newton",
+      "Ley de Kepler"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "55a67cbf-961b-4c2d-9032-7165abe54d07"
+    "translation_key": "920820d8101cfd01b0480a4199976fbe068e771d3d85dc0cf7a528bd9222ba8f"
   },
   {
     "category": "astronomy",
@@ -1431,29 +199,29 @@
     "choices": [
       "Marte",
       "Júpiter",
-      "Sirio",
-      "Venus"
+      "Venus",
+      "Sirio"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "cc6ed3fb-713d-48c1-ac42-7d0524219832"
+    "translation_key": "04271c3d419bd9e3d4b07be54240b3704025f01007bb0e9c0715065ebdb04bb0"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llaman los planetas rocosos interiores de nuestro sistema solar?",
+    "question_text": "¿Cómo se llaman los planetas interiores rocosos de nuestro sistema solar?",
     "correct_answer": "Planetas terrestres",
     "choices": [
-      "Planetas enanos",
-      "Planetas jovianos",
+      "Gigantes gaseosos",
       "Planetas terrestres",
-      "Gigantes gaseosos"
+      "Planetas enanos",
+      "Planetas jovianos"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1ff5a29d-f668-401a-ad79-8b074d9abb81"
+    "translation_key": "bf6f11c87463270aab3d6f54947c92238b91c796eeede51a3ada7e1594ebc7ec"
   },
   {
     "category": "astronomy",
@@ -1463,13 +231,13 @@
     "choices": [
       "Mauna Kea",
       "Monte Olimpo",
-      "Valles Marineris",
-      "Monte Everest"
+      "Monte Everest",
+      "Valles Marineris"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "30d32f0e-45ee-4b5e-af34-ae76b2ba8752"
+    "translation_key": "e74337dc3af071b0d3445b2a7c387d060844d34185bfb8e4542bdade6c6e0397"
   },
   {
     "category": "astronomy",
@@ -1477,15 +245,15 @@
     "question_text": "¿Cómo se llama la distancia promedio de la Tierra al Sol?",
     "correct_answer": "Unidad Astronómica (UA)",
     "choices": [
-      "Pársec",
+      "Año luz",
       "Unidad Astronómica (UA)",
-      "Kilómetro",
-      "Año luz"
+      "Pársec",
+      "Kilómetro"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "bce0e10d-83a8-4f5e-97e4-c1c47954f14b"
+    "translation_key": "b8ac3a10e4392eb60d5dc52c07d3b0a9a002e9e1779684d54d046dd43e5d8a16"
   },
   {
     "category": "astronomy",
@@ -1493,15 +261,15 @@
     "question_text": "¿Quién fue la primera persona en caminar sobre la Luna?",
     "correct_answer": "Neil Armstrong",
     "choices": [
-      "John Glenn",
       "Buzz Aldrin",
+      "Neil Armstrong",
       "Yuri Gagarin",
-      "Neil Armstrong"
+      "John Glenn"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1f10f6b7-e785-43c1-a82c-8a3b106c84e7"
+    "translation_key": "afe74425eee0b3166727be8b09fa92fa381b192071e830060ce93836ca021148"
   },
   {
     "category": "astronomy",
@@ -1509,31 +277,31 @@
     "question_text": "¿Qué tipo de eclipse ocurre cuando la Tierra pasa entre el Sol y la Luna?",
     "correct_answer": "Eclipse lunar",
     "choices": [
-      "Eclipse híbrido",
-      "Eclipse lunar",
       "Eclipse solar",
-      "Eclipse anular"
+      "Eclipse lunar",
+      "Eclipse anular",
+      "Eclipse híbrido"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "989359fa-d46c-43b7-9410-129e3ff7d15e"
+    "translation_key": "18b5a9b19dda7b4c2e1a710214f69cd01c4881fbc38f0fb2e35e4190766e594f"
   },
   {
     "category": "astronomy",
     "difficulty": "hard",
-    "question_text": "¿Cuál es el nombre de la nube de cometas que rodea el sistema solar?",
+    "question_text": "¿Cómo se llama la nube de cometas que rodea el sistema solar?",
     "correct_answer": "Nube de Oort",
     "choices": [
-      "Nube de Oort",
-      "Heliosfera",
       "Cinturón de Kuiper",
-      "Cinturón de asteroides"
+      "Nube de Oort",
+      "Cinturón de Asteroides",
+      "Heliosfera"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "243ffafe-93fb-4107-b90a-c398148d7a2e"
+    "translation_key": "319bfe484d8bf46a213e25be6b56737a4d6fc0b09c7bc95e55b9a531ad72d907"
   },
   {
     "category": "astronomy",
@@ -1541,31 +309,31 @@
     "question_text": "¿Qué planeta gira de lado?",
     "correct_answer": "Urano",
     "choices": [
-      "Venus",
-      "Plutón",
+      "Neptuno",
       "Urano",
-      "Neptuno"
+      "Plutón",
+      "Venus"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "78aa2098-8313-4223-8a75-c04cf8e26386"
+    "translation_key": "23a0dcf8d4bcc8b77157345a15dab62a36965706d9e14935347085aebfb29faf"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
-    "question_text": "¿Cuál es el nombre de la galaxia que colisionará con la Vía Láctea en unos 4.5 mil millones de años?",
+    "question_text": "¿Cuál es el nombre de la galaxia que chocará con la Vía Láctea en aproximadamente 4.500 millones de años?",
     "correct_answer": "Galaxia de Andrómeda",
     "choices": [
-      "Galaxia del Remolino",
-      "Galaxia del Sombrero",
       "Galaxia del Triángulo",
-      "Galaxia de Andrómeda"
+      "Galaxia de Andrómeda",
+      "Galaxia del Sombrero",
+      "Galaxia del Remolino"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b3ddba0a-318e-4150-af58-ed1435b11489"
+    "translation_key": "9f6d6e25200906f0a29512fbd436e2535c26bf8a74310e245fca7fae54abbb9a"
   },
   {
     "category": "astronomy",
@@ -1573,15 +341,15 @@
     "question_text": "¿Cuántas lunas tiene Marte?",
     "correct_answer": "2",
     "choices": [
-      "2",
-      "3",
+      "0",
       "1",
-      "0"
+      "2",
+      "3"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1eb1b2d6-ad27-4b16-aab6-87b3a3a1759a"
+    "translation_key": "7ee1b308bca5013cd766530592e3f8fca18777de39b9357c0edd192faa3359e2"
   },
   {
     "category": "astronomy",
@@ -1589,15 +357,15 @@
     "question_text": "¿Cuál es el nombre de la sonda espacial que visitó Plutón en 2015?",
     "correct_answer": "New Horizons",
     "choices": [
+      "Voyager 1",
       "New Horizons",
       "Cassini",
-      "Voyager 1",
       "Dawn"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "dc9d97b1-22d8-4782-8acd-e5522c3b8dfe"
+    "translation_key": "9ca33fd11c16e5f84835872f99b76069f388f75de15a718ab39195b72247388a"
   },
   {
     "category": "astronomy",
@@ -1605,111 +373,351 @@
     "question_text": "¿Cuál es el componente principal de los anillos de Saturno?",
     "correct_answer": "Partículas de hielo y roca",
     "choices": [
+      "Polvo",
       "Partículas de hielo y roca",
       "Gas",
-      "Polvo",
       "Plasma"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "c0b6690a-96ac-405f-9b63-11023bf898c6"
+    "translation_key": "f7427437eecd099a8452a86855cb57fae3de190316c22f70a71550aad943f34a"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama la estrella más brillante de la constelación de Orión?",
+    "question_text": "¿Cuál es el nombre de la estrella más brillante de la constelación de Orión?",
     "correct_answer": "Rigel",
     "choices": [
-      "Rigel",
       "Betelgeuse",
+      "Rigel",
       "Sirio",
       "Polaris"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8f9e1e79-b38c-41b6-bf0f-e37343e00702"
+    "translation_key": "cc1be01b0809fe296c7f251f4185f6bd3e088d99df4dddd63822fc91bfe8cf6c"
   },
   {
     "category": "astronomy",
     "difficulty": "hard",
-    "question_text": "¿De qué está compuesta una estrella de neutrones?",
+    "question_text": "¿De qué está hecha una estrella de neutrones?",
     "correct_answer": "Neutrones",
     "choices": [
-      "Electrones",
-      "Quarks",
       "Protones",
-      "Neutrones"
+      "Neutrones",
+      "Quarks",
+      "Electrones"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "f0f531d1-f53f-4791-8c4d-425967dbfc64"
+    "translation_key": "40f33c1ddf1474e70d9ddccd2ae56361764f0bab59b81514e58003386a14c8c2"
   },
   {
     "category": "astronomy",
     "difficulty": "easy",
-    "question_text": "¿Cuánto tarda la Tierra en orbitar el Sol?",
+    "question_text": "¿Cuánto tiempo tarda la Tierra en orbitar el Sol?",
     "correct_answer": "365.25 días",
     "choices": [
-      "370 días",
-      "366 días",
       "360 días",
-      "365.25 días"
+      "365.25 días",
+      "366 días",
+      "370 días"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "379da05f-a7ea-4332-9bc5-cb629af9e368"
+    "translation_key": "549120537ae3d02cff4cb8ab2ae4a5926a227498462e5dbebc8e551dbed17165"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama el primer satélite artificial lanzado al espacio?",
+    "question_text": "¿Cuál es el nombre del primer satélite artificial lanzado al espacio?",
     "correct_answer": "Sputnik 1",
     "choices": [
-      "Sputnik 1",
-      "Luna 2",
       "Explorer 1",
-      "Vanguard 1"
+      "Sputnik 1",
+      "Vanguard 1",
+      "Luna 2"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1f3c3008-4f43-4aec-8e8a-43179997cd20"
+    "translation_key": "119164177bd7d776457d5cb3f4a6eee92c9199bf40a1b08ac0a8e247649c002d"
   },
   {
     "category": "astronomy",
     "difficulty": "medium",
-    "question_text": "¿En qué tipo de estrella se clasifica el Sol?",
+    "question_text": "¿Qué tipo de estrella es el Sol?",
     "correct_answer": "Enana amarilla",
     "choices": [
       "Gigante roja",
-      "Supergigante azul",
       "Enana amarilla",
-      "Enana blanca"
+      "Enana blanca",
+      "Supergigante azul"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "94d05003-59e4-4a45-9e07-07677b626347"
+    "translation_key": "9e784bc3200b38578bc0007c21fb0ed8cb4bb265b5e8bb61e9cc9be04245c8d8"
   },
   {
     "category": "astronomy",
     "difficulty": "hard",
-    "question_text": "¿Cómo se llama el cañón más grande del sistema solar, ubicado en Marte?",
+    "question_text": "¿Cuál es el nombre del cañón más grande del sistema solar, ubicado en Marte?",
     "correct_answer": "Valles Marineris",
     "choices": [
+      "Gran Cañón",
       "Valles Marineris",
-      "Mawrth Vallis",
       "Coprates Chasma",
-      "Gran Cañón"
+      "Mawrth Vallis"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "f7ac5b6f-0e84-4301-b321-91b66f3f184f"
+    "translation_key": "2619b7e8e767bed6ae74f0c058660f13f2ca58a553b325e95fd21adb80d444ec"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es la estrella más cercana a la Tierra?",
+    "correct_answer": "El Sol",
+    "choices": [
+      "Próxima Centauri",
+      "El Sol",
+      "Alfa Centauri",
+      "Sirio"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "6da761085929f12b07ef412c343028fada740edcb05679cd2127858359dd9e82"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "¿En qué galaxia se encuentra la Tierra?",
+    "correct_answer": "Vía Láctea",
+    "choices": [
+      "Andrómeda",
+      "Vía Láctea",
+      "Triángulo",
+      "Sombrero"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "7912bd40c8bf87cca0fe34d8913e7e62589b1dc8b9eea090131d1b203c35c287"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el planeta más grande de nuestro sistema solar?",
+    "correct_answer": "Júpiter",
+    "choices": [
+      "Saturno",
+      "Neptuno",
+      "Júpiter",
+      "Urano"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "d9fc8e8f274d2916a8e6963b15bc465f58858a940716681d02d343b10eabd0e0"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "¿Qué objeto astronómico se conoce como 'estrella fallida'?",
+    "correct_answer": "Enana marrón",
+    "choices": [
+      "Enana blanca",
+      "Enana marrón",
+      "Gigante roja",
+      "Estrella de neutrones"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "713e3382b0f3563249c959a1fb56f717b52938e86dd87357e784ded5737e4998"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "¿Cómo se llama el límite alrededor de un agujero negro más allá del cual nada puede escapar?",
+    "correct_answer": "Horizonte de sucesos",
+    "choices": [
+      "Singularidad",
+      "Horizonte de sucesos",
+      "Disco de acreción",
+      "Esfera de fotones"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "bdd6fb0c37f4904044e6fa5b53461c7f21ca7186645adff9825c1f5ed449be30"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "¿Qué causa las fases de la Luna?",
+    "correct_answer": "Su órbita alrededor de la Tierra",
+    "choices": [
+      "La sombra de la Tierra",
+      "Su órbita alrededor de la Tierra",
+      "La distancia del Sol",
+      "La capa de nubes"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "5f087d995b5f6c01a51b07087020ce36105e347f8a149d5dbbf32ce68d318de5"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el elemento más abundante en el universo?",
+    "correct_answer": "Hidrógeno",
+    "choices": [
+      "Helio",
+      "Hidrógeno",
+      "Oxígeno",
+      "Carbono"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "3e67daa48eb475c401516dbe6c6d2751c197b9d3fc5d2cfe4ac5cb331cdfec86"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "¿Cómo se llama la teoría que describe el origen del universo?",
+    "correct_answer": "Teoría del Big Bang",
+    "choices": [
+      "Teoría del estado estacionario",
+      "Teoría del Big Bang",
+      "Teoría de cuerdas",
+      "Hipótesis nebular"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "476125444ac208f3303e6c0c7ca277af6f9129444b726354ea3b540059c2ba95"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "¿Qué es una supernova?",
+    "correct_answer": "La explosión de una estrella",
+    "choices": [
+      "El nacimiento de una estrella",
+      "La explosión de una estrella",
+      "Un tipo de galaxia",
+      "Una colisión de cometas"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "a0dbd7a351fe9023b93252f02a2e0b20618cbe70e43d6d7a679e4c243825753b"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "¿Qué planeta tiene más lunas confirmadas?",
+    "correct_answer": "Saturno",
+    "choices": [
+      "Júpiter",
+      "Saturno",
+      "Urano",
+      "Neptuno"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "b1740747d03be9d6993fdaeb7590bd7058d1138553fe45f561b92d1012386e4a"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "¿Cuánto tarda la luz del Sol en llegar a la Tierra?",
+    "correct_answer": "Aproximadamente 8 minutos",
+    "choices": [
+      "Aproximadamente 8 segundos",
+      "Aproximadamente 8 minutos",
+      "Aproximadamente 8 horas",
+      "Aproximadamente 8 días"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "b76b02d12fb8362b8e72fca238a2dc5faed066899617c3d2a2c3e217dfc8980f"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el nombre de la estrella más brillante en el cielo nocturno?",
+    "correct_answer": "Sirio",
+    "choices": [
+      "Vega",
+      "Sirio",
+      "Polaris",
+      "Betelgeuse"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "6079988ec9b8402141c4bf0e9f77bcbc49e3eae06796a75e7f9b33e7c3a253aa"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "medium",
+    "question_text": "¿Qué tipo de galaxia es la Vía Láctea?",
+    "correct_answer": "Galaxia espiral",
+    "choices": [
+      "Galaxia elíptica",
+      "Galaxia espiral",
+      "Galaxia irregular",
+      "Galaxia lenticular"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "2dc959b3e218f1137762ef7478f1422e1ec38915f869b15bd97704fe9ba0a374"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "¿Qué planeta es conocido como la 'Estrella de la Mañana' o 'Estrella de la Tarde'?",
+    "correct_answer": "Venus",
+    "choices": [
+      "Marte",
+      "Venus",
+      "Mercurio",
+      "Júpiter"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "caedbea913d69e38cf23c9066004d1494e13a3de39b320ec255b12924239196c"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el nombre del primer objeto hecho por el hombre en salir del sistema solar?",
+    "correct_answer": "Voyager 1",
+    "choices": [
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons",
+      "Cassini"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "30b16eaa5154835506170027d369ac4584875f81fa47cb1a61b6f5af8141723b"
   },
   {
     "category": "biology",
@@ -1717,15 +725,15 @@
     "question_text": "¿Cuál es la función principal de los glóbulos rojos?",
     "correct_answer": "Transportar oxígeno",
     "choices": [
-      "Coagular la sangre",
-      "Transportar oxígeno",
       "Combatir infecciones",
+      "Transportar oxígeno",
+      "Coagular la sangre",
       "Producir anticuerpos"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "60b7ad1a-944a-405b-815b-222e2ba6cd6b"
+    "translation_key": "80f463b8e335a519a106aaa6416ed4f667834551674c890175e388117885c2da"
   },
   {
     "category": "biology",
@@ -1733,31 +741,31 @@
     "question_text": "¿Cuál es el órgano más grande dentro del cuerpo humano?",
     "correct_answer": "Hígado",
     "choices": [
-      "Cerebro",
       "Corazón",
+      "Hígado",
       "Pulmones",
-      "Hígado"
+      "Cerebro"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "df633b16-7f9e-4b8b-a3c3-6ca2b7e2e633"
+    "translation_key": "87055edfba4a09e1bc0a756304aa710da14ac62a2b52accb172c91804db627cb"
   },
   {
     "category": "biology",
     "difficulty": "medium",
-    "question_text": "¿Cuál es el nombre científico de la 'caja de la voz'?",
+    "question_text": "¿Cuál es el nombre científico de la 'laringe'?",
     "correct_answer": "Laringe",
     "choices": [
-      "Esófago",
       "Faringe",
+      "Laringe",
       "Tráquea",
-      "Laringe"
+      "Esófago"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "96ef5a6c-29cd-417c-91e5-759e4c235eec"
+    "translation_key": "2472e903480918de023b74fddfc27f9a593d64572eadcb76f7532c666ac5dc1a"
   },
   {
     "category": "biology",
@@ -1765,15 +773,15 @@
     "question_text": "¿Qué tipo de enlace mantiene unidas las dos hebras del ADN?",
     "correct_answer": "Enlaces de hidrógeno",
     "choices": [
+      "Enlaces covalentes",
       "Enlaces de hidrógeno",
-      "Enlaces peptídicos",
       "Enlaces iónicos",
-      "Enlaces covalentes"
+      "Enlaces peptídicos"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "d6b44a39-4e5a-4c49-ac79-e8cb5a384508"
+    "translation_key": "8d8eadd1365e698282a11199c85ad9d12f78986f24b16c19b4126ee22fed7d4f"
   },
   {
     "category": "biology",
@@ -1781,15 +789,15 @@
     "question_text": "¿Qué animal es conocido como el 'barco del desierto'?",
     "correct_answer": "Camello",
     "choices": [
+      "Caballo",
       "Camello",
       "Burro",
-      "Llama",
-      "Caballo"
+      "Llama"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "01df3d0a-cb49-4bee-ba29-7005bf90ca14"
+    "translation_key": "328802885fa3d8c3dc7153bd161cacff2a274deedcda0487f7e303b597edb9eb"
   },
   {
     "category": "biology",
@@ -1798,14 +806,14 @@
     "correct_answer": "Vitamina C",
     "choices": [
       "Vitamina A",
+      "Vitamina B",
       "Vitamina C",
-      "Vitamina E",
-      "Vitamina B"
+      "Vitamina E"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b02580d5-a2dc-4497-bae2-d7bc7e7217fa"
+    "translation_key": "f4164a633685dd0fffea55b60e2538898ed1c7ee6924d4c15dd5b28e5560f026"
   },
   {
     "category": "biology",
@@ -1813,15 +821,15 @@
     "question_text": "¿Qué parte de la planta realiza la fotosíntesis?",
     "correct_answer": "Hojas",
     "choices": [
-      "Hojas",
-      "Tallo",
       "Raíces",
+      "Tallo",
+      "Hojas",
       "Flores"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "2647f122-fab3-45ef-9bde-3514f90894b7"
+    "translation_key": "ef0717265890b5e85815d097c058b79ae872951de19f1cfa28128d43d7cc15b1"
   },
   {
     "category": "biology",
@@ -1829,15 +837,15 @@
     "question_text": "¿Cómo se llama el estudio de la herencia y la variación?",
     "correct_answer": "Genética",
     "choices": [
-      "Ecología",
-      "Embriología",
       "Genética",
-      "Evolución"
+      "Evolución",
+      "Ecología",
+      "Embriología"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "ee8db30d-7252-4165-81dd-a34cdc8353fd"
+    "translation_key": "4d7123c8514ad86397c4ae8c263db727d727deddeefbfdd8892f5faaf7594689"
   },
   {
     "category": "biology",
@@ -1845,15 +853,15 @@
     "question_text": "¿Cuál de estos animales es un marsupial?",
     "correct_answer": "Canguro",
     "choices": [
-      "Pingüino",
-      "Elefante",
+      "Oso polar",
       "Canguro",
-      "Oso polar"
+      "Elefante",
+      "Pingüino"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "379d9538-a1b3-4e65-aab2-f29a3e25ce73"
+    "translation_key": "3594bcd941d251a877c2699f77bdfa9b3a4a0537932e85e9bad83f5dc8439c2c"
   },
   {
     "category": "biology",
@@ -1861,15 +869,15 @@
     "question_text": "¿Cuál es el hueso más pequeño del cuerpo humano?",
     "correct_answer": "Estribo (en el oído)",
     "choices": [
-      "Cóccix (rabadilla)",
-      "Falange (en el dedo)",
       "Estribo (en el oído)",
+      "Falange (en el dedo)",
+      "Cóccix (hueso de la cola)",
       "Hioides (en el cuello)"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8ff48d33-4baf-465c-b63b-4ee069187d4c"
+    "translation_key": "6f7269cd9162c95867b5dd96cbb763eade076d7d1a235f31b1eb940fbd500cc5"
   },
   {
     "category": "biology",
@@ -1877,15 +885,15 @@
     "question_text": "¿Cómo llamamos a los animales que están activos durante la noche?",
     "correct_answer": "Nocturnos",
     "choices": [
-      "Nocturnos",
       "Diurnos",
+      "Nocturnos",
       "Crepusculares",
       "Hibernantes"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "4a4d5118-cf23-47eb-a4f9-687227d02b7e"
+    "translation_key": "3ff7cf77ce13c57f2aab0a31219113b4bdea699fd39eb5926ece75996924569a"
   },
   {
     "category": "biology",
@@ -1893,15 +901,15 @@
     "question_text": "¿Cómo se llama el proceso por el cual las plantas liberan vapor de agua a través de sus hojas?",
     "correct_answer": "Transpiración",
     "choices": [
-      "Evaporación",
       "Condensación",
       "Transpiración",
+      "Evaporación",
       "Respiración"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "feb5d53e-1a6e-4b71-b4c7-195bfe2cfe73"
+    "translation_key": "293104ef124929dde8a8b74d2fa53683c946f18b60a8d179baaef4f8c91a56c7"
   },
   {
     "category": "biology",
@@ -1909,79 +917,79 @@
     "question_text": "¿Qué tipo de sangre es el receptor universal?",
     "correct_answer": "AB positivo",
     "choices": [
-      "AB negativo",
       "A positivo",
       "AB positivo",
-      "O positivo"
+      "O positivo",
+      "AB negativo"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "c8dcff72-2f3d-4327-9342-28042a4d634b"
+    "translation_key": "892e5f4356d772ee3bd618532b9bd945fa17c599e86166b68266cc13a53089e3"
   },
   {
     "category": "biology",
     "difficulty": "easy",
-    "question_text": "¿Cuántos dientes tiene típicamente un adulto humano?",
+    "question_text": "¿Cuántos dientes tiene un adulto humano típicamente?",
     "correct_answer": "32",
     "choices": [
       "28",
-      "30",
       "32",
-      "36"
+      "36",
+      "30"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "53f99f20-ee89-42eb-ad9d-bdcb55c31fd5"
+    "translation_key": "0ae363252630ad67f1d691b61489b12495aa312b7b06bc7ece4b36209cda9e6a"
   },
   {
     "category": "biology",
     "difficulty": "easy",
-    "question_text": "¿Cómo se llama el tubo que lleva la comida desde la boca hasta el estómago?",
+    "question_text": "¿Cómo se llama el tubo que lleva los alimentos desde la boca hasta el estómago?",
     "correct_answer": "Esófago",
     "choices": [
+      "Tráquea",
       "Esófago",
-      "Faringe",
       "Intestino",
-      "Tráquea"
+      "Faringe"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "72466c8d-78d5-4fe7-8de9-2bda473ec2ec"
+    "translation_key": "5843deee2a8f77f51b4ac7613022aea8727ddebd196670409f5956c8e8b19a86"
   },
   {
     "category": "biology",
     "difficulty": "easy",
-    "question_text": "¿Cuál es la especie de tiburón más grande?",
+    "question_text": "¿Cuál es la especie más grande de tiburón?",
     "correct_answer": "Tiburón ballena",
     "choices": [
-      "Megalodón",
-      "Tiburón martillo",
       "Gran tiburón blanco",
-      "Tiburón ballena"
+      "Tiburón ballena",
+      "Tiburón martillo",
+      "Megalodón"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "7468b160-3983-4148-9f26-8cdab762ad6c"
+    "translation_key": "362d95537707be5f1760031fe599cde64584878f046118cbb530a447d447ecf0"
   },
   {
     "category": "biology",
     "difficulty": "easy",
-    "question_text": "¿Cómo se conoce también a la central energética de la célula?",
+    "question_text": "¿Qué también se conoce como la central energética de la célula?",
     "correct_answer": "Mitocondria",
     "choices": [
-      "Membrana celular",
-      "Mitocondria",
       "Núcleo",
-      "Ribosoma"
+      "Mitocondria",
+      "Ribosoma",
+      "Membrana celular"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "28814015-de28-4dda-bb7b-9910e6b85850"
+    "translation_key": "1edcb7527a03cef1acd3f5cd3c88df58b313d23b207cb07ba90f419aa189b07d"
   },
   {
     "category": "biology",
@@ -1989,15 +997,15 @@
     "question_text": "¿Qué sentido está asociado con la cóclea?",
     "correct_answer": "Audición",
     "choices": [
-      "Audición",
       "Vista",
-      "Gusto",
-      "Olfato"
+      "Audición",
+      "Olfato",
+      "Gusto"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "954d7827-7a18-4e1d-b1bd-98cfcee55bc1"
+    "translation_key": "8c7ac8d3ef8b17890338f7da9cb6a0f37670de235862b3f306b75066fb7230ae"
   },
   {
     "category": "biology",
@@ -2005,15 +1013,15 @@
     "question_text": "¿Cuál es el término para un organismo que come tanto plantas como animales?",
     "correct_answer": "Omnívoro",
     "choices": [
-      "Omnívoro",
-      "Detritívoro",
       "Herbívoro",
-      "Carnívoro"
+      "Carnívoro",
+      "Omnívoro",
+      "Detritívoro"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "13a7afe5-b717-4959-a445-610cf30db0bb"
+    "translation_key": "26cf948c46d5321e68a4b214ad54b0c61b6a7d5632c60e17ca855453c2d56a24"
   },
   {
     "category": "biology",
@@ -2022,30 +1030,30 @@
     "correct_answer": "Melanina",
     "choices": [
       "Melanina",
+      "Queratina",
       "Colágeno",
-      "Caroteno",
-      "Queratina"
+      "Caroteno"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "ea045d27-df8f-4cfb-a552-27e7e4e5b1e9"
+    "translation_key": "33fd7c0c64f3f831141f6a66fafef78d2a125783cef921b079b850bd4d3fd048"
   },
   {
     "category": "biology",
     "difficulty": "easy",
-    "question_text": "¿Cuál es el animal terrestre más grande vivo hoy en día?",
+    "question_text": "¿Cuál es el animal terrestre más grande vivo hoy?",
     "correct_answer": "Elefante africano",
     "choices": [
-      "Jirafa",
       "Rinoceronte blanco",
-      "Hipopótamo",
-      "Elefante africano"
+      "Elefante africano",
+      "Jirafa",
+      "Hipopótamo"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "0b2a1dca-977a-4242-a53e-2f5526264f39"
+    "translation_key": "60ecaed4f8c932e2f4b6eed742f98f85fa010efdd11598acf27f26a73f25cf58"
   },
   {
     "category": "biology",
@@ -2053,15 +1061,15 @@
     "question_text": "¿Cuál es la unidad más pequeña de la vida?",
     "correct_answer": "Célula",
     "choices": [
-      "Tejido",
       "Átomo",
+      "Molécula",
       "Célula",
-      "Molécula"
+      "Tejido"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1f4ffe79-ec8f-4921-89ff-1a849f7d6c4a"
+    "translation_key": "185ca4f7a5bee4626b28acdb2628bce21482b942c7decf41a3a8b7037b70d976"
   },
   {
     "category": "biology",
@@ -2069,15 +1077,15 @@
     "question_text": "¿Qué enfermedad es causada por la deficiencia de insulina?",
     "correct_answer": "Diabetes",
     "choices": [
-      "Diabetes",
       "Anemia",
-      "Asma",
-      "Artritis"
+      "Diabetes",
+      "Artritis",
+      "Asma"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "3ef6d32e-a57f-4ab3-a37a-ed1d374a6311"
+    "translation_key": "eef305716320c425678fbca337d9a594fe3f4389dc651203d79d3e3f3710bc01"
   },
   {
     "category": "biology",
@@ -2085,15 +1093,15 @@
     "question_text": "¿Cómo se llama la doble membrana que rodea los pulmones?",
     "correct_answer": "Pleura",
     "choices": [
-      "Meninges",
       "Pericardio",
+      "Pleura",
       "Peritoneo",
-      "Pleura"
+      "Meninges"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "2bada20c-eac1-4fbb-aaea-1fa9aa68b997"
+    "translation_key": "b9c93a133c9856571239dc9741fd8ad3daf86ad35ee54b3ca0804befbfae47e2"
   },
   {
     "category": "biology",
@@ -2101,31 +1109,31 @@
     "question_text": "¿Qué proceso describe el movimiento del agua a través de una membrana semipermeable?",
     "correct_answer": "Ósmosis",
     "choices": [
-      "Ósmosis",
       "Difusión",
-      "Difusión facilitada",
-      "Transporte activo"
+      "Ósmosis",
+      "Transporte activo",
+      "Difusión facilitada"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "4ee2eed4-5b03-4f84-b0be-d02f85960059"
+    "translation_key": "46d16488a6e6d78e20dffd4f683f8b65e81f5d949f4ca5d5595e3fdd45e7d20a"
   },
   {
     "category": "biology",
     "difficulty": "easy",
-    "question_text": "¿Qué animal puede cambiar de color para mezclarse con su entorno?",
+    "question_text": "¿Qué animal puede cambiar su color para mezclarse con su entorno?",
     "correct_answer": "Camaleón",
     "choices": [
-      "Cebra",
-      "Pavo real",
       "Pulpo",
-      "Camaleón"
+      "Camaleón",
+      "Pavo real",
+      "Cebra"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "ac6bf00f-fad2-4460-b397-4a0d1a64158f"
+    "translation_key": "c9977b422987fb63311f1219c580102dd9746bbc52397da46dca695a28a34d2a"
   },
   {
     "category": "biology",
@@ -2133,15 +1141,15 @@
     "question_text": "¿Cómo se llama el primer antibiótico descubierto?",
     "correct_answer": "Penicilina",
     "choices": [
-      "Tetraciclina",
-      "Penicilina",
       "Estreptomicina",
+      "Penicilina",
+      "Tetraciclina",
       "Eritromicina"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "833f7a68-4a5d-47b0-9455-453838fecc4f"
+    "translation_key": "1201e67edadc47a08ea8f3c8bf1372ab5eb2ef0062cb222a6e6792239af85bfa"
   },
   {
     "category": "biology",
@@ -2150,30 +1158,30 @@
     "correct_answer": "Cerebelo",
     "choices": [
       "Cerebro",
-      "Hipotálamo",
+      "Cerebelo",
       "Tronco encefálico",
-      "Cerebelo"
+      "Hipotálamo"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "da8c0b86-41eb-46ae-a5dc-7daace881664"
+    "translation_key": "dcce437d95b7370862069c68dc51d1a64aa87851712e791d833f507b98409072"
   },
   {
     "category": "biology",
     "difficulty": "medium",
     "question_text": "¿Cuál es el término para los animales que ponen huevos?",
-    "correct_answer": "Oviparos",
+    "correct_answer": "Ovíparos",
     "choices": [
       "Vivíparos",
+      "Ovíparos",
       "Ovovivíparos",
-      "Marsupiales",
-      "Oviparos"
+      "Marsupiales"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8cbf70c7-aabf-42d6-af97-02e93f46fe1b"
+    "translation_key": "28b93fc9ae6e1b9989e7dba5d17b85a7e226ff9e5e22e6896e0add36905c2e0d"
   },
   {
     "category": "biology",
@@ -2181,15 +1189,15 @@
     "question_text": "¿Cuál es el hueso más largo del cuerpo humano?",
     "correct_answer": "Fémur",
     "choices": [
-      "Peroné",
       "Tibia",
+      "Fémur",
       "Húmero",
-      "Fémur"
+      "Peroné"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "73d8266d-0ada-461f-9bd2-268c903779c2"
+    "translation_key": "b148706348e6500ce259229622a4f52d7b1d61544e8b7021fff5e294543bf0d0"
   },
   {
     "category": "biology",
@@ -2197,15 +1205,15 @@
     "question_text": "¿Qué órgano es responsable de filtrar la sangre en el cuerpo humano?",
     "correct_answer": "Riñones",
     "choices": [
-      "Corazón",
       "Hígado",
-      "Pulmones",
-      "Riñones"
+      "Riñones",
+      "Corazón",
+      "Pulmones"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "11903b0a-3ba8-4f43-9495-78758f7d0d1a"
+    "translation_key": "31285927dea8ca34f034e09bcc97a516f46490dd3a6e4b393529a1db5c6d550b"
   },
   {
     "category": "biology",
@@ -2213,31 +1221,31 @@
     "question_text": "¿Cómo se llama el estudio de los insectos?",
     "correct_answer": "Entomología",
     "choices": [
-      "Ornitología",
       "Entomología",
       "Herpetología",
+      "Ornitología",
       "Ictiología"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "cc485c72-c541-41d3-be34-6d39a3f27b5f"
+    "translation_key": "4770dd747466b86af1ab1d049576cd123533f7903b29f61ea9874497195043c9"
   },
   {
     "category": "biology",
     "difficulty": "medium",
-    "question_text": "¿Qué organismo es responsable de la producción de la mayor parte del oxígeno de la Tierra?",
+    "question_text": "¿Qué organismo es responsable de la mayor parte de la producción de oxígeno de la Tierra?",
     "correct_answer": "Fitoplancton",
     "choices": [
+      "Árboles",
       "Fitoplancton",
       "Pastos",
-      "Selvas tropicales",
-      "Árboles"
+      "Selvas tropicales"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "e5155b9c-19f7-4452-a50b-101ce3d5e2e0"
+    "translation_key": "eb741bacbfc6b587ac7f7d87aa4bc83d409e2f57a44bef59f195522439d9bcc2"
   },
   {
     "category": "biology",
@@ -2253,7 +1261,247 @@
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "fca1ba51-bffe-43e3-86b9-0e0eacecf3b7"
+    "translation_key": "f31854665c60ce3c76fcb893bb2e0d2cfd7e99b9b2e6018474482c2bbd383469"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "¿Qué orgánulo es responsable de producir ATP en las células?",
+    "correct_answer": "Mitocondria",
+    "choices": [
+      "Núcleo",
+      "Mitocondria",
+      "Ribosoma",
+      "Aparato de Golgi"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "33ca87a3659c87577406cdda8b1a82c635a0a68c4727be885c751cc969bcb1be"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "correct_answer": "Piel",
+    "choices": [
+      "Hígado",
+      "Cerebro",
+      "Piel",
+      "Corazón"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "1093e569297abb6d68c8fc1c5db330091fbc7c7c3a1cdd05c0e1ac232d4215a2"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "¿Qué proceso utilizan las plantas para convertir la luz solar en energía?",
+    "correct_answer": "Fotosíntesis",
+    "choices": [
+      "Respiración celular",
+      "Fotosíntesis",
+      "Fermentación",
+      "Quimiosíntesis"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "3b386ee666ac95107c85c001310ce761a6ac4e0228c602f756d5ca22ed4b23c1"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "¿Qué tipo de sangre se conoce como donante universal?",
+    "correct_answer": "O negativo",
+    "choices": [
+      "A positivo",
+      "AB positivo",
+      "O negativo",
+      "B negativo"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "694af3fc287b0412f1414e38f98dd366af81a7a2e33c48f18d5ccd83f79ec8f3"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "¿Cuántos cromosomas tienen típicamente los humanos?",
+    "correct_answer": "46",
+    "choices": [
+      "23",
+      "46",
+      "48",
+      "44"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "e3634be2a530a6abe60eb15b289cb43bbf3a3e8657f5513f324c96a98f4a06a0"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "¿Cómo se llama la enzima que descompone la lactosa?",
+    "correct_answer": "Lactasa",
+    "choices": [
+      "Lipasa",
+      "Amilasa",
+      "Lactasa",
+      "Proteasa"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "067497df9b76381788b30c83b58bfe924e07cb6dd2f7b8c27d1f2b22c0868c66"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "¿Qué término describe un organismo que puede producir su propio alimento?",
+    "correct_answer": "Autótrofo",
+    "choices": [
+      "Heterótrofo",
+      "Autótrofo",
+      "Descomponedor",
+      "Parásito"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "8c0c07136d69b88b3b588aa18a905601e15f801b19b2c15ad84488a5c541b5c2"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "¿Qué vitamina produce el cuerpo humano al exponerse a la luz solar?",
+    "correct_answer": "Vitamina D",
+    "choices": [
+      "Vitamina A",
+      "Vitamina C",
+      "Vitamina D",
+      "Vitamina B12"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "b56958d7f476b39bfd8df888dd06fdc260e4a887718bfa286778950c99285711"
+  },
+  {
+    "category": "biology",
+    "difficulty": "hard",
+    "question_text": "¿Cómo se llama el estudio científico de los hongos?",
+    "correct_answer": "Micología",
+    "choices": [
+      "Botánica",
+      "Micología",
+      "Virología",
+      "Entomología"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "deacfd911811da90ac4cc1dac79d76019fc2cfc40a90ebd187cb71676ac7be22"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "¿Qué tipo de animal es un ornitorrinco?",
+    "correct_answer": "Un mamífero",
+    "choices": [
+      "Un reptil",
+      "Un ave",
+      "Un mamífero",
+      "Un anfibio"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "5918b9e16e98acf63cc91b94865a2dab5831def1a3e66e2a0ceb26c349a3a6ff"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el hueso más grande y fuerte del cuerpo?",
+    "correct_answer": "Fémur",
+    "choices": [
+      "Tibia",
+      "Fémur",
+      "Húmero",
+      "Columna vertebral"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "3dad8b41fcfd6f6d742c589b0669e0729fb0c53c58b41f493399f58be035dd61"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "¿Cómo se llama el proceso por el cual las células se dividen para formar dos células hijas idénticas?",
+    "correct_answer": "Mitosis",
+    "choices": [
+      "Meiosis",
+      "Mitosis",
+      "Fisión binaria",
+      "Gemación"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "5b60623317de3da6d6a3ee477fb4b605676f1639a2a04f97433686add0986cd4"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "¿Cuál de estos animales tiene sangre azul?",
+    "correct_answer": "Pulpo",
+    "choices": [
+      "Langosta",
+      "Pulpo",
+      "Lombriz de tierra",
+      "Tiburón"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "f560286ef8f34fc5ddafd41c3d8e3add55324a0f61d033b4594b2566b85ff6d9"
+  },
+  {
+    "category": "biology",
+    "difficulty": "medium",
+    "question_text": "¿Qué parte del ojo humano es responsable de enfocar la luz?",
+    "correct_answer": "Cristalino",
+    "choices": [
+      "Retina",
+      "Córnea",
+      "Cristalino",
+      "Iris"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "7289259ee531ed0f0f7394a88c639c939f0b863b6c524c291b3c1f3697abdff3"
+  },
+  {
+    "category": "biology",
+    "difficulty": "easy",
+    "question_text": "Aproximadamente, ¿qué porcentaje del cuerpo humano es agua?",
+    "correct_answer": "60%",
+    "choices": [
+      "40%",
+      "60%",
+      "80%",
+      "95%"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "63dfcf4b7536255b9d785805d3c4f4178544d632df486244f71362a82873d95a"
   },
   {
     "category": "chemistry",
@@ -2261,15 +1509,15 @@
     "question_text": "¿Cuál es el número atómico del carbono?",
     "correct_answer": "6",
     "choices": [
+      "4",
       "6",
-      "12",
       "8",
-      "4"
+      "12"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b22cbf56-da81-42bd-b4e2-5f181f3f1b09"
+    "translation_key": "bf1c943c0293fc6a73c925824c26b6f2b606bc99ada305c295cbf734038c3a8b"
   },
   {
     "category": "chemistry",
@@ -2277,15 +1525,15 @@
     "question_text": "¿Cuál es el símbolo químico del potasio?",
     "correct_answer": "K",
     "choices": [
-      "Pt",
-      "K",
       "P",
-      "Po"
+      "K",
+      "Po",
+      "Pt"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "7c4c7335-a432-4950-bad8-4e22011bea4a"
+    "translation_key": "b535eb5e0ff46d5e6c468c78c964d3e090e0dba8d8999265e5c4fbdd54ab7ddd"
   },
   {
     "category": "chemistry",
@@ -2293,15 +1541,15 @@
     "question_text": "¿Qué tipo de reacción libera calor?",
     "correct_answer": "Exotérmica",
     "choices": [
+      "Endotérmica",
       "Exotérmica",
       "Síntesis",
-      "Endotérmica",
       "Descomposición"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "a1da03c2-4a44-4d27-b030-bee9b073614c"
+    "translation_key": "5df2e52f38cf831ca81436cd3787f58ac26fa4b65a9595e18253c7809ff6bb76"
   },
   {
     "category": "chemistry",
@@ -2309,15 +1557,15 @@
     "question_text": "¿Qué elemento se necesita para que ocurra la combustión?",
     "correct_answer": "Oxígeno",
     "choices": [
-      "Oxígeno",
       "Nitrógeno",
-      "Carbono",
-      "Hidrógeno"
+      "Hidrógeno",
+      "Oxígeno",
+      "Carbono"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "598d6495-9553-438f-a382-9cce244de63d"
+    "translation_key": "b3481193d128ab26867e8c228f107a3a7b7398155296d7078e16286b10292091"
   },
   {
     "category": "chemistry",
@@ -2327,13 +1575,13 @@
     "choices": [
       "Dióxido de nitrógeno",
       "Óxido nitroso",
-      "Nitrógeno",
-      "Óxido nítrico"
+      "Óxido nítrico",
+      "Nitrógeno"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "d08c7d9c-b6cd-47c9-9739-0d5febf776b5"
+    "translation_key": "5cec6fcd8bdeb7693823bc3cd5e990657f2e8604dc4bfda1047dd7b10eeaa611"
   },
   {
     "category": "chemistry",
@@ -2341,15 +1589,15 @@
     "question_text": "¿Cuál es el elemento más abundante en la corteza terrestre?",
     "correct_answer": "Oxígeno",
     "choices": [
-      "Hierro",
       "Silicio",
       "Oxígeno",
-      "Aluminio"
+      "Aluminio",
+      "Hierro"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "a1c4208c-f94f-46eb-933e-90ba5936d9b1"
+    "translation_key": "2760161913e35bc8f77db4a24f2c7be42b23e62b3505d1bcbf9988577ca7d797"
   },
   {
     "category": "chemistry",
@@ -2358,14 +1606,14 @@
     "correct_answer": "Rojo",
     "choices": [
       "Azul",
-      "Amarillo",
       "Rojo",
-      "Verde"
+      "Verde",
+      "Amarillo"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b607f26d-12e5-4bec-9b40-253706875400"
+    "translation_key": "224e8b41544fd8cad5fe7d6e4090bd4d0b0cfb0f9780a0aa81d4b95a711b9d9b"
   },
   {
     "category": "chemistry",
@@ -2373,15 +1621,15 @@
     "question_text": "¿De qué elemento está hecho un diamante?",
     "correct_answer": "Carbono",
     "choices": [
-      "Silicio",
       "Carbono",
-      "Diamante",
-      "Grafito"
+      "Silicio",
+      "Grafito",
+      "Diamante"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "314549b1-40cc-46ba-8aaa-7876be227ed6"
+    "translation_key": "9572ce049fa2f97af0c8378017359d6e62c496698793fb96c8da48d4821db7ae"
   },
   {
     "category": "chemistry",
@@ -2389,15 +1637,15 @@
     "question_text": "¿Cuál es el símbolo en la tabla periódica para la plata?",
     "correct_answer": "Ag",
     "choices": [
+      "Si",
       "Sl",
       "Ag",
-      "Si",
       "Sv"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "593ea5e6-2a64-4a44-94d2-53c333352c45"
+    "translation_key": "65833753d1aa2342eaf6d753a950824282a106e23f98542d73eeb112234d3a11"
   },
   {
     "category": "chemistry",
@@ -2405,15 +1653,15 @@
     "question_text": "¿Qué tipo de mezcla tiene partículas que no se sedimentan?",
     "correct_answer": "Coloide",
     "choices": [
-      "Disolución",
+      "Solución",
+      "Coloide",
       "Suspensión",
-      "Emulsión",
-      "Coloide"
+      "Emulsión"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "14836806-d3a9-406a-adef-8672b30a6d78"
+    "translation_key": "8ed11ce667554457307ce4e5817ef5cd804d0fe417f6c8b4b82b3f80d8e449a3"
   },
   {
     "category": "chemistry",
@@ -2421,47 +1669,47 @@
     "question_text": "¿Cuál es el componente principal del gas natural?",
     "correct_answer": "Metano",
     "choices": [
-      "Propano",
-      "Butano",
       "Etano",
-      "Metano"
+      "Metano",
+      "Propano",
+      "Butano"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "6ef030ea-14ae-4dee-bc1e-54b694b0f633"
+    "translation_key": "eb8cb4f26089215184c936ca6d0e6a1f0f6190c48312854b77fb34ea56c20b87"
   },
   {
     "category": "chemistry",
     "difficulty": "medium",
-    "question_text": "¿Cuál es la fórmula química del amoniaco?",
+    "question_text": "¿Cuál es la fórmula química del amoníaco?",
     "correct_answer": "NH₃",
     "choices": [
-      "N₂H₃",
+      "NH₂",
       "NH₃",
       "NH₄",
-      "NH₂"
+      "N₂H₃"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "aec30c94-9e28-4e01-87aa-6ff1f631d8c7"
+    "translation_key": "12fce1b02b5bfd6b20dbf9eab60871d0ec8344ee6aaeea22449816d93c979e4d"
   },
   {
     "category": "chemistry",
     "difficulty": "hard",
     "question_text": "¿Qué elemento tiene el punto de fusión más alto?",
-    "correct_answer": "Tungsteno",
+    "correct_answer": "Wolframio",
     "choices": [
-      "Platino",
-      "Hierro",
+      "Wolframio",
       "Carbono",
-      "Tungsteno"
+      "Hierro",
+      "Platino"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "2e20b460-6da2-429f-adb3-ea8e76a00a84"
+    "translation_key": "249bb057a1fa6d80838834d355ca2720eeb06173c188078e31407064511f570d"
   },
   {
     "category": "chemistry",
@@ -2470,46 +1718,46 @@
     "correct_answer": "0-1",
     "choices": [
       "0-1",
-      "12-14",
       "5-6",
-      "7-8"
+      "7-8",
+      "12-14"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "6f858768-29f0-4932-92b3-45922f0a1065"
+    "translation_key": "af0f14d976df61457a25280023bc733c49ca48b5096b92be5065413594777206"
   },
   {
     "category": "chemistry",
     "difficulty": "easy",
-    "question_text": "¿Cuál es el nombre del proceso químico que hace que el hierro se oxide?",
+    "question_text": "¿Cómo se llama el proceso químico que hace que el hierro se oxide?",
     "correct_answer": "Oxidación",
     "choices": [
+      "Reducción",
       "Oxidación",
-      "Sublimación",
       "Hidratación",
-      "Reducción"
+      "Sublimación"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "515ccb9d-b083-4381-bf19-77c97f2f5d85"
+    "translation_key": "02d87e1697dfea65cb7b89bc6ad6ca7e7e5459da33572d218a926e07890cd481"
   },
   {
     "category": "chemistry",
     "difficulty": "hard",
-    "question_text": "¿Qué elemento se utiliza como colorante azul en los fuegos artificiales?",
+    "question_text": "¿Qué elemento se usa como colorante azul en los fuegos artificiales?",
     "correct_answer": "Cobre",
     "choices": [
-      "Estroncio",
       "Sodio",
-      "Bario",
-      "Cobre"
+      "Estroncio",
+      "Cobre",
+      "Bario"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "69a3d229-b586-465f-9f6b-a6fc9970a9f0"
+    "translation_key": "7343e9aa641d1c59eb64f75b745608cc7f245b6a60de432cd21b61fb1b1a2d30"
   },
   {
     "category": "chemistry",
@@ -2517,15 +1765,15 @@
     "question_text": "¿Cuál es la partícula más pequeña de un elemento que conserva sus propiedades químicas?",
     "correct_answer": "Átomo",
     "choices": [
-      "Protón",
-      "Electrón",
       "Molécula",
-      "Átomo"
+      "Átomo",
+      "Protón",
+      "Electrón"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "3081dafd-f641-45ed-89c5-8142a44ba9cf"
+    "translation_key": "1297aa3068a1580c6ff00c785bf6f0f54c75270553a9012acc7be4dd8fdde132"
   },
   {
     "category": "chemistry",
@@ -2533,15 +1781,15 @@
     "question_text": "¿Cuál es el nombre químico del hielo seco?",
     "correct_answer": "Dióxido de carbono sólido",
     "choices": [
-      "Nitrógeno sólido",
       "Agua sólida",
-      "Oxígeno sólido",
-      "Dióxido de carbono sólido"
+      "Dióxido de carbono sólido",
+      "Nitrógeno sólido",
+      "Oxígeno sólido"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "120a0c27-3691-4ed3-a4ed-0e2cbebab28e"
+    "translation_key": "c2d883b755636760f8cfdd3b0a819e61770a555659b17847a49feba5c55be5f0"
   },
   {
     "category": "chemistry",
@@ -2549,15 +1797,15 @@
     "question_text": "¿Cómo se llama el proceso de separar una mezcla por punto de ebullición?",
     "correct_answer": "Destilación",
     "choices": [
-      "Evaporación",
+      "Filtración",
       "Destilación",
       "Cromatografía",
-      "Filtración"
+      "Evaporación"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "0d7b0fa8-7379-48e6-a80d-068dd6379cbc"
+    "translation_key": "1053f387ee3a21474dda62b0e2dd1a8d565eea583dd9bb7c2c5726cbd055f02e"
   },
   {
     "category": "chemistry",
@@ -2565,31 +1813,31 @@
     "question_text": "¿Qué elemento es líquido a temperatura ambiente además del mercurio?",
     "correct_answer": "Bromo",
     "choices": [
+      "Yodo",
       "Bromo",
       "Cloro",
-      "Yodo",
       "Flúor"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "74f99535-a696-4420-a2df-1e98a777ab0c"
+    "translation_key": "3c58fff4c1eb66663d9a8a25415dd6504087ebb95950d58f4be6e984e1d8bb2f"
   },
   {
     "category": "chemistry",
     "difficulty": "medium",
-    "question_text": "¿Qué tipo de enlace químico se forma entre un metal y un no metal?",
+    "question_text": "¿Qué tipo de enlace químico se forma entre metales y no metales?",
     "correct_answer": "Enlace iónico",
     "choices": [
-      "Enlace metálico",
-      "Enlace de hidrógeno",
+      "Enlace covalente",
       "Enlace iónico",
-      "Enlace covalente"
+      "Enlace metálico",
+      "Enlace de hidrógeno"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "c512bea0-8d10-45b6-b14e-ccb7de53248f"
+    "translation_key": "f2fa92f7e8a7804e150e636c610ea22ef459630b3f6d0f05bf9fd605de79a824"
   },
   {
     "category": "chemistry",
@@ -2597,15 +1845,15 @@
     "question_text": "¿Cuál es la fórmula química del metano?",
     "correct_answer": "CH₄",
     "choices": [
+      "CO₂",
       "C₂H₆",
       "CH₄",
-      "CO₂",
       "C₃H₈"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b31503a3-273c-4c95-9b2a-abcfb9fe30d0"
+    "translation_key": "c0b5d7bc3f535424da118dd6b2f69187490de6484c69c43ea9f00b8062c2f45a"
   },
   {
     "category": "chemistry",
@@ -2613,15 +1861,15 @@
     "question_text": "¿Qué elemento tiene el símbolo atómico 'Fe'?",
     "correct_answer": "Hierro",
     "choices": [
+      "Francio",
       "Hierro",
-      "Fermio",
       "Flúor",
-      "Francio"
+      "Fermio"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "027e6dd3-a268-4da6-8f45-c5f1200c4947"
+    "translation_key": "1c80c214288188b34b77bab4359791d22513f52f711ee2813066354e9496daab"
   },
   {
     "category": "chemistry",
@@ -2631,13 +1879,13 @@
     "choices": [
       "Termoquímica",
       "Cinética química",
-      "Electroquímica",
-      "Estequiometría"
+      "Estequiometría",
+      "Electroquímica"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8208d5cb-d9be-45ca-ab8c-8de6a72f0eda"
+    "translation_key": "cc4babe1419b51d695fdbe924c58068483219d68235cf6270c67182c66655c81"
   },
   {
     "category": "chemistry",
@@ -2645,15 +1893,15 @@
     "question_text": "¿Cuál es el principal gas producido por los volcanes además del vapor de agua?",
     "correct_answer": "Dióxido de carbono",
     "choices": [
-      "Sulfuro de hidrógeno",
+      "Dióxido de azufre",
       "Dióxido de carbono",
-      "Nitrógeno",
-      "Dióxido de azufre"
+      "Sulfuro de hidrógeno",
+      "Nitrógeno"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "030396f8-ce7d-4bc0-883b-b284c1aead9b"
+    "translation_key": "854fc4f5cc3120f5c9e644f0b9b5658f452d1794729790cf33a9677fc7dfde73"
   },
   {
     "category": "chemistry",
@@ -2661,15 +1909,15 @@
     "question_text": "¿Cuál es la única letra que no aparece en la tabla periódica?",
     "correct_answer": "J",
     "choices": [
-      "X",
-      "Z",
+      "Q",
       "J",
-      "Q"
+      "X",
+      "Z"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "56ee33f8-50b4-4750-831a-213c3e3dfce6"
+    "translation_key": "50f6725cca716a56f004f44fc50ef91c36cd96b7824cf72c1d614dd33383c26e"
   },
   {
     "category": "chemistry",
@@ -2677,15 +1925,15 @@
     "question_text": "¿Cómo se llama el ion con carga negativa?",
     "correct_answer": "Anión",
     "choices": [
-      "Isótopo",
+      "Catión",
       "Anión",
-      "Ion",
-      "Catión"
+      "Isótopo",
+      "Ion"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "a322e7fb-e12b-4b74-a74e-881b64a2d9cf"
+    "translation_key": "7139ca2e98850fb946678c1ab0dfaf3a5e72ecc59bcf3edd065e35b6f88acfb6"
   },
   {
     "category": "chemistry",
@@ -2693,47 +1941,47 @@
     "question_text": "¿Cuál es el número atómico del oro?",
     "correct_answer": "79",
     "choices": [
-      "92",
       "47",
       "79",
-      "82"
+      "82",
+      "92"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "6fa94347-30b3-4252-abb4-94beb14651c7"
+    "translation_key": "3477f863bed1aa90ca6064f7f1ab0edc76ac6e0d0253e969a406b1a3976f790f"
   },
   {
     "category": "chemistry",
     "difficulty": "easy",
-    "question_text": "¿Qué ácido se utiliza en las baterías de los automóviles?",
+    "question_text": "¿Qué ácido se usa en las baterías de los automóviles?",
     "correct_answer": "Ácido sulfúrico",
     "choices": [
+      "Ácido clorhídrico",
       "Ácido sulfúrico",
       "Ácido nítrico",
-      "Ácido acético",
-      "Ácido clorhídrico"
+      "Ácido acético"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "e6e6ebd6-c553-4c50-ade0-960a982cc032"
+    "translation_key": "a005254532ca5fdb013dc2ec85fd390f50b9f9242ea2bb2834d62ccc590fbc1a"
   },
   {
     "category": "chemistry",
     "difficulty": "easy",
-    "question_text": "¿Cómo se llama el proceso de transformación de un gas en líquido?",
+    "question_text": "¿Cómo se llama el proceso de un gas que se convierte en líquido?",
     "correct_answer": "Condensación",
     "choices": [
-      "Deposición",
-      "Sublimación",
       "Evaporación",
-      "Condensación"
+      "Condensación",
+      "Sublimación",
+      "Deposición"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "181afd68-313b-4108-978f-a9bad6026f8b"
+    "translation_key": "7baf0308578178d66f82dc3076af447706bf00ddc4c4a194dd2a081e1ae27ac4"
   },
   {
     "category": "chemistry",
@@ -2743,13 +1991,13 @@
     "choices": [
       "Helio",
       "Hidrógeno",
-      "Carbono",
-      "Oxígeno"
+      "Oxígeno",
+      "Carbono"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b31aaeb1-bad0-40af-bf76-9d0a6f755ea8"
+    "translation_key": "d73901c031e8a9e0a134f7655677970579e5281966c38a639479dc6bfe2359c6"
   },
   {
     "category": "chemistry",
@@ -2757,15 +2005,15 @@
     "question_text": "¿Cuál es el nombre común del cloruro de sodio?",
     "correct_answer": "Sal de mesa",
     "choices": [
-      "Sal de mesa",
       "Bicarbonato de sodio",
+      "Sal de mesa",
       "Sal de Epsom",
-      "Sal de roca"
+      "Sal gema"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8444e411-59f5-44ee-b62c-83935252b7ee"
+    "translation_key": "21dfdf1d9bd714d45c12349ea9b53a5baa81aa63320a6fcaf49081967b3ffe7e"
   },
   {
     "category": "chemistry",
@@ -2773,15 +2021,15 @@
     "question_text": "¿Cuál es el símbolo químico del estaño?",
     "correct_answer": "Sn",
     "choices": [
-      "Tn",
       "Ti",
+      "Tn",
       "Sn",
       "Si"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "5ccc08f7-6c73-45e3-93eb-56396a826241"
+    "translation_key": "c409628259a1eb0182ab9a30ff572f29dc01726d038c267c311596a5f023776e"
   },
   {
     "category": "chemistry",
@@ -2789,15 +2037,255 @@
     "question_text": "¿Cuál es el número de Avogadro?",
     "correct_answer": "6.022 × 10²³",
     "choices": [
-      "1.602 × 10¹⁹",
       "3.141 × 10²³",
       "6.022 × 10²³",
+      "1.602 × 10¹⁹",
       "9.81 × 10²³"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b59ddf1a-2077-475e-9850-477357877901"
+    "translation_key": "e0cdea476d5044dbe830502e4f68d4af8ce775529d6dda45eda0ad6b9610ebc5"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el pH del agua pura?",
+    "correct_answer": "7",
+    "choices": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "19d8e8995528106ed930152dfc69689bae36bdcb444800f3e3f473d4ced4ae1f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Qué elemento tiene el número atómico 1?",
+    "correct_answer": "Hidrógeno",
+    "choices": [
+      "Helio",
+      "Oxígeno",
+      "Hidrógeno",
+      "Carbono"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "6ab9a4a36c4b629f9dc7b859e74bb6136ce9511f786264e9775a67a5873b323a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es la fórmula química de la sal de mesa?",
+    "correct_answer": "NaCl",
+    "choices": [
+      "NaCl",
+      "KCl",
+      "NaOH",
+      "Na₂CO₃"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "9f34518f28184f28b5c93aea9248b6b5099ffd02a1d10e32f3e9104e66afa089"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "¿Qué tipo de enlace químico implica la compartición de electrones?",
+    "correct_answer": "Enlace covalente",
+    "choices": [
+      "Enlace iónico",
+      "Enlace covalente",
+      "Enlace metálico",
+      "Enlace de hidrógeno"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "c83c57e5ab29081cc67bc01ffcc8e5ed36f2d8bc63c3a420635b5dc0b58e2b22"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+    "correct_answer": "Nitrógeno",
+    "choices": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Argón"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "e3403af8ef1da6001ea3d4f3d2b86e268525ef8725b8735a8682a5cbe5f34c77"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Qué elemento tiene el símbolo químico 'Au'?",
+    "correct_answer": "Oro",
+    "choices": [
+      "Plata",
+      "Aluminio",
+      "Oro",
+      "Argón"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "c625e6ba9627bd92edb1cc97b503474a96dfb0e9bca9091d2e80fa1d4a3a6fbe"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "¿Cómo se llama el proceso de un sólido que se convierte directamente en gas?",
+    "correct_answer": "Sublimación",
+    "choices": [
+      "Evaporación",
+      "Condensación",
+      "Sublimación",
+      "Deposición"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "897ba0adcc5bf7102a87799ef1d1f438e505faff638ec1a48cc156b38c6fbf70"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "¿Cómo se llama una sustancia que acelera una reacción química sin consumirse?",
+    "correct_answer": "Catalizador",
+    "choices": [
+      "Reactivo",
+      "Producto",
+      "Catalizador",
+      "Inhibidor"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "3a792e19c4dc1a16f7c5cc51c3b872c607163beff8ed65e01a2ad9c7fd8e5680"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el nombre químico del bicarbonato de sodio?",
+    "correct_answer": "Bicarbonato de sodio",
+    "choices": [
+      "Carbonato de sodio",
+      "Bicarbonato de sodio",
+      "Hidróxido de sodio",
+      "Cloruro de sodio"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "ed5d8d8daface54e70ba988a31099f17ac06cb69935e7e3d3a0894353464716a"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "¿Qué elemento es líquido a temperatura ambiente?",
+    "correct_answer": "Mercurio",
+    "choices": [
+      "Hierro",
+      "Mercurio",
+      "Plata",
+      "Plomo"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "a8cb25d3246181282ed5524525594dd278418e2f5315dbae63d733ce3f7fb076"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el elemento más ligero de la tabla periódica?",
+    "correct_answer": "Hidrógeno",
+    "choices": [
+      "Hidrógeno",
+      "Helio",
+      "Litio",
+      "Oxígeno"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "4a418cec15e85a930ace6bd0101793e12812fbd88a0e4dcbb4062a79a1171444"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es la fórmula química del peróxido de hidrógeno?",
+    "correct_answer": "H₂O₂",
+    "choices": [
+      "H₂O",
+      "H₂O₂",
+      "HO₂",
+      "H₂SO₄"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "44f35577dfd6acd990c1f562784a68633c0897ffc8a0b13877284c6cee292f8d"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Qué gas noble se utiliza en los letreros luminosos?",
+    "correct_answer": "Neón",
+    "choices": [
+      "Argón",
+      "Neón",
+      "Kriptón",
+      "Xenón"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "634618c2ed57b21e44e3da186e7f124634526518153243a3eb0c2eb82e18d4a8"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "medium",
+    "question_text": "¿Cómo se llama el estudio de los compuestos que contienen carbono?",
+    "correct_answer": "Química orgánica",
+    "choices": [
+      "Química inorgánica",
+      "Química orgánica",
+      "Química física",
+      "Bioquímica"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "448ec5b621e7bca1f789a0ea3140e6a08e4e3d52bb6b5e17537f3f88c2b2c638"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Qué ácido se encuentra en el estómago y ayuda a digerir los alimentos?",
+    "correct_answer": "Ácido clorhídrico",
+    "choices": [
+      "Ácido sulfúrico",
+      "Ácido nítrico",
+      "Ácido clorhídrico",
+      "Ácido acético"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "2e73ab6503ffa03983b7564e3d478f57257816738952f89316372d78927529f0"
   },
   {
     "category": "physics",
@@ -2805,15 +2293,15 @@
     "question_text": "¿Cuál es la unidad SI de fuerza?",
     "correct_answer": "Newton",
     "choices": [
-      "Vatio",
-      "Julio",
+      "Joule",
       "Newton",
-      "Pascal"
+      "Pascal",
+      "Vatio"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "935bbaba-442b-4997-81fb-6fc9da7bd02a"
+    "translation_key": "25255588a185727feb72e64d2f8fdd3b17790c90bdec85c9c748190d94e05180"
   },
   {
     "category": "physics",
@@ -2821,15 +2309,15 @@
     "question_text": "¿Cuál es aproximadamente la velocidad del sonido en el aire a nivel del mar?",
     "correct_answer": "343 m/s",
     "choices": [
+      "150 m/s",
       "343 m/s",
-      "1000 m/s",
       "700 m/s",
-      "150 m/s"
+      "1000 m/s"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "c93068a5-5c4f-4c7a-85c0-0403f15cca18"
+    "translation_key": "3e9ed50837ff74505e9ff7a9a7908b6bfd2a664451051315f994b1da19d99670"
   },
   {
     "category": "physics",
@@ -2837,15 +2325,15 @@
     "question_text": "¿Qué tipo de espejo se usa en los espejos laterales de los automóviles con la advertencia 'los objetos están más cerca de lo que parecen'?",
     "correct_answer": "Espejo convexo",
     "choices": [
-      "Espejo plano",
       "Espejo cóncavo",
       "Espejo convexo",
+      "Espejo plano",
       "Espejo parabólico"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "ab143054-a0ab-431f-a6e4-fed751c36bea"
+    "translation_key": "e1c940a459745f29e9a39e567ab9f039c1c9102f2263ab3a9dbd7fc69865146e"
   },
   {
     "category": "physics",
@@ -2853,31 +2341,31 @@
     "question_text": "¿Qué físico desarrolló la teoría de la relatividad general?",
     "correct_answer": "Albert Einstein",
     "choices": [
-      "Niels Bohr",
-      "Richard Feynman",
       "Isaac Newton",
-      "Albert Einstein"
+      "Albert Einstein",
+      "Niels Bohr",
+      "Richard Feynman"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b1ed79f7-ec37-4b18-86d2-263cd569acfc"
+    "translation_key": "c7d0db4f783484b2ebc30d2c4e81bfc33327a6dadfe9c35c76339be9c94fb04e"
   },
   {
     "category": "physics",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama el fenómeno por el que un sistema vibrante responde con mayor intensidad a frecuencias específicas?",
+    "question_text": "¿Cómo se llama el fenómeno por el cual un sistema vibrante responde con mayor intensidad a frecuencias específicas?",
     "correct_answer": "Resonancia",
     "choices": [
-      "Polarización",
       "Difracción",
+      "Resonancia",
       "Interferencia",
-      "Resonancia"
+      "Polarización"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "fd24b76d-b586-4494-a471-212f3a8198ea"
+    "translation_key": "05bd1fa9f816046fbfb4720d397781a7be3c9f5574d2ca6e982f66968b8a187c"
   },
   {
     "category": "physics",
@@ -2885,47 +2373,47 @@
     "question_text": "¿Qué partícula subatómica tiene carga negativa?",
     "correct_answer": "Electrón",
     "choices": [
-      "Neutrón",
       "Protón",
-      "Positrón",
-      "Electrón"
+      "Neutrón",
+      "Electrón",
+      "Positrón"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b5d977d8-ebf0-4a52-8be8-afdd4e3bd310"
+    "translation_key": "69fae852071e4d7a445786c7e8a09feca5fa25c941741eb4678971db65084b25"
   },
   {
     "category": "physics",
     "difficulty": "easy",
     "question_text": "¿Cuál es la unidad SI de energía?",
-    "correct_answer": "Julio",
+    "correct_answer": "Joule",
     "choices": [
       "Vatio",
+      "Joule",
       "Newton",
-      "Julio",
       "Voltio"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "74a80a99-6e12-4491-ac2b-d90d1488f8f4"
+    "translation_key": "8cc87740ca12e090157c2217e117f1d06ef672af2215f59ad53539f00d915690"
   },
   {
     "category": "physics",
     "difficulty": "easy",
-    "question_text": "¿Cómo se llama la resistencia de un objeto a cambiar su estado de movimiento?",
+    "question_text": "¿Cuál es el término para la resistencia de un objeto a cambiar su estado de movimiento?",
     "correct_answer": "Inercia",
     "choices": [
-      "Aceleración",
+      "Momentum",
       "Inercia",
       "Fricción",
-      "Momento"
+      "Aceleración"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "de197a80-7773-4184-a788-92ffa99f1ff2"
+    "translation_key": "e5e3a1e716793cce198080e48482c9ea3d078128d6b7adae4ec9c3de2f383181"
   },
   {
     "category": "physics",
@@ -2934,30 +2422,30 @@
     "correct_answer": "Ley de Ohm",
     "choices": [
       "Ley de Faraday",
+      "Ley de Ohm",
       "Ley de Coulomb",
-      "Ley de Ampère",
-      "Ley de Ohm"
+      "Ley de Ampère"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "cb335d81-971d-4686-a20b-68f1a17a4f93"
+    "translation_key": "a18ebd835136f981ed4c2b37e94237be63db5b13c5f82889bd79441ff4190f05"
   },
   {
     "category": "physics",
     "difficulty": "hard",
-    "question_text": "¿Qué partícula está formada por dos quarks?",
+    "question_text": "¿Qué partícula está compuesta por dos quarks?",
     "correct_answer": "Mesón",
     "choices": [
       "Protón",
       "Neutrón",
-      "Barión",
-      "Mesón"
+      "Mesón",
+      "Barión"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "936b1c68-62d5-41b7-ad7f-be5da65d361c"
+    "translation_key": "22e9bd82726662be76a39c9d42ddb66ffb0f4f6fe51af922fad715c087f635f7"
   },
   {
     "category": "physics",
@@ -2965,15 +2453,15 @@
     "question_text": "¿Qué hace un transformador?",
     "correct_answer": "Cambia el voltaje de la corriente alterna",
     "choices": [
-      "Cambia el voltaje de la corriente alterna",
       "Cambia el voltaje de la corriente continua",
-      "Almacena energía eléctrica",
-      "Convierte CA a CC"
+      "Cambia el voltaje de la corriente alterna",
+      "Convierte CA en CC",
+      "Almacena energía eléctrica"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "d44b0f9e-9a02-4d52-aae2-348a46b49a2e"
+    "translation_key": "ddd3d34a1c5c98204c77dbb6fbf37f7da83c37228d54f4f111a6c2c920c2d376"
   },
   {
     "category": "physics",
@@ -2981,15 +2469,15 @@
     "question_text": "¿Cómo se llama el estudio del calor y su transformación?",
     "correct_answer": "Termodinámica",
     "choices": [
+      "Cinemática",
       "Termodinámica",
       "Electromagnetismo",
-      "Cinemática",
       "Mecánica cuántica"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "598c963b-7896-4c1b-aa12-e7195247f193"
+    "translation_key": "4827de0362da405416edb333eca94be31b211d0e1e66aabf71141aca0a7f66d4"
   },
   {
     "category": "physics",
@@ -2997,31 +2485,31 @@
     "question_text": "¿Qué instrumento se utiliza para medir la corriente eléctrica?",
     "correct_answer": "Amperímetro",
     "choices": [
-      "Galvanómetro",
+      "Voltímetro",
       "Amperímetro",
-      "Óhmetro",
-      "Voltímetro"
+      "Ohmímetro",
+      "Galvanómetro"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "2ad49533-4416-4d3a-b3e5-e7e6abc8fa67"
+    "translation_key": "319c5ab87b9cd759196fe0fb6a3d40f62b455a26233e433c5712ee70de61ad37"
   },
   {
     "category": "physics",
     "difficulty": "medium",
-    "question_text": "¿Cómo se llama el proceso de fisión de un núcleo en núcleos más pequeños?",
+    "question_text": "¿Cómo se llama el proceso en el que un núcleo se divide en núcleos más pequeños?",
     "correct_answer": "Fisión nuclear",
     "choices": [
-      "Desintegración radiactiva",
       "Fusión nuclear",
       "Fisión nuclear",
+      "Desintegración radiactiva",
       "Ionización"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "50b2bf25-3e11-440c-a878-aae71ca069f6"
+    "translation_key": "0e05561041dab301762252533ce047dc102a57730d8660b0e80d201bfa40369b"
   },
   {
     "category": "physics",
@@ -3029,15 +2517,15 @@
     "question_text": "¿Cómo se llama el principio que establece que dos fermiones no pueden ocupar el mismo estado cuántico?",
     "correct_answer": "Principio de exclusión de Pauli",
     "choices": [
+      "Principio de incertidumbre de Heisenberg",
       "Principio de exclusión de Pauli",
       "Principio de Aufbau",
-      "Principio de incertidumbre de Heisenberg",
       "Principio de correspondencia"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "bf5932c8-ed32-482b-b812-51041660bbb1"
+    "translation_key": "e767df084fc81b2980238cb220805bbf6784e21e027d3b6e0d85b6940cd581bd"
   },
   {
     "category": "physics",
@@ -3045,15 +2533,15 @@
     "question_text": "¿Qué color tiene la longitud de onda más larga en la luz visible?",
     "correct_answer": "Rojo",
     "choices": [
-      "Violeta",
+      "Rojo",
       "Azul",
       "Verde",
-      "Rojo"
+      "Violeta"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "2052c151-588c-4298-a07e-a25b6ffb1c4e"
+    "translation_key": "2e8a341f9daf3ccbca6dbc124f26da4751b95491c760b0a65812a652accbd574"
   },
   {
     "category": "physics",
@@ -3061,15 +2549,15 @@
     "question_text": "¿Cómo se llama un material que tiene resistencia eléctrica cero por debajo de una temperatura crítica?",
     "correct_answer": "Superconductor",
     "choices": [
-      "Conductor",
+      "Semiconductor",
       "Superconductor",
-      "Aislante",
-      "Semiconductor"
+      "Conductor",
+      "Aislante"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "3c5f562a-727c-408a-8913-562307a82175"
+    "translation_key": "972ad4a0fb57bffb6c35addbd6437a93434a4cc5eeaf6b49d598cf99f0b2a0b5"
   },
   {
     "category": "physics",
@@ -3077,15 +2565,15 @@
     "question_text": "¿Qué máquina simple es una superficie inclinada?",
     "correct_answer": "Plano inclinado",
     "choices": [
-      "Cuña",
-      "Plano inclinado",
       "Palanca",
+      "Plano inclinado",
+      "Cuña",
       "Tornillo"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "25b613e1-a08c-4ade-9221-d97fcca09e43"
+    "translation_key": "0849fec14525db30bb0c78280158e022c059b8ce687f1b83bb6b429dfb97a77b"
   },
   {
     "category": "physics",
@@ -3093,15 +2581,15 @@
     "question_text": "¿Cuál es la unidad SI de frecuencia?",
     "correct_answer": "Hercio",
     "choices": [
-      "Vatio",
-      "Tesla",
+      "Decibelio",
       "Hercio",
-      "Decibelio"
+      "Vatio",
+      "Tesla"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "35945a1b-7330-4ed6-bef9-a03fa3e83109"
+    "translation_key": "2763baf94b50b472423ed2e0f8d9c55c5718021371f46e43180921322d284c79"
   },
   {
     "category": "physics",
@@ -3109,15 +2597,15 @@
     "question_text": "¿Qué fenómeno explica por qué el cielo se ve azul?",
     "correct_answer": "Dispersión de Rayleigh",
     "choices": [
-      "Dispersión de Compton",
       "Dispersión de Mie",
       "Dispersión de Rayleigh",
-      "Dispersión Raman"
+      "Dispersión Raman",
+      "Dispersión Compton"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "cb3265e9-b69c-49d4-84f2-6a8bcc05a22b"
+    "translation_key": "f4a28287bf296cd4d6f69b9729641439709f2a82ce582e514d09ea17bb1a1e33"
   },
   {
     "category": "physics",
@@ -3125,15 +2613,15 @@
     "question_text": "Una pelota lanzada hacia arriba a 10 m/s regresa a su punto de partida. ¿Cuál es su velocidad final ignorando la resistencia del aire?",
     "correct_answer": "10 m/s",
     "choices": [
+      "0 m/s",
       "5 m/s",
       "10 m/s",
-      "0 m/s",
       "20 m/s"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "61c42065-8ad7-4afe-b775-9a1647779569"
+    "translation_key": "a0e44b0dbeca732ef5957885f9cfc61fe6688b7be8663c216588fb576516db7b"
   },
   {
     "category": "physics",
@@ -3141,15 +2629,15 @@
     "question_text": "¿Cuál es la unidad SI de presión?",
     "correct_answer": "Pascal",
     "choices": [
-      "Pascal",
-      "Atmósfera",
       "Bar",
-      "PSI"
+      "Pascal",
+      "PSI",
+      "Atmósfera"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8c46fe5e-3b4e-4290-bc76-404f5a0a20bd"
+    "translation_key": "488f2f8cd7126afefeb8857203e1474f8180f05d2c89201dd9da4e0e2d78fad3"
   },
   {
     "category": "physics",
@@ -3157,15 +2645,15 @@
     "question_text": "¿Qué tipo de lente es más gruesa en el centro que en los bordes?",
     "correct_answer": "Lente convexa",
     "choices": [
-      "Lente cilíndrica",
-      "Lente bifocal",
       "Lente cóncava",
-      "Lente convexa"
+      "Lente convexa",
+      "Lente cilíndrica",
+      "Lente bifocal"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "eaa3a384-41b7-44c1-84db-7ff1db9e3579"
+    "translation_key": "45d7f043141822e30e9a768f6660cbc505c902432ba6e48439a400d097bc137d"
   },
   {
     "category": "physics",
@@ -3173,15 +2661,15 @@
     "question_text": "¿Qué sucede con el tono de un sonido cuando la frecuencia aumenta?",
     "correct_answer": "Se vuelve más agudo",
     "choices": [
-      "Desaparece",
+      "Se vuelve más grave",
       "Se vuelve más agudo",
       "Permanece igual",
-      "Se vuelve más grave"
+      "Desaparece"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "6345a6ed-4699-4fb1-a62b-4ce3876b2921"
+    "translation_key": "9837c1e412057e56ec41887814c1e562c41f93b83e199246c26a52e5866e12fc"
   },
   {
     "category": "physics",
@@ -3189,31 +2677,31 @@
     "question_text": "¿Qué fuerza fundamental es responsable de mantener unido el núcleo de un átomo?",
     "correct_answer": "Fuerza nuclear fuerte",
     "choices": [
-      "Fuerza nuclear débil",
       "Fuerza electromagnética",
-      "Fuerza gravitacional",
-      "Fuerza nuclear fuerte"
+      "Fuerza nuclear fuerte",
+      "Fuerza nuclear débil",
+      "Fuerza gravitacional"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "9bf90f31-28c8-453e-b600-9ac2b977f0ba"
+    "translation_key": "0e926560bdf9a6055b26012721851f542eeac1a43a20f405a3b8cbfe499740aa"
   },
   {
     "category": "physics",
     "difficulty": "hard",
-    "question_text": "¿Cuál es el nombre de la energía mínima necesaria para eliminar un electrón de un átomo?",
+    "question_text": "¿Cómo se llama la energía mínima necesaria para eliminar un electrón de un átomo?",
     "correct_answer": "Energía de ionización",
     "choices": [
-      "Energía de enlace",
-      "Energía de ionización",
       "Afinidad electrónica",
+      "Energía de ionización",
+      "Energía de enlace",
       "Energía de activación"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "4aa0ce8d-4df4-4730-aec3-33e4399245b7"
+    "translation_key": "3920ecf5292c9383ed794d5c3a1ff3e761372935c1209a40afd510279ca4c7ed"
   },
   {
     "category": "physics",
@@ -3221,15 +2709,15 @@
     "question_text": "¿Cuál es la fórmula de la energía cinética?",
     "correct_answer": "½ mv²",
     "choices": [
-      "mgh",
       "mv",
       "½ mv²",
+      "mgh",
       "½ kx²"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "be011162-c981-46a3-901d-6be2260ec702"
+    "translation_key": "efab198cda4449b96e4b021dc05172f56c04a8b196bbbf0b76f19a27f59454a6"
   },
   {
     "category": "physics",
@@ -3237,15 +2725,15 @@
     "question_text": "¿Qué fenómeno hace que el tono de una sirena cambie al pasar?",
     "correct_answer": "Efecto Doppler",
     "choices": [
-      "Efecto mariposa",
-      "Efecto fotoeléctrico",
       "Efecto Doppler",
-      "Efecto invernadero"
+      "Efecto fotoeléctrico",
+      "Efecto invernadero",
+      "Efecto mariposa"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1da28f89-1472-47d5-9f3c-64d4f7aeb2ab"
+    "translation_key": "fe7b4067db36e6948a94fdd234f8837d1dc6593bd562d8c7b5f006a0dd8285b6"
   },
   {
     "category": "physics",
@@ -3253,15 +2741,15 @@
     "question_text": "¿Qué tipo de onda es la luz?",
     "correct_answer": "Onda electromagnética",
     "choices": [
-      "Onda gravitacional",
       "Onda mecánica",
+      "Onda electromagnética",
       "Onda longitudinal",
-      "Onda electromagnética"
+      "Onda gravitacional"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "db597b03-e3f7-4d31-b61d-888e41150e10"
+    "translation_key": "b01a55d9fcfd036de0c5b4d8463dee6cb4a53443239aa0f5684d870039accdc9"
   },
   {
     "category": "physics",
@@ -3271,13 +2759,13 @@
     "choices": [
       "Amperio",
       "Voltio",
-      "Faradio",
-      "Coulomb"
+      "Coulomb",
+      "Faradio"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "39be0cf7-66e7-4b1d-8ab3-f82cbf0df39a"
+    "translation_key": "685b7b25b20de9e2572026f0219769714d40c31a0a401e0af8ff8c8f1fb5528f"
   },
   {
     "category": "physics",
@@ -3286,14 +2774,14 @@
     "correct_answer": "Presión atmosférica",
     "choices": [
       "Temperatura",
-      "Velocidad del viento",
       "Humedad",
-      "Presión atmosférica"
+      "Presión atmosférica",
+      "Velocidad del viento"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "951e1a3c-f5d2-4619-a36d-fb252839dbf8"
+    "translation_key": "429293b2f2cd662420403e43e9920680886ecfb7c080f67cc62f71f44c2fda42"
   },
   {
     "category": "physics",
@@ -3301,15 +2789,15 @@
     "question_text": "¿Cuál es la rama de la física que estudia el comportamiento de las partículas a nivel atómico y subatómico?",
     "correct_answer": "Mecánica cuántica",
     "choices": [
+      "Mecánica clásica",
       "Mecánica cuántica",
-      "Relatividad",
       "Termodinámica",
-      "Mecánica clásica"
+      "Relatividad"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1debe863-ed4d-4074-a288-e349e8404e20"
+    "translation_key": "1f37574caf6b8ff47629d4031d985865333c8abaa725483bfcd610f95215fdfa"
   },
   {
     "category": "physics",
@@ -3317,15 +2805,15 @@
     "question_text": "¿Qué dispositivo convierte energía mecánica en energía eléctrica?",
     "correct_answer": "Generador",
     "choices": [
-      "Transformador",
+      "Motor",
       "Generador",
-      "Rectificador",
-      "Motor"
+      "Transformador",
+      "Rectificador"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "5f1d5342-ac08-47cd-a269-7ac735ff82e1"
+    "translation_key": "c4ec49cc9f28e3ca8129465e456da86a97107f1dffb26cb1618cc1ca6f688091"
   },
   {
     "category": "physics",
@@ -3334,30 +2822,302 @@
     "correct_answer": "Decibelio",
     "choices": [
       "Hercio",
+      "Decibelio",
       "Vatio por metro cuadrado",
-      "Lumen",
-      "Decibelio"
+      "Lumen"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b27b0dad-64e7-4abb-a173-58b89a851bfe"
+    "translation_key": "faf8f9ee6535e62f8b914b632147df3539a198971786cf4cfb9be615c70c1b5d"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "¿Qué fuerza mantiene a los planetas orbitando alrededor del Sol?",
+    "correct_answer": "Gravedad",
+    "choices": [
+      "Gravedad",
+      "Magnetismo",
+      "Fricción",
+      "Fuerza nuclear"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "e61ae47ac8556f1f4ff4cbb70dc8b0807bbef7f06877921a94333fd4d9aa1c79"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "¿A qué es aproximadamente igual la velocidad de la luz en el vacío?",
+    "correct_answer": "300,000 km/s",
+    "choices": [
+      "150,000 km/s",
+      "300,000 km/s",
+      "500,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "334bca231b4dc5c2cad306330611dffce9d825e732a71e67cb74a5bef2403f72"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "¿Qué partícula es responsable de transportar la fuerza electromagnética?",
+    "correct_answer": "Fotón",
+    "choices": [
+      "Gluón",
+      "Fotón",
+      "Gravitón",
+      "Mesón"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "e3e22bbb6eda3c323bf111d5b604b39535c1820771229cea6d5af84d0df7b2e0"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "Cuando la temperatura aumenta a presión constante, ¿qué sucede con el volumen de un gas?",
+    "correct_answer": "Se expande",
+    "choices": [
+      "Se contrae",
+      "Se expande",
+      "Permanece igual",
+      "Se ioniza"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "820c81525461febce0006cb7a7b1dc5af4fbf11af38a4d5ede944ebb245f5ece"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "¿Cuál de estas es una cantidad escalar?",
+    "correct_answer": "Masa",
+    "choices": [
+      "Velocidad",
+      "Fuerza",
+      "Masa",
+      "Aceleración"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "aa331fade9fedbb5ef54189732ae4cf1bc6ce67ba1b7d1b9338d6423574c36c4"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es la unidad SI de corriente eléctrica?",
+    "correct_answer": "Amperio",
+    "choices": [
+      "Voltio",
+      "Vatio",
+      "Amperio",
+      "Ohmio"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "747a8950117a8ff6b04d1ed492f3013e8ab68947f18831315107f7d0b7598be6"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "¿Qué fenómeno hace que una pajita parezca doblada cuando se coloca en un vaso de agua?",
+    "correct_answer": "Refracción",
+    "choices": [
+      "Reflexión",
+      "Refracción",
+      "Difracción",
+      "Absorción"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "4c12e46e8a68b1d02a397c4c663f85585add2622c38c4bac60f2be9cde161d9e"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "¿Aproximadamente cuánto dura la vida media del Carbono-14?",
+    "correct_answer": "5,730 años",
+    "choices": [
+      "1,000 años",
+      "5,730 años",
+      "10,000 años",
+      "25,000 años"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "a5da2fd073e1cdd868de9ee22814ee1dce56a788bbf9d78154defe82313bf7db"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "¿Qué tipo de energía tiene principalmente un automóvil en movimiento?",
+    "correct_answer": "Energía cinética",
+    "choices": [
+      "Energía potencial",
+      "Energía cinética",
+      "Energía térmica",
+      "Energía química"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "b867741080871ee68097be37f816414387f799941d51935af9597ba63c8acf63"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "¿Qué ley establece que toda acción tiene una reacción igual y opuesta?",
+    "correct_answer": "Tercera ley de Newton",
+    "choices": [
+      "Primera ley de Newton",
+      "Segunda ley de Newton",
+      "Tercera ley de Newton",
+      "La ley de la gravitación universal"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "3a2e325f15e8376b46846affcb13b7da9a685ca9943e42a0436feb598a78e610"
+  },
+  {
+    "category": "physics",
+    "difficulty": "hard",
+    "question_text": "¿Cómo se llama la partícula teórica que da masa a otras partículas?",
+    "correct_answer": "Bosón de Higgs",
+    "choices": [
+      "Bosón de Higgs",
+      "Taquión",
+      "Neutrino",
+      "Gluón"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "3d98113ba0b885b842e769fddf0432cade3bdd2e34c6392ddfee60a1af8891a5"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "¿De qué color es el cielo debido a la dispersión de la luz solar por la atmósfera?",
+    "correct_answer": "Azul",
+    "choices": [
+      "Rojo",
+      "Azul",
+      "Verde",
+      "Violeta"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "d6c5195357e6a8b193b7e7e63bde750331bbba3831fe12749d4edfa44648b0a9"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "¿Qué hace un prisma con la luz blanca?",
+    "correct_answer": "La separa en sus colores componentes",
+    "choices": [
+      "Absorbe todos los colores",
+      "La separa en sus colores componentes",
+      "La convierte en ultravioleta",
+      "Duplica su intensidad"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "7e230d1f3a19ea520d8e7e3f1527e19b1bc094d9cbb3bb62a2536521701a8894"
+  },
+  {
+    "category": "physics",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el cero absoluto en grados Celsius?",
+    "correct_answer": "-273.15°C",
+    "choices": [
+      "-100°C",
+      "-200°C",
+      "-273.15°C",
+      "-373.15°C"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "a1beef8c29b41b97d8dcc4cfba16c216b620ec8d8b7342bdfa9831b48877e8c1"
+  },
+  {
+    "category": "physics",
+    "difficulty": "easy",
+    "question_text": "¿Qué tipo de onda es el sonido?",
+    "correct_answer": "Una onda longitudinal",
+    "choices": [
+      "Una onda transversal",
+      "Una onda longitudinal",
+      "Una onda electromagnética",
+      "Una onda superficial"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "9eacc5d54c2365e8506a3d12f20e3f7601152ba2eca3e55bf07ff167c02a605f"
+  },
+  {
+    "category": "chemistry",
+    "difficulty": "easy",
+    "question_text": "¿Cuál es el símbolo químico del agua?",
+    "correct_answer": "H₂O",
+    "choices": [
+      "H₂O",
+      "CO₂",
+      "NaCl",
+      "O₂"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "190e1da45c85d4bb1870e615b19fc52235d2cc7a5cd6474662a858090f2e2a95"
+  },
+  {
+    "category": "astronomy",
+    "difficulty": "easy",
+    "question_text": "¿Qué planeta es conocido como el Planeta Rojo?",
+    "correct_answer": "Marte",
+    "choices": [
+      "Venus",
+      "Marte",
+      "Júpiter",
+      "Saturno"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "29d94c03115d917cb2394aa19122187f5bd843caaddb249b1e22765c485754a5"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'URL'?",
-    "correct_answer": "Uniform Resource Locator",
+    "correct_answer": "Localizador Uniforme de Recursos",
     "choices": [
-      "Uniform Resource Locator",
-      "Unified Resource Language",
-      "Universal Resource Locator",
-      "Universal Reference Link"
+      "Localizador Universal de Recursos",
+      "Localizador Uniforme de Recursos",
+      "Enlace de Referencia Universal",
+      "Lenguaje de Recursos Unificado"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "3f41756f-758f-46d8-8eca-fc07aa985561"
+    "translation_key": "9a974f8d8d1914b9d4594871323e89ecd4d3c9101907e775184a93c20cac5b28"
   },
   {
     "category": "technology",
@@ -3365,31 +3125,31 @@
     "question_text": "¿Qué lenguaje de programación fue creado por James Gosling en Sun Microsystems?",
     "correct_answer": "Java",
     "choices": [
-      "Ruby",
-      "Python",
       "C++",
-      "Java"
+      "Java",
+      "Python",
+      "Ruby"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "9e5846ce-1b08-4f1d-8fd2-c490974c246a"
+    "translation_key": "4b27ca54d9f024aa247a9bc360e77b0360e82b69887bc4f47bd161846cf7cdae"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'SSD'?",
-    "correct_answer": "Solid State Drive",
+    "correct_answer": "Unidad de Estado Sólido",
     "choices": [
-      "System Storage Device",
-      "Solid State Drive",
-      "Super Speed Disk",
-      "Solid Storage Disk"
+      "Unidad de Estado Sólido",
+      "Disco de Super Velocidad",
+      "Dispositivo de Almacenamiento del Sistema",
+      "Disco de Almacenamiento Sólido"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "eb4cf084-1c68-48e8-822b-2ef738550512"
+    "translation_key": "cdb689701d8b93a48244929321e3f3113014cd37943796b397691803c44ede42"
   },
   {
     "category": "technology",
@@ -3397,63 +3157,63 @@
     "question_text": "¿En qué año se fundó Google?",
     "correct_answer": "1998",
     "choices": [
-      "2004",
+      "1995",
       "1998",
       "2000",
-      "1995"
+      "2004"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8b41cf17-c717-4476-925b-91f8f4d4d345"
+    "translation_key": "2d53cc4bf97e82f42fe8afcc98c3807f2e0fe489aa5ae63666e6e7c0bccb296d"
   },
   {
     "category": "technology",
     "difficulty": "medium",
     "question_text": "¿Qué significa 'DNS'?",
-    "correct_answer": "Domain Name System",
+    "correct_answer": "Sistema de Nombres de Dominio",
     "choices": [
-      "Data Network Security",
-      "Domain Name System",
-      "Dynamic Name Server",
-      "Digital Network Service"
+      "Servicio de Red Digital",
+      "Sistema de Nombres de Dominio",
+      "Seguridad de Red de Datos",
+      "Servidor de Nombres Dinámico"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "36718c86-0177-4a5c-b9d4-feb690ac7170"
+    "translation_key": "3e82a6a5ab51c1cb393a721d85266b0aaf49ab6d7a98a7d9e40ec4f7d6c2399f"
   },
   {
     "category": "technology",
     "difficulty": "medium",
-    "question_text": "¿Cuál es el lenguaje de programación más popular en 2024?",
+    "question_text": "¿Cuál es el lenguaje de programación más popular a partir de 2024?",
     "correct_answer": "Python",
     "choices": [
-      "Java",
-      "Python",
       "JavaScript",
+      "Python",
+      "Java",
       "C++"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "44af75a4-533c-425a-adfa-befef30eaed4"
+    "translation_key": "f28bdae610018481584f5ee702f65715d94eca937981df54070edfbeb0875c30"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'VPN'?",
-    "correct_answer": "Virtual Private Network",
+    "correct_answer": "Red Privada Virtual",
     "choices": [
-      "Very Private Network",
-      "Virtual Public Network",
-      "Verified Private Network",
-      "Virtual Private Network"
+      "Red Pública Virtual",
+      "Red Privada Virtual",
+      "Red Muy Privada",
+      "Red Privada Verificada"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "9a0c98c6-55b0-4aa0-b732-e3c49af4f796"
+    "translation_key": "d81d6acc2b62e41a5471222088a54602ac1898d6ae485addd214e90190ad5e5b"
   },
   {
     "category": "technology",
@@ -3461,31 +3221,31 @@
     "question_text": "¿Quién cofundó Apple Computer con Steve Jobs?",
     "correct_answer": "Steve Wozniak",
     "choices": [
-      "Tim Cook",
       "Bill Gates",
       "Steve Wozniak",
+      "Tim Cook",
       "Jony Ive"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "a7e077a0-6198-442c-b066-3a96b6a931b5"
+    "translation_key": "67fac95c8994b612242a4fc426ac5054387b96695893f1890fc480fa8c220c39"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'IoT'?",
-    "correct_answer": "Internet of Things",
+    "correct_answer": "Internet de las Cosas",
     "choices": [
-      "Internal Object Tracking",
-      "Integrated Operating Technology",
-      "Internet of Things",
-      "Input Output Terminal"
+      "Terminal de Entrada/Salida",
+      "Internet de las Cosas",
+      "Tecnología Operativa Integrada",
+      "Seguimiento Interno de Objetos"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "078e5e35-bfbf-4486-aa35-0c0b764c20f0"
+    "translation_key": "49624d10eb7559846f996645e1cd759336f8b13796e831e58876ce2e5f9a3b9c"
   },
   {
     "category": "technology",
@@ -3493,31 +3253,31 @@
     "question_text": "¿Qué sistema de caché se usa comúnmente con PHP para almacenamiento clave-valor?",
     "correct_answer": "Redis",
     "choices": [
+      "MySQL",
       "Redis",
       "MongoDB",
-      "MySQL",
       "SQLite"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "ac2bc60b-1182-4c17-9d00-e45c8c826c26"
+    "translation_key": "4bdc775cfbaf8d0873fece411873cc7a738c959a7decce24dc6cfb265542ef6d"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'HTML'?",
-    "correct_answer": "HyperText Markup Language",
+    "correct_answer": "Lenguaje de Marcado de Hipertexto",
     "choices": [
-      "Home Tool Markup Language",
-      "HyperText Markup Language",
-      "HyperTransfer Markup Language",
-      "High Tech Modern Language"
+      "Lenguaje de Marcado de Hipertexto",
+      "Lenguaje Moderno de Alta Tecnología",
+      "Lenguaje de Marcado de Hipertransferencia",
+      "Lenguaje de Marcado para Herramientas del Hogar"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1399ac12-85fe-497c-b8e5-3a1e736ff612"
+    "translation_key": "ba13965702607683472e07711003cc02d976f6753f92a29991f93372d0018341"
   },
   {
     "category": "technology",
@@ -3533,23 +3293,23 @@
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "d6007243-2936-4e97-929a-01e980017962"
+    "translation_key": "5669a99e9e7f5f6062eb469a2f7780dc0a5f1475c4756eaa6f389053964b7bfd"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'JSON'?",
-    "correct_answer": "JavaScript Object Notation",
+    "correct_answer": "Notación de Objetos JavaScript",
     "choices": [
-      "Java Serialized Object Node",
-      "Java Standard Output Network",
-      "JavaScript Object Notation",
-      "JavaScript Online Notation"
+      "Notación de Objetos JavaScript",
+      "Red de Salida Estándar de Java",
+      "Notación en Línea de JavaScript",
+      "Nodo de Objetos Serializados de Java"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "6bdc2ba2-d233-4268-96bf-2a513f9c2355"
+    "translation_key": "6aa04ad86b594cad926cab3e1dec7fe8bf0b53557154b8c738df7f99c4b97e74"
   },
   {
     "category": "technology",
@@ -3557,15 +3317,15 @@
     "question_text": "¿Qué empresa desarrolló el sistema operativo Android?",
     "correct_answer": "Google",
     "choices": [
+      "Apple",
       "Google",
       "Microsoft",
-      "Samsung",
-      "Apple"
+      "Samsung"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1f8661ba-919e-4b37-a62d-a25dd5d22267"
+    "translation_key": "afeb7afbd410fc1ccfd8c4a81edcdbe9d07ea6526de9918a1357853b3c824544"
   },
   {
     "category": "technology",
@@ -3573,15 +3333,15 @@
     "question_text": "¿Cuál es el término para un tipo de malware que cifra archivos y exige un pago?",
     "correct_answer": "Ransomware",
     "choices": [
-      "Troyano",
-      "Spyware",
       "Virus",
-      "Ransomware"
+      "Ransomware",
+      "Spyware",
+      "Troyano"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "1ee0be38-ae96-481d-8d1b-926e6cccedb2"
+    "translation_key": "4a5584c75bc0a82d4696894bb3f2b4ee612ed392d827833a80ead5fe148a5d0c"
   },
   {
     "category": "technology",
@@ -3590,14 +3350,14 @@
     "correct_answer": "Inteligencia Artificial",
     "choices": [
       "Interfaz Automatizada",
-      "Integración Avanzada",
       "Inteligencia Artificial",
+      "Integración Avanzada",
       "Inteligencia Automatizada"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "3eeda26e-888f-40a5-a3db-9d55c6f21eb6"
+    "translation_key": "4c82732a41399798b355bf813099cd0055ec74aba7bdc7e4f35230483440309c"
   },
   {
     "category": "technology",
@@ -3605,31 +3365,31 @@
     "question_text": "¿Qué empresa creó el primer teléfono inteligente comercialmente exitoso?",
     "correct_answer": "Apple",
     "choices": [
-      "IBM",
-      "BlackBerry",
+      "Nokia",
       "Apple",
-      "Nokia"
+      "BlackBerry",
+      "IBM"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "a2eb7ef6-7a9c-46d7-90c9-7981141725b3"
+    "translation_key": "0c95a638e96bf761b62db54118b425d144838a86b1418b45a94b2db430790310"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'USB'?",
-    "correct_answer": "Universal Serial Bus",
+    "correct_answer": "Bus Serie Universal",
     "choices": [
-      "Unified Serial Bus",
-      "Universal System Board",
-      "Universal Serial Bus",
-      "Universal Signal Bridge"
+      "Bus Serie Universal",
+      "Placa Base Universal",
+      "Bus Serie Unificado",
+      "Puente de Señal Universal"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "3fd6d48f-19de-4b9d-b9cf-29888a3244f3"
+    "translation_key": "467cdd1ce7dbd7492c62288d7fdab3f78d910300bd003720b0ac930e07b7f677"
   },
   {
     "category": "technology",
@@ -3637,31 +3397,31 @@
     "question_text": "¿Qué paradigma de programación se basa en el concepto de 'objetos' que contienen datos y código?",
     "correct_answer": "Programación orientada a objetos",
     "choices": [
-      "Programación orientada a objetos",
       "Programación funcional",
+      "Programación orientada a objetos",
       "Programación procedural",
       "Programación declarativa"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "8d585da7-ed40-48cd-97fd-ac62a0b2cd6b"
+    "translation_key": "de5848b6e82b07fcd2783fd6fd1b649e6974eacce424d2125c03079f8fe6df92"
   },
   {
     "category": "technology",
     "difficulty": "medium",
     "question_text": "¿Qué significa 'BIOS'?",
-    "correct_answer": "Basic Input Output System",
+    "correct_answer": "Sistema Básico de Entrada/Salida",
     "choices": [
-      "Basic Integrated Operating System",
-      "Binary Input Output System",
-      "Basic Input Output System",
-      "Boot Integrated Operating System"
+      "Sistema Binario de Entrada/Salida",
+      "Sistema Básico de Entrada/Salida",
+      "Sistema Operativo Integrado de Arranque",
+      "Sistema Operativo Integrado Básico"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "f059a5fc-b74e-49c2-b383-aa507b7aea94"
+    "translation_key": "c729ad51e52964cbf4bfaf1706504bdfbd20951b425314c78671b67e6752fd20"
   },
   {
     "category": "technology",
@@ -3670,46 +3430,46 @@
     "correct_answer": "Apple",
     "choices": [
       "Google",
-      "Apple",
       "Microsoft",
+      "Apple",
       "JetBrains"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "dbafd7dc-50c1-4773-967f-ac5b2863a8f1"
+    "translation_key": "a7a21ce441130e6a743997e5a821fbf9e81772d6796c76dcb2d5428e7fea97ce"
   },
   {
     "category": "technology",
     "difficulty": "easy",
-    "question_text": "¿Cuál es el término para una red informática restringida a un solo edificio o campus?",
+    "question_text": "¿Cuál es el término para una red informática que se limita a un solo edificio o campus?",
     "correct_answer": "LAN (Red de Área Local)",
     "choices": [
-      "MAN (Red de Área Metropolitana)",
-      "PAN (Red de Área Personal)",
       "WAN (Red de Área Amplia)",
-      "LAN (Red de Área Local)"
+      "LAN (Red de Área Local)",
+      "MAN (Red de Área Metropolitana)",
+      "PAN (Red de Área Personal)"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "94029f7a-b574-41f7-90d2-72b37a97423d"
+    "translation_key": "a0ca687a5abcb526b422a63a9d45ca6aa17b674789c852ee87f6ec990a89f1b7"
   },
   {
     "category": "technology",
     "difficulty": "hard",
     "question_text": "¿Qué significa 'YAML'?",
-    "correct_answer": "YAML Ain't Markup Language",
+    "correct_answer": "YAML no es un Lenguaje de Marcado",
     "choices": [
-      "YAML Advanced Markup Language",
-      "YAML Ain't Markup Language",
-      "Yet Another Markup Language",
-      "Yet Another Modeling Language"
+      "Otro Lenguaje de Marcado Más",
+      "YAML no es un Lenguaje de Marcado",
+      "Lenguaje de Marcado Avanzado YAML",
+      "Otro Lenguaje de Modelado"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "e20b353b-1d9e-4a1f-b9e3-37a4dab792dd"
+    "translation_key": "64a05c272e5b96fd67f7374edd95d8b0ccd476f0789bde1e3f6f51e5aaa35707"
   },
   {
     "category": "technology",
@@ -3719,34 +3479,34 @@
     "choices": [
       "Google",
       "Microsoft",
-      "IBM",
-      "Amazon"
+      "Amazon",
+      "IBM"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "ab01e416-79bb-4b62-9af5-162fbe5c201c"
+    "translation_key": "9641952142171551ee11a8a0cb35a9ea4281671e11a3ce362b387cbdc304e0ee"
   },
   {
     "category": "technology",
     "difficulty": "medium",
     "question_text": "¿Qué significa 'APK' en Android?",
-    "correct_answer": "Android Package Kit",
+    "correct_answer": "Paquete de Aplicación Android",
     "choices": [
-      "Android Package Kit",
-      "Android Platform Kit",
-      "Application Package Key",
-      "Android Program Kernel"
+      "Kit de Plataforma Android",
+      "Paquete de Aplicación Android",
+      "Clave de Paquete de Aplicación",
+      "Núcleo de Programa Android"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "55bbc85e-a179-406a-8fb3-6af26bc07258"
+    "translation_key": "13658ce8e7dad04c3aab81891773e4720da3c801b90ab41bcfe9113251f6152f"
   },
   {
     "category": "technology",
     "difficulty": "medium",
-    "question_text": "¿Qué lenguaje de programación se usa principalmente para el desarrollo de aplicaciones iOS?",
+    "question_text": "¿Qué lenguaje de programación se utiliza principalmente para el desarrollo de aplicaciones iOS?",
     "correct_answer": "Swift",
     "choices": [
       "Kotlin",
@@ -3757,7 +3517,7 @@
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "feabfba2-04d7-4881-bcef-bd01be87a960"
+    "translation_key": "71037bbaa306915224d2c3639b2899cf42f7bcc70252a1041e572190295d2263"
   },
   {
     "category": "technology",
@@ -3765,31 +3525,31 @@
     "question_text": "¿Cómo se llama el concepto de dividir un programa en piezas pequeñas y reutilizables?",
     "correct_answer": "Programación modular",
     "choices": [
-      "Programación modular",
       "Código espagueti",
+      "Programación modular",
       "Arquitectura monolítica",
-      "Programación dirigida por eventos"
+      "Programación orientada a eventos"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "b0079a0d-5f8c-4569-aa2d-8666b8b8eb36"
+    "translation_key": "80eb20e6a82f6a75757819dc594401155e4cd0600992eb4c5fc8c98ff5ad2c26"
   },
   {
     "category": "technology",
     "difficulty": "easy",
     "question_text": "¿Qué significa 'CLI'?",
-    "correct_answer": "Command Line Interface",
+    "correct_answer": "Interfaz de Línea de Comandos",
     "choices": [
-      "Command Line Interface",
-      "Computer Language Interpreter",
-      "Code Language Integration",
-      "Central Logic Interface"
+      "Interfaz de Línea de Comandos",
+      "Interfaz Lógica Central",
+      "Intérprete de Lenguaje Informático",
+      "Integración de Lenguaje de Código"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "ce0a7b32-c09f-45fe-827a-fcdb762ff480"
+    "translation_key": "e55ff781b91b2e1af39042b34743ca20e2b0652f6ca889f89f55ccd487a4902f"
   },
   {
     "category": "technology",
@@ -3797,30 +3557,270 @@
     "question_text": "¿Cuál fue la primera consola de videojuegos comercialmente exitosa?",
     "correct_answer": "Atari 2600",
     "choices": [
-      "Nintendo Entertainment System",
+      "Magnavox Odyssey",
       "Atari 2600",
-      "ColecoVision",
-      "Magnavox Odyssey"
+      "Nintendo Entertainment System",
+      "ColecoVision"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "546c9a03-0bc1-4b4c-bf1e-810dd1b3d976"
+    "translation_key": "c63d0793bf271d02d500303f6369354ad4081de7c3658fb26bbcbd5b7616bf7b"
   },
   {
     "category": "technology",
     "difficulty": "medium",
     "question_text": "¿Qué significa 'SSL'?",
-    "correct_answer": "Secure Sockets Layer",
+    "correct_answer": "Capa de Conexión Segura",
     "choices": [
-      "Secure System Link",
-      "Safe Socket Login",
-      "Server Side Logic",
-      "Secure Sockets Layer"
+      "Enlace de Sistema Seguro",
+      "Capa de Conexión Segura",
+      "Lógica del Lado del Servidor",
+      "Inicio de Sesión de Socket Seguro"
     ],
     "image_asset": null,
     "theme": "science",
     "language": "es",
-    "translation_key": "4a26dba2-04ca-4014-984a-0973f3c2ef51"
+    "translation_key": "d00c87f042550232058bb432d8e763e776630060793a7bde93501610fa0ac258"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "¿Qué significa 'CPU'?",
+    "correct_answer": "Unidad Central de Procesamiento",
+    "choices": [
+      "Unidad Central de Procesamiento",
+      "Unidad Personal de Computadora",
+      "Utilidad de Proceso Central",
+      "Unidad de Programa Central"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "46cd903816cd76373275f73ddc81bb8c9d3f761dff01a4aa45fe1359546e84c7"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "¿Qué significa 'HTTP'?",
+    "correct_answer": "Protocolo de Transferencia de Hipertexto",
+    "choices": [
+      "Protocolo de Transferencia de Hipertexto",
+      "Protocolo de Transferencia de Texto de Alto Nivel",
+      "Proceso de Transmisión de Hipertexto",
+      "Programa de Transferencia de Alta Tecnología"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "4b5eacba1585b67866498d8b8c2df1bdcac7d174d66bb8b60b10304c572530b8"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es la representación binaria del número decimal 15?",
+    "correct_answer": "1111",
+    "choices": [
+      "1010",
+      "1100",
+      "1111",
+      "1000"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "d887ce55771a3b258c9262c18fc6caa467866417a2ea41b961fe033461fbdc8d"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "¿Qué significa 'RAM'?",
+    "correct_answer": "Memoria de Acceso Aleatorio",
+    "choices": [
+      "Memoria de Acceso de Lectura",
+      "Memoria de Acceso Aleatorio",
+      "Módulo de Aplicación Rápida",
+      "Administrador de Ejecución de Aplicaciones"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "e34ea007a9b2bfa62179e889f39bf3bc59b5c33402babd97b8ae7a2e92636ed9"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "¿Quién es considerado el padre de la informática?",
+    "correct_answer": "Alan Turing",
+    "choices": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "a0cb82f33dd460046d6068b7d5cd05e37a7877e783982ec442a1545fce4685ad"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "¿Qué significa la 'S' en 'HTTPS'?",
+    "correct_answer": "Seguro",
+    "choices": [
+      "Socket",
+      "Sistema",
+      "Seguro",
+      "Servidor"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "754ac5ab486d667bd1c2d5cc054c7005f3cf579488e29c9a092ab2a5a7f65a45"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "¿Cuál fue el nombre de la primera computadora electrónica de propósito general?",
+    "correct_answer": "ENIAC",
+    "choices": [
+      "Colossus",
+      "ENIAC",
+      "UNIVAC",
+      "IBM 701"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "e49c9aab7757370bcc2047842f8d09c9491fd1e66b05a14d70a31a9c13fc4e3c"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "¿Qué significa 'SQL'?",
+    "correct_answer": "Lenguaje de Consulta Estructurada",
+    "choices": [
+      "Lenguaje de Consulta Simple",
+      "Lenguaje de Consulta Estructurada",
+      "Lógica de Consulta Estándar",
+      "Lenguaje de Consulta Secuencial"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "d497461bae63c9240e2f2f6af7de61c7a11f6df942c54c616558390b280f4f59"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "¿En qué año se inventó la World Wide Web?",
+    "correct_answer": "1989",
+    "choices": [
+      "1975",
+      "1989",
+      "1995",
+      "2001"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "181c24c6c5393d83267daafdd2e807d625a44aa8a1538723ef2b291abc45efb5"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "¿Qué significa 'IP' en redes?",
+    "correct_answer": "Protocolo de Internet",
+    "choices": [
+      "Protocolo de Internet",
+      "Proceso Interno",
+      "Proveedor de Información",
+      "Plataforma Integrada"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "0d1f31f28fffe2e71e0dddeb593c4aeb0b18f0dc889ee228ef4b31adba73752c"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "¿En qué lenguaje de programación está escrito Python?",
+    "correct_answer": "C",
+    "choices": [
+      "Java",
+      "C",
+      "C++",
+      "Ensamblador"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "631de33b7f774526e4723020fd8e18da396aff66cacf0310cb9e7b7b21d7f6d2"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "¿Qué significa 'CSS' en desarrollo web?",
+    "correct_answer": "Hojas de Estilo en Cascada",
+    "choices": [
+      "Hojas de Estilo Creativas",
+      "Hojas de Estilo en Cascada",
+      "Sistema de Estilo Informático",
+      "Hojas de Estilo Coloridas"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "7d5c0706b65c38265c25ba215698b77ba0d67a60cc3623ca30526aa5b5b360c9"
+  },
+  {
+    "category": "technology",
+    "difficulty": "medium",
+    "question_text": "¿Cuál es el sistema operativo más utilizado para servidores web?",
+    "correct_answer": "Linux",
+    "choices": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "FreeBSD"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "49acbb9485d1954b17fe97ccc57e159c1c6384414fa812c728b0d29f72a6b2dd"
+  },
+  {
+    "category": "technology",
+    "difficulty": "easy",
+    "question_text": "¿Qué significa 'API'?",
+    "correct_answer": "Interfaz de Programación de Aplicaciones",
+    "choices": [
+      "Interfaz de Programación de Aplicaciones",
+      "Integración de Programas Avanzados",
+      "Instrucción de Proceso Automático",
+      "Interfaz de Protocolo de Aplicación"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "aa9da642ce6ba0b4638c1af01708901e8cb6ffa61739e03effd4622572751618"
+  },
+  {
+    "category": "technology",
+    "difficulty": "hard",
+    "question_text": "¿Cuál es el nombre del primer virus informático?",
+    "correct_answer": "Creeper",
+    "choices": [
+      "ILOVEYOU",
+      "Melissa",
+      "Creeper",
+      "Gusano Morris"
+    ],
+    "image_asset": null,
+    "theme": "science",
+    "language": "es",
+    "translation_key": "548a177841c789a3414afeb99ede83cbecba0d3456b29360957e4b6c1f4db47d"
   }
 ]

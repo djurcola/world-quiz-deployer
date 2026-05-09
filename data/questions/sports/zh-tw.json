@@ -2,50 +2,50 @@
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "哪支NBA球隊贏得最多總冠軍？",
-    "correct_answer": "Boston Celtics",
+    "question_text": "哪支NBA球隊贏得最多冠軍？",
+    "correct_answer": "波士頓塞爾提克",
     "choices": [
-      "Golden State Warriors",
-      "Boston Celtics",
-      "Los Angeles Lakers",
-      "Chicago Bulls"
+      "波士頓塞爾提克",
+      "洛杉磯湖人",
+      "芝加哥公牛",
+      "金州勇士"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "5164a108-b6b4-4324-aecd-c128112df450"
+    "translation_key": "e464d0de39cdd006779a4b199bda173aa430d75f6c2100f3c890db983805a17e"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "在NBA中，一個三分球值幾分？",
+    "question_text": "在NBA中，一個三分球投籃值多少分？",
     "correct_answer": "3",
     "choices": [
-      "4",
+      "2",
       "3",
-      "5",
-      "2"
+      "4",
+      "5"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f34207fe-4d67-4a79-8b2c-010eb782808a"
+    "translation_key": "8be897b299052c3b352de6c83d1b937929e5541783432fb3102a2f7b03b1c224"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "哪位球員被稱為「空中飛人」？",
-    "correct_answer": "Michael Jordan",
+    "question_text": "哪位球員被稱為「喬丹」？",
+    "correct_answer": "麥可·喬丹",
     "choices": [
-      "Kobe Bryant",
-      "Michael Jordan",
-      "Magic Johnson",
-      "LeBron James"
+      "麥可·喬丹",
+      "勒布朗·詹姆斯",
+      "科比·布萊恩",
+      "魔術強森"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "56e5853e-33e7-4b0b-859c-f9f6d610bdae"
+    "translation_key": "7ccb876ab2d3262e91b9744dd6147f345b32af7cd1f641a1899f29072ddb909f"
   },
   {
     "category": "basketball",
@@ -53,15 +53,15 @@
     "question_text": "標準NBA籃框的高度是多少？",
     "correct_answer": "10英尺",
     "choices": [
+      "9英尺",
       "10英尺",
-      "12英尺",
       "11英尺",
-      "9英尺"
+      "12英尺"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "03dcc37d-7e1c-4dec-8d72-573162d00ed9"
+    "translation_key": "d8814de3ed887f16b03aed99728f99fa054372d71acd0ee9e6d5695ab968fdee"
   },
   {
     "category": "basketball",
@@ -69,719 +69,719 @@
     "question_text": "哪個國家發明了籃球運動？",
     "correct_answer": "美國",
     "choices": [
+      "美國",
       "加拿大",
-      "澳洲",
-      "英國",
-      "美國"
+      "英格蘭",
+      "澳洲"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "596c90cb-d6bb-45fd-bdc9-7ee4cacd942b"
+    "translation_key": "aef882ccd6929f8d3db9387dd6d63cc398501730fbdae1f21b088768a4c0a153"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "在NBA比賽中，每隊有多少名球員在場上？",
+    "question_text": "在NBA比賽中，每支球隊有多少名球員在場上？",
     "correct_answer": "5",
     "choices": [
-      "6",
       "4",
       "5",
+      "6",
       "7"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "cf8012f5-3d39-4013-bdd5-f17e85c03e12"
+    "translation_key": "d2403c67c4b16b01dd8b8e5c6dd8b428269582e71f243d61e4d8a47cd993aa12"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
     "question_text": "籃框的直徑是多少英吋？",
-    "correct_answer": "18",
+    "correct_answer": "18英吋",
     "choices": [
-      "18",
-      "20",
-      "22",
-      "16"
+      "16英吋",
+      "18英吋",
+      "20英吋",
+      "22英吋"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "1190e2f6-2e31-4c02-834a-780cd5cb6d69"
+    "translation_key": "56983d9835c6d92b0d65e50c9b5c1a207c8fbc483b4431ef97fbc6aa20498da8"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "Michael Jordan 在哪支球隊贏得了他的六個NBA總冠軍？",
-    "correct_answer": "Chicago Bulls",
+    "question_text": "麥可·喬丹與哪支球隊贏得他的六座NBA冠軍？",
+    "correct_answer": "芝加哥公牛",
     "choices": [
-      "Detroit Pistons",
-      "Boston Celtics",
-      "Chicago Bulls",
-      "Los Angeles Lakers"
+      "芝加哥公牛",
+      "洛杉磯湖人",
+      "波士頓塞爾提克",
+      "底特律活塞"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "03afb46c-9adc-4c54-84fc-5548f18d1b65"
+    "translation_key": "fe021eb5bd63129362e4ef44489dfc10f57fced65b7e8e7fb5df8874a90d7317"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "NBA 常規賽一節的時長是多少？",
+    "question_text": "正規NBA一節的時長是多少？",
     "correct_answer": "12分鐘",
     "choices": [
+      "10分鐘",
       "12分鐘",
       "15分鐘",
-      "20分鐘",
-      "10分鐘"
+      "20分鐘"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "c1689a73-9748-470d-aea5-1246546ec90e"
+    "translation_key": "ce456b966ce9a0f51732fb079a327dbf2ec6c36e3e4888876e7c6c296e6e57a2"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "哪位球員保持著NBA歷史生涯總得分紀錄？",
-    "correct_answer": "LeBron James",
+    "question_text": "哪一位球員保持NBA歷史生涯得分最多的紀錄？",
+    "correct_answer": "勒布朗·詹姆斯",
     "choices": [
-      "Michael Jordan",
-      "Kareem Abdul-Jabbar",
-      "Kobe Bryant",
-      "LeBron James"
+      "勒布朗·詹姆斯",
+      "卡里姆·阿布都-賈霸",
+      "麥可·喬丹",
+      "科比·布萊恩"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "19816de9-6bbb-4da5-81b4-d42c93e49bf9"
+    "translation_key": "557cb74f32261e8a5962ce79d89840ead1fd31418f0f324f503bf2af020fc9e3"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "Bill Russell 作為球員贏得了多少個NBA總冠軍？",
+    "question_text": "比爾·羅素以球員身分贏得多少座NBA冠軍？",
     "correct_answer": "11",
     "choices": [
-      "10",
-      "9",
       "8",
+      "9",
+      "10",
       "11"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "a3d4ae6e-6663-4a58-a56b-961cc23894d9"
+    "translation_key": "3d52906184db04f0cfab6a7949fe3fc5c38d70f57170976ebdd6646f3784fe07"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "哪位球員在一場NBA比賽中得了100分？",
-    "correct_answer": "Wilt Chamberlain",
+    "question_text": "哪位球員在一場NBA比賽中獨得100分？",
+    "correct_answer": "威爾特·張伯倫",
     "choices": [
-      "Michael Jordan",
-      "Kobe Bryant",
-      "Larry Bird",
-      "Wilt Chamberlain"
+      "威爾特·張伯倫",
+      "麥可·喬丹",
+      "科比·布萊恩",
+      "賴瑞·柏德"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "10e92193-6d0e-486f-8d5e-3ee7576a3062"
+    "translation_key": "76dc0fbd80bed98f75e9a0a8a99ba70aa5c5137e4ec2cd15cd0d33d1b1994d30"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "NBA 成立於哪一年？",
+    "question_text": "NBA是哪一年成立的？",
     "correct_answer": "1946",
     "choices": [
-      "1954",
-      "1950",
       "1946",
+      "1950",
+      "1954",
       "1960"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "9492a58b-6781-4ce5-a053-ad5a0ab54c36"
+    "translation_key": "715f6e2ce412b0e21cd381fb4469a1b8f1f7ea883c42db96037d9e6512a89016"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "哪位球員的綽號是「詹皇」？",
-    "correct_answer": "LeBron James",
+    "question_text": "哪位球員的綽號是「國王詹姆斯」？",
+    "correct_answer": "勒布朗·詹姆斯",
     "choices": [
-      "James Harden",
-      "Larry Bird",
-      "Magic Johnson",
-      "LeBron James"
+      "勒布朗·詹姆斯",
+      "詹姆斯·哈登",
+      "賴瑞·柏德",
+      "魔術強森"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "4d501b81-3ff8-4e04-a462-268001cd0e56"
+    "translation_key": "35f554fd02e32950c6ca56a9c024735d1851c315ae082aa47d2c9ddd65edd380"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "Michael Jordan 的大學球隊叫什麼？",
-    "correct_answer": "北卡羅來納焦油腳跟隊",
+    "question_text": "麥可·喬丹的大學球隊叫什麼名字？",
+    "correct_answer": "北卡羅來納焦油腳跟",
     "choices": [
-      "北卡羅來納焦油腳跟隊",
-      "杜克藍魔鬼隊",
-      "肯塔基野貓隊",
-      "堪薩斯松鴉鷹隊"
+      "北卡羅來納焦油腳跟",
+      "杜克藍魔鬼",
+      "肯塔基野貓",
+      "堪薩斯松鴉鷹"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f92ab02d-48d1-465b-bb00-0d205edc6760"
+    "translation_key": "f98aec3fc531fa2d2a7d7cca1d32708ad2851ff0ccd05f21069f3d39604cd138"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "NBA 的進攻時限是多少秒？",
+    "question_text": "NBA的進攻時限是幾秒？",
     "correct_answer": "24秒",
     "choices": [
-      "30秒",
       "24秒",
+      "30秒",
       "35秒",
       "45秒"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "cacd2ab1-9db2-40a1-8fb0-5bb0ebfd9952"
+    "translation_key": "56758239779ce71eb4d1935168033cd2fc0640cf52aa059a8a842445b57bb2d5"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "Kobe Bryant 整個NBA生涯效力於哪支球隊？",
-    "correct_answer": "Los Angeles Lakers",
+    "question_text": "科比·布萊恩整個NBA生涯效力於哪支球隊？",
+    "correct_answer": "洛杉磯湖人",
     "choices": [
-      "Chicago Bulls",
-      "Boston Celtics",
-      "Miami Heat",
-      "Los Angeles Lakers"
+      "洛杉磯湖人",
+      "波士頓塞爾提克",
+      "芝加哥公牛",
+      "邁阿密熱火"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "808be162-5711-47a3-8224-158cf6332c89"
+    "translation_key": "4a1999817bd54da7219bb1d44c1f055ccb1f89dfd49dec36b68ce58a71bdb675"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "誰是NBA歷史助攻王？",
-    "correct_answer": "John Stockton",
+    "question_text": "NBA歷史助攻王是誰？",
+    "correct_answer": "約翰·史塔克頓",
     "choices": [
-      "Chris Paul",
-      "Jason Kidd",
-      "Magic Johnson",
-      "John Stockton"
+      "約翰·史塔克頓",
+      "魔術強森",
+      "克里斯·保羅",
+      "傑森·基德"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f614f656-822f-4f67-b6c9-0f7c3541939a"
+    "translation_key": "db8075e53d920497501da796f20c2ebb56096d342316303a74205f856c7d56fc"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "NBA 年度總冠軍獎盃叫什麼名字？",
-    "correct_answer": "Larry O'Brien 冠軍獎盃",
+    "question_text": "NBA年度總冠軍獎盃叫什麼？",
+    "correct_answer": "拉里·奧布萊恩冠軍獎盃",
     "choices": [
-      "Bill Russell 獎盃",
-      "NBA 冠軍獎盃",
-      "Walter A. Brown 獎盃",
-      "Larry O'Brien 冠軍獎盃"
+      "拉里·奧布萊恩冠軍獎盃",
+      "NBA總冠軍獎盃",
+      "沃爾特·A·布朗獎盃",
+      "比爾·羅素獎盃"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "7f10cc4d-a9ac-4c09-b718-d5484ad46e36"
+    "translation_key": "44cf9fa95d69674ce1589771c321f6009a06324392e85847b499a120550a73a5"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
     "question_text": "哪支NBA球隊被稱為「塞爾提克」？",
-    "correct_answer": "Boston Celtics",
+    "correct_answer": "波士頓塞爾提克",
     "choices": [
-      "Brooklyn Nets",
-      "New York Knicks",
-      "Boston Celtics",
-      "Philadelphia 76ers"
+      "波士頓塞爾提克",
+      "紐約尼克",
+      "費城76人",
+      "布魯克林籃網"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "742e6429-1a90-43c9-8c23-6ff88b7d4734"
+    "translation_key": "4ab8023e0ef72b6dc7a0c8757e6e44dca8b66b70b07c6df2848e541b7afbcef1"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
     "question_text": "2003年NBA選秀的狀元是誰？",
-    "correct_answer": "LeBron James",
+    "correct_answer": "勒布朗·詹姆斯",
     "choices": [
-      "Chris Bosh",
-      "LeBron James",
-      "Carmelo Anthony",
-      "Dwyane Wade"
+      "勒布朗·詹姆斯",
+      "卡梅隆·安東尼",
+      "德維恩·韋德",
+      "克里斯·波許"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "8320edb7-96ed-4438-9e03-060f55b3028c"
+    "translation_key": "d412970b845e05682538f9e2f98eb2ee4287a9bb586769e1c52a805ea9621945"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "2016年，哪位球員全票當選NBA MVP？",
-    "correct_answer": "Stephen Curry",
+    "question_text": "哪位球員在2016年全票獲得NBA MVP？",
+    "correct_answer": "史蒂芬·柯瑞",
     "choices": [
-      "Stephen Curry",
-      "Kevin Durant",
-      "LeBron James",
-      "Russell Westbrook"
+      "史蒂芬·柯瑞",
+      "勒布朗·詹姆斯",
+      "凱文·杜蘭特",
+      "羅素·衛斯特布魯克"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "7279da86-65f8-46c7-9ab3-484b49fff18f"
+    "translation_key": "e7a03363bfe6a049e849bddfc25e0fdd349f6729a9a0675862f468dda7a00b30"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "NBA 球員累積多少次犯規會被罰出場？",
+    "question_text": "NBA球員需要犯滿幾次犯規才能離場？",
     "correct_answer": "6",
     "choices": [
       "5",
+      "6",
       "7",
-      "4",
-      "6"
+      "4"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "1b63c211-1c25-476f-81c3-be9e93e2771a"
+    "translation_key": "cf02f5026a73e659b6fd4573ad37fae70eb98843def4851cb9a2e43edc3b22af"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
     "question_text": "哪位球員被稱為「黑曼巴」？",
-    "correct_answer": "Kobe Bryant",
+    "correct_answer": "科比·布萊恩",
     "choices": [
-      "LeBron James",
-      "Michael Jordan",
-      "Kevin Durant",
-      "Kobe Bryant"
+      "科比·布萊恩",
+      "麥可·喬丹",
+      "勒布朗·詹姆斯",
+      "凱文·杜蘭特"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "291980f3-1573-4eb9-8bee-6170c79bbdd4"
+    "translation_key": "041a7c5a4dae46bee6c00720f723ba969ebcb9b966e34f712441b71b579718b5"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "NBA 三分線最遠處的寬度是多少？",
+    "question_text": "NBA三分線最遠處的寬度是多少？",
     "correct_answer": "23英尺9英吋",
     "choices": [
-      "25英尺",
       "22英尺",
+      "23英尺9英吋",
       "24英尺",
-      "23英尺9英吋"
+      "25英尺"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ba34e433-7839-4242-af6e-be12bc0e659e"
+    "translation_key": "d0b7d134a8746bb7311a186a4d6dce94c7aadd33f4897222ea42740ca30827bb"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "哪支球隊贏得1947年的首屆NBA總冠軍？",
-    "correct_answer": "Philadelphia Warriors",
+    "question_text": "哪支球隊贏得1947年的首屆NBA冠軍？",
+    "correct_answer": "費城勇士",
     "choices": [
-      "Minneapolis Lakers",
-      "New York Knicks",
-      "Philadelphia Warriors",
-      "Boston Celtics"
+      "費城勇士",
+      "波士頓塞爾提克",
+      "明尼亞波利斯湖人",
+      "紐約尼克"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "0b9a0d5e-8b31-49d7-8050-86164b5b4b41"
+    "translation_key": "dd0f088470a45a79eee7e5733b13fdbddfc099eea2e402d125fb92589de3494a"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "唯一一位在同一年贏得NBA MVP和NCAA冠軍的球員是誰？",
-    "correct_answer": "Magic Johnson",
+    "question_text": "唯一在同一年贏得NBA MVP和NCAA冠軍的球員是誰？",
+    "correct_answer": "魔術強森",
     "choices": [
-      "Larry Bird",
-      "Magic Johnson",
-      "Michael Jordan",
-      "Bill Walton"
+      "魔術強森",
+      "麥可·喬丹",
+      "賴瑞·柏德",
+      "比爾·沃頓"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "82265e80-6d5a-467b-b2fb-7b208bd2e3ba"
+    "translation_key": "3aaaecb920bacf9b552dc7a23727ae831a20a4cb8afc43421c9b8a97733c29d1"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "Michael Jordan 為芝加哥公牛隊效力了多少個賽季？",
+    "question_text": "麥可·喬丹在芝加哥公牛隊效力了多少個賽季？",
     "correct_answer": "13",
     "choices": [
-      "15",
       "11",
-      "10",
-      "13"
+      "13",
+      "15",
+      "10"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "e7e4f272-82d1-4916-a3a2-a68ac46fd3f8"
+    "translation_key": "091be44f785ab6004c710d4637d58646040b7143b211bd995c97cc6b791165e9"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "哪支NBA球隊保持著常規賽最多勝場紀錄？",
-    "correct_answer": "Golden State Warriors",
+    "question_text": "哪支NBA球隊保持例行賽最多勝場的紀錄？",
+    "correct_answer": "金州勇士",
     "choices": [
-      "Chicago Bulls",
-      "Boston Celtics",
-      "Golden State Warriors",
-      "Los Angeles Lakers"
+      "金州勇士",
+      "芝加哥公牛",
+      "洛杉磯湖人",
+      "波士頓塞爾提克"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "c3d88b32-6006-474e-8321-05c2ffc5068a"
+    "translation_key": "d3d89105b1ba73c22ac83e1d4fe06f92503fde9e6b648c5c870d25229d012e52"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "Kobe Bryant 職業生涯大部分時間穿的球衣號碼是多少？",
-    "correct_answer": "24號",
+    "question_text": "科比·布萊恩在大部分職業生涯中穿幾號球衣？",
+    "correct_answer": "24",
     "choices": [
-      "23號",
-      "24號",
-      "33號",
-      "8號"
+      "23",
+      "24",
+      "33",
+      "8"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "a62d0476-cf86-44f4-98a9-e39bbb55206d"
+    "translation_key": "2a6852ec7f5242554fa719c568f8d5c98b76052ab53f334090fc2c73d6650c48"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "誰執教芝加哥公牛隊贏得六個NBA總冠軍？",
-    "correct_answer": "Phil Jackson",
+    "question_text": "誰執教芝加哥公牛贏得他們六座NBA冠軍？",
+    "correct_answer": "菲爾·傑克森",
     "choices": [
-      "Gregg Popovich",
-      "Phil Jackson",
-      "Pat Riley",
-      "Red Auerbach"
+      "菲爾·傑克森",
+      "帕特·萊利",
+      "格雷格·波波維奇",
+      "瑞德·奧爾巴赫"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "57ac6f94-56e7-4834-97d7-fcb249b21fd2"
+    "translation_key": "4d11bf9b7d4f61f1dbf49d88e24f41d73ab9c17c7e75db4b2e3bdb12a7773080"
   },
   {
     "category": "basketball",
     "difficulty": "medium",
-    "question_text": "哪個國家贏得最多奧運男子籃球金牌？",
+    "question_text": "哪個國家在男子籃球奧運會中獲得最多金牌？",
     "correct_answer": "美國",
     "choices": [
-      "蘇聯",
-      "西班牙",
-      "阿根廷",
-      "美國"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "efe23be2-f5b1-4470-8b5d-b4cfa4bbdc92"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "hard",
-    "question_text": "WNBA 最有價值球員獎項叫什麼名字？",
-    "correct_answer": "WNBA MVP 獎",
-    "choices": [
-      "主席盃 MVP",
-      "Lisa Leslie 盃",
-      "Sheryl Swoopes 獎盃",
-      "WNBA MVP 獎"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "e9c2aa8e-6f9a-4c68-88b1-9228690353a0"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "hard",
-    "question_text": "哪位 WNBA 球員擁有最多生涯總得分？",
-    "correct_answer": "Diana Taurasi",
-    "choices": [
-      "Tina Thompson",
-      "Diana Taurasi",
-      "Lisa Leslie",
-      "Tamika Catchings"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "c780ab3c-347d-4b63-aada-d510ab55aca7"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "hard",
-    "question_text": "NBA 歷史上第一位被選中的球員是誰？",
-    "correct_answer": "Clifton McNeely",
-    "choices": [
-      "Clifton McNeely",
-      "George Mikan",
-      "Bob Cousy",
-      "Chuck Share"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "2a6219c7-6312-4418-b2a2-07638dd37419"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "medium",
-    "question_text": "NBA 球場的最大寬度是多少？",
-    "correct_answer": "50英尺",
-    "choices": [
-      "50英尺",
-      "45英尺",
-      "60英尺",
-      "55英尺"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "50fea5f5-6cc0-48d2-88ad-4f2a4139b8b9"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "easy",
-    "question_text": "Larry Bird 整個職業生涯效力於哪支球隊？",
-    "correct_answer": "Boston Celtics",
-    "choices": [
-      "Los Angeles Lakers",
-      "Boston Celtics",
-      "Chicago Bulls",
-      "Indiana Pacers"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "36f58f6f-3120-4bec-b70c-4e8d558d47a6"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "hard",
-    "question_text": "唯一一位在NBA全明星賽中取得大三元數據的球員是誰？",
-    "correct_answer": "LeBron James",
-    "choices": [
-      "Magic Johnson",
-      "Michael Jordan",
-      "Russell Westbrook",
-      "LeBron James"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "5ec1642c-e5d6-46fe-a14e-2674346be600"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "easy",
-    "question_text": "NCAA 一級男子籃球錦標賽的俗稱是什麼？",
-    "correct_answer": "三月瘋",
-    "choices": [
-      "大舞會",
-      "三月瘋",
-      "最終四強",
-      "甜蜜十六強"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "e07caa52-5c79-4c3c-a57c-93d87d7a8f9b"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "medium",
-    "question_text": "有多少支球隊參加NCAA一級男子籃球錦標賽？",
-    "correct_answer": "68",
-    "choices": [
-      "68",
-      "65",
-      "64",
-      "72"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "551678f2-d036-46db-b4d6-31786ce0d170"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "medium",
-    "question_text": "2006年，哪位NBA球員在一場比賽中得了81分？",
-    "correct_answer": "Kobe Bryant",
-    "choices": [
-      "Wilt Chamberlain",
-      "Kobe Bryant",
-      "David Thompson",
-      "Michael Jordan"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "f38739ad-c1e4-4f66-9b52-315c32e3e5c7"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "easy",
-    "question_text": "誰發明了籃球運動？",
-    "correct_answer": "James Naismith",
-    "choices": [
-      "Luther Gulick",
-      "William Morgan",
-      "James Naismith",
-      "John McLendon"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "4be8ec74-e642-452e-b62a-eae08610400d"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "hard",
-    "question_text": "NBA 在哪一年引入三分線？",
-    "correct_answer": "1979",
-    "choices": [
-      "1976",
-      "1987",
-      "1984",
-      "1979"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "7e8394ce-e019-40a4-b2d1-f7a07c5f14bb"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "medium",
-    "question_text": "哪位球員擁有最多NBA MVP獎項？",
-    "correct_answer": "Kareem Abdul-Jabbar",
-    "choices": [
-      "Kareem Abdul-Jabbar",
-      "Bill Russell",
-      "Michael Jordan",
-      "LeBron James"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "caa2a110-d773-491b-bd08-e67b453686d7"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "hard",
-    "question_text": "NCAA 一級男子籃球歷史得分王是誰？",
-    "correct_answer": "Pete Maravich",
-    "choices": [
-      "Tyler Hansbrough",
-      "Larry Bird",
-      "Kareem Abdul-Jabbar",
-      "Pete Maravich"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "28492dc1-2174-448e-bf18-c6bc77292cc2"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "medium",
-    "question_text": "1995-96賽季哪支NBA球隊贏得72場比賽？",
-    "correct_answer": "Chicago Bulls",
-    "choices": [
-      "Boston Celtics",
-      "Golden State Warriors",
-      "Chicago Bulls",
-      "Los Angeles Lakers"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "71388e1b-4ae4-40dd-9a28-143b46de6033"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "medium",
-    "question_text": "NBA 的發展聯盟叫什麼名字？",
-    "correct_answer": "NBA G聯盟",
-    "choices": [
-      "NBA D-League",
-      "NBA發展聯盟",
-      "NBA G聯盟",
-      "NBA小聯盟"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "eab8f04a-5335-48a5-8cc1-cb74c6eb0699"
-  },
-  {
-    "category": "basketball",
-    "difficulty": "medium",
-    "question_text": "2019年FIBA籃球世界盃由哪個國家贏得？",
-    "correct_answer": "西班牙",
-    "choices": [
       "美國",
-      "法國",
+      "蘇聯",
       "西班牙",
       "阿根廷"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "65d14ebf-efe6-492c-ad0c-0a1f63d764cb"
+    "translation_key": "50c69ca72c7f07ee966669fe8af360dc6ddcc2ede078ae53a781a8b15a0b5a55"
   },
   {
     "category": "basketball",
     "difficulty": "hard",
-    "question_text": "NBA 史上最矮的球員是誰？",
-    "correct_answer": "Muggsy Bogues",
+    "question_text": "WNBA最有價值球員獎項叫什麼？",
+    "correct_answer": "WNBA MVP獎",
     "choices": [
-      "Muggsy Bogues",
-      "Earl Boykins",
-      "Nate Robinson",
-      "Spud Webb"
+      "WNBA MVP獎",
+      "雪莉·斯沃普斯獎盃",
+      "麗莎·萊斯利盃",
+      "總裁盃MVP"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "645596c6-cb20-439e-ba7d-40632d296313"
+    "translation_key": "be5fffde557bb2f9f85c2b55afb5e2977b8db763b9e912c46580505df7e5b04c"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "哪位WNBA球員擁有最多生涯得分？",
+    "correct_answer": "黛安娜·陶樂西",
+    "choices": [
+      "黛安娜·陶樂西",
+      "塔米卡·凱金斯",
+      "蒂娜·湯普森",
+      "麗莎·萊斯利"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "62fd01f9eb8ca95b0e537d21e5159255b81b069288decf17cc90505d1bc53859"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "NBA歷史上第一位被選中的球員是誰？",
+    "correct_answer": "克利夫頓·麥克尼利",
+    "choices": [
+      "克利夫頓·麥克尼利",
+      "喬治·麥肯",
+      "鮑伯·庫西",
+      "查克·謝爾"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "44a9e525013ac4854e8328bfc92f4c98d4d7d011ba08a20a12129d5b30ce4a9e"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "NBA球場的最大寬度是多少？",
+    "correct_answer": "50英尺",
+    "choices": [
+      "45英尺",
+      "50英尺",
+      "55英尺",
+      "60英尺"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "0d8b83fa4ee2e48fafa264f37aad9745a326f5dffb9c602523a10cb51be49e0b"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "賴瑞·柏德整個職業生涯效力於哪支球隊？",
+    "correct_answer": "波士頓塞爾提克",
+    "choices": [
+      "波士頓塞爾提克",
+      "洛杉磯湖人",
+      "印第安納溜馬",
+      "芝加哥公牛"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "fdcbf641237cc4a51ed8e577208e11fd5fcd35a5cf0777b6115d23f299e2fe10"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "唯一在NBA全明星賽中獲得大三元的是誰？",
+    "correct_answer": "勒布朗·詹姆斯",
+    "choices": [
+      "勒布朗·詹姆斯",
+      "麥可·喬丹",
+      "魔術強森",
+      "羅素·衛斯特布魯克"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "a32e8259f459f827f42adca94d50380d52e3a6772cda1518a56e12430dc66da2"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "NCAA第一級男子籃球錦標賽的格式通常叫什麼？",
+    "correct_answer": "三月瘋",
+    "choices": [
+      "三月瘋",
+      "最終四強",
+      "甜蜜十六強",
+      "大舞會"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "c56787e8439c530c2d97ddfb43a5bcb8458226b7bceba24a43cf185c1cf71e26"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "有多少支球隊參加NCAA第一級男子籃球錦標賽？",
+    "correct_answer": "68",
+    "choices": [
+      "64",
+      "68",
+      "72",
+      "65"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "cb335bad6c01da3c992b297d9e43dfa3db868c94fc2caa769ecfa83074c72ae8"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "哪位NBA球員在2006年的一場比賽中得到81分？",
+    "correct_answer": "科比·布萊恩",
+    "choices": [
+      "科比·布萊恩",
+      "麥可·喬丹",
+      "威爾特·張伯倫",
+      "大衛·湯普森"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "cff3759bfbe181d8e68a099c81e9ac8caefae65111a1efe8d58f2a17023a07de"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "easy",
+    "question_text": "誰發明了籃球運動？",
+    "correct_answer": "詹姆斯·奈史密斯",
+    "choices": [
+      "詹姆斯·奈史密斯",
+      "威廉·摩根",
+      "約翰·麥克倫登",
+      "盧瑟·古利克"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "f637e675cf75b64e1d709e18d40707ef3e121c84d2772a350cf88fd3d86efaf8"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "三分線是在哪一年引入NBA的？",
+    "correct_answer": "1979",
+    "choices": [
+      "1976",
+      "1979",
+      "1984",
+      "1987"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "e5e03b149aeb8d43b02e184292537390e128c9e2e73d5a0d6e9c50003bf6ae9e"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "哪位球員擁有最多NBA MVP獎項？",
+    "correct_answer": "卡里姆·阿布都-賈霸",
+    "choices": [
+      "卡里姆·阿布都-賈霸",
+      "麥可·喬丹",
+      "勒布朗·詹姆斯",
+      "比爾·羅素"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "894690f7d3348ad76ed4f4f1a1ea583023c93d903fe8e9f33b3dd0fd25333a7f"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "NCAA第一級男子籃球歷史得分王是誰？",
+    "correct_answer": "皮特·馬拉維奇",
+    "choices": [
+      "皮特·馬拉維奇",
+      "卡里姆·阿布都-賈霸",
+      "賴瑞·柏德",
+      "泰勒·漢斯布洛"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "1153f3e0d120c673e7160c914422b9deb3918200b447aa2aa50797b26350058e"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "哪支NBA球隊在1995-96賽季贏得72場比賽？",
+    "correct_answer": "芝加哥公牛",
+    "choices": [
+      "芝加哥公牛",
+      "洛杉磯湖人",
+      "金州勇士",
+      "波士頓塞爾提克"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "347dc213e336990825ed0e294f45f8a9fd06c429e57af88a3294c21b081be627"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "NBA的發展聯盟叫什麼名字？",
+    "correct_answer": "NBA G聯盟",
+    "choices": [
+      "NBA G聯盟",
+      "NBA D聯盟",
+      "NBA發展聯盟",
+      "NBA小聯盟"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "fa542a2701d79931d00978bc5916d2824d37a0baff2e91b22a478c5af2dfcb4f"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "medium",
+    "question_text": "哪個國家贏得2019年FIBA籃球世界盃？",
+    "correct_answer": "西班牙",
+    "choices": [
+      "西班牙",
+      "阿根廷",
+      "法國",
+      "美國"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "515c79ed4cd5b350aca635edd1071036f635421d35e6e2b3641a627de23b95cc"
+  },
+  {
+    "category": "basketball",
+    "difficulty": "hard",
+    "question_text": "NBA史上最矮的球員是誰？",
+    "correct_answer": "馬格西·博格斯",
+    "choices": [
+      "馬格西·博格斯",
+      "斯伯特·韋伯",
+      "奈特·羅賓森",
+      "厄爾·博伊金斯"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "c73c6fc4b6f2e4f3b0268c53dadef4e60599fa53fc3b956af81f94663ded17ba"
   },
   {
     "category": "basketball",
@@ -790,158 +790,158 @@
     "correct_answer": "11",
     "choices": [
       "8",
-      "10",
+      "11",
       "12",
-      "11"
+      "10"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "181e7cd3-2e46-44f4-ae37-0f638055eb55"
+    "translation_key": "05bead8e802d517f3d5562eb5cdc7e571435652f2324fb944625ca5adc41c2eb"
   },
   {
     "category": "basketball",
     "difficulty": "easy",
-    "question_text": "Giannis Antetokounmpo 是由哪支NBA球隊選中的？",
+    "question_text": "哪支NBA球隊選中了揚尼斯·阿德托昆博？",
     "correct_answer": "密爾瓦基公鹿",
     "choices": [
-      "邁阿密熱火",
       "密爾瓦基公鹿",
       "洛杉磯湖人",
+      "邁阿密熱火",
       "多倫多暴龍"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ceda145e-61bf-4f59-8fa3-a1aaaa88dd95"
+    "translation_key": "038b2ae72d21e1031e91cc90e964bdfb4ea331dc44c9ca4c3a78a0cd449098f1"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "哪個國家贏得了1930年的第一屆世界盃？",
+    "question_text": "哪個國家贏得了1930年第一屆國際足總世界盃？",
     "correct_answer": "烏拉圭",
     "choices": [
       "烏拉圭",
       "巴西",
+      "阿根廷",
+      "義大利"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "language": "zh-tw",
+    "translation_key": "3214bbbdfbb3630246db0fb6bc1aaea6f4d6b6f24df5eb30881fcae236fc9dbd"
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question_text": "哪個國家獲得國際足總世界盃冠軍次數最多？",
+    "correct_answer": "巴西",
+    "choices": [
+      "巴西",
+      "德國",
       "義大利",
       "阿根廷"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "16489e2f-8c5a-440d-a209-699280424afd"
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question_text": "哪個國家贏得最多屆世界盃冠軍？",
-    "correct_answer": "巴西",
-    "choices": [
-      "義大利",
-      "德國",
-      "阿根廷",
-      "巴西"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "d4ee9ff2-950a-46ad-bde7-7e4f9f0ec549"
+    "translation_key": "d27dc86b8629cfc7068246ccb5e454e48128f7291a2c2df0c327250e795878ff"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "巴西贏得過幾次世界盃冠軍？",
+    "question_text": "巴西贏得過多少次世界盃冠軍？",
     "correct_answer": "5",
     "choices": [
-      "3",
-      "4",
       "5",
-      "6"
+      "4",
+      "6",
+      "3"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f988956a-b8d6-45c1-abf1-ef7274a3cc05"
+    "translation_key": "9ed637448951bebc3c328987706ccefba10e8090b221a389818bd14371e340d1"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "世界盃歷史上的總進球王是誰？",
+    "question_text": "誰是國際足總世界盃歷史上的最佳射手？",
     "correct_answer": "米洛斯拉夫·克洛澤",
     "choices": [
-      "比利",
-      "萊納爾·梅西",
       "米洛斯拉夫·克洛澤",
-      "羅納度"
+      "羅納度",
+      "利昂內爾·梅西",
+      "比利"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "5d365cc0-35b4-47ef-b92d-fe27fe31c705"
+    "translation_key": "3a8d87529d4aa238476f8674c500253176ae485e5a4c17d2be0396cd7cc5842e"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "米洛斯拉夫·克洛澤在世界盃總共進了幾球？",
+    "question_text": "米洛斯拉夫·克洛澤在世界盃共進了幾球？",
     "correct_answer": "16",
     "choices": [
-      "17",
+      "16",
       "15",
       "14",
-      "16"
+      "17"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "dafd799d-e046-4fdd-a969-9485d14d27b1"
+    "translation_key": "66d1ecaa4dcb02735194de66f38d8fc0b086676841a390166d4eacfe8b9d39de"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "哪個國家主辦了2014年世界盃？",
+    "question_text": "哪個國家主辦了2014年國際足總世界盃？",
     "correct_answer": "巴西",
     "choices": [
-      "俄羅斯",
       "巴西",
       "南非",
+      "俄羅斯",
       "德國"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "9eeeda20-aafc-4f41-8099-a09bf489fe83"
+    "translation_key": "b043d3dcd076d5f6b6914c0f57318c662d14f00ad429a271516749b0ade3eb56"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "被譽為「足球之王」且贏得三次世界盃的是誰？",
+    "question_text": "被稱為「足球之王」並贏得三次世界盃的是誰？",
     "correct_answer": "比利",
     "choices": [
       "比利",
-      "萊納爾·梅西",
-      "約翰·克魯伊夫",
-      "迪亞哥·馬拉度納"
+      "迪亞哥·馬拉度納",
+      "利昂內爾·梅西",
+      "約翰·克魯伊夫"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "6e7bd9ee-9a33-4dd9-be05-c48c50bb6886"
+    "translation_key": "ab6621f1f18c97be04007d939a94f25c66ecf0665d799c663efef429accdc9c6"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "迪亞哥·馬拉度納在哪一年踢進著名的「上帝之手」進球？",
+    "question_text": "迪亞哥·馬拉度納在哪一年踢出了惡名昭彰的「上帝之手」進球？",
     "correct_answer": "1986",
     "choices": [
+      "1986",
       "1982",
       "1990",
-      "1986",
       "1978"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "3312f1c7-d7a6-4998-be00-cde6c34a64a6"
+    "translation_key": "9c1261f611719a4322a87a74425020e05ee17483b8acfaa697cdd5e7e772a965"
   },
   {
     "category": "football",
@@ -949,100 +949,100 @@
     "question_text": "馬拉度納的「上帝之手」進球是對哪個國家踢進的？",
     "correct_answer": "英格蘭",
     "choices": [
-      "阿根廷",
       "英格蘭",
+      "阿根廷",
       "西德",
       "比利時"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "72a594e6-aad6-43c8-98a8-7eb3af2788a1"
+    "translation_key": "a343ef17d0745e45258f3086428a050b44933c7b1fb894cc786bab2c3f0cd2a4"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪支球隊贏得最多屆歐冠聯賽冠軍？",
+    "question_text": "哪個俱樂部贏得歐洲冠軍聯賽冠軍次數最多？",
     "correct_answer": "皇家馬德里",
     "choices": [
       "皇家馬德里",
+      "AC米蘭",
       "拜仁慕尼黑",
-      "利物浦",
-      "AC米蘭"
+      "利物浦"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f1c34e04-c233-4869-a14c-f3bb0cba7f24"
+    "translation_key": "1476d613664deeb7511798942b80f94433fad5fec2fbbf47565c6356b0b7efed"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "皇家馬德里贏過幾次歐冠聯賽冠軍？",
+    "question_text": "皇家馬德里贏得過多少次歐洲冠軍聯賽冠軍？",
     "correct_answer": "14",
     "choices": [
       "14",
-      "12",
       "13",
-      "15"
+      "15",
+      "12"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "e90c0e7f-7632-4eac-8dc6-985e7de6bae0"
+    "translation_key": "642e527399769d2b4748e08686f207ad770d6f2f361165825acd9df5d119c9bb"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "歐冠聯賽歷史上的總進球王是誰？",
+    "question_text": "誰是歐洲冠軍聯賽歷史上的最佳射手？",
     "correct_answer": "克里斯蒂亞諾·羅納度",
     "choices": [
-      "萊納爾·梅西",
-      "卡里姆·本澤馬",
       "克里斯蒂亞諾·羅納度",
-      "羅伯特·萊萬多夫斯基"
+      "利昂內爾·梅西",
+      "羅伯特·萊萬多夫斯基",
+      "卡里姆·本澤馬"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "b45f9086-93a4-45af-8af5-cc602fa95e12"
+    "translation_key": "d57f77e2016e38d4f939b4874ea89284981abec374391b4360259c3927d4ba4e"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "萊納爾·梅西贏得過幾次金球獎？",
+    "question_text": "利昂內爾·梅西贏得過幾次金球獎？",
     "correct_answer": "7",
     "choices": [
       "7",
       "8",
-      "5",
-      "6"
+      "6",
+      "5"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "47ddb088-5c49-4f8c-863e-85ad424444b9"
+    "translation_key": "1ab9a64aa1c2987d015695996a47649d3304f4e08e215023e1dcfda778aa0253"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪個國家贏得最多屆歐洲國家盃冠軍？",
+    "question_text": "哪個國家贏得歐洲國家盃冠軍次數最多？",
     "correct_answer": "德國",
     "choices": [
       "德國",
       "西班牙",
-      "義大利",
-      "法國"
+      "法國",
+      "義大利"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "42d2919f-b8e8-4d6b-96ef-368e5f96b804"
+    "translation_key": "5d03959f3228b80dd3f77a665ae394fa383276a92057581b3c568f2c6ff9aaf0"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "英格蘭超級聯賽始於哪一年？",
+    "question_text": "英格蘭超級聯賽於哪一年開始？",
     "correct_answer": "1992",
     "choices": [
       "1992",
@@ -1053,92 +1053,92 @@
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "80f57a46-66bd-44f5-9bf2-daab2329e1ab"
+    "translation_key": "a0934baf337ad5b4c3256ac3d96e88f2a83322636f51ddd01a3583d3d2738cc2"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪位球員是英超歷史上的總進球王？",
+    "question_text": "哪位球員在英超歷史進球最多？",
     "correct_answer": "艾倫·希勒",
     "choices": [
-      "蒂埃里·亨利",
       "艾倫·希勒",
+      "韋恩·魯尼",
       "哈里·凱恩",
-      "韋恩·魯尼"
+      "蒂埃里·亨利"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "0b746551-8cd1-4c3c-844d-208bca14ced6"
+    "translation_key": "dde04537c695a6a3a64bc815d0892066517d108a880cd1172f380746aa680c64"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "哪支球隊贏得最多屆英超冠軍？",
+    "question_text": "哪個俱樂部贏得英超冠軍次數最多？",
     "correct_answer": "曼聯",
     "choices": [
       "曼聯",
-      "利物浦",
       "切爾西",
-      "阿森納"
+      "利物浦",
+      "兵工廠"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "c1ae22f7-f11b-477f-94b5-0a6432635548"
+    "translation_key": "1f96511f56b31345b10c96194fe6277ef69827260938ab417aeb560799e7c6b3"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "唯一一位代表兩個不同國家贏得世界盃的球員是誰？",
+    "question_text": "唯一一位分別代表兩個國家贏得世界盃的球員是誰？",
     "correct_answer": "路易斯·蒙蒂",
     "choices": [
-      "阿爾弗雷多·迪斯蒂法諾",
-      "路易斯·蘇亞雷斯",
       "路易斯·蒙蒂",
-      "費倫茨·普斯卡什"
+      "阿爾弗雷多·迪·斯蒂法諾",
+      "費倫茨·普斯卡什",
+      "路易斯·蘇亞雷斯"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ce5ffcc4-281b-4efb-9898-ce547069cf6f"
+    "translation_key": "71ba07694e8086473f5f1d87c833f4155a871c9e8f1c25ed164c6e5a3b845955"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "哪個國家贏得了2018年世界盃？",
+    "question_text": "哪個國家贏得了2018年國際足總世界盃？",
     "correct_answer": "法國",
     "choices": [
-      "比利時",
-      "克羅埃西亞",
       "法國",
+      "克羅埃西亞",
+      "比利時",
       "阿根廷"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f8ea1e47-1a3e-4201-875c-b8458d4d09f2"
+    "translation_key": "43fbf6ec7639fd2c9116382421aa40bb4c6c82f6d72bd395c148c6fe2ff58e76"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪位球員在2022年世界盃決賽上演帽子戲法？",
+    "question_text": "哪位球員在2022年世界盃決賽中上演帽子戲法？",
     "correct_answer": "基利安·姆巴佩",
     "choices": [
+      "基利安·姆巴佩",
+      "利昂內爾·梅西",
       "安赫爾·迪馬利亞",
-      "安托萬·格里茲曼",
-      "萊納爾·梅西",
-      "基利安·姆巴佩"
+      "安托萬·格里茲曼"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "7d852420-0aa7-4777-a18a-b7de1bff2eeb"
+    "translation_key": "d44268e5e4b0e7f7af66e291dfb96d941baa626d47978a53b34dba4acfd7649b"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "誰贏得了2022年世界盃？",
+    "question_text": "誰贏得了2022年國際足總世界盃？",
     "correct_answer": "阿根廷",
     "choices": [
       "阿根廷",
@@ -1149,23 +1149,23 @@
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "71a03cb5-df0b-4984-ba2a-92943e441927"
+    "translation_key": "a1b53d0acd43421ee3176b722f3e3d90c8d7a70453d23b7221f07352747916c6"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "被稱為「夢劇場」的球場是哪個？",
-    "correct_answer": "老特拉福德",
+    "question_text": "哪個球場被稱為「夢劇場」？",
+    "correct_answer": "老特拉福球場",
     "choices": [
-      "諾坎普",
-      "溫布利",
-      "安菲爾德",
-      "老特拉福德"
+      "老特拉福球場",
+      "諾坎普球場",
+      "安菲爾德球場",
+      "溫布利球場"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "a4eb5414-45ea-492e-bd63-367f104ac7d1"
+    "translation_key": "5f64221068a8695b941617fe9917b6d39ee555d6d46186aba0474aaea9a5a1f3"
   },
   {
     "category": "football",
@@ -1173,79 +1173,79 @@
     "question_text": "歐洲最大的球場諾坎普的容量是多少？",
     "correct_answer": "99,354",
     "choices": [
+      "99,354",
       "90,000",
-      "105,000",
       "81,000",
-      "99,354"
+      "105,000"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "c607a78f-483f-44fa-9dbf-dd3e146e941c"
+    "translation_key": "28a1b4a9112f2564bbe686e20b957cd00a1fafb30717c7b3c5d9c56a34834ed3"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪個國家贏得最多屆美洲盃冠軍？",
+    "question_text": "哪個國家贏得美洲盃冠軍次數最多？",
     "correct_answer": "阿根廷",
     "choices": [
-      "巴西",
-      "烏拉圭",
       "阿根廷",
+      "烏拉圭",
+      "巴西",
       "智利"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ffd42365-a5ee-409c-a38f-ed8afe8aaa87"
+    "translation_key": "d510ae91baa509da2b1f1443a643af4cd4901742a66245ced63f1e126c089322"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "男子國際足球的歷史總進球王是誰？",
+    "question_text": "誰是男子國際足球歷史最佳射手？",
     "correct_answer": "克里斯蒂亞諾·羅納度",
     "choices": [
-      "萊納爾·梅西",
       "克里斯蒂亞諾·羅納度",
       "阿里·代伊",
+      "利昂內爾·梅西",
       "蘇尼爾·切特里"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "23a8f593-0fc3-4d88-a1d0-ac9533d2bd48"
+    "translation_key": "830d907666c443126ded101024fd4a1c504014809f425d9437a386b9c67ad383"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "一場標準足球比賽中，每隊有幾名球員上場？",
+    "question_text": "標準足球比賽中，每隊場上有幾名球員？",
     "correct_answer": "11",
     "choices": [
-      "12",
+      "11",
       "10",
-      "9",
-      "11"
+      "12",
+      "9"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "d62bf4ed-eedc-4e3d-8b9d-4e7225f2b208"
+    "translation_key": "a19b5c64533099ccfed5685bcf314c8f05a13fb91f7bb1322284fd1c99065d2e"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "哪種顏色的卡片表示球員被罰下場？",
-    "correct_answer": "紅牌",
+    "question_text": "什麼顏色的卡片表示球員被罰出場？",
+    "correct_answer": "紅色",
     "choices": [
-      "黑牌",
-      "黃牌",
-      "紅牌",
-      "藍牌"
+      "紅色",
+      "黃色",
+      "藍色",
+      "黑色"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "fedc681c-74eb-4f54-bb79-6e46113079b6"
+    "translation_key": "c7e0dfc2276f10981f609f7c916726d68e598bec7322c993faae9f1b6ce4c5cb"
   },
   {
     "category": "football",
@@ -1253,63 +1253,63 @@
     "question_text": "從球門線到罰球點的距離是多少？",
     "correct_answer": "12碼",
     "choices": [
-      "10碼",
-      "6碼",
       "12碼",
-      "18碼"
+      "18碼",
+      "10碼",
+      "6碼"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "fe40932a-9e3f-4e65-ab86-d977fe83d67a"
+    "translation_key": "0f723947ebeb256234feda23c23ad18e175fba84f68a0c750a662b17b951979d"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "被稱為「狂人」的教練是誰？",
+    "question_text": "哪位教練被稱為「特別的一個」？",
     "correct_answer": "若澤·穆里尼奧",
     "choices": [
-      "佩普·瓜迪奧拉",
       "若澤·穆里尼奧",
-      "亞歷克斯·弗格森",
+      "佩普·瓜迪奧拉",
+      "亞歷克斯·佛格森",
       "阿爾塞納·溫格"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "cc0cb4de-32ab-4ce8-8a05-b124866f5178"
+    "translation_key": "d06b774b7b8b594c77d87a93d9e646469423079aef21c665753b2082b826faa7"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "曼聯歷史上任期最長的總教練是誰？",
-    "correct_answer": "亞歷克斯·弗格森",
+    "question_text": "曼聯歷史上在位最久的教練是誰？",
+    "correct_answer": "亞歷克斯·佛格森",
     "choices": [
+      "亞歷克斯·佛格森",
       "馬特·巴斯比",
-      "若澤·穆里尼奧",
       "歐內斯特·曼格納爾",
-      "亞歷克斯·弗格森"
+      "若澤·穆里尼奧"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "a8a36aa4-dc7c-4caf-80fe-1fd016fab390"
+    "translation_key": "191cb0d15f50406b5e1eadf8d067845ec75ad28a373ac0ba431e23fa4c978a07"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "約翰·克魯伊夫曾效力並後來執教的著名俱樂部是哪支？",
+    "question_text": "約翰·克魯伊夫曾效力並後來執教哪個俱樂部？",
     "correct_answer": "巴塞隆納",
     "choices": [
+      "巴塞隆納",
       "阿賈克斯",
       "皇家馬德里",
-      "拜仁慕尼黑",
-      "巴塞隆納"
+      "拜仁慕尼黑"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "8e414c79-61e1-4f5d-8ee3-23c513b709f7"
+    "translation_key": "bf2c148bd7daf3b7e4d674ec1e5238eaa0712f7cdee479d4880fd0ef1e964282"
   },
   {
     "category": "football",
@@ -1317,68 +1317,68 @@
     "question_text": "哪個國家發明了越位規則？",
     "correct_answer": "英格蘭",
     "choices": [
-      "法國",
       "英格蘭",
       "蘇格蘭",
-      "義大利"
+      "義大利",
+      "法國"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "b09edf4b-ce0c-41a6-ade4-d1a50ee9f9be"
+    "translation_key": "680fc3c99610dad7453f7519542026d16f7d287c424a6f94c19ab2464caa4593"
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question_text": "第一位獲封爵士的足球員是誰？",
-    "correct_answer": "史坦利·馬修斯爵士",
+    "correct_answer": "斯坦利·馬修斯爵士",
     "choices": [
-      "鮑比·摩爾爵士",
-      "鮑比·查爾頓爵士",
-      "史坦利·馬修斯爵士",
-      "傑夫·赫斯特爵士"
+      "斯坦利·馬修斯爵士",
+      "博比·查爾頓爵士",
+      "傑夫·赫斯特爵士",
+      "博比·摩爾爵士"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "4ce61d4e-1dff-4b0f-989b-cb66262815b6"
+    "translation_key": "157fae05954e51a4e25f798547cc59756f97a2073732e9b9e4a5d369df0f102a"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪個國家從未缺席過世界盃？",
+    "question_text": "哪個國家從未缺席國際足總世界盃？",
     "correct_answer": "巴西",
     "choices": [
-      "義大利",
-      "德國",
       "巴西",
+      "德國",
+      "義大利",
       "阿根廷"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "7b1af6ed-19f2-4580-8189-b93e33b8d32b"
+    "translation_key": "c2d8e9a1647e979c765e0c9d4223d82719fa3bd9261f938f80dd6bb90cde98a9"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "哪個非洲國家首次晉級世界盃八強？",
+    "question_text": "哪個非洲國家是第一個晉級世界盃八強的？",
     "correct_answer": "喀麥隆",
     "choices": [
       "喀麥隆",
-      "迦納",
+      "奈及利亞",
       "塞內加爾",
-      "奈及利亞"
+      "迦納"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "60e760b0-03f1-4123-ada3-6f9246f853a8"
+    "translation_key": "3dd0e29f22bf8339bb57e0a155ddb45c226c4c6e01913351ea7cf26800331586"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "第一屆女足世界盃在哪一年舉行？",
+    "question_text": "第一屆女足世界盃是在哪一年舉辦的？",
     "correct_answer": "1991",
     "choices": [
       "1991",
@@ -1389,119 +1389,119 @@
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "43e3dba6-b76d-448a-9648-995377fb0856"
+    "translation_key": "108c811343d7acde75e434bde9bc6c0a4dd0c9360a56e04ffa8459bf2b86b57d"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪個國家贏得最多屆女足世界盃冠軍？",
+    "question_text": "哪個國家贏得女足世界盃冠軍次數最多？",
     "correct_answer": "美國",
     "choices": [
-      "挪威",
       "美國",
       "德國",
+      "挪威",
       "日本"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "35f35099-6523-4a06-bb62-446df1774849"
+    "translation_key": "70d76e57b68c5ffc24aeaa2452d483f1bd8a03582a8d8a36fc810006d30e3e2c"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "美國贏過幾次女足世界盃冠軍？",
+    "question_text": "美國贏得過幾次女足世界盃冠軍？",
     "correct_answer": "4",
     "choices": [
-      "5",
       "4",
-      "2",
-      "3"
+      "3",
+      "5",
+      "2"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "df335ffc-10da-44c4-b948-73ee585dba0b"
+    "translation_key": "1825d4fb228aaac169e82e2b14dabc8761338a97b243dd7e3baf14988c1d6cc5"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪支球隊因在英超賽季中保持不敗而被稱為「不敗之師」？",
-    "correct_answer": "阿森納",
+    "question_text": "哪個俱樂部因在英超賽季保持不敗而被稱為「不敗之師」？",
+    "correct_answer": "兵工廠",
     "choices": [
-      "利物浦",
-      "阿森納",
+      "兵工廠",
       "曼聯",
-      "切爾西"
+      "切爾西",
+      "利物浦"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "46bede50-52ee-44ee-9e15-1284adf2c92f"
+    "translation_key": "3bc365896eef25f058f3470daffac4653c8b45a9c5cf077932ca0c325d094f7a"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "阿森納完成「不敗賽季」是在哪一年？",
+    "question_text": "兵工廠在哪一年完成了「不敗賽季」？",
     "correct_answer": "2004",
     "choices": [
-      "2005",
-      "2002",
+      "2004",
       "2003",
-      "2004"
+      "2005",
+      "2002"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ac7b5649-00ad-4142-ad51-c95db8f06259"
+    "translation_key": "42f66a0e0e5d2c5cb46f395bac2367f6327a7131afc529511cd143ce25109b89"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "哪支德國俱樂部的座右銘是「Mia san mia」？",
+    "question_text": "哪個德國俱樂部以「Mia san mia」為口號？",
     "correct_answer": "拜仁慕尼黑",
     "choices": [
-      "沙爾克",
       "拜仁慕尼黑",
-      "漢堡",
-      "多特蒙德"
+      "多特蒙德",
+      "沙爾克04",
+      "漢堡"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "d17aa56c-5170-46a7-b409-d1217f279061"
+    "translation_key": "c3ef29426916902ea9c284a4762ee2b77e635769dc574c7d17f6b3ac49c87f2e"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "巴西國家隊的歷史總進球王是誰？",
+    "question_text": "誰是巴西國家隊歷史最佳射手？",
     "correct_answer": "內馬爾",
     "choices": [
       "內馬爾",
+      "比利",
       "羅納度",
-      "羅馬里奧",
-      "比利"
+      "羅馬里奧"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "47a553ee-9471-433d-984e-463c95ab8d80"
+    "translation_key": "5bed862db5e6a03d58a97f47ac39f1efbe264397c001579c56bfb54d2ed1b00d"
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question_text": "頒發給世界盃冠軍的獎盃叫什麼？",
+    "question_text": "頒給世界盃冠軍的獎盃叫什麼名字？",
     "correct_answer": "國際足總世界盃獎盃",
     "choices": [
+      "國際足總世界盃獎盃",
       "雷米金盃",
       "世界盃獎盃",
-      "國際足總世界盃獎盃",
       "金盃"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "e9c0628d-b002-40c7-9c63-59512bd16cca"
+    "translation_key": "49fc2e2d9edcc53c969eaaa15f8539b566820598b569a3142f1d315cd2a758bf"
   },
   {
     "category": "football",
@@ -1510,46 +1510,46 @@
     "correct_answer": "蘇聯",
     "choices": [
       "蘇聯",
-      "義大利",
+      "西班牙",
       "法國",
-      "西班牙"
+      "義大利"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "babd4a2b-339e-40d4-b4d0-9b142ee7d958"
+    "translation_key": "e8b29db8bc2674ce0a4597aae84b55f01d23cdf129c84ed6927014277df4a8a6"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "誰在英超單賽季（38場）中進球最多？",
+    "question_text": "誰在單季英超（38場）中進球最多？",
     "correct_answer": "埃爾林·哈蘭德",
     "choices": [
-      "穆罕默德·薩拉赫",
       "埃爾林·哈蘭德",
-      "克里斯蒂亞諾·羅納度",
-      "艾倫·希勒"
+      "穆罕默德·薩拉赫",
+      "艾倫·希勒",
+      "克里斯蒂亞諾·羅納度"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "3aecb583-7bca-46f6-9a18-073468352bad"
+    "translation_key": "ecf1856ee39672a459abd5cd84b8bfa6e15d68df5b41b976ee438fb3c8a7b781"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "埃爾林·哈蘭德在2022-23英超賽季進了幾球？",
+    "question_text": "埃爾林·哈蘭德在2022-23賽季英超中踢進了多少球？",
     "correct_answer": "36",
     "choices": [
+      "36",
       "38",
-      "32",
       "34",
-      "36"
+      "32"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "e3f4ee04-3108-4615-9331-379caa9b27c4"
+    "translation_key": "53be9868c567f15cf3a472922d0288088f1518f9a493d1d88d3afc36815ed5d6"
   },
   {
     "category": "football",
@@ -1557,47 +1557,47 @@
     "question_text": "哪個國家被認為是現代足球的發源地？",
     "correct_answer": "英格蘭",
     "choices": [
-      "蘇格蘭",
-      "義大利",
       "英格蘭",
-      "巴西"
+      "蘇格蘭",
+      "巴西",
+      "義大利"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "27848198-9dcf-4fef-a4ba-d7049a40eba5"
+    "translation_key": "022712a9da78f5d64f2b0e0cd50bcee8942ba532b8ac9c24bcacf6af4ec095cd"
   },
   {
     "category": "football",
     "difficulty": "medium",
-    "question_text": "哪支球隊贏得最多屆西甲聯賽冠軍？",
+    "question_text": "哪個俱樂部贏得西甲冠軍次數最多？",
     "correct_answer": "皇家馬德里",
     "choices": [
-      "巴塞隆納",
       "皇家馬德里",
-      "畢爾包競技",
-      "馬德里競技"
+      "巴塞隆納",
+      "馬德里競技",
+      "畢爾包競技"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ea4423db-69c9-426f-909d-4937880cf78a"
+    "translation_key": "80ba138ac5c65fe02b0955010c73c5dd22b5e39104df8277394e29931789a96f"
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question_text": "哪位球員在英超歷史上的助攻數最多？",
+    "question_text": "哪位球員在英超歷史助攻最多？",
     "correct_answer": "瑞恩·吉格斯",
     "choices": [
-      "塞斯克·法布雷加斯",
       "瑞恩·吉格斯",
-      "韋恩·魯尼",
-      "凱文·德布勞內"
+      "塞斯克·法布雷加斯",
+      "凱文·德布勞內",
+      "韋恩·魯尼"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "c3e813d8-4feb-4dbc-8e42-535456520f0b"
+    "translation_key": "c6366fb98467f233adcf15f37097a187ce84f5bb28d34c167d0dda630f3fb936"
   },
   {
     "category": "football",
@@ -1605,63 +1605,63 @@
     "question_text": "足球球門的標準寬度是多少？",
     "correct_answer": "8碼",
     "choices": [
-      "9碼",
       "8碼",
-      "6碼",
-      "7碼"
+      "7碼",
+      "9碼",
+      "6碼"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "3167d7b1-7053-4452-b980-198b57ca2972"
+    "translation_key": "a1d069fee53edfb7eb6c20ab4b6307d6f278998fc41dca1d983d652b7b809e20"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "古代奧運會始於哪一年？",
-    "correct_answer": "西元前776年",
+    "question_text": "古代奧林匹克運動會始於哪一年？",
+    "correct_answer": "公元前776年",
     "choices": [
-      "西元前776年",
-      "西元前632年",
-      "西元前490年",
-      "西元前850年"
+      "公元前776年",
+      "公元前490年",
+      "公元前632年",
+      "公元前850年"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "92ec1a2e-2eb6-42cd-92c8-00b34b1a755a"
+    "translation_key": "dac99b890d00ccd4036a5b63bfd3abf29bafce5d51313785aeaa433a0f151811"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "誰被譽為現代奧運會之父？",
+    "question_text": "誰被認為是現代奧運會的創始人？",
     "correct_answer": "皮埃爾·德·顧拜旦",
     "choices": [
-      "艾弗里·布倫戴奇",
-      "馮·斯圖本男爵",
       "皮埃爾·德·顧拜旦",
-      "朱爾斯·雷米"
+      "馮·施托伊本男爵",
+      "朱爾斯·里梅",
+      "艾弗里·布倫戴奇"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "0b5e149a-8e6c-41f6-ac38-220315d44ac9"
+    "translation_key": "12da511fd65058ab52a0ce1edcadded14968dc1fd2d46009bc90e18055bc93f5"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "第一屆現代奧運會於哪一年舉辦？",
+    "question_text": "第一屆現代奧運會在哪一年舉行？",
     "correct_answer": "1896",
     "choices": [
-      "1890",
       "1896",
       "1900",
-      "1904"
+      "1904",
+      "1890"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ce5e24a2-95dc-4277-bb17-b9c494656847"
+    "translation_key": "f612f061236cfed50c016b7c3c5d219458787dcf1337c0e262aacb225ee6a2cc"
   },
   {
     "category": "olympics",
@@ -1669,31 +1669,31 @@
     "question_text": "哪個城市舉辦了第一屆現代奧運會？",
     "correct_answer": "雅典",
     "choices": [
-      "羅馬",
+      "雅典",
       "巴黎",
       "倫敦",
-      "雅典"
+      "羅馬"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "8288bf24-e4f7-4eb1-b5ea-6645d30a883e"
+    "translation_key": "c4202bea5e5807b7ec5031fd8225758cff2e3f2ebc5c8bf1c56d5a2ad6803842"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "奧運旗幟上有幾個圓環？",
+    "question_text": "奧運旗幟上有多少個圓環？",
     "correct_answer": "5",
     "choices": [
       "5",
       "6",
-      "7",
-      "4"
+      "4",
+      "7"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "2d56011e-6b37-4cdc-a60d-a1468575de7a"
+    "translation_key": "83e3b47358aad58b57b9ea2ef7bdf85afcdbe989f50eda4f20bb9c18d242d20c"
   },
   {
     "category": "olympics",
@@ -1701,79 +1701,79 @@
     "question_text": "奧運五環代表什麼？",
     "correct_answer": "五大洲",
     "choices": [
-      "五個創始國",
       "五大洲",
-      "五個奧運價值",
-      "五項原始運動"
+      "最初的五項運動",
+      "五個創始國家",
+      "五項奧林匹克價值"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ac9e7ad0-73a3-4813-a904-279d12cda821"
+    "translation_key": "7fa46b4878acaebc78739b1c6961785cdde0cb75ca61da060ad48b8511c418f4"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
     "question_text": "奧運會的官方格言是什麼？",
-    "correct_answer": "Citius, Altius, Fortius",
+    "correct_answer": "更快、更高、更強",
     "choices": [
-      "Citius, Altius, Fortius",
-      "更快、更高、更勇敢",
-      "同一個世界，同一個夢想",
-      "更快、更高、更強——團結"
+      "更快、更高、更強",
+      "更快、更高、更團結",
+      "同一個世界、同一個夢想",
+      "更快、更高、更勇敢"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "6dce4598-dfd6-4ad7-959a-cd6c1bddaf78"
+    "translation_key": "607a4beabea2562e926cb2cb9386af02c434f3894944d42452271e58d84bcdcc"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "奧運格言的英文翻譯是什麼？",
+    "question_text": "奧運格言的英文是什麼？",
     "correct_answer": "Faster, Higher, Stronger",
     "choices": [
       "Faster, Higher, Stronger",
+      "Swifter, Higher, Braver",
       "Quick, High, Strong",
-      "Speed, Height, Power",
-      "Swifter, Higher, Braver"
+      "Speed, Height, Power"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f2fa8e17-e95e-4392-a00a-e24121e6a635"
+    "translation_key": "75448ea9c10e2044b36ed746b64033b52c0f07526c9e05242e671167e53e10bf"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "哪位運動員擁有最多奧運金牌？",
-    "correct_answer": "麥可·菲爾普斯",
+    "question_text": "哪位運動員擁有最多的奧運金牌紀錄？",
+    "correct_answer": "邁克爾·菲爾普斯",
     "choices": [
-      "麥可·菲爾普斯",
+      "邁克爾·菲爾普斯",
+      "尤塞恩·博爾特",
       "卡爾·劉易斯",
-      "馬克·史畢茲",
-      "尤塞恩·博爾特"
+      "馬克·施皮茨"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "3739f259-da1c-4702-9c4d-7a86197f0207"
+    "translation_key": "30f585d449df4ada0457c7bbede3fb77eb2407c7c8b5b23a01d24eae21c3c8df"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "麥可·菲爾普斯總共獲得了多少枚奧運金牌？",
+    "question_text": "邁克爾·菲爾普斯總共獲得了多少枚奧運金牌？",
     "correct_answer": "23",
     "choices": [
-      "28",
-      "18",
       "23",
+      "18",
+      "28",
       "15"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "aa44855c-bed9-485f-baf8-36fcaca19c39"
+    "translation_key": "3036642e907ae8e5139e182279e23a40efa8f27c0de0522e2a982264417d2a60"
   },
   {
     "category": "olympics",
@@ -1781,63 +1781,63 @@
     "question_text": "尤塞恩·博爾特在哪個項目中贏得了他的第一枚奧運金牌？",
     "correct_answer": "100米",
     "choices": [
-      "4x100米接力",
+      "100米",
       "200米",
-      "400米",
-      "100米"
+      "4x100米接力",
+      "400米"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "c565ca43-8b84-45bd-9b1f-1463f6437785"
+    "translation_key": "6d2322e4234fbd8f90cd76b9df6803650a90484e36869928ede8fef32a203b56"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "尤塞恩·博爾特在哪一年完成了他奧運生涯的第一個「三三連冠」？",
+    "question_text": "尤塞恩·博爾特在哪一年完成了他的第一個奧運三連冠？",
     "correct_answer": "2016",
     "choices": [
       "2016",
-      "2008",
       "2012",
+      "2008",
       "2020"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "5dc0a269-eea6-4d4f-b82d-34fda1effbcc"
+    "translation_key": "e07e57a7987cb149aba1bceb9427032a89aae5fc39c5c3ada2c288104865c334"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "卡爾·劉易斯在他的職業生涯中獲得了多少枚奧運金牌？",
+    "question_text": "卡爾·劉易斯在他的職業生涯中贏得了多少枚奧運金牌？",
     "correct_answer": "9",
     "choices": [
-      "8",
-      "10",
       "9",
+      "10",
+      "8",
       "7"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "67d6abf4-a61f-4ec1-9f88-84e72aebc616"
+    "translation_key": "109e70e8496b1da3bd312655bb55647bce36d0048aec7227b351a74916c8334a"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "第一位贏得奧運女子體操個人全能金牌的運動員是誰？",
-    "correct_answer": "拉里莎·拉蒂尼娜",
+    "question_text": "第一位獲得奧運體操女子個人全能金牌的女性是誰？",
+    "correct_answer": "拉里莎·拉特尼娜",
     "choices": [
-      "奧爾加·科爾布特",
-      "拉里莎·拉蒂尼娜",
+      "拉里莎·拉特尼娜",
+      "西蒙·拜爾斯",
       "納迪亞·科馬內奇",
-      "西蒙·拜爾斯"
+      "奧爾加·科爾布特"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "5ae4ff69-6347-4d89-a36b-3e2ae96b13fc"
+    "translation_key": "544121dd36038ec130f3da4896be764e8998cb329de780d88e990b037aa7ae8b"
   },
   {
     "category": "olympics",
@@ -1845,15 +1845,15 @@
     "question_text": "在1936年柏林奧運會上，哪位非裔美國運動員贏得了四枚金牌？",
     "correct_answer": "傑西·歐文斯",
     "choices": [
-      "傑基·羅賓森",
-      "拉爾夫·梅特卡夫",
       "傑西·歐文斯",
-      "喬·路易斯"
+      "喬·路易斯",
+      "傑基·羅賓森",
+      "拉爾夫·梅特卡夫"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f36fbb2b-6c47-4bf7-9b27-3a4dd5dd0a03"
+    "translation_key": "d3f5a7acea68821854d6f26e30cb2652f7fe48d72107bbba556ee9c2dd67b60f"
   },
   {
     "category": "olympics",
@@ -1863,29 +1863,29 @@
     "choices": [
       "美國",
       "英國",
-      "希臘",
-      "法國"
+      "法國",
+      "希臘"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "546ff341-3a4d-4159-86dc-9cf018ac407d"
+    "translation_key": "cc924e6f8ec35f3981a848bf40ebefcb305e0a03f6bc1e643edbb9bc85ea5487"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "倫敦舉辦過幾次奧運會？",
+    "question_text": "倫敦舉辦過多少次奧運會？",
     "correct_answer": "3",
     "choices": [
       "3",
-      "4",
       "2",
+      "4",
       "1"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "8d831bea-496a-4da6-9a8d-1592908c7470"
+    "translation_key": "51a1c87e1a1eb53e7f3cfc842851791984d3c8ae95f8f11791c62edd9610de0a"
   },
   {
     "category": "olympics",
@@ -1893,15 +1893,15 @@
     "question_text": "哪個城市舉辦了2000年夏季奧運會？",
     "correct_answer": "雪梨",
     "choices": [
-      "北京",
+      "雪梨",
       "亞特蘭大",
-      "雅典",
-      "雪梨"
+      "北京",
+      "雅典"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "c0783d3c-1187-4320-8c9c-7310aa953880"
+    "translation_key": "aacd4021576c259aaa5feb192e161bd7594f21daae44c50f37fa6c07995726b4"
   },
   {
     "category": "olympics",
@@ -1910,94 +1910,94 @@
     "correct_answer": "1928",
     "choices": [
       "1928",
-      "1936",
+      "1900",
       "1912",
-      "1900"
+      "1936"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "8365b43a-ad84-4082-9a3d-c1638e276e0d"
+    "translation_key": "5f4bf5154413bc79150bf1135918399d02bb451c9995da63af20611bb9c8a1dc"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "歷史最悠久的奧運項目是什麼？",
+    "question_text": "奧運會中歷史最悠久且持續舉辦的運動項目是什麼？",
     "correct_answer": "田徑",
     "choices": [
-      "擊劍",
       "田徑",
-      "摔角",
-      "游泳"
+      "游泳",
+      "擊劍",
+      "摔跤"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "84791304-eac7-471c-95be-29f0c0caf8af"
+    "translation_key": "2b538af91b6175d5c73493c1c27bd907c2d0d66735a445b38131b3b6e2ad7726"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "哪個國家在奧運史上獲得的獎牌總數最多？",
+    "question_text": "哪個國家在奧運會歷史上獲得獎牌最多？",
     "correct_answer": "美國",
     "choices": [
-      "中國",
-      "英國",
       "美國",
-      "蘇聯"
+      "蘇聯",
+      "英國",
+      "中國"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "97713bd9-7ab9-44a0-9c7e-20d47803569a"
+    "translation_key": "a04ede3edc174e3f2f216422fd5a29c39ce22fb8890cca2455c49b092d4700b9"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "哪位體操選手在1976年蒙特婁奧運會上獲得了完美的10分？",
+    "question_text": "哪位體操運動員在1976年蒙特利爾奧運會上獲得了完美10分？",
     "correct_answer": "納迪亞·科馬內奇",
     "choices": [
-      "奧爾加·科爾布特",
-      "西蒙·拜爾斯",
       "納迪亞·科馬內奇",
-      "瑪麗·盧·雷頓"
+      "西蒙·拜爾斯",
+      "瑪麗·盧·雷頓",
+      "奧爾加·科爾布特"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "65417b80-2dc5-4bb1-beb1-7013db91a718"
+    "translation_key": "69081195059a81e5dce03e97233d883f6badfda14ab77eedb29e05a75156aace"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "西蒙·拜爾斯在2016年里約奧運會上贏得了多少枚金牌？",
+    "question_text": "西蒙·拜爾斯在2016年里約奧運會上獲得了多少枚金牌？",
     "correct_answer": "4",
     "choices": [
-      "3",
-      "6",
       "4",
-      "5"
+      "5",
+      "3",
+      "6"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "b6a9d684-958a-46a1-9b3d-016593041908"
+    "translation_key": "ba0c5029d2b45353eaec95d91fbc1851263ad61571da5e899bff1e4f2c47f481"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "奧運聖火象徵什麼？",
+    "question_text": "奧運火炬的火焰象徵什麼？",
     "correct_answer": "純潔與追求完美",
     "choices": [
+      "純潔與追求完美",
+      "競技之火",
       "太陽神阿波羅",
-      "知識之光",
-      "競賽之火",
-      "純潔與追求完美"
+      "知識之光"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "5fe9f958-c6f2-4555-a096-042a833bf735"
+    "translation_key": "e046eb60964ba6714a8a778408b607a6829f5dd0e343c654dd07c7e44a7fcc18"
   },
   {
     "category": "olympics",
@@ -2005,15 +2005,15 @@
     "question_text": "哪個國家抵制了1980年莫斯科奧運會？",
     "correct_answer": "美國",
     "choices": [
-      "中國",
-      "蘇聯",
       "美國",
+      "蘇聯",
+      "中國",
       "東德"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "0f3f94bf-8be4-4567-be15-cab395d53790"
+    "translation_key": "1c87c3b3355ed81b0d8030f655e86b2ea18a5c852548ff9b7e5ff665feadd931"
   },
   {
     "category": "olympics",
@@ -2021,47 +2021,47 @@
     "question_text": "哪個國家為了報復而抵制了1984年洛杉磯奧運會？",
     "correct_answer": "蘇聯",
     "choices": [
+      "蘇聯",
       "中國",
-      "古巴",
       "東德",
-      "蘇聯"
+      "古巴"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "9b029875-fd24-4377-9860-c988c16b098a"
+    "translation_key": "f703101f563e45967e6531abfd1066309e3b440b090f4329524f81e70e512968"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "在哪項運動中，選手會在寬4英寸的平衡木上完成動作？",
+    "question_text": "哪項運動的選手需要在4英寸寬的平衡木上進行表演？",
     "correct_answer": "體操",
     "choices": [
-      "花式滑冰",
-      "韻律體操",
+      "體操",
       "跳水",
-      "體操"
+      "花式滑冰",
+      "韻律體操"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "1ced3747-2c53-4c84-94c8-541e002a0d70"
+    "translation_key": "c561c9b7b9b58ce1a1ec96f8fa9c76b9ca4c4bc218f2b36e3f9ed58e38e30630"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "游泳項目中，哪一項是奧運會最長的距離？",
+    "question_text": "游泳項目中，最長的奧運距離是哪項？",
     "correct_answer": "1500米自由式",
     "choices": [
-      "200米蝶式",
+      "1500米自由式",
       "800米自由式",
       "400米個人混合式",
-      "1500米自由式"
+      "200米蝶式"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "5786e62f-4145-4597-86ee-007200578f79"
+    "translation_key": "c38f8ec6fad212a6c78c9ae91b1602544b3eb78b91df5b3beb58337f1f61c01e"
   },
   {
     "category": "olympics",
@@ -2069,63 +2069,63 @@
     "question_text": "現代五項包含多少個項目？",
     "correct_answer": "5",
     "choices": [
+      "5",
       "7",
-      "6",
       "3",
-      "5"
+      "6"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "89c82fd7-5dd7-45c4-ac5e-2e75e8d8e3a2"
+    "translation_key": "eb2a2b7fc22437f62a6b209c7d13ed34ab96c2c685a5cf1a800e4b104bf9d437"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "哪個國家在2020年東京奧運會上獲得的獎牌最多？",
+    "question_text": "哪個國家在2020年東京奧運會上獲得最多獎牌？",
     "correct_answer": "美國",
     "choices": [
+      "美國",
       "中國",
       "日本",
-      "美國",
       "英國"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "93014822-1219-4bee-9185-cb4dd942a6c8"
+    "translation_key": "6be861393379776d1ef931126ada60f3cb3168d2c463b82ac784f53449e87941"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "冬季和夏季奧運會最後一次在同一年舉辦是哪一年？",
+    "question_text": "冬季和夏季奧運會最後一次在同一年舉行是在哪一年？",
     "correct_answer": "1992",
     "choices": [
-      "1996",
       "1992",
-      "1988",
-      "1994"
+      "1994",
+      "1996",
+      "1988"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "ffc7c2ef-5a1e-4720-87f2-b724f5a63b17"
+    "translation_key": "25d21eb0a3f2079b5a5ec179530aeb3ee9a20f14c607200725973605a20c957a"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "哪個國家在冬奧會歷史上獲得的獎牌總數最多？",
+    "question_text": "哪個國家在冬奧會歷史上的獎牌總數最多？",
     "correct_answer": "挪威",
     "choices": [
-      "加拿大",
+      "挪威",
       "美國",
-      "俄羅斯",
-      "挪威"
+      "加拿大",
+      "俄羅斯"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "7aa50e81-3419-4bb5-bc60-a90b90040b0a"
+    "translation_key": "fece42b4a6d5bd3e13574731c1ef9919d621c1518fe76841dd2787cbe9dbe6ad"
   },
   {
     "category": "olympics",
@@ -2133,79 +2133,79 @@
     "question_text": "哪位運動員擁有最多的冬奧獎牌？",
     "correct_answer": "瑪麗特·比約根",
     "choices": [
-      "伊倫·伍斯特",
-      "比約恩·戴利",
+      "瑪麗特·比約根",
       "奧勒·埃納爾·比約恩達倫",
-      "瑪麗特·比約根"
+      "比約恩·戴利",
+      "伊雷妮·維斯特"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "e6379fe8-0875-4668-9435-5f2fe1304f65"
+    "translation_key": "1648f4079d7f9af9124940f91efa0f45da011557b10b035ffe54acc8aa719dbc"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "哪項奧運項目要求選手自備馬匹？",
+    "question_text": "唯一需要參賽者自備馬匹的奧運項目是什麼？",
     "correct_answer": "馬術",
     "choices": [
-      "現代五項",
-      "戰車賽",
       "馬術",
-      "馬球"
+      "五項全能",
+      "馬球",
+      "戰車賽"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "15be5783-65ea-4ba1-9d42-ac42c486915f"
+    "translation_key": "1fbcbcb0597b86df399fd0a5741ced60a83fe44e9984fe32b938fab39d251fac"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "1900年巴黎奧運會上哪項比賽涉及活鴿射擊？",
+    "question_text": "1900年巴黎奧運會上哪項比賽包含了活鴿射擊？",
     "correct_answer": "活鴿射擊",
     "choices": [
       "活鴿射擊",
-      "多向飛靶",
-      "十字弓",
-      "射箭"
+      "射箭",
+      "飛靶射擊",
+      "十字弓"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "f7d52bd6-025e-475c-af7b-5dc07631facf"
+    "translation_key": "e154969949badf2933e80899d6269516e56f0313ac48d1621071e9d47cfc636a"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "女子馬拉松在哪屆奧運會首次登場？",
-    "correct_answer": "1984年洛杉磯奧運會",
+    "question_text": "女子馬拉松在哪一屆奧運會首次登場？",
+    "correct_answer": "1984年洛杉磯",
     "choices": [
-      "1988年首爾奧運會",
-      "1976年蒙特婁奧運會",
-      "1992年巴塞隆納奧運會",
-      "1984年洛杉磯奧運會"
+      "1984年洛杉磯",
+      "1988年首爾",
+      "1976年蒙特利爾",
+      "1992年巴塞隆納"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "00fca2ce-88aa-4b71-b810-3fc9e8c08108"
+    "translation_key": "87c0665d840a641768746e99f31029828fa748636acdac7db3758cba200d7493"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "哪個國家贏得了奧運會女子足球首枚金牌？",
+    "question_text": "哪個國家贏得了奧運會女子足球項目的首枚金牌？",
     "correct_answer": "美國",
     "choices": [
+      "美國",
       "挪威",
       "德國",
-      "美國",
       "巴西"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "15fb6497-557b-4172-b333-8ef798372a08"
+    "translation_key": "7fec1a125acf34df90abaece6168bd4961dfa5f7ef3b1bf04bc9d83baf6a1b6e"
   },
   {
     "category": "olympics",
@@ -2213,63 +2213,63 @@
     "question_text": "誰在1896年為美國贏得了第一枚奧運金牌？",
     "correct_answer": "詹姆斯·康諾利",
     "choices": [
-      "約翰·潘恩",
       "詹姆斯·康諾利",
       "托馬斯·伯克",
-      "羅伯特·加勒特"
+      "羅伯特·加勒特",
+      "約翰·佩因"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "18537635-dd31-4307-a89a-ecf7320bf00e"
+    "translation_key": "2e3deb8ed0df1bee1496899432fdb9f943d858838a4381b591da318f1729763d"
   },
   {
     "category": "olympics",
     "difficulty": "easy",
-    "question_text": "奧運游泳項目中速度最慢的是哪一種泳姿？",
+    "question_text": "哪種奧運游泳姿勢速度最慢？",
     "correct_answer": "蛙式",
     "choices": [
-      "自由式",
       "蛙式",
+      "蝶式",
       "仰式",
-      "蝶式"
+      "自由式"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "068d95e9-75ea-4e01-ae4f-25f3e481bf9b"
+    "translation_key": "162df3de53a08044d8751aeb49c1a7be6b77977cfb188049aaf0fe690a15dcba"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "下列哪一項不是奧運會中的格鬥項目？",
+    "question_text": "下列哪一項不是奧運會中的格鬥運動？",
     "correct_answer": "綜合格鬥",
     "choices": [
-      "拳擊",
       "綜合格鬥",
+      "柔道",
       "跆拳道",
-      "柔道"
+      "拳擊"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "a82ee632-f6ae-4795-a11d-523e5ed0a443"
+    "translation_key": "889b86bd0eb0c918b8f3fa2d1188832691b417a101d643f571e27aef453e893b"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "2016年里約奧運開幕式上，難民代表隊的旗手是誰？",
+    "question_text": "誰在2016年里約奧運開幕式上擔任難民代表團的旗手？",
     "correct_answer": "波波萊·米森加",
     "choices": [
-      "拉米·阿尼斯",
-      "耶奇·普爾·比爾",
+      "波波萊·米森加",
       "尤斯拉·馬爾迪尼",
-      "波波萊·米森加"
+      "拉米·阿尼斯",
+      "耶赫·普爾·比爾"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "2d8e93e5-8ab9-475e-bee4-45e4c2456b7b"
+    "translation_key": "efbcd9768e5612878ff80876d74c6a21ad8979618bc6ae3a182c407931b49cc5"
   },
   {
     "category": "olympics",
@@ -2277,15 +2277,15 @@
     "question_text": "奧運馬拉松的距離是多少？",
     "correct_answer": "42.195公里",
     "choices": [
-      "26英里",
-      "42公里",
       "42.195公里",
-      "40公里"
+      "26英里",
+      "40公里",
+      "42公里"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "0043eccb-385b-4db3-955b-88623a1084a4"
+    "translation_key": "d2b0eb9fa39e03cb050845bfd84c352fdfec3066f2fdea43332c4748aa057755"
   },
   {
     "category": "olympics",
@@ -2293,15 +2293,15 @@
     "question_text": "帕拉林匹克運動會始於哪一年？",
     "correct_answer": "1960",
     "choices": [
-      "1952",
-      "1964",
       "1960",
-      "1948"
+      "1948",
+      "1952",
+      "1964"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "46904d52-6d61-4bc1-accf-38c20a5c5c22"
+    "translation_key": "55823da8b6e5ace102504ca82efaac953d9e87e7541893f6c38cd11d43d05ef8"
   },
   {
     "category": "olympics",
@@ -2309,47 +2309,47 @@
     "question_text": "誰創立了帕拉林匹克運動？",
     "correct_answer": "路德維希·古特曼爵士",
     "choices": [
+      "路德維希·古特曼爵士",
       "皮埃爾·德·顧拜旦",
       "艾弗里·布倫戴奇",
-      "路德維希·古特曼爵士",
       "胡安·安東尼奧·薩馬蘭奇"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "1488e1b7-5521-4bfe-8302-3dd26f46fefd"
+    "translation_key": "fae8aa8b7321d493159495bfe302e3dc509f35d5359d1eee4f949cf1d925ba2e"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "哪個國家舉辦了未按原定年份舉行的奧運會？",
+    "question_text": "哪個國家舉辦的奧運會沒有按照預定年份舉行？",
     "correct_answer": "日本",
     "choices": [
+      "日本",
       "德國",
-      "澳洲",
       "美國",
-      "日本"
+      "澳大利亞"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "21670ca5-7caf-40ba-8d1b-e23113a2abfc"
+    "translation_key": "026f62c79073d41e119de481741061b0145652ffff24e6d787db62f3506b7879"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "1916年奧運會因什麼原因被取消？",
+    "question_text": "1916年奧運會因何取消？",
     "correct_answer": "第一次世界大戰",
     "choices": [
-      "西班牙流感",
-      "經濟大蕭條",
+      "第一次世界大戰",
       "第二次世界大戰",
-      "第一次世界大戰"
+      "經濟大蕭條",
+      "西班牙流感"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "9ff1c3b8-a228-4fd5-8899-7377b3d63574"
+    "translation_key": "e6b256670587c3ef4b7138b8e41e73caa6c5cf6e232f4a94e27c5f68f8a90df8"
   },
   {
     "category": "olympics",
@@ -2357,36 +2357,36 @@
     "question_text": "哪幾屆奧運會因第二次世界大戰而取消？",
     "correct_answer": "1940年和1944年",
     "choices": [
-      "僅1944年",
-      "1936年和1940年",
       "1940年和1944年",
-      "僅1940年"
+      "僅1940年",
+      "僅1944年",
+      "1936年和1940年"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "bffeacf9-92b4-42a6-ac95-a92db24be79b"
+    "translation_key": "37a2985b8c9c393e1ec06ddf6042ffdd721463c1b8ab16614d8a3d1eb3458df6"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "哪個國家在2020年東京奧運會女子100米蛙泳中獲得了該國史上第一枚奧運金牌？",
+    "question_text": "哪個國家在2020年東京奧運會的女子100米蛙泳項目中贏得了其史上第一枚奧運金牌？",
     "correct_answer": "南非",
     "choices": [
-      "肯亞",
-      "菲律賓",
       "南非",
-      "牙買加"
+      "牙買加",
+      "肯亞",
+      "菲律賓"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "e04889d2-e45c-46dd-80d1-f1777d9ebef3"
+    "translation_key": "448742d201bf4c28a49499a8cf67e319ebf796a76714007b8f04bc43a4627616"
   },
   {
     "category": "olympics",
     "difficulty": "hard",
-    "question_text": "哪位美國籃球運動員因種族歧視在1936年奧運會上拒絕接受金牌？",
+    "question_text": "哪位美國籃球運動員因種族歧視而拒絕接受1936年奧運會的金牌？",
     "correct_answer": "喬·福滕伯里",
     "choices": [
       "喬·福滕伯里",
@@ -2397,822 +2397,822 @@
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "cee5a041-1c9b-4ab4-98d3-ade2fd31c6d4"
-  },
-  {
-    "category": "tennis",
-    "difficulty": "medium",
-    "question_text": "網球直徑為多少英寸？",
-    "correct_answer": "2.7 英寸",
-    "choices": [
-      "2.3 英寸",
-      "2.7 英寸",
-      "3.0 英寸",
-      "2.5 英寸"
-    ],
-    "image_asset": null,
-    "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "312f8088-9dff-4594-bdf6-5214e5eacc55"
+    "translation_key": "60d2fafb5e9f9fd4402dbba0ad026271cf56a6db42756c33a4da13ca31032759"
   },
   {
     "category": "olympics",
     "difficulty": "medium",
-    "question_text": "自1896年以來，唯一一項在每一屆現代奧運會中都有比賽的項目是什麼？",
-    "correct_answer": "田徑、自行車、擊劍和體操",
+    "question_text": "What is the only sport that has been contested at every modern Olympic Games since 1896?",
+    "correct_answer": "Athletics, cycling, fencing, and gymnastics",
     "choices": [
-      "田徑、自行車、擊劍和體操",
-      "田徑、游泳、擊劍和舉重",
-      "田徑、游泳和自行車",
-      "游泳、田徑和摔跤"
+      "Athletics, cycling, fencing, and gymnastics",
+      "Swimming, athletics, and wrestling",
+      "Athletics, swimming, and cycling",
+      "Athletics, swimming, fencing, and weightlifting"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "5f664c77-58e1-4e5d-a2aa-247b13e10031"
+    "translation_key": "17d52a4dee66ab21fff054cce6ebe9d46fa4150883658be399ec80eff00f9f8a",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "哪個大滿貫賽事在紅土球場進行？",
-    "correct_answer": "法國網球公開賽",
+    "question_text": "Which Grand Slam tournament is played on clay courts?",
+    "correct_answer": "French Open",
     "choices": [
-      "法國網球公開賽",
-      "溫布頓網球錦標賽",
-      "美國網球公開賽",
-      "澳洲網球公開賽"
+      "French Open",
+      "Wimbledon",
+      "Australian Open",
+      "US Open"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "64fc8f94-a7d5-4cac-9243-08125b0a9763"
+    "translation_key": "7d7e7fc835d7b7a7b0d04e721fe11341d85642fb24b0b535434504dff8f0eb6e",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "羅傑·費德勒贏得了多少個大滿貫單打冠軍？",
+    "question_text": "How many Grand Slam singles titles does Roger Federer have?",
     "correct_answer": "20",
     "choices": [
-      "24",
+      "18",
       "20",
       "22",
-      "18"
+      "24"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "58ee8c0b-5fe0-46df-a63f-62a1d353aca9"
+    "translation_key": "659b58f682434c2fce1ba52885b5129e7a55f28cfa393d76d3d550428fad4b36",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "溫布頓網球錦標賽的球場表面是什麼？",
-    "correct_answer": "草地",
+    "question_text": "What is the surface of Wimbledon's courts?",
+    "correct_answer": "Grass",
     "choices": [
-      "草地",
-      "紅土",
-      "硬地",
-      "地毯"
+      "Grass",
+      "Clay",
+      "Hard court",
+      "Carpet"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "9164b4d0-96f3-4535-a0cd-029d916d7cd7"
+    "translation_key": "6c12e3644f11ebc9d954ae5460779726f78c66ef0bf5481a31591f16b08f13d4",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "哪位球員保持著最多大滿貫單打冠軍的紀錄？",
-    "correct_answer": "諾瓦克·喬科維奇",
+    "question_text": "Which player holds the record for most Grand Slam singles titles?",
+    "correct_answer": "Novak Djokovic",
     "choices": [
-      "羅傑·費德勒",
-      "諾瓦克·喬科維奇",
-      "小威廉絲",
-      "拉斐爾·納達爾"
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Roger Federer",
+      "Serena Williams"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "899a0d9a-7ae5-4202-932b-59b2ef33f3fd"
+    "translation_key": "aa64fc1a4626bb3cdc24e760b9130ceb93ded6895c0bc1df6df64a538f1b12a7",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "在網球中，零分叫什麼？",
+    "question_text": "What is a score of zero called in tennis?",
     "correct_answer": "Love",
     "choices": [
+      "Love",
       "Nil",
       "Zero",
-      "Ace",
-      "Love"
+      "Ace"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "b3a41f35-04a7-439c-99ad-cde382c649aa"
+    "translation_key": "64de9c01f8313d7a425b4a504465139861555c66c49724c206d98b945a496521",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "贏得一個標準網球盤需要多少局？",
+    "question_text": "How many games are needed to win a standard tennis set?",
     "correct_answer": "6",
     "choices": [
-      "6",
       "5",
+      "6",
       "7",
       "4"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "9685eb21-0c41-4bed-b550-35596b8f668c"
+    "translation_key": "e9aa137b4b51e729e3c6542f3ec646ef7d7033ba0576c7d62593d49aa17518c5",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "誰被稱為「紅土之王」？",
-    "correct_answer": "拉斐爾·納達爾",
+    "question_text": "Who is known as the 'King of Clay'?",
+    "correct_answer": "Rafael Nadal",
     "choices": [
-      "比約恩·博格",
-      "諾瓦克·喬科維奇",
-      "羅傑·費德勒",
-      "拉斐爾·納達爾"
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Roger Federer",
+      "Bjorn Borg"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "762f48a9-e0e4-450d-a6d5-52b01756fc22"
+    "translation_key": "a8a3b43d4bdd810fd239ce07d9e70e25e25a17cabbe22ca26b916294a9f27375",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "第一屆溫布頓網球錦標賽在哪一年舉行？",
+    "question_text": "In what year was the first Wimbledon tournament held?",
     "correct_answer": "1877",
     "choices": [
-      "1890",
       "1877",
       "1884",
+      "1890",
       "1901"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "1cb8cc47-3920-4a61-9b47-949756793c2a"
+    "translation_key": "d8c3be991ef2cdc7922b8a7ef3defc66196df0ac7bad5ac19754082be439a759",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "溫布頓男子單打冠軍獲得的獎盃名稱是什麼？",
+    "question_text": "What is the name of the trophy awarded to the Wimbledon men's singles champion?",
     "correct_answer": "Gentlemen's Singles Trophy",
     "choices": [
-      "Challenge Cup",
-      "The Golden Trophy",
+      "Gentlemen's Singles Trophy",
       "Wimbledon Cup",
-      "Gentlemen's Singles Trophy"
+      "Challenge Cup",
+      "The Golden Trophy"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "7763c649-4e82-4c55-84ee-27fb54a46970"
+    "translation_key": "23cdd51a926f4934d9f3cbd1902935f5a304f83b330f0ba1b8718e3945b41653",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "哪個國家舉辦澳洲網球公開賽？",
-    "correct_answer": "澳洲",
+    "question_text": "Which country hosts the Australian Open?",
+    "correct_answer": "Australia",
     "choices": [
-      "紐西蘭",
-      "澳洲",
-      "南非",
-      "美國"
+      "Australia",
+      "New Zealand",
+      "South Africa",
+      "United States"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "af65b55c-d05c-4683-9386-8ea70d13bf62"
+    "translation_key": "33aa4ad2fbf0f29696bb43d077bc553702a4a633846ab67c7139803858fa4c8f",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "拉斐爾·納達爾贏得法國網球公開賽多少次？",
+    "question_text": "How many times has Rafael Nadal won the French Open?",
     "correct_answer": "14",
     "choices": [
-      "14",
-      "15",
+      "12",
       "13",
-      "12"
+      "14",
+      "15"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "b0cb8c4b-5f94-4d9f-9b9e-43f849ce9722"
+    "translation_key": "f84407ee4ed8710af86f18c42ddc7bb01d1e3448cae0884670dfc997b0829a01",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "誰是唯一一位在同一年贏得「金滿貫」（四大滿貫加上奧運金牌）的網球選手？",
-    "correct_answer": "史蒂芬·葛拉芙",
+    "question_text": "Who is the only tennis player to win a Golden Slam (all four majors plus Olympic gold in the same year)?",
+    "correct_answer": "Steffi Graf",
     "choices": [
-      "史蒂芬·葛拉芙",
-      "小威廉絲",
-      "瑪汀娜·娜拉提洛娃",
-      "瑪格麗特·考特"
+      "Steffi Graf",
+      "Serena Williams",
+      "Martina Navratilova",
+      "Margaret Court"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "fd9179a1-f50f-4686-90f0-f3b6180fb1d3"
+    "translation_key": "feb71ae94c28e62d35d8e3b01aca5ff1b77a60e5e22725e7a2e854007bbb2111",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "在網球計分中，「deuce」是什麼意思？",
-    "correct_answer": "雙方都得到40分",
+    "question_text": "What does 'deuce' mean in tennis scoring?",
+    "correct_answer": "Both players have 40 points",
     "choices": [
-      "比分是15-15",
-      "雙方都得到40分",
-      "一位球員還需要一分才能獲勝",
-      "比賽結束"
+      "Both players have 40 points",
+      "One player needs one more point to win",
+      "The score is 15-15",
+      "The game is over"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "6770bcb3-04f6-4210-96c8-4a0fa3081fd7"
+    "translation_key": "c0ab5876fa12ef91ba80447bdd94b96a42dab178b9407b0e4222c814ce037882",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "哪個大滿貫賽事在紐約的硬地球場進行？",
-    "correct_answer": "美國網球公開賽",
+    "question_text": "Which Grand Slam tournament is played on hard courts in New York?",
+    "correct_answer": "US Open",
     "choices": [
-      "澳洲網球公開賽",
-      "美國網球公開賽",
-      "溫布頓網球錦標賽",
-      "法國網球公開賽"
+      "US Open",
+      "Australian Open",
+      "French Open",
+      "Wimbledon"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "4fa3e3f7-8f45-4594-8500-10147210bd0c"
+    "translation_key": "7de64699a2240f5e4d915c816fd31d96ffad5fb7f7a3463ab3c6afb1342f160a",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "誰保持著網球史上最快的發球紀錄？",
-    "correct_answer": "約翰·伊斯納",
+    "question_text": "Who holds the record for the fastest serve in tennis history?",
+    "correct_answer": "John Isner",
     "choices": [
-      "安迪·洛迪克",
-      "約翰·伊斯納",
-      "山姆·格羅斯",
-      "伊沃·卡洛維奇"
+      "John Isner",
+      "Andy Roddick",
+      "Sam Groth",
+      "Ivo Karlovic"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "46d12547-57f3-4286-a82e-d505a752ab4c"
+    "translation_key": "adeb6b25725b17d7dd840d0d3feb9c25c3dbe161c55cd9c9e3ce0d66f4b85e21",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "哪兩位選手在2010年溫布頓網球錦標賽中打出了網球史上最長的一場比賽？",
-    "correct_answer": "約翰·伊斯納和尼可拉·馬俞",
+    "question_text": "Which two players played the longest match in tennis history at Wimbledon in 2010?",
+    "correct_answer": "John Isner and Nicolas Mahut",
     "choices": [
-      "約翰·伊斯納和尼可拉·馬俞",
-      "諾瓦克·喬科維奇和安迪·莫瑞",
-      "羅傑·費德勒和拉斐爾·納達爾",
-      "皮特·桑普拉斯和安德烈·阿格西"
+      "John Isner and Nicolas Mahut",
+      "Roger Federer and Rafael Nadal",
+      "Novak Djokovic and Andy Murray",
+      "Pete Sampras and Andre Agassi"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "99219587-9875-4d88-a46e-e5750dfde553"
+    "translation_key": "c8afa3d93f4b691c087d082318913ecfbf670b89bae2c9f5fe2432424c07a16e",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "小威廉絲贏得了多少個大滿貫單打冠軍？",
+    "question_text": "How many Grand Slam singles titles does Serena Williams have?",
     "correct_answer": "23",
     "choices": [
       "21",
       "22",
-      "24",
-      "23"
+      "23",
+      "24"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "dbe2a7a0-de91-438e-a197-c110e55e202b"
+    "translation_key": "2f27d50eba87528dbb7f423a0a0ca8d0da888b26b43ebb40ef39728e3597e2c0",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "男子網球的國際團體賽叫什麼名字？",
-    "correct_answer": "台維斯盃",
+    "question_text": "What is the name of the international team competition for men's tennis?",
+    "correct_answer": "Davis Cup",
     "choices": [
-      "霍普曼盃",
-      "拉沃盃",
-      "台維斯盃",
-      "聯邦盃"
+      "Davis Cup",
+      "Fed Cup",
+      "Hopman Cup",
+      "Laver Cup"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "068bceb4-a620-4991-a795-2f7cfd7bdcfb"
+    "translation_key": "a46af6a03e6733b45d6bc3245da82215ae63a760042e3797a6b3650cc3cf45f8",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "哪位美國選手贏得了1881年第一屆美國網球公開賽？",
-    "correct_answer": "理查·西爾斯",
+    "question_text": "Which American player won the first US Open in 1881?",
+    "correct_answer": "Richard Sears",
     "choices": [
-      "吉米·康諾斯",
-      "比爾·提爾登",
-      "唐·布吉",
-      "理查·西爾斯"
+      "Richard Sears",
+      "Bill Tilden",
+      "Don Budge",
+      "Jimmy Connors"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "5092e85a-7fbd-4e22-bb4f-2e03d9ab1206"
+    "translation_key": "70cd5d06969260ea588b181d09d589cc9c23d14d960a7189b4b9ae2089a3954b",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "擊出上旋球的揮拍方式是什麼？",
-    "correct_answer": "從低到高",
+    "question_text": "What type of swing is used to hit a tennis ball with topspin?",
+    "correct_answer": "Low to high",
     "choices": [
-      "從高到低",
-      "水平穿過",
-      "從側到側",
-      "從低到高"
+      "Low to high",
+      "High to low",
+      "Side to side",
+      "Flat through"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "0513e434-40ac-4d30-85e2-2d3b10af352b"
+    "translation_key": "9b13ec07795907424b2f2c8c5b73cc6793734e9333424e2733fa82c4d5497dbd",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "誰是贏得大滿貫單打冠軍最年輕的選手？",
-    "correct_answer": "瑪汀娜·辛吉斯",
+    "question_text": "Who is the youngest player to win a Grand Slam singles title?",
+    "correct_answer": "Martina Hingis",
     "choices": [
-      "崔西·奧斯汀",
-      "珍妮佛·卡普里亞蒂",
-      "莫妮卡·莎莉絲",
-      "瑪汀娜·辛吉斯"
+      "Martina Hingis",
+      "Monica Seles",
+      "Tracy Austin",
+      "Jennifer Capriati"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "cd8fc47b-ceb9-46de-b4d8-c73fe217063c"
+    "translation_key": "b561f98175465b4811ca3eddd2324ef7734aa74ae3f515dfa718629523acfc53",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "1973年哪位選手贏得了「性別大戰」的比賽？",
-    "correct_answer": "比莉·珍·金",
+    "question_text": "Which player won the 'Battle of the Sexes' match in 1973?",
+    "correct_answer": "Billie Jean King",
     "choices": [
-      "比莉·珍·金",
-      "克里斯·艾芙特",
-      "瑪格麗特·考特",
-      "瑪汀娜·娜拉提洛娃"
+      "Billie Jean King",
+      "Margaret Court",
+      "Martina Navratilova",
+      "Chris Evert"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "712b06c0-cbb1-4665-b5cf-1b374bad6b37"
+    "translation_key": "7c1b088f577c8199d6bb79f64e522637ea9e2d18718daaa8f1417e04bf904c72",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "網球單打場地的寬度是多少？",
-    "correct_answer": "27英尺",
+    "question_text": "What is the width of a singles tennis court?",
+    "correct_answer": "27 feet",
     "choices": [
-      "36英尺",
-      "30英尺",
-      "27英尺",
-      "24英尺"
+      "27 feet",
+      "30 feet",
+      "36 feet",
+      "24 feet"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "a63c66a1-e4a8-465e-8d6e-bb0c3fd3d6a2"
+    "translation_key": "bba2edf2fdcf71041d2e323ddaa1706eef60cee2cb4ebc8540cb0fe3f2b50f89",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "誰贏得了最多的溫布頓男子單打冠軍？",
-    "correct_answer": "羅傑·費德勒",
+    "question_text": "Which player has won the most Wimbledon men's singles titles?",
+    "correct_answer": "Roger Federer",
     "choices": [
-      "羅傑·費德勒",
-      "皮特·桑普拉斯",
-      "比約恩·博格",
-      "諾瓦克·喬科維奇"
+      "Roger Federer",
+      "Novak Djokovic",
+      "Pete Sampras",
+      "Bjorn Borg"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "5e66e31b-8a2e-4802-94fc-505d98ea17ec"
+    "translation_key": "8689e5418b3e838b04e4b213d8c31065c950ca7182fa9d09b763907f6626a910",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "網球年度最後一個大滿貫賽事是什麼？",
-    "correct_answer": "美國網球公開賽",
+    "question_text": "What is the final major tournament of the tennis calendar year?",
+    "correct_answer": "US Open",
     "choices": [
-      "美國網球公開賽",
-      "澳洲網球公開賽",
-      "溫布頓網球錦標賽",
-      "法國網球公開賽"
+      "US Open",
+      "Australian Open",
+      "French Open",
+      "Wimbledon"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "fc9c801a-0a55-4884-a94c-c7fdf34d8ba7"
+    "translation_key": "9d43674348b284426128466175856fced797fe4b13e6bd165aed5fe97eef4772",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "溫布頓網球錦標賽的網球是什麼顏色？",
-    "correct_answer": "白色",
+    "question_text": "What color are tennis balls at Wimbledon?",
+    "correct_answer": "White",
     "choices": [
-      "白色",
-      "橙色",
-      "綠色",
-      "黃色"
+      "White",
+      "Yellow",
+      "Green",
+      "Orange"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "63f2e1c4-ece5-4878-8a80-aadd7b198913"
+    "translation_key": "a233eda4d8b9e8b170400c34e4391434e068109fba4a1b73ea3ca424cf90af25",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "2008年溫布頓網球錦標賽決賽中，誰擊敗了羅傑·費德勒？",
-    "correct_answer": "拉斐爾·納達爾",
+    "question_text": "Who defeated Roger Federer in the 2008 Wimbledon final?",
+    "correct_answer": "Rafael Nadal",
     "choices": [
-      "安迪·莫瑞",
-      "拉斐爾·納達爾",
-      "諾瓦克·喬科維奇",
-      "皮特·桑普拉斯"
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Andy Murray",
+      "Pete Sampras"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "50773d38-50cd-4fef-a66d-561081d81b5e"
+    "translation_key": "b2609b19b36150c3c6d936862843b17d0d38cf25da7440ad54f266dcd9d4e51e",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "諾瓦克·喬科維奇贏得澳洲網球公開賽多少次？",
+    "question_text": "How many times has Novak Djokovic won the Australian Open?",
     "correct_answer": "10",
     "choices": [
-      "10",
-      "11",
+      "8",
       "9",
-      "8"
+      "10",
+      "11"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "07f4beb0-afd9-438e-8d07-99de1cbdb8dc"
+    "translation_key": "88d8e4e7b460d24b608aea6d3a26b5e7fb098399f53d8b3c1bb470c9729f0938",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "通常哪種網球場地速度最快？",
-    "correct_answer": "草地",
+    "question_text": "Which surface is typically the fastest for tennis?",
+    "correct_answer": "Grass",
     "choices": [
-      "草地",
-      "硬地",
-      "地毯",
-      "紅土"
+      "Grass",
+      "Clay",
+      "Hard court",
+      "Carpet"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "7c2000d6-47d8-4a59-bc3d-62d605c4593e"
+    "translation_key": "e28b45d7c15334f1ed6e6a8c4102ee25d6d6306f2935ef836cd48b5fc4fbb052",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "發球時，接球方沒有碰到的球叫什麼？",
+    "question_text": "What is the term for a serve that the receiver does not touch?",
     "correct_answer": "Ace",
     "choices": [
-      "Let",
+      "Ace",
       "Fault",
-      "Smash",
-      "Ace"
+      "Let",
+      "Smash"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "687c3130-df5f-41c0-9a20-26a242866b0f"
+    "translation_key": "bc038675d87d8ededc3a641286c53d26271893481df441ed5b38f210d52e2750",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "第一位贏得大滿貫冠軍的非裔美國女性是誰？",
-    "correct_answer": "艾瑟·吉布森",
+    "question_text": "Who was the first African American woman to win a Grand Slam title?",
+    "correct_answer": "Althea Gibson",
     "choices": [
-      "艾瑟·吉布森",
-      "吉娜·蓋瑞森",
-      "小威廉絲",
-      "大威廉絲"
+      "Althea Gibson",
+      "Serena Williams",
+      "Venus Williams",
+      "Zina Garrison"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "71085d5a-4268-4a04-ae46-58558e5420ca"
+    "translation_key": "14246b5c064369aee8e08c4a064c9bfc975dba588bcffddc63b2e5b4ffc508c1",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "歐洲隊與世界其他地區隊之間的年度團體賽叫什麼？",
-    "correct_answer": "拉沃盃",
+    "question_text": "What is the name of the annual team competition between Europe and the Rest of the World?",
+    "correct_answer": "Laver Cup",
     "choices": [
-      "霍普曼盃",
-      "ATP盃",
-      "拉沃盃",
-      "台維斯盃"
+      "Laver Cup",
+      "Davis Cup",
+      "Hopman Cup",
+      "ATP Cup"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "d4248cc8-a2cb-4852-bca0-537900ad9568"
+    "translation_key": "a0e93901e048ba24c287cd0f325978cf9655a722a41eb7605680defd4d50c95d",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "哪位選手被暱稱為「The Djoker」？",
-    "correct_answer": "諾瓦克·喬科維奇",
+    "question_text": "Which player is nicknamed 'The Djoker'?",
+    "correct_answer": "Novak Djokovic",
     "choices": [
-      "史丹·瓦林卡",
-      "安迪·莫瑞",
-      "羅傑·費德勒",
-      "諾瓦克·喬科維奇"
+      "Novak Djokovic",
+      "Roger Federer",
+      "Andy Murray",
+      "Stan Wawrinka"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "e1fe921e-9f99-488c-abd6-bade36271043"
+    "translation_key": "3e880a3db155d66ee7837f9af22bc2b29b6689849ed01022c43e3000c7d95068",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "一個典型的搶七局中有多少分？",
-    "correct_answer": "先到7分",
+    "question_text": "How many games are in a typical tiebreak?",
+    "correct_answer": "First to 7 points",
     "choices": [
-      "先到7分",
-      "先到6分",
-      "先到5分",
-      "先到10分"
+      "First to 7 points",
+      "First to 5 points",
+      "First to 10 points",
+      "First to 6 points"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "605af3f9-4dd7-42b3-970f-dccb02c02a16"
+    "translation_key": "b89bb82d1da0f348ad1a8e86c42d5a1ebc520bc4e6bc66b8362ecad45c4f76c5",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "網球在哪一年重返奧運會並成為正式獎牌項目？",
+    "question_text": "In which year did tennis return to the Olympic Games as a full medal sport?",
     "correct_answer": "1988",
     "choices": [
+      "1984",
       "1988",
-      "1996",
       "1992",
-      "1984"
+      "1996"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "43f4a466-be26-4d1e-bc06-b167108412df"
+    "translation_key": "eec20e5eab36ec4de7a326b91cd34e3b03c64fdb111c490ec167c04a1abc3182",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "哪位選手在網球史上保持世界第一的週數最長？",
-    "correct_answer": "諾瓦克·喬科維奇",
+    "question_text": "Which player has spent the most weeks as world No. 1 in tennis history?",
+    "correct_answer": "Novak Djokovic",
     "choices": [
-      "皮特·桑普拉斯",
-      "羅傑·費德勒",
-      "諾瓦克·喬科維奇",
-      "拉斐爾·納達爾"
+      "Novak Djokovic",
+      "Roger Federer",
+      "Rafael Nadal",
+      "Pete Sampras"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "161e9027-4578-486a-9726-66157205b230"
+    "translation_key": "01e4ca4b7bb276364c3442c146e414aec1a5dfe57c87c1d87939500792143230",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "女子網球的國際團體賽叫什麼名字？",
-    "correct_answer": "比莉·珍·金盃",
+    "question_text": "What is the name of the international team competition for women's tennis?",
+    "correct_answer": "Billie Jean King Cup",
     "choices": [
-      "女子台維斯盃",
-      "WTA盃",
-      "聯邦盃",
-      "比莉·珍·金盃"
+      "Billie Jean King Cup",
+      "Fed Cup",
+      "WTA Cup",
+      "Women's Davis Cup"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "63b950ef-2c41-40f8-841e-f6d79be3ffba"
+    "translation_key": "ffd9ba92f5364035220df0bc50f90956b43fe1f06a70c60e9898b745d1b5c922",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "1990年代哪位選手贏得了最多大滿貫單打冠軍？",
-    "correct_answer": "皮特·桑普拉斯",
+    "question_text": "Which player won the most Grand Slam singles titles in the 1990s?",
+    "correct_answer": "Pete Sampras",
     "choices": [
-      "皮特·桑普拉斯",
-      "吉姆·庫里爾",
-      "安德烈·阿格西",
-      "鮑里斯·貝克"
+      "Pete Sampras",
+      "Andre Agassi",
+      "Jim Courier",
+      "Boris Becker"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "844d4b47-a075-4c2e-81f3-804c63f90937"
+    "translation_key": "1293b1e317fe18c3ab2a00162d76f18c702523d7dd2594ff7485fa6a990111ac",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "網球中的「let」是什麼意思？",
-    "correct_answer": "發球觸網但落在界內",
+    "question_text": "What does 'let' mean in tennis?",
+    "correct_answer": "A serve that hits the net but lands in",
     "choices": [
-      "發球觸網但落在界內",
-      "發球出界",
-      "失誤",
-      "雙誤"
+      "A serve that hits the net but lands in",
+      "A serve that lands out",
+      "A double fault",
+      "A missed shot"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "42520f31-fb4e-4772-bf23-8eb5fb62e36e"
+    "translation_key": "160ded439ecf980ee5d9bcb3d56275f0c1f31ccbb6660b46f2532eb2dadb1bc3",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "1980年代哪位選手穿著標誌性的Fila服裝？",
-    "correct_answer": "比約恩·博格",
+    "question_text": "Which player wore iconic Fila outfits during the 1980s?",
+    "correct_answer": "Bjorn Borg",
     "choices": [
-      "比約恩·博格",
-      "伊凡·藍道",
-      "吉米·康諾斯",
-      "約翰·麥肯羅"
+      "Bjorn Borg",
+      "John McEnroe",
+      "Jimmy Connors",
+      "Ivan Lendl"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "27fd597a-1fa9-49ab-90c1-cd435fd52331"
+    "translation_key": "d97a8cbbe012ce61fff98a269565e1d0e9c58ede4baae8932a78cecb20cbf15e",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "標準網球網中央的高度是多少？",
-    "correct_answer": "3英尺",
+    "question_text": "What is the height of a standard tennis net at the center?",
+    "correct_answer": "3 feet",
     "choices": [
-      "3英尺",
-      "2英尺6英寸",
-      "2英尺",
-      "3英尺6英寸"
+      "2 feet 6 inches",
+      "3 feet",
+      "3 feet 6 inches",
+      "2 feet"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "fedf61d4-e4ef-4861-90b1-a1daff30efc8"
+    "translation_key": "6a6eded71c7db1b8bd2360fad46afdb8e16d78e7e99843d983774438c09bb6eb",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "哪位中國選手在2011年和2014年贏得了兩個大滿貫單打冠軍？",
-    "correct_answer": "李娜",
+    "question_text": "Which Chinese player won two Grand Slam singles titles in 2011 and 2014?",
+    "correct_answer": "Li Na",
     "choices": [
-      "李娜",
-      "鄭潔",
-      "張帥",
-      "王薔"
+      "Li Na",
+      "Zhang Shuai",
+      "Wang Qiang",
+      "Zheng Jie"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "a9ce7bf5-9a7f-4b8e-a6d5-658076522e5d"
+    "translation_key": "57319fb749a837a2b49de32a59dc0ce1176c0cc3e7cf9d8dd08fcb96a96c4c62",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "公開賽年代中，最年長贏得大滿貫單打冠軍的選手是誰？",
-    "correct_answer": "羅傑·費德勒",
+    "question_text": "Who is the oldest player to win a Grand Slam singles title in the Open Era?",
+    "correct_answer": "Roger Federer",
     "choices": [
-      "諾瓦克·喬科維奇",
-      "拉斐爾·納達爾",
-      "肯·羅斯威爾",
-      "羅傑·費德勒"
+      "Roger Federer",
+      "Ken Rosewall",
+      "Rafael Nadal",
+      "Novak Djokovic"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "85a975ab-bbeb-4d62-a3e8-177934004d08"
+    "translation_key": "3a2ba9678beebe925628ed4936e2c2f53a5872497f41f63a5111e09a28ef814b",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "頒發給法國公開賽男子單打冠軍的獎盃叫什麼名字？",
+    "question_text": "法國網球公開賽男子單打冠軍獲得的獎盃叫什麼名字？",
     "correct_answer": "Coupe des Mousquetaires",
     "choices": [
-      "Roland Garros Trophy",
-      "French Open Cup",
-      "Musketeers' Cup",
-      "Coupe des Mousquetaires"
+      "Coupe des Mousquetaires",
+      "法國公開賽獎盃",
+      "羅蘭加洛斯獎盃",
+      "菲利普·夏蒂埃杯"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "855fcc4c-a482-4f4d-ae3c-d5b734b6b188"
+    "translation_key": "32f4916867e59768488b7ccb2034ca80c5e48939234591959e792fa08b8f2bfb"
   },
   {
     "category": "tennis",
     "difficulty": "medium",
-    "question_text": "2008年北京奧運會男子單打金牌得主是誰？",
-    "correct_answer": "拉斐爾·納達爾",
+    "question_text": "Which player won the gold medal in men's singles at the 2008 Beijing Olympics?",
+    "correct_answer": "Rafael Nadal",
     "choices": [
-      "諾瓦克·喬科維奇",
-      "拉斐爾·納達爾",
-      "羅傑·費德勒",
-      "安迪·莫瑞"
+      "Rafael Nadal",
+      "Roger Federer",
+      "Novak Djokovic",
+      "Andy Murray"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "4d5aadb7-5910-402c-9f21-87b8c0ac64ab"
+    "translation_key": "36150ee83a9caf39fd3bb813c461afd8557005d3ff823da42b71f2e8f76418c2",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "「ATP」在網球中代表什麼？",
-    "correct_answer": "職業網球聯合會",
+    "question_text": "What does 'ATP' stand for in tennis?",
+    "correct_answer": "Association of Tennis Professionals",
     "choices": [
-      "職業網球聯合會",
-      "美國職業網球",
-      "所有網球選手",
-      "高級網球選手"
+      "Association of Tennis Professionals",
+      "Advanced Tennis Players",
+      "American Tennis Professionals",
+      "All Tennis Players"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "da2f12dd-da9b-4d14-86c4-7146e8c6bb6f"
+    "translation_key": "8f4dbd55bb4cdfe4235823edc8fbeae901cd2a0dca4f8f6398843242ce6d7a6a",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "哪位女性選手保持著最長連續世界第一的週數？",
-    "correct_answer": "史蒂芬·葛拉芙",
+    "question_text": "Which female player has the longest streak of consecutive weeks at world No. 1?",
+    "correct_answer": "Steffi Graf",
     "choices": [
-      "瑪汀娜·娜拉提洛娃",
-      "小威廉絲",
-      "克里斯·艾芙特",
-      "史蒂芬·葛拉芙"
+      "Steffi Graf",
+      "Martina Navratilova",
+      "Serena Williams",
+      "Chris Evert"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "f490b721-a7b9-4965-a5c4-1a4993882684"
+    "translation_key": "6030dc0101ef5d45679b2b7d3bf476c65a3397d3c14561ca4ada2cb5398cc3bb",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "easy",
-    "question_text": "標準網球雙打隊伍中有幾名選手？",
+    "question_text": "How many players compete in a standard doubles tennis team?",
     "correct_answer": "2",
     "choices": [
-      "4",
-      "3",
       "2",
+      "3",
+      "4",
       "1"
     ],
     "image_asset": null,
     "theme": "sports",
-    "language": "zh-tw",
-    "translation_key": "a75c0163-bd8f-426b-bb6d-be5429e81724"
+    "translation_key": "a1e30b87f92f8c447be9b3ed767ddfa81affa0db00ba9d998bf1ac86c45e1f4b",
+    "language": "zh-tw"
   },
   {
     "category": "tennis",
     "difficulty": "hard",
-    "question_text": "2018年溫布頓決賽中，哪位選手擊敗了小威廉絲？",
-    "correct_answer": "安潔莉克·克伯",
+    "question_text": "Which player defeated Serena Williams in the 2018 Wimbledon final?",
+    "correct_answer": "Angelique Kerber",
     "choices": [
-      "加比·穆古魯扎",
-      "安潔莉克·克伯",
-      "大坂直美",
-      "西蒙娜·哈勒普"
+      "Angelique Kerber",
+      "Simona Halep",
+      "Naomi Osaka",
+      "Garbine Muguruza"
+    ],
+    "image_asset": null,
+    "theme": "sports",
+    "translation_key": "6cdcb6376abadc25b42e25b332b5d9478d33df696ace614c817cea502a931c18",
+    "language": "zh-tw"
+  },
+  {
+    "category": "tennis",
+    "difficulty": "medium",
+    "question_text": "網球的直徑是多少英寸？",
+    "correct_answer": "2.7英寸",
+    "choices": [
+      "2.5英寸",
+      "2.7英寸",
+      "3.0英寸",
+      "2.3英寸"
     ],
     "image_asset": null,
     "theme": "sports",
     "language": "zh-tw",
-    "translation_key": "79840e08-a0f6-4997-b626-58428729b9fd"
+    "translation_key": "0dadc93f325fe83e15a20283674e4fa5522e1903dee7d4f3e5369c8954653105"
   }
 ]
