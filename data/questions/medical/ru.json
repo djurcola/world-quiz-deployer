@@ -1,0 +1,6306 @@
+[
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какой самый большой орган в теле человека?",
+    "correct_answer": "Кожа",
+    "choices": [
+      "Печень",
+      "Кожа",
+      "Мозг",
+      "Легкие"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1093e569297abb6d68c8fc1c5db330091fbc7c7c3a1cdd05c0e1ac232d4215a2"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Сколько костей в теле взрослого человека?",
+    "correct_answer": "206",
+    "choices": [
+      "186",
+      "196",
+      "206",
+      "216"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d341184ba36d33d639a503f1d7b65d17cdeb534e4fec8d3afa7b1dc56dd4f0bf"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какая мышца самая сильная в теле человека относительно своего размера?",
+    "correct_answer": "Жевательная мышца",
+    "choices": [
+      "Большая ягодичная мышца",
+      "Сердце",
+      "Жевательная мышца",
+      "Четырехглавая мышца бедра"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f13df61d39867195bfd8ba561adc634f09d2c72713190b5b8e0dfe80c88b9467"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какая кость известна как ключица?",
+    "correct_answer": "Ключица",
+    "choices": [
+      "Лопатка",
+      "Ключица",
+      "Грудина",
+      "Плечевая кость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d71ebba7d0a5a72b190a621a7afb9c9a87cd71ce9b3666cebe83ab7712ceb5a7"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какое научное название у коленной чашечки?",
+    "correct_answer": "Надколенник",
+    "choices": [
+      "Надколенник",
+      "Фабелла",
+      "Мениск",
+      "Малоберцовая кость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "282c0ca8fe74a328aba23520a0da76ed4e961b6d7d1eed81f01f6aa834092bd2"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Сколько камер в сердце человека?",
+    "correct_answer": "Четыре",
+    "choices": [
+      "Две",
+      "Три",
+      "Четыре",
+      "Пять"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "51e6cab27ce885d262bc6a54aef42181577de0371dbc7db3d6abe613bfcca8be"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какая самая большая артерия в теле человека?",
+    "correct_answer": "Аорта",
+    "choices": [
+      "Легочная артерия",
+      "Аорта",
+      "Бедренная артерия",
+      "Сонная артерия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "40be479af4ab6e2bcff0a81943891defc14024834b31b0532ffb65933d8525d1"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какая часть мозга контролирует равновесие и координацию?",
+    "correct_answer": "Мозжечок",
+    "choices": [
+      "Большой мозг",
+      "Мозжечок",
+      "Ствол мозга",
+      "Гипоталамус"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "837866210603ba43337cb9cc0057eb566c9e4a2083aeada8911faddecade3782"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какая самая длинная кость в теле человека?",
+    "correct_answer": "Бедренная кость",
+    "choices": [
+      "Большеберцовая кость",
+      "Плечевая кость",
+      "Позвоночник",
+      "Бедренная кость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b148706348e6500ce259229622a4f52d7b1d61544e8b7021fff5e294543bf0d0"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Сколько пар ребер у типичного человека?",
+    "correct_answer": "12",
+    "choices": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0099935ecc575c7a47dfbd09c52c1d3c6aa7e3d996fc1bda2aebd3220283713b"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какой орган вырабатывает инсулин?",
+    "correct_answer": "Поджелудочная железа",
+    "choices": [
+      "Печень",
+      "Почка",
+      "Поджелудочная железа",
+      "Селезенка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f48389b718d4f3a774ba12df097f6340d613269194e3f1b24ce1892ef529a244"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Как называется трубка, которая несет пищу из горла в желудок?",
+    "correct_answer": "Пищевод",
+    "choices": [
+      "Трахея",
+      "Пищевод",
+      "Гортань",
+      "Глотка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d1871f0b8422f1ffd0f14f3dc49243793e9488ee9ad6897d02f96d1501f42b1f"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какие клетки крови отвечают за свертывание?",
+    "correct_answer": "Тромбоциты",
+    "choices": [
+      "Эритроциты",
+      "Лейкоциты",
+      "Тромбоциты",
+      "Плазматические клетки"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6d2207000855d2010c5b5b0c5edfd57114738a5ae6391155d64ad23d809a775f"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Как называется цветная часть глаза?",
+    "correct_answer": "Радужка",
+    "choices": [
+      "Зрачок",
+      "Радужка",
+      "Роговица",
+      "Сетчатка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c10d397ee3fa950272c4d58d999cfec4e958d971d3fbf3b4b6419658f9fd0990"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Сколько позвонков в позвоночнике человека?",
+    "correct_answer": "33",
+    "choices": [
+      "24",
+      "28",
+      "33",
+      "36"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "29654be7bc85da67a2bcf02b8b456d826a36f8ee95511017e946550bcbbe365e"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какая самая маленькая кость в теле человека?",
+    "correct_answer": "Стремечко",
+    "choices": [
+      "Стремечко",
+      "Наковальня",
+      "Молоточек",
+      "Подъязычная кость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3043bd7a0d8ca4ba0930c6c140e7aede14b7d4a3b7bc3a5dc25ed125dea70639"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какой орган фильтрует отходы из крови?",
+    "correct_answer": "Почки",
+    "choices": [
+      "Печень",
+      "Почки",
+      "Селезенка",
+      "Желчный пузырь"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "956bc84b092c7fd640ee8e351cdb860d70d57ba53769e2553aa6defc32df2cab"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Как называется дыхательное горло?",
+    "correct_answer": "Трахея",
+    "choices": [
+      "Пищевод",
+      "Трахея",
+      "Бронх",
+      "Гортань"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "11937ee3d7ef6ba28915cf6e09fb8f80f094698ecf8b54fe5940c30a62dc3c7d"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какой тип мышц находится в стенках сердца?",
+    "correct_answer": "Сердечная мышца",
+    "choices": [
+      "Скелетная мышца",
+      "Гладкая мышца",
+      "Сердечная мышца",
+      "Поперечнополосатая мышца"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ee48d8e70a51b6b4ecc27a2816c0b6434ac0221d7a8fc1bc21a9da545cc8b500"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какое научное название у лопатки?",
+    "correct_answer": "Лопатка",
+    "choices": [
+      "Ключица",
+      "Лопатка",
+      "Грудина",
+      "Плечевая кость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7b3d3417cbd56160bc040ae30e99156f0584d18a7c66c0bb1b34fa0a5ad94f51"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Сколько зубов у взрослого человека?",
+    "correct_answer": "32",
+    "choices": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5320e939c88de24118267aa1049e459a237d06dda1c52e1a7f44b9529d93b2a2"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какая часть мозга самая большая?",
+    "correct_answer": "Большой мозг",
+    "choices": [
+      "Мозжечок",
+      "Ствол мозга",
+      "Большой мозг",
+      "Таламус"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a7923e5cab1bf7eccadab0f53d6fef5ba2fa62e92605f5fcef9427ca6f1d6d30"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какая железа известна как главная железа эндокринной системы?",
+    "correct_answer": "Гипофиз",
+    "choices": [
+      "Щитовидная железа",
+      "Гипофиз",
+      "Надпочечник",
+      "Шишковидная железа"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "67c2406fa56f1e9534e0f3d7ad9c305fbbfdf87a56c697c268f38b50991e94e8"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "Как называются С-образные структуры во внутреннем ухе, отвечающие за равновесие?",
+    "correct_answer": "Полукружные каналы",
+    "choices": [
+      "Улитка",
+      "Евстахиева труба",
+      "Полукружные каналы",
+      "Барабанная перепонка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a015621e1adb0e01ad0444b9576ea764584a23c1cc3f633cf27802fda46808b2"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какой орган хранит желчь?",
+    "correct_answer": "Желчный пузырь",
+    "choices": [
+      "Печень",
+      "Поджелудочная железа",
+      "Желчный пузырь",
+      "Селезенка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0280901292f5706b47e0fed85c3c2162f8b534fa4de8210012333e885110539c"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какой тип сустава представляет собой бедро?",
+    "correct_answer": "Шаровидный",
+    "choices": [
+      "Блоковидный",
+      "Цилиндрический",
+      "Шаровидный",
+      "Седловидный"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d241aea580c283d6f1f01deaae96ae27dfc3e373be5d89a3eae38aaf3838ee0c"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какая кость находится в плече?",
+    "correct_answer": "Плечевая кость",
+    "choices": [
+      "Бедренная кость",
+      "Плечевая кость",
+      "Большеберцовая кость",
+      "Лучевая кость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ab9402715e15daa3700a191ecf58a2feacc1e152dc74bd5e111e2f08950d1545"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Как называется оболочка, окружающая и защищающая сердце?",
+    "correct_answer": "Перикард",
+    "choices": [
+      "Брюшина",
+      "Перикард",
+      "Плевра",
+      "Мозговые оболочки"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "204fce00061bbf0bdc5c8da77f0ee5942184151f96a957eb2cf056f6e1cd94b1"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какая доля мозга отвечает за зрение?",
+    "correct_answer": "Затылочная доля",
+    "choices": [
+      "Лобная доля",
+      "Височная доля",
+      "Теменная доля",
+      "Затылочная доля"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "63f438a1452f32bf912b6bf5d5133b06a53cf76af1d4319abcada4e195110372"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какое научное название у бедренной кости?",
+    "correct_answer": "Бедренная кость",
+    "choices": [
+      "Большеберцовая кость",
+      "Малоберцовая кость",
+      "Бедренная кость",
+      "Надколенник"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "75a98bc75a462528cd0b029b486c7fd5ab3762c7f52d0b3263b78ff4b59c6a06"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "Сколько долей в печени человека?",
+    "correct_answer": "Четыре",
+    "choices": [
+      "Две",
+      "Три",
+      "Четыре",
+      "Пять"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "db8e141b71fc030242381acb3d664056215d98f7577df5f717572afcf8a10f3f"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "Как называется клапан между желудком и тонкой кишкой?",
+    "correct_answer": "Привратник",
+    "choices": [
+      "Кардиальный сфинктер",
+      "Привратник",
+      "Илеоцекальный клапан",
+      "Надгортанник"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b06169cfac9af4b81f1e211a7c5c9d7ad661751879d3d282e4a21894c44a6792"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какая часть глаза содержит фоторецепторные клетки?",
+    "correct_answer": "Сетчатка",
+    "choices": [
+      "Роговица",
+      "Радужка",
+      "Сетчатка",
+      "Хрусталик"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "21a146f90eaaa1b8218a779448b410279b60e6a1b212dcd00f9f5e9f1eba0529"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "Как называется жидкость, заполняющая переднюю камеру глаза?",
+    "correct_answer": "Водянистая влага",
+    "choices": [
+      "Стекловидное тело",
+      "Водянистая влага",
+      "Слезы",
+      "Спинномозговая жидкость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "139d28b4db72677bc0cfd37ffab20ea05e2e367e9fd83bc6235963e88b00afad"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Какие кости образуют пальцы рук и ног?",
+    "correct_answer": "Фаланги",
+    "choices": [
+      "Пястные кости",
+      "Запястные кости",
+      "Фаланги",
+      "Предплюсневые кости"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "31983705e0d0dc0e02f34b3198127aa71a1d3ad6e9b765e6fa9909f07ead41a5"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Как называется структура, соединяющая мышцу с костью?",
+    "correct_answer": "Сухожилие",
+    "choices": [
+      "Связка",
+      "Сухожилие",
+      "Хрящ",
+      "Фасция"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9512c5d60c899f2963d903f6a1991ae98bb9f68fab564f79788434280e377f31"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какой орган отвечает за выработку большей части тепла тела в покое?",
+    "correct_answer": "Печень",
+    "choices": [
+      "Сердце",
+      "Мозг",
+      "Печень",
+      "Мышцы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "38d9347496a043187cbfad6ea9cec7751259da4357a80a80e03abb0046be5837"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Как называется пигмент, придающий цвет коже?",
+    "correct_answer": "Меланин",
+    "choices": [
+      "Кератин",
+      "Меланин",
+      "Коллаген",
+      "Эластин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "33fd7c0c64f3f831141f6a66fafef78d2a125783cef921b079b850bd4d3fd048"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Какой черепной нерв отвечает за обоняние?",
+    "correct_answer": "Обонятельный нерв",
+    "choices": [
+      "Зрительный нерв",
+      "Обонятельный нерв",
+      "Тройничный нерв",
+      "Лицевой нерв"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "23c14681e0e9b2a520cee3a9ed6471f92e869d4a3d921728ec1e4abc5c1c1764"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Как называются самые мелкие кровеносные сосуды, в которых происходит газообмен?",
+    "correct_answer": "Капилляры",
+    "choices": [
+      "Артерии",
+      "Вены",
+      "Капилляры",
+      "Венулы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "be953ceecbd2b35cad3779f12d75d75c890eab90fad2ebc7ef47ae58e66ae922"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какова средняя частота пульса в покое у здорового взрослого человека?",
+    "correct_answer": "От 60 до 100 ударов в минуту",
+    "choices": [
+      "От 40 до 60 ударов в минуту",
+      "От 60 до 100 ударов в минуту",
+      "От 100 до 140 ударов в минуту",
+      "От 80 до 120 ударов в минуту"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f4cabecc6486b8c7165b2f517340bcbd8edc94280401b78c8a0c861642747cf3"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "Какова функция синоатриального (СА) узла?",
+    "correct_answer": "Он действует как естественный водитель ритма сердца",
+    "choices": [
+      "Он перекачивает кровь в легкие",
+      "Он действует как естественный водитель ритма сердца",
+      "Он фильтрует кровь перед поступлением в сердце",
+      "Он регулирует артериальное давление"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "390de133b5aa2c5d3022c8e21fc0222ec42199ca3194522a4095ed7025aa6ecf"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какое состояние возникает, когда блокируется приток крови к части сердца?",
+    "correct_answer": "Инфаркт миокарда",
+    "choices": [
+      "Инфаркт миокарда",
+      "Инсульт",
+      "Остановка сердца",
+      "Сердечная недостаточность"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c36e6766371889f538eb5ab35357f249c4705785008b4643c910cf3c821a083d"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "В чем разница между инфарктом миокарда и остановкой сердца?",
+    "correct_answer": "Инфаркт миокарда — это проблема кровообращения; остановка сердца — это электрическая проблема",
+    "choices": [
+      "Это одно и то же состояние",
+      "Инфаркт миокарда — это проблема кровообращения; остановка сердца — это электрическая проблема",
+      "Остановка сердца менее серьезна",
+      "Инфаркт миокарда всегда приводит к остановке сердца"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7dd9d5d7dc118a408d2b5a5cc4601f9ff082a8b44b66b0636c52ce0be8d85e61"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Что измеряет ЭКГ (или ЭКГ)?",
+    "correct_answer": "Электрическую активность сердца",
+    "choices": [
+      "Артериальное давление",
+      "Электрическую активность сердца",
+      "Уровень кислорода в крови",
+      "Силу сердечной мышцы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "716f3eb095b50a9864ffed3af799761a049ff9e304104349c042d40b7465f08b"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какой медицинский термин для нерегулярного сердцебиения?",
+    "correct_answer": "Аритмия",
+    "choices": [
+      "Тахикардия",
+      "Брадикардия",
+      "Аритмия",
+      "Палитрация"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8509178232d436493fc52720a45e7d4232f7cabab370452f15f4a72422417033"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какой тип холестерина считается «плохим» холестерином?",
+    "correct_answer": "ЛПНП",
+    "choices": [
+      "ЛПВП",
+      "ЛПНП",
+      "Триглицериды",
+      "ЛПОНП"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4e5b061c1aa603394590db76ae6f6c7b7ce2f2175f21311d56dd8c3b6848746d"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Как называется процедура, использующая баллон для открытия закупоренных артерий?",
+    "correct_answer": "Ангиопластика",
+    "choices": [
+      "Ангиопластика",
+      "Шунтирование",
+      "Имплантация кардиостимулятора",
+      "Протезирование клапана"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6c20313d4a75a15f7b7a99f7130eebe9f14a9b2eb245a497396ec55588b48384"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какое устройство имплантируется хирургически для регуляции медленного сердечного ритма?",
+    "correct_answer": "Кардиостимулятор",
+    "choices": [
+      "Дефибриллятор",
+      "Кардиостимулятор",
+      "Стент",
+      "Катетер"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8a807c24851234a196c411b397d0e10c4590af01142152ef02029a3a6c67b811"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какой медицинский термин для высокого артериального давления?",
+    "correct_answer": "Гипертензия",
+    "choices": [
+      "Гипотензия",
+      "Гипертензия",
+      "Тахикардия",
+      "Гиперлипидемия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a7b4ecbf7cb2c215075b292d5c0809809148a3e0beff728715505babd2ceb078"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какая камера сердца перекачивает кровь в остальные части тела?",
+    "correct_answer": "Левый желудочек",
+    "choices": [
+      "Правое предсердие",
+      "Правый желудочек",
+      "Левое предсердие",
+      "Левый желудочек"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "82fd9387e959367501f57678e2a115589611fd0c27acba403979fde5723d60df"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "Что такое атеросклероз?",
+    "correct_answer": "Уплотнение и сужение артерий из-за накопления бляшек",
+    "choices": [
+      "Уплотнение и сужение артерий из-за накопления бляшек",
+      "Воспаление сердечной мышцы",
+      "Ослабление стенок вен",
+      "Тромб в легком"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "aacc6e36b755c6dbdacc0ea641fe80f6a17ee38a268c8c9adaa55942ece3a448"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "Какова цель стента?",
+    "correct_answer": "Поддержание проходимости артерии",
+    "choices": [
+      "Регуляция сердечного ритма",
+      "Поддержание проходимости артерии",
+      "Замена сердечного клапана",
+      "Мониторинг артериального давления"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "fcc25e7736c67684435a68a4036edc1efa2b5c94b2fa6e9ab55fdf5f12209740"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "Что измеряет систолическое артериальное давление?",
+    "correct_answer": "Давление при сокращении сердца",
+    "choices": [
+      "Давление при сокращении сердца",
+      "Давление при расслаблении сердца",
+      "Среднее артериальное давление",
+      "Венозное давление"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e8960376e6082231d0e8a95bd76c49f4bbf864d4aed5f78ae49ed3ea72477ae7"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "Какова функция митрального клапана?",
+    "correct_answer": "Контролирует ток крови между левым предсердием и левым желудочком",
+    "choices": [
+      "Контролирует ток крови между левым предсердием и левым желудочком",
+      "Предотвращает обратный ток из аорты",
+      "Контролирует ток крови к легким",
+      "Регулирует ток крови в правый желудочек"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "bf5eb309a16bedaccd0cda92fa9187da84e4b9113277f53d7a9ac032ea904695"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Какое состояние вызывает неспособность сердца эффективно перекачивать кровь?",
+    "correct_answer": "Сердечная недостаточность",
+    "choices": [
+      "Сердечный приступ",
+      "Сердечная недостаточность",
+      "Остановка сердца",
+      "Стенокардия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ffb79675b55211cd618d30af7327f352c5cd88fc854a78a7bf5fd9b86ba072c3"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "hard",
+    "question_text": "Какова нормальная продолжительность комплекса QRS на ЭКГ?",
+    "correct_answer": "Менее 0,12 секунды",
+    "choices": [
+      "Менее 0,06 секунды",
+      "Менее 0,12 секунды",
+      "Менее 0,20 секунды",
+      "Менее 0,30 секунды"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "23c97d9d44ee5538bf16819d4fdccdb02bb478e70124c5e91519fddcf27857be"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Что восстанавливает СЛР при остановке сердца?",
+    "correct_answer": "Кровообращение",
+    "choices": [
+      "Кровообращение",
+      "Сознание",
+      "Только дыхание",
+      "Сердечный ритм"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1076f80449a4f009ff358f04d23da434532a7513878e7a29104c7ef9c41076c1"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "hard",
+    "question_text": "Какой самый распространенный тип врожденного порока сердца?",
+    "correct_answer": "Дефект межжелудочковой перегородки",
+    "choices": [
+      "Тетрада Фалло",
+      "Дефект межжелудочковой перегородки",
+      "Коарктация аорты",
+      "Открытый артериальный проток"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "90d16270095791ed5826d9e72ae5579437b88488a7510230f461cfb9c9a43aed"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "Каков медицинский термин для боли в груди, вызванной снижением притока крови к сердцу?",
+    "correct_answer": "Стенокардия",
+    "choices": [
+      "Инфаркт миокарда",
+      "Стенокардия",
+      "Перикардит",
+      "Костно-хрящевой синдром"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5017c22f67d5ca5565ad2c2def89a5f96f0ffadd8d4434728a9d28610feb5e2f"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание вызвано дефицитом витамина C?",
+    "correct_answer": "Цинга",
+    "choices": [
+      "Рахит",
+      "Цинга",
+      "Пеллагра",
+      "Бери-бери"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a24a19bd46139dce24773a263c32e6f332f7a71b0ad38b372bb6277ba3db2495"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какая болезнь, передаваемая комарами, вызывается паразитами Plasmodium?",
+    "correct_answer": "Малярия",
+    "choices": [
+      "Денге",
+      "Малярия",
+      "Зика",
+      "Желтая лихорадка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ee6ad60ba9094683554570fc7d9a2de44af97bec123a33b2e946daea612c9a0b"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое аутоиммунное заболевание заставляет организм атаковать миелиновую оболочку нервов?",
+    "correct_answer": "Рассеянный склероз",
+    "choices": [
+      "БАС",
+      "Рассеянный склероз",
+      "Болезнь Паркинсона",
+      "Миастения гравис"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b5ca1e920860a28f6003e0b771f3d91e878909f5e930660d8ab860844038e9a2"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание, также известное как болезнь Хансена, исторически несло тяжелое социальное клеймо?",
+    "correct_answer": "Лепра",
+    "choices": [
+      "Сифилис",
+      "Лепра",
+      "Туберкулез",
+      "Оспа"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1cc06f6edab57870336f6e9a209494d24f036b5ec1e80c8b7b581483ac89041d"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Как называется в просторечии varicella?",
+    "correct_answer": "Ветряная оспа",
+    "choices": [
+      "Корь",
+      "Свинка",
+      "Ветряная оспа",
+      "Краснуха"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1c8db7e901cb1419a1dbb858425af3a3aa22f7da9632c98c67a7a526bea6b248"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Недостаток какого витамина вызывает рахит у детей?",
+    "correct_answer": "Витамин D",
+    "choices": [
+      "Витамин A",
+      "Витамин B12",
+      "Витамин C",
+      "Витамин D"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f2b4f80c734b5b66ffbc6a6564aeec6b65bdedd49457b31054288580bf9febdc"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое распространенное заболевание называют «тихим убийцей», потому что оно часто протекает бессимптомно?",
+    "correct_answer": "Гипертония",
+    "choices": [
+      "Гипогликемия",
+      "Гипертония",
+      "Анемия",
+      "Диабет"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3b93acb5a91bd618664523da9e33f796636b00671ce477517d6fd7a3b6839df7"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание, ликвидированное в 1979 году, стало первой и единственной полностью уничтоженной инфекционной болезнью человека?",
+    "correct_answer": "Натуральная оспа",
+    "choices": [
+      "Полиомиелит",
+      "Натуральная оспа",
+      "Корь",
+      "Чума"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9d6bceeeb6518fe31977a580160aa2cc7afcacbee03b7de5800dc2ea43f55bb1"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какой тип диабета является аутоиммунным заболеванием, обычно диагностируемым в детстве?",
+    "correct_answer": "Сахарный диабет 1 типа",
+    "choices": [
+      "Сахарный диабет 1 типа",
+      "Сахарный диабет 2 типа",
+      "Гестационный диабет",
+      "Несахарный диабет"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ade3cad6fae03fc410f91155e1df9e10653aac7562b8cd7c7d30b1dbcd8ee607"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Каков медицинский термин для сердечного приступа?",
+    "correct_answer": "Инфаркт миокарда",
+    "choices": [
+      "Остановка сердца",
+      "Инфаркт миокарда",
+      "Стенокардия",
+      "Фибрилляция предсердий"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "33c49d978d77c3908a21cd0d9e52d2e8ed7d80ed98781ca339d6e1b1f54bd094"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое генетическое заболевание заставляет организм вырабатывать аномально густую слизь?",
+    "correct_answer": "Муковисцидоз",
+    "choices": [
+      "Болезнь Хантингтона",
+      "Муковисцидоз",
+      "Синдром Марфана",
+      "Болезнь Тея-Сакса"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6749454ff925fb7cb5efd02890d628e45db77907479d15db457187d0653cd24e"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание вызывается вирусом иммунодефицита человека (ВИЧ)?",
+    "correct_answer": "СПИД",
+    "choices": [
+      "Гепатит",
+      "СПИД",
+      "Туберкулез",
+      "Волчанка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1949111a9a64735a06bc203279b0903134a2443e0d20da659f6e7d0958e388d0"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какой самый распространенный тип деменции?",
+    "correct_answer": "Болезнь Альцгеймера",
+    "choices": [
+      "Сосудистая деменция",
+      "Болезнь Альцгеймера",
+      "Деменция с тельцами Леви",
+      "Лобно-височная деменция"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6d97c791a26637fbe974241ef4568778e69734652f6b328799d0b39d6492b8be"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое бактериальное заболевание, передаваемое клещами, названо в честь города в Коннектикуте?",
+    "correct_answer": "Болезнь Лайма",
+    "choices": [
+      "Пятнистая лихорадка Скалистых гор",
+      "Болезнь Лайма",
+      "Эрлихиоз",
+      "Бабезиоз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0d53ed51a2f28655b73edcfb0d572c0714debcd2eeb0ad2ac37ce0851170bbf1"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Как в просторечии называется коклюш?",
+    "correct_answer": "Коклюш",
+    "choices": [
+      "Круп",
+      "Коклюш",
+      "Бронхит",
+      "Дифтерия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "fed34d16d52729e6c3635f5106b4607467d496eebe7225ea71e8f289f9113f16"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое авитаминозное заболевание вызвано недостатком ниацина (витамина B3)?",
+    "correct_answer": "Пеллагра",
+    "choices": [
+      "Цинга",
+      "Бери-бери",
+      "Пеллагра",
+      "Рахит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "936c886898e5698dddf7653a57b54da33cccc1c58fd2d1e8dd6de6bd2322ee09"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое хроническое воспалительное заболевание кишечника в первую очередь поражает слизистую оболочку пищеварительного тракта?",
+    "correct_answer": "Болезнь Крона",
+    "choices": [
+      "Язвенный колит",
+      "Болезнь Крона",
+      "Синдром раздраженного кишечника",
+      "Дивертикулит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "673492c3fc5fa6b211a93343c8619c9210e0f0f2aafb04f51d422a998e66a9a0"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Каков медицинский термин для инсульта?",
+    "correct_answer": "Цереброваскулярное нарушение",
+    "choices": [
+      "Инфаркт миокарда",
+      "Цереброваскулярное нарушение",
+      "Транзиторная ишемическая атака",
+      "Аневризма"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c9147214322265652e848b4461743093129656ff1443219943c1aace0d72a7f7"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое вирусное заболевание называют «костоломной лихорадкой» из-за сильных болей в суставах и мышцах?",
+    "correct_answer": "Лихорадка денге",
+    "choices": [
+      "Чикунгунья",
+      "Лихорадка денге",
+      "Желтая лихорадка",
+      "Зика"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "07ce2d54a4fe51cff0056387c29493734cc09fbe180d14e990a6269e661d2bb6"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание является результатом неконтролируемого роста аномальных клеток в организме?",
+    "correct_answer": "Рак",
+    "choices": [
+      "Рак",
+      "Аутоиммунное заболевание",
+      "Инфекция",
+      "Воспаление"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f8839a35ab5cce75586428dfa23621304e481df44138d7a883e7965eb7a671b9"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое состояние характеризуется опасно высокой температурой тела из-за длительного воздействия тепла?",
+    "correct_answer": "Тепловой удар",
+    "choices": [
+      "Гипотермия",
+      "Тепловой удар",
+      "Обморожение",
+      "Обезвоживание"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6920b7071030927fd208fbdac1321cecac58c5a95cded3691ef21732b902ac93"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое редкое генетическое заболевание вызывает быстрое старение у детей?",
+    "correct_answer": "Прогерия",
+    "choices": [
+      "Прогерия",
+      "Синдром Вернера",
+      "Синдром Дауна",
+      "Синдром Тернера"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d1129f061ed306494bb02b7664f848c2a1273e58e4eb65ae5bb63f8646da08b2"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какая бактериальная инфекция характеризуется сыпью в виде мишени?",
+    "correct_answer": "Болезнь Лайма",
+    "choices": [
+      "Стригущий лишай",
+      "Болезнь Лайма",
+      "Импетиго",
+      "Целлюлит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3362c9af07cb6742b1211f986b7c813b0b549c752434cbcf0dce29e79b814293"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Каков медицинский термин для «дальнозоркости»?",
+    "correct_answer": "Гиперметропия",
+    "choices": [
+      "Миопия",
+      "Пресбиопия",
+      "Гиперметропия",
+      "Астигматизм"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "bee64141de6718307b70eb345bda5c3f8740dde01e02a5e817939faf731fbdf1"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание в XIX веке называли «чахоткой»?",
+    "correct_answer": "Туберкулез",
+    "choices": [
+      "Пневмония",
+      "Туберкулез",
+      "Грипп",
+      "Малярия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3fd36c666352edcf15b166d6226d4be23a028ef4d6e12096f5e48991d3815223"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое аутоиммунное состояние вызывает гиперактивность щитовидной железы?",
+    "correct_answer": "Болезнь Грейвса",
+    "choices": [
+      "Тиреоидит Хашимото",
+      "Болезнь Грейвса",
+      "Синдром Кушинга",
+      "Болезнь Аддисона"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "461344f39022ec61c740f1792adbb5ede0a32daca5e0f55ae4e7c5883c982487"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "hard",
+    "question_text": "Какое заболевание вызвано дефицитом витамина B1 (тиамина)?",
+    "correct_answer": "Бери-бери",
+    "choices": [
+      "Цинга",
+      "Пеллагра",
+      "Бери-бери",
+      "Рахит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "93d029e3db6f7f6c578c1179bd3364588af586415bf74714d01cc87aa61aec4c"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Как в просторечии называется краснуха?",
+    "correct_answer": "Краснуха",
+    "choices": [
+      "Корь",
+      "Краснуха",
+      "Розеола",
+      "Скарлатина"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b6063858b7421776b414e95780da5e1699f45590409f1197154ab3afd5365289"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какая паразитарная инфекция вызывается Toxoplasma gondii?",
+    "correct_answer": "Токсоплазмоз",
+    "choices": [
+      "Лямблиоз",
+      "Токсоплазмоз",
+      "Трихинеллез",
+      "Криптоспоридиоз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f69a7b1b89fd4849f0303569cc212ac4201241235a8d97a816e620a93697176b"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какая самая распространенная форма артрита?",
+    "correct_answer": "Остеоартрит",
+    "choices": [
+      "Ревматоидный артрит",
+      "Подагра",
+      "Остеоартрит",
+      "Псориатический артрит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3c6914c1f8da1dd0b0d9f9a959e1e38c1fc254ebedf366e8524f6c4d8fb2ed59"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание вызывается реактивацией вируса varicella-zoster?",
+    "correct_answer": "Опоясывающий лишай",
+    "choices": [
+      "Корь",
+      "Опоясывающий лишай",
+      "Розеола",
+      "Ветряная оспа"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c9071e1029362c7cce0c59b680e8c969a6e6d0a38031f152bf9efbeb182847a0"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "hard",
+    "question_text": "Какое состояние, характеризующееся «тремя D», вызвано тяжелым дефицитом ниацина?",
+    "correct_answer": "Пеллагра",
+    "choices": [
+      "Цинга",
+      "Бери-бери",
+      "Пеллагра",
+      "Квашиоркор"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2db3e60f6661e8da126b7b82f06fd52e6736e1ce1c3564d49d7740cb60f03ea3"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание вызывается прионом и поражает головной мозг?",
+    "correct_answer": "Болезнь Крейтцфельдта-Якоба",
+    "choices": [
+      "Болезнь Альцгеймера",
+      "Болезнь Крейтцфельдта-Якоба",
+      "БАС",
+      "Болезнь Хантингтона"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a03769191903fe4b9b7063e523673e0aaf5437556de9d1a40b359e9d72b24d3f"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Каков медицинский термин для низкого уровня сахара в крови?",
+    "correct_answer": "Гипогликемия",
+    "choices": [
+      "Гипергликемия",
+      "Гипогликемия",
+      "Гипотония",
+      "Гипотиреоз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5bf3ec83f931d374f0228005efb7cb7af363537c69ec78376e556dca01cc56ee"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание характеризуется «бабочкой» на щеках?",
+    "correct_answer": "Волчанка",
+    "choices": [
+      "Розацеа",
+      "Волчанка",
+      "Экзема",
+      "Псориаз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3770b8ed45bcf6d74309f030a1fd54a1a2ff691bac03ab1f8e54d8874f186120"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое бактериальное заболевание было причиной Черной смерти в XIV веке?",
+    "correct_answer": "Чума",
+    "choices": [
+      "Натуральная оспа",
+      "Холера",
+      "Чума",
+      "Тиф"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4c8d91ae084a36adfcd5a0cfd7f643698d5203bfe9ba25f414f7cd7d21b98069"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое наследственное заболевание крови вызывает аномальную форму эритроцитов?",
+    "correct_answer": "Серповидноклеточная анемия",
+    "choices": [
+      "Гемофилия",
+      "Серповидноклеточная анемия",
+      "Талассемия",
+      "Анемия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1e84afd86b9446db25111fc53f28a81832f741123449d2a7bc8195156135c5fc"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Как в просторечии называется инфекционный мононуклеоз?",
+    "correct_answer": "Моно",
+    "choices": [
+      "Стрептококковая ангина",
+      "Моно",
+      "Тонзиллит",
+      "Фарингит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c7e664bd8eee3e8d462d1ed89967b444748792fef13c8d7f03413d907675f58d"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание вызывает постепенное разрушение двигательных нейронов?",
+    "correct_answer": "БАС",
+    "choices": [
+      "Рассеянный склероз",
+      "БАС",
+      "Болезнь Паркинсона",
+      "Мышечная дистрофия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4180a811ff189fbbca29d248f64c9cbd7efb9f6eecb18b694e57fead4bb8a312"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Какое детское заболевание вызвано дефицитом витамина D?",
+    "correct_answer": "Рахит",
+    "choices": [
+      "Цинга",
+      "Рахит",
+      "Квашиоркор",
+      "Маразм"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "34e4ec6567c8cea4af69bbb72467da7e0a95b6204c13845048038aa9dae390e2"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура СЛР?",
+    "correct_answer": "Сердечно-легочная реанимация",
+    "choices": [
+      "Первичная сердечная реакция",
+      "Сердечно-легочная реанимация",
+      "Восстановление критического пациента",
+      "Непрерывное восстановление пульса"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e79a8c3b6eeb50b5dc339ec4c089fa5f0c39ac294ade87272f4c9f76c3c63f81"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Какое рекомендуемое соотношение компрессий грудной клетки к вдохам при СЛР у взрослых?",
+    "correct_answer": "30 к 2",
+    "choices": [
+      "15 к 2",
+      "30 к 2",
+      "10 к 1",
+      "20 к 4"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "eb654520808943ecfa8ccecb8c2939c30df52e77998287c88f84ee0012b08608"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура AED?",
+    "correct_answer": "Автоматический внешний дефибриллятор",
+    "choices": [
+      "Автоматический внешний дефибриллятор",
+      "Автоматическое аварийное устройство",
+      "Продвинутый электрический дефибриллятор",
+      "Амбулаторный аварийный детектор"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7e06a428d9cc9170e8bdd9603647c7106d64f0fdae34c826333260e732314bc5"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Каков первый шаг при встрече с потерявшим сознание человеком?",
+    "correct_answer": "Проверить реакцию",
+    "choices": [
+      "Начать СЛР",
+      "Позвонить 911",
+      "Проверить реакцию",
+      "Открыть дыхательные пути"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3574e7aae5d44b3576a0c4fafdf4c6ea8736945028ef5c65e66e8929235d8823"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Для чего применяется прием Геймлиха?",
+    "correct_answer": "При удушье",
+    "choices": [
+      "При утоплении",
+      "При удушье",
+      "При сердечном приступе",
+      "При судорогах"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8f4bdbc4c862dcc692b7b89a86937490217a7fc23d4b05bb438b7db8cd3e443a"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Как долго следует мыть руки для эффективного удаления микробов?",
+    "correct_answer": "Не менее 20 секунд",
+    "choices": [
+      "Не менее 10 секунд",
+      "Не менее 20 секунд",
+      "Не менее 30 секунд",
+      "Не менее 60 секунд"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9218549287201edc633729f2ec3f9ddeaad801ef15d64559ccff4b3b70070d69"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "Что означает буква 'З' в методе RICE для лечения растяжений?",
+    "correct_answer": "Защита",
+    "choices": [
+      "Давление",
+      "Защита",
+      "Обезболивание",
+      "Позиционирование"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1964376549ec9af50be281a57e2537b9a0f5162740f472950b0b63662e6ded19"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Каков универсальный признак удушья?",
+    "correct_answer": "Руки, сжимающие горло",
+    "choices": [
+      "Размахивание руками",
+      "Руки, сжимающие горло",
+      "Указание на рот",
+      "Падение на землю"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "76bf2ffd64714bb0a184c5bedb87810965addbf614b1cf54f5e4c9f18e851e76"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура ABC в первой помощи?",
+    "correct_answer": "Дыхательные пути, Дыхание, Кровообращение",
+    "choices": [
+      "Дыхательные пути, Дыхание, Кровообращение",
+      "Сознание, Кровотечение, Компрессии",
+      "Оценка, Повязка, Вызов",
+      "Дыхательные пути, Кровотечение, Сознание"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "203b5364a9ec018a5095fdb49f391fda7397db6350afdafa1490b749bf4d7e0c"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Что нужно сделать в первую очередь при сильном кровотечении из раны?",
+    "correct_answer": "Приложить прямое давление",
+    "choices": [
+      "Наложить жгут",
+      "Приложить прямое давление",
+      "Приподнять рану",
+      "Промыть рану"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ecfe089de32f32e70422d75b354e44d9fd4fb44b787989c3b596b2c79bb0b4d3"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "В каком положении следует поместить человека в сознании при сердечном приступе?",
+    "correct_answer": "Полусидячее положение",
+    "choices": [
+      "Лежа на спине",
+      "Полусидячее положение",
+      "Восстановительное положение",
+      "Стоя прямо"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3ff9d9812f93b4f206bb438234f1b20da61b5c525f103d6dd09bb319291d8006"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Для чего используется восстановительное положение?",
+    "correct_answer": "Для поддержания проходимости дыхательных путей у дышащего без сознания человека",
+    "choices": [
+      "Для лечения сердечного приступа",
+      "Для поддержания проходимости дыхательных путей у дышащего без сознания человека",
+      "Для снижения температуры",
+      "Для иммобилизации перелома"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "065997be4279424fa5d5744a761d71f7f2370891989166eba86af2fe37448a96"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Как следует обработать ожог сразу после его возникновения?",
+    "correct_answer": "Охлаждать под проточной водой не менее 10 минут",
+    "choices": [
+      "Приложить лед непосредственно",
+      "Охлаждать под проточной водой не менее 10 минут",
+      "Нанести масло или жир",
+      "Вскрыть волдыри"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a9939b0428e5e1a56c6416bfd1d8601a52f356735697e23c2d531dedfcefc3f0"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "Что такое анафилаксия?",
+    "correct_answer": "Тяжелая, опасная для жизни аллергическая реакция",
+    "choices": [
+      "Тяжелая, опасная для жизни аллергическая реакция",
+      "Вид сердечного приступа",
+      "Респираторная экстренная ситуация, вызванная астмой",
+      "Диабетическая экстренная ситуация"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b0c9f2001f68e279486d4ba69096c046b259f01beff3b3a3adf890c5c84c3df7"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура FAST при распознавании инсульта?",
+    "correct_answer": "Лицо, Руки, Речь, Время",
+    "choices": [
+      "Лицо, Руки, Речь, Время",
+      "Быстрые действия спасают время",
+      "Лихорадка, Возбуждение, Речь, Тремор",
+      "Лицо, Живот, Кожа, Время"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "de96a6da31ef78b0be92d6202c9b7b88247a7adc9b50dd2cd52a5f75c42566c4"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "На какую глубину следует выполнять компрессии грудной клетки у взрослого при СЛР?",
+    "correct_answer": "Не менее 5 см (2 дюйма)",
+    "choices": [
+      "Не менее 2,5 см (1 дюйм)",
+      "Не менее 5 см (2 дюйма)",
+      "Не менее 7,5 см (3 дюйма)",
+      "Не менее 10 см (4 дюйма)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6573a24d73dde01f18364c9fa76922c2d167b762f2d0859bd9911d9a274fb96a"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Какой тип повязки следует использовать при растяжении лодыжки?",
+    "correct_answer": "Эластичный бинт",
+    "choices": [
+      "Марлевый бинт",
+      "Эластичный бинт",
+      "Лейкопластырь",
+      "Треугольная повязка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "26dbb7746e9e60156ffab838ad94e8d111fb8781c71f005fa73a7193c8cd144e"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Что нужно делать, если у кого-то приступ?",
+    "correct_answer": "Освободить пространство и защитить голову",
+    "choices": [
+      "Удерживать его",
+      "Вставить что-то в рот",
+      "Освободить пространство и защитить голову",
+      "Плеснуть водой в лицо"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ceec727decb56255a8b9aad011a2b985b8c07d1a3499936b77f367a961215b86"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "Какова наиболее частая причина обструкции дыхательных путей у человека без сознания?",
+    "correct_answer": "Язык",
+    "choices": [
+      "Язык",
+      "Пища",
+      "Рвотные массы",
+      "Отек"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "afadd119550a752d8373cf03fa058bff7efe2d47449848b0c4c5b2ea019f8eaf"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Что представляет собой номер экстренной службы 911 с точки зрения цепочки реагирования первой помощи?",
+    "correct_answer": "Активация экстренных медицинских служб",
+    "choices": [
+      "Выполнение СЛР",
+      "Активация экстренных медицинских служб",
+      "Оказание первой помощи",
+      "Начало процесса восстановления"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "04f3cc7ce09f1aa035ba9482851f5022809570b0278bcd7ba9f1927a494af3a3"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "Когда следует использовать жгут?",
+    "correct_answer": "Когда прямое давление не останавливает сильное кровотечение из конечности",
+    "choices": [
+      "Для любого кровоточащего ранения",
+      "Когда прямое давление не останавливает сильное кровотечение из конечности",
+      "Только при укусах змей",
+      "Для всех ран головы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f3191a53ad6f9193617b9a198a1210fda1f8a6c8f5e08a2651448ac4991661ad"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "Что следует дать человеку в сознании с низким уровнем сахара в крови (гипогликемией)?",
+    "correct_answer": "Сладкий напиток или таблетки глюкозы",
+    "choices": [
+      "Инъекция инсулина",
+      "Сладкий напиток или таблетки глюкозы",
+      "Простую воду",
+      "Соленые закуски"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c5a90e98772b74d688ae63a866fcf7e654b73d15fa6ce2c816448144a1247cc4"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Как следует останавливать носовое кровотечение?",
+    "correct_answer": "Наклониться вперед и зажать мягкую часть носа",
+    "choices": [
+      "Запрокинуть голову назад",
+      "Наклониться вперед и зажать мягкую часть носа",
+      "Заткнуть ноздрю ватой",
+      "Приложить лед к затылку"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "92640ece7ed9002bd6e0407b01addc60a29c78477fd2fc2072fd6cd57b552030"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "Какова правильная частота компрессий грудной клетки в минуту при СЛР?",
+    "correct_answer": "100–120",
+    "choices": [
+      "60–80",
+      "80–100",
+      "100–120",
+      "120–140"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0e4ba2342973251a235d055fc7d0f55eb321e1eca66352e6fb9071b804315eed"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "Что нужно делать, если человек пронзен предметом?",
+    "correct_answer": "Стабилизировать предмет и не извлекать его",
+    "choices": [
+      "Немедленно извлечь предмет",
+      "Стабилизировать предмет и не извлекать его",
+      "Протолкнуть предмет через",
+      "Отрезать предмет заподлицо с кожей"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "58a48495d42be01ec562d5fef9a0c44794fdc0caf6bb20fd7b77dacf44078116"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Какой патоген вызывает малярию?",
+    "correct_answer": "Паразит",
+    "choices": [
+      "Вирус",
+      "Бактерия",
+      "Паразит",
+      "Грибок"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "faa64be089fa9ba9d661da3a4e4fc18105067161c5f2f52a58ebe093ea5ef396"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Какой возбудитель туберкулеза?",
+    "correct_answer": "Mycobacterium tuberculosis",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Staphylococcus aureus",
+      "Escherichia coli"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ae000cd473d178c8e4c33fe87d1e69cbfa92b4460b7b1cf86aca4a3c94d97186"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Что ВИЧ атакует в иммунной системе человека?",
+    "correct_answer": "CD4 T-клетки",
+    "choices": [
+      "Эритроциты",
+      "B-клетки",
+      "CD4 T-клетки",
+      "Тромбоциты"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5b71be03e4cac65d8122ae9d87a602092bcafaaab264edd85c22660565d0c7c8"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какая бактериальная инфекция, передающаяся половым путем, является самой распространенной в мире?",
+    "correct_answer": "Хламидиоз",
+    "choices": [
+      "Гонорея",
+      "Хламидиоз",
+      "Сифилис",
+      "Герпес"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6b378a7fba2f9b360fc42435f43ae2059d6da06e76fb6e8148b197414410ab4a"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Какой вирус вызывает COVID-19?",
+    "correct_answer": "SARS-CoV-2",
+    "choices": [
+      "H1N1",
+      "SARS-CoV-2",
+      "MERS-CoV",
+      "Риновирус"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3a5e67699d3237b5f8c531e75d86fb1c11519bb4e004f1a2bd6a9b61f85622e7"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Каков был основной переносчик черной смерти?",
+    "correct_answer": "Блохи на крысах",
+    "choices": [
+      "Комары",
+      "Блохи на крысах",
+      "Клещи",
+      "Загрязненная вода"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a59f15936ec6a97de7aad5e9ca76e92042a933f1ca03bea34e4ab1062a3539bd"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Какой возбудитель вызывает микоз стопы?",
+    "correct_answer": "Грибок",
+    "choices": [
+      "Бактерия",
+      "Вирус",
+      "Паразит",
+      "Грибок"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "35ec58ecb3ee94a9ba026eafe8bd95a27a2af60a2281f1959f102c98ec301fc5"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какая бактерия вызывает стрептококковую ангину?",
+    "correct_answer": "Стрептококк группы A",
+    "choices": [
+      "Staphylococcus aureus",
+      "Стрептококк группы A",
+      "Haemophilus influenzae",
+      "Mycoplasma pneumoniae"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "aa3da5c61d82bc72bcb848a43998a07959a12c22b7f863c08a3a5b7b52f59549"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Какой вирус чаще всего вызывает простуду?",
+    "correct_answer": "Риновирус",
+    "choices": [
+      "Вирус гриппа",
+      "Риновирус",
+      "Коронавирус",
+      "Аденовирус"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4f867e24b0365f8aa0a55cadea9a3f3d21b5e82696600e800f201e08f99071fe"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какова смертность от нелеченого бешенства?",
+    "correct_answer": "Почти 100%",
+    "choices": [
+      "Около 50%",
+      "Около 75%",
+      "Почти 100%",
+      "Около 90%"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1808ea79bab4923a5c2a1ef47bac52779b45bf65409f44cb40b28b32ff2fe801"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание передается в первую очередь вирусом Зика?",
+    "correct_answer": "Комары",
+    "choices": [
+      "Клещи",
+      "Комары",
+      "Блохи",
+      "Летучие мыши"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "567de90a01cbe60be0c3344dc3cfc0b1534c0790ebceaa8098d870516d8a55fe"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "hard",
+    "question_text": "Каков инкубационный период бешенства у человека?",
+    "correct_answer": "От 1 до 3 месяцев",
+    "choices": [
+      "От 1 до 3 дней",
+      "От 1 до 3 недель",
+      "От 1 до 3 месяцев",
+      "От 1 до 3 лет"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6a609014e8a65ca54cbed7ea632866d3b4d14f077c17f51669bdf8036d8874dd"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какая бактерия вызывает столбняк?",
+    "correct_answer": "Clostridium tetani",
+    "choices": [
+      "Clostridium botulinum",
+      "Clostridium tetani",
+      "Clostridium difficile",
+      "Clostridium perfringens"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "bd4233a057c179c97e711c4ebd324cdfef78995a74e79e3deff04e26c0a44019"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание, передаваемое мухой цеце, вызывает сонную болезнь?",
+    "correct_answer": "Африканский трипаносомоз",
+    "choices": [
+      "Малярия",
+      "Африканский трипаносомоз",
+      "Лихорадка денге",
+      "Желтая лихорадка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "dc4969527742484ed6a0b1e962621eb6bb50967673a0cd55c1e5d346c2296dc2"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какова наиболее частая причина диареи путешественников?",
+    "correct_answer": "Энтеротоксигенная кишечная палочка",
+    "choices": [
+      "Сальмонелла",
+      "Энтеротоксигенная кишечная палочка",
+      "Шигелла",
+      "Кампилобактер"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "249d54eab49c9d76daa575fcbd42bcf390091869413d180b29d81f47fd622dda"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какова ведущая инфекционная причина слепоты в мире?",
+    "correct_answer": "Трахома",
+    "choices": [
+      "Трахома",
+      "Онхоцеркоз",
+      "Герпес simplex",
+      "Окулярный токсоплазмоз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "851670465a713475ea482d142548ed457bf489d9ef2793b037ba4b04347bf2ea"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "hard",
+    "question_text": "Каково базовое репродуктивное число (R0) кори?",
+    "correct_answer": "12–18",
+    "choices": [
+      "2–3",
+      "5–7",
+      "12–18",
+      "1–2"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1368ccad51579d631886672aa1c1ca5df2ad201d492add7ce13b300273287afd"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание в первую очередь вызывает Helicobacter pylori?",
+    "correct_answer": "Язву желудка",
+    "choices": [
+      "Язву желудка",
+      "Пневмонию",
+      "Менингит",
+      "Инфекции мочевыводящих путей"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "231365e5ad202d5fab0a5b23d25cb83f2131627c02995e0029a110c0b056a8b6"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Как называется грибковая инфекция, вызываемая видами Candida?",
+    "correct_answer": "Кандидоз",
+    "choices": [
+      "Аспергиллез",
+      "Кандидоз",
+      "Криптококкоз",
+      "Гистоплазмоз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c17183de9d9e421cf00e191d14f5096430dab14ab105ebd7276b2bf426a1a25f"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Какое инфекционное заболевание является самым смертоносным в мире по годовому числу смертей?",
+    "correct_answer": "Туберкулез",
+    "choices": [
+      "Малярия",
+      "ВИЧ/СПИД",
+      "Туберкулез",
+      "Грипп"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e64a1e8ed86f710bed1d5de9c88f841eaea9cae5df200e5bd8dded7ad8287acd"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Кого считают отцом современной медицины?",
+    "correct_answer": "Гиппократ",
+    "choices": [
+      "Гален",
+      "Гиппократ",
+      "Авиценна",
+      "Парацельс"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ae463fb40219353f5f15f3419bf3de2995ef2fc0a7972a2c15fdc4434640ae87"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Какую клятву традиционно дают новые врачи?",
+    "correct_answer": "Клятва Гиппократа",
+    "choices": [
+      "Клятва Найтингейл",
+      "Клятва Гиппократа",
+      "Женевская декларация",
+      "Обет Аполлона"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8ffa9dc0ebce6c6f3afa23bfb8e8ac067f2c77e0f50966f396cf9ae1a705fd23"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Кто открыл пенициллин в 1928 году?",
+    "correct_answer": "Александр Флеминг",
+    "choices": [
+      "Луи Пастер",
+      "Александр Флеминг",
+      "Джозеф Листер",
+      "Роберт Кох"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5aae32b6b4a87a65e942af478502a186ee3a3b09a91499735e56912aee7009d8"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Какая медсестра известна как основательница современного сестринского дела и автор полярной диаграммы?",
+    "correct_answer": "Флоренс Найтингейл",
+    "choices": [
+      "Клара Бартон",
+      "Флоренс Найтингейл",
+      "Мэри Сикол",
+      "Доротея Дикс"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cf07ca70286418277d1dc0764e6d712e9ca369544d50f1da9e39d11d433eea8a"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Кто разработал первую успешную вакцину против полиомиелита?",
+    "correct_answer": "Джонас Солк",
+    "choices": [
+      "Альберт Сэбин",
+      "Джонас Солк",
+      "Луи Пастер",
+      "Эдвард Дженнер"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c88296faa5a1a88bc39d4cb0c3f2ae1bef670ec3242f5207904667307f4ba45c"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Что Эдвард Дженнер разработал в 1796 году, используя материал коровьей оспы?",
+    "correct_answer": "Вакцина от оспы",
+    "choices": [
+      "Вакцина от бешенства",
+      "Вакцина от оспы",
+      "Вакцина от полиомиелита",
+      "Вакцина от столбняка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "80044743a41e7d0c435bbf1145b8d2cd638219ec26eafa0822428e5b0babfb85"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какой древнегреческий врач написал обширные труды по анатомии и влиял на медицину более 1300 лет?",
+    "correct_answer": "Гален",
+    "choices": [
+      "Гиппократ",
+      "Гален",
+      "Аристотель",
+      "Платон"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d1b61b6d66af408fde3cbdc9be5d4bd7362a7a4e173fe26147a72daa21dd6b34"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какой человеческий орган был успешно пересажен первым?",
+    "correct_answer": "Почка",
+    "choices": [
+      "Сердце",
+      "Почка",
+      "Печень",
+      "Роговица"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a910c5992c37366c280f419f4effca98e7b589ae9025e5f4ab226adcd8abe4f0"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Кто выполнил первую успешную пересадку человеческого сердца в 1967 году?",
+    "correct_answer": "Кристиан Барнард",
+    "choices": [
+      "Кристиан Барнард",
+      "Майкл Дебейки",
+      "Норман Шамвей",
+      "Дентон Кули"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d4195e3d8f7b18c6d39025fd4804dd5397c7c382e8e02cf46f4a02bdb0747f18"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какое открытие XIX века, сделанное Джоном Сноу, помогло остановить вспышку холеры в Лондоне?",
+    "correct_answer": "Загрязненный водяной насос",
+    "choices": [
+      "Антисептическая хирургия",
+      "Загрязненный водяной насос",
+      "Вакцинация",
+      "Карантин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "06626d8bfd04b199c408e72d73a6c5658029fc2ddf985975f2281093855fd264"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Кто идентифицировал бактерию, вызывающую туберкулез?",
+    "correct_answer": "Роберт Кох",
+    "choices": [
+      "Луи Пастер",
+      "Роберт Кох",
+      "Александр Флеминг",
+      "Джозеф Листер"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ea5b4b0e0831e224c940d88fea21c6a6d1a36d03698a58bb9f5220de2b76c0e3"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Что открыл Вильгельм Рентген в 1895 году?",
+    "correct_answer": "Рентгеновские лучи",
+    "choices": [
+      "Рентгеновские лучи",
+      "Ультразвук",
+      "МРТ",
+      "КТ"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "af700a20e498192caf41012b32c59564382e7241430404b0af6125832bbe3811"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какая цивилизация считается создателем древнейших известных медицинских текстов, включая папирус Эдвина Смита?",
+    "correct_answer": "Древний Египет",
+    "choices": [
+      "Древняя Греция",
+      "Древний Египет",
+      "Древний Китай",
+      "Древняя Индия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ec2e28c41bbb55655a2f3dd64182233ae25a69ebc389db4d70dd8b769f2a829a"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "Кому приписывают разработку компьютерного томографа (КТ)?",
+    "correct_answer": "Годфри Хаунсфилд",
+    "choices": [
+      "Рэймонд Дамадиан",
+      "Годфри Хаунсфилд",
+      "Пол Лотербур",
+      "Уильям Ольдендорф"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0e470a5b77e2986820c9ddec298d33407b41666520a70336cd4892ffa5e3a029"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Какая пандемия унесла жизни примерно 50 миллионов человек по всему миру в 1918-1919 годах?",
+    "correct_answer": "Испанский грипп",
+    "choices": [
+      "Бубонная чума",
+      "Испанский грипп",
+      "Азиатский грипп",
+      "Гонконгский грипп"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "13ae6617e401071fbe8def45216cf799f126bf1e1731121e2180d01d33462132"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "Кто открыл систему групп крови ABO в 1901 году?",
+    "correct_answer": "Карл Ландштейнер",
+    "choices": [
+      "Карл Ландштейнер",
+      "Александр Флеминг",
+      "Роберт Кох",
+      "Пауль Эрлих"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4c50856c439acee17773de187e303591d147563c2fc466c8168c1a68e129d9c8"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Что Джозеф Листер впервые применил в хирургии?",
+    "correct_answer": "Антисептический метод",
+    "choices": [
+      "Анестезию",
+      "Антисептический метод",
+      "Трансплантацию органов",
+      "Переливание крови"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "534108df8639e9d322b4f3a2ad8372a41c6efe9e55b7e351f686ddc3e4e65a01"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какой персидский врач написал «Канон врачебной науки», который веками был стандартным медицинским учебником?",
+    "correct_answer": "Авиценна",
+    "choices": [
+      "Гален",
+      "Авиценна",
+      "Разес",
+      "Маймонид"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "fc5b8a9ed9d93eed4aa88943be3a829ccde410147f769fa9059060bf6a43387c"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "Какое заболевание было первым, вызванным вирусом?",
+    "correct_answer": "Табачная мозаика",
+    "choices": [
+      "Бешенство",
+      "Оспа",
+      "Табачная мозаика",
+      "Полиомиелит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c181670f991be4f50004f232dd28875a87423b02f382dc7adf7f68c236bdfe8e"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Кто разработал первые успешные оральные контрацептивы?",
+    "correct_answer": "Грегори Пинкус",
+    "choices": [
+      "Грегори Пинкус",
+      "Карл Джерасси",
+      "Джон Рок",
+      "Маргарет Сэнгер"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6a87f1434c51d6640be6f0b5ba14087ef4205bc6e8ed069d6431065e8da6134b"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Какая древняя медицинская практика включала сверление отверстий в черепе?",
+    "correct_answer": "Трепанация",
+    "choices": [
+      "Лоботомия",
+      "Трепанация",
+      "Краниотомия",
+      "Френология"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "fd6de80a5f2aebe445814960688b030f4851b4ac9d16ee3d06745baccab66a34"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Кто открыл инсулин в 1921 году вместе с Чарльзом Бестом?",
+    "correct_answer": "Фредерик Бантинг",
+    "choices": [
+      "Фредерик Бантинг",
+      "Александр Флеминг",
+      "Джонас Солк",
+      "Пауль Лангерганс"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d35039696a1ff2022d09352dc0c47b8c1485dbd7eb8b4f9b6c0a65b6346c52e4"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какой метод медицинской визуализации был впервые разработан Рэймондом Дамадианом в 1977 году?",
+    "correct_answer": "МРТ",
+    "choices": [
+      "КТ",
+      "МРТ",
+      "Ультразвук",
+      "ПЭТ"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8e4be1b9ced77af2ef50e9499ddfdd93df1d1c5ef906da511b7c59fc096fd26f"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какой врач XIX века впервые продемонстрировал, что мытье рук снижает инфекции?",
+    "correct_answer": "Игнац Земмельвейс",
+    "choices": [
+      "Игнац Земмельвейс",
+      "Джозеф Листер",
+      "Луи Пастер",
+      "Джон Сноу"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "57df1d4c13444c39f96ebffda14d9bd000eb4c05f5b5839e7dcf97cfebcfde74"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "Какое инфекционное заболевание было впервые подробно описано Гиппократом?",
+    "correct_answer": "Туберкулез",
+    "choices": [
+      "Малярия",
+      "Туберкулез",
+      "Лепра",
+      "Чума"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "30c53ebebad90da4ad5f84ffa1b09b49c92bb2c994222f68aed35e9285d2840a"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Кому принадлежит первое описание кровообращения в 1628 году?",
+    "correct_answer": "Уильям Гарвей",
+    "choices": [
+      "Гален",
+      "Уильям Гарвей",
+      "Андреас Везалий",
+      "Марчелло Мальпиги"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "afd9586702b3b4e01635115d943bd1e25d6260b8dd1a61a844e0cf8bb1cdb614"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Как звали первого ребенка из пробирки, родившегося в 1978 году?",
+    "correct_answer": "Луиза Браун",
+    "choices": [
+      "Луиза Браун",
+      "Элизабет Карр",
+      "Виктория Паркер",
+      "Эмили Миллер"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "332e315b5930ed9cb8f4ac9b48705416c8fe3082b67ff710d81fe770487cbc7d"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Кто разработал первую вакцину против бешенства?",
+    "correct_answer": "Луи Пастер",
+    "choices": [
+      "Роберт Кох",
+      "Луи Пастер",
+      "Эдвард Дженнер",
+      "Джонас Солк"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "fa9764de765c598170f4ba8f4f2aabb5ba6acc77f6e75e1f6b12e1ae21e53c24"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "Как назывался первый химиотерапевтический препарат, открытый благодаря исследованиям горчичного газа?",
+    "correct_answer": "Азотистый иприт",
+    "choices": [
+      "Метотрексат",
+      "Азотистый иприт",
+      "Цисплатин",
+      "Доксорубицин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f0434d099347a329b237c50c010379853b6132e2e1c05e3791d27ea29ee2d7cb"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Какая цивилизация разработала первую известную систему общественного здравоохранения и санитарии, включая канализацию?",
+    "correct_answer": "Древний Рим",
+    "choices": [
+      "Древняя Греция",
+      "Древний Рим",
+      "Древний Египет",
+      "Древняя Индия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0a663e65671b19865575d7c3074a391a1d617cf68acd0a6c0a80ca53739b5b35"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает медицинский термин «тахикардия»?",
+    "correct_answer": "Учащенное сердцебиение",
+    "choices": [
+      "Замедленное сердцебиение",
+      "Учащенное сердцебиение",
+      "Нерегулярное сердцебиение",
+      "Нормальное сердцебиение"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cab92830d89c74e9a73bfb0d6cad9d1c611532cb2c29496ff08afa5495e0d466"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «бради-» в медицинской терминологии?",
+    "correct_answer": "Медленный",
+    "choices": [
+      "Быстрый",
+      "Медленный",
+      "Большой",
+      "Маленький"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "984c112e4c8dfbe4e46583a99fad77bbd788bd4a1469da103d281c146fec61ae"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает медицинский термин «гематурия»?",
+    "correct_answer": "Кровь в моче",
+    "choices": [
+      "Кровь в стуле",
+      "Кровь в моче",
+      "Кровь в рвоте",
+      "Кровь в мокроте"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "16de4ec11e75401d5720b71aeaea5e1a68acd24e07b4b3ecbc61c212e3cef360"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает суффикс «-ит» в медицинской терминологии?",
+    "correct_answer": "Воспаление",
+    "choices": [
+      "Воспаление",
+      "Удаление",
+      "Болезнь",
+      "Боль"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0c0e862d3caa8377d288b90c97f2255bc2059db927329bce8556ea4946740075"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «остео-»?",
+    "correct_answer": "Кость",
+    "choices": [
+      "Мышца",
+      "Кость",
+      "Сустав",
+      "Нерв"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "714526befe9f28a87ba6d31dab5d06937e1121bf133ae79efefda0d1656cda12"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что такое «диспноэ»?",
+    "correct_answer": "Затрудненное дыхание",
+    "choices": [
+      "Боль в груди",
+      "Затрудненное дыхание",
+      "Затрудненное глотание",
+      "Затрудненная речь"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a7b8de9560f02d983f4209715fe77ec87ee440f0429c1748abfa401b14694198"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «кардио-»?",
+    "correct_answer": "Сердце",
+    "choices": [
+      "Легкие",
+      "Сердце",
+      "Кровь",
+      "Мозг"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7ba256062fe6a967f7030300af22d705d0da05e195fd780185cf5d62fecba448"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает медицинский термин «идиопатический»?",
+    "correct_answer": "Неизвестной причины",
+    "choices": [
+      "Генетический",
+      "Неизвестной причины",
+      "Инфекционный",
+      "Аутоиммунный"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "41699f55937d2b52e24768f1cbf2dd4564f2fe650e1de3a8925260db67a74f21"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «нейро-»?",
+    "correct_answer": "Нервы или нервная система",
+    "choices": [
+      "Сердце",
+      "Нервы или нервная система",
+      "Мышцы",
+      "Кости"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1065e48209e5aaa59479e0d107b6a16a1b8a5834e222e011406d073442b64655"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает «отек»?",
+    "correct_answer": "Припухлость из-за задержки жидкости",
+    "choices": [
+      "Припухлость из-за задержки жидкости",
+      "Покраснение кожи",
+      "Синяк",
+      "Зуд"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f3f5861d36b7e354a80bfd652472efbf9102772058161f7c9b5ba3147f9705ff"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «гема-» или «гемо-»?",
+    "correct_answer": "Кровь",
+    "choices": [
+      "Сердце",
+      "Кровь",
+      "Печень",
+      "Кость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9520fa5989be5e9736f2c56fe2c583d72cdee8e4d70347e5506b6a4423e54970"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что описывает термин «цианоз»?",
+    "correct_answer": "Синюшное окрашивание кожи из-за недостатка кислорода",
+    "choices": [
+      "Пожелтение кожи",
+      "Синюшное окрашивание кожи из-за недостатка кислорода",
+      "Покраснение кожи",
+      "Бледность кожи"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9221b022a9d746ebee0d9c6e0fd15c57c5983caa9e7084af567100eb4547b3e9"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает суффикс «-алгия»?",
+    "correct_answer": "Боль",
+    "choices": [
+      "Припухлость",
+      "Боль",
+      "Слабость",
+      "Онемение"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0ec77b013e90fdc921f9ccd4b797986cc8d5cc2e232115cd2587d164580e3435"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает «брадикардия»?",
+    "correct_answer": "Замедленное сердцебиение",
+    "choices": [
+      "Учащенное сердцебиение",
+      "Замедленное сердцебиение",
+      "Нерегулярное сердцебиение",
+      "Нормальное сердцебиение"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f92e6831586442a12b619b47a1a3efdbcdc618a6a3af6202fce4f86c37effaa5"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «артро-»?",
+    "correct_answer": "Сустав",
+    "choices": [
+      "Мышца",
+      "Кость",
+      "Сустав",
+      "Сухожилие"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "287242888fec0f5fe23a29a1cc66b5f91127c2438828480dd04fc4a6c72a2abc"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает медицинский термин «контузия»?",
+    "correct_answer": "Ушиб",
+    "choices": [
+      "Порез",
+      "Ушиб",
+      "Ожог",
+      "Перелом"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "df4564dbd1200b3bee6665e69cdb41f078605337eb81b47fee2b9051e9298acf"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что описывает термин «ишемия»?",
+    "correct_answer": "Недостаточное кровоснабжение органа",
+    "choices": [
+      "Избыточный кровоток к органу",
+      "Недостаточное кровоснабжение органа",
+      "Воспаление кровеносных сосудов",
+      "Разрыв кровеносных сосудов"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7c6f61d12f41cf519d972d005d929ee303d005fd011c08b5b89b247c638cb354"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает суффикс «-ома» в медицинской терминологии?",
+    "correct_answer": "Опухоль или образование",
+    "choices": [
+      "Опухоль или образование",
+      "Воспаление",
+      "Болезнь",
+      "Состояние"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2e8ffe68f9882c9ca01ad882e82c40bd94f478191e9adda21fce20c49582cbe0"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «дерма-»?",
+    "correct_answer": "Кожа",
+    "choices": [
+      "Волосы",
+      "Кожа",
+      "Ногти",
+      "Мышцы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "bc01ce417399488f0c42dc173baa302eaa4414fed645a76ae971caacb0496964"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает «некроз»?",
+    "correct_answer": "Омертвение тканей",
+    "choices": [
+      "Омертвение тканей",
+      "Рост тканей",
+      "Воспаление тканей",
+      "Восстановление тканей"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e933a80724da063f5865e63b24da2b87bfda2eea886b1d270f881bbacf229937"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает префикс «гастро-»?",
+    "correct_answer": "Желудок",
+    "choices": [
+      "Кишечник",
+      "Желудок",
+      "Печень",
+      "Пищевод"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "34fef184944fa20aee17c6c36e023b5ea46f0c690080e8b75cdee9d61d594f14"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "Что означает термин «доброкачественный» в медицинском контексте?",
+    "correct_answer": "Нераковый",
+    "choices": [
+      "Нераковый",
+      "Раковый",
+      "Быстрорастущий",
+      "Смертельно опасный"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cbe7da0ea4c4efa9c0c3fdbda09d36aaf248ea8cb04e0b166ff64295eebd3e25"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает суффикс «-патия»?",
+    "correct_answer": "Болезнь",
+    "choices": [
+      "Боль",
+      "Болезнь",
+      "Припухлость",
+      "Лечение"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c7f7754b5462d0c20f73f69fb527bb77c02d1b38ad4979cfe04f31981ba1b761"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает термин «метастаз»?",
+    "correct_answer": "Распространение рака в другие части тела",
+    "choices": [
+      "Место первичной опухоли",
+      "Распространение рака в другие части тела",
+      "Полная ремиссия",
+      "Первичный диагноз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9bebbeffd541461f66d7afb3f62cceee155bfb1f27241e0524d60d05f9f4f922"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "Что означает префикс «пульмо-» или «пневмо-»?",
+    "correct_answer": "Легкие",
+    "choices": [
+      "Сердце",
+      "Легкие",
+      "Почка",
+      "Мозг"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a38df69daaca4ef1ac8415a5e103b42ba022021781a271d182c187996419a514"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Какое самое распространенное психическое расстройство в мире?",
+    "correct_answer": "Депрессия",
+    "choices": [
+      "Шизофрения",
+      "Депрессия",
+      "Биполярное расстройство",
+      "ОКР"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f31797c72c2e3cc0199503d8df5942735cf368097caeabab45cda00610b21638"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура КПТ в терапии психических расстройств?",
+    "correct_answer": "Когнитивно-поведенческая терапия",
+    "choices": [
+      "Непрерывная тренировка мозга",
+      "Когнитивно-поведенческая терапия",
+      "Клиническое поведенческое лечение",
+      "Контролируемая биологическая обратная связь"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ee7c354f9ffb0bc915538c35d1838fe38b0b6f9665a801e3b01d29d8532aa17e"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Какое состояние характеризуется чередованием мании и депрессии?",
+    "correct_answer": "Биполярное расстройство",
+    "choices": [
+      "Шизофрения",
+      "Биполярное расстройство",
+      "Пограничное расстройство личности",
+      "Циклотимия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "307397a83fb78e10dfebfcf1297e290f15abd51ae7f9229710198baefc616a8f"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Какой нейромедиатор чаще всего связан с депрессией?",
+    "correct_answer": "Серотонин",
+    "choices": [
+      "Дофамин",
+      "Серотонин",
+      "Ацетилхолин",
+      "ГАМК"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "52bcfa9158f71a4de35b2f9a5ce0bc9a41a168bd956a43c8ceaa35dd8a2018bf"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Что такое агорафобия?",
+    "correct_answer": "Страх открытых или людных мест",
+    "choices": [
+      "Страх пауков",
+      "Страх высоты",
+      "Страх открытых или людных мест",
+      "Страх полетов"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7643c04582ad714d0e48007b03bbad128781d02f359fa02a8a3ed54eb97ecf3b"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Какое самое распространенное расстройство пищевого поведения?",
+    "correct_answer": "Компульсивное переедание",
+    "choices": [
+      "Нервная анорексия",
+      "Нервная булимия",
+      "Компульсивное переедание",
+      "АРФИД"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b25f0b0d146529ace8c0dde68ff8115cf3a4c3d76d5f231c66744d2386704fae"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура ПТСР?",
+    "correct_answer": "Посттравматическое стрессовое расстройство",
+    "choices": [
+      "Посттравматическое стрессовое расстройство",
+      "Предтравматическое стрессовое расстройство",
+      "Постоянное стрессовое расстройство напряжения",
+      "Первичное травматическое стрессовое расстройство"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c91e31f6d6f29df010ada20f2744516c88722663abe513303c5ba26ce0e8a7c4"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "К какому классу антидепрессантов относится флуоксетин (Прозак)?",
+    "correct_answer": "СИОЗС",
+    "choices": [
+      "ИМАО",
+      "ТЦА",
+      "СИОЗС",
+      "СИОЗСН"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d8264ce75c24043729d5cd23bd0d02affcfd2b77131a70d9dda4bdcba376b95d"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Как называется устойчивый иррациональный страх перед конкретным объектом или ситуацией?",
+    "correct_answer": "Фобия",
+    "choices": [
+      "Тревога",
+      "Фобия",
+      "Паника",
+      "Навязчивость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f13e0110dfd08f6d61bba46023192d36b6180befc4fc1606ba193a9bde7b9b3f"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Кого считают основоположником психоанализа?",
+    "correct_answer": "Зигмунд Фрейд",
+    "choices": [
+      "Карл Юнг",
+      "Зигмунд Фрейд",
+      "Б.Ф. Скиннер",
+      "Иван Павлов"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3d8e7edd26065c68814b59fc5f96a5c3d05ed3f84af0897ce08b70b184be1303"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура ОКР?",
+    "correct_answer": "Обсессивно-компульсивное расстройство",
+    "choices": [
+      "Обсессивно-компульсивное расстройство",
+      "Расстройство избыточного сознания",
+      "Органическая когнитивная дисфункция",
+      "Обсессивно-контрольная дисфория"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ec9b66a249172ee4e401f2773b2a425ab395e0ce28cdbc5b3ee80f20c9db738b"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Чем в первую очередь характеризуется шизофрения?",
+    "correct_answer": "Галлюцинациями, бредом и дезорганизованным мышлением",
+    "choices": [
+      "Галлюцинациями, бредом и дезорганизованным мышлением",
+      "Перепадами настроения между манией и депрессией",
+      "Потерей памяти и спутанностью сознания",
+      "Устойчивой печалью и потерей интереса"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "833b46e2bea82dde8101e6ae0c987099fbb71826abe2a9e4413fbc83d6029c91"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Как называется руководство, используемое для диагностики психических расстройств?",
+    "correct_answer": "DSM (Диагностическое и статистическое руководство по психическим расстройствам)",
+    "choices": [
+      "DSM (Диагностическое и статистическое руководство по психическим расстройствам)",
+      "МКБ (Международная классификация болезней)",
+      "MMPI (Миннесотский многофазный личностный опросник)",
+      "PHQ (Опросник здоровья пациента)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b7b95edb5eb4060c81318d137651b196b978b309eb5031a37bb08e677f426295"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Что такое паническая атака?",
+    "correct_answer": "Внезапный эпизод интенсивного страха с физическими симптомами",
+    "choices": [
+      "Внезапный эпизод интенсивного страха с физическими симптомами",
+      "Хроническое состояние пониженной тревоги",
+      "Страх социальных ситуаций",
+      "Навязчивый образ мыслей"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "080d4d428e861b3d567d65eb7e6751bd578c8b029475c400eaa063c4b48c821b"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Какой нейромедиатор в первую очередь связан с вознаграждением и удовольствием?",
+    "correct_answer": "Дофамин",
+    "choices": [
+      "Серотонин",
+      "Дофамин",
+      "Норадреналин",
+      "Ацетилхолин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ed1fee1d84f3f609aac3733ff42c0b71f200f98f80584da88049d940de38a7f7"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "В чем разница между психиатром и психологом?",
+    "correct_answer": "Психиатры могут назначать лекарства, психологи нет",
+    "choices": [
+      "Психиатры могут назначать лекарства, психологи нет",
+      "Психологи могут назначать лекарства, психиатры нет",
+      "Нет никакой разницы",
+      "Психиатры лечат только тяжелые психические заболевания"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c93cb79518f1859e4c4bf6a69c45538285d76b55f1d03fe18f979fab431534f0"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Что такое сезонное аффективное расстройство (САР)?",
+    "correct_answer": "Депрессия, связанная со сменой сезонов",
+    "choices": [
+      "Депрессия, связанная со сменой сезонов",
+      "Тревога, вызванная социальными событиями",
+      "Биполярные эпизоды зимой",
+      "Бессонница в летние месяцы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0c8d88be5dad682eec08df170fe35ac29c819a95ecd62b3d963e8f1eb23cff10"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура СДВГ?",
+    "correct_answer": "Синдром дефицита внимания и гиперактивности",
+    "choices": [
+      "Синдром дефицита внимания и гиперактивности",
+      "Смешанное тревожно-депрессивное расстройство",
+      "Расстройство автоматической дисфункции с гиперактивностью",
+      "Атипичное расстройство развития с гиперактивностью"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6cc6ea7f43a6d45e3571a240480218cdf138f6b774cf9bfe3c1c84a210188e6b"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Как ранее называлось диссоциативное расстройство идентичности?",
+    "correct_answer": "Множественное расстройство личности",
+    "choices": [
+      "Множественное расстройство личности",
+      "Шизофрения",
+      "Пограничное расстройство личности",
+      "Биполярное расстройство"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d1982c6cafb8ea2a0b0b9695de9a8fa1b0cb64704fb7ccfc0d4cbb5704b438af"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Какое лечение с использованием света наиболее эффективно при сезонном аффективном расстройстве?",
+    "correct_answer": "Световая терапия (фототерапия)",
+    "choices": [
+      "Световая терапия (фототерапия)",
+      "Добавки витамина D",
+      "Когнитивно-поведенческая терапия",
+      "Антидепрессанты"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "14a0545145c315db4adc804906808442eac2fae7c48024516148ca1f231f63c9"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Как называется неспособность испытывать удовольствие от ранее приятных занятий?",
+    "correct_answer": "Ангедония",
+    "choices": [
+      "Ангедония",
+      "Апатия",
+      "Дисфория",
+      "Кататония"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2a37e405ed0abe1daa5eb6ebf2db5d9270a65fb90da9ba600bd8e8f0db5a5a5c"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "К какому классу лекарств обычно относится литий?",
+    "correct_answer": "Стабилизатор настроения",
+    "choices": [
+      "Антидепрессант",
+      "Стабилизатор настроения",
+      "Антипсихотик",
+      "Анксиолитик"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "fd5e4144296dc8a4e417d805b6c33cce1ecf8fb0cc6fc7b586de250732cdf0de"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "Какое расстройство характеризуется внезапными, краткими, непроизвольными эпизодами засыпания?",
+    "correct_answer": "Нарколепсия",
+    "choices": [
+      "Инсомния",
+      "Нарколепсия",
+      "Апноэ сна",
+      "Синдром беспокойных ног"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "41d9ad966a424bd4a0d311723e3acc5e1843cf2dfcf705403a6558b73149c556"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "hard",
+    "question_text": "Какой процент населения мира, по оценкам, испытывает психическое расстройство в течение жизни?",
+    "correct_answer": "Около 25%",
+    "choices": [
+      "Около 10%",
+      "Около 25%",
+      "Около 50%",
+      "Около 75%"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f0737ec16f9ab080e6217df52ba288893e69db079de4a690c7a3f342de3c45b4"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "hard",
+    "question_text": "Что такое эхолалия?",
+    "correct_answer": "Повторение слов или фраз другого человека",
+    "choices": [
+      "Повторение собственных слов",
+      "Повторение слов или фраз другого человека",
+      "Создание новых слов",
+      "Потеря способности говорить"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d3630cc5d7989b09790fa4748f28783a71d079baf50aaffe0678c2c368b1b72f"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Какова нормальная температура тела здорового взрослого человека в градусах Цельсия?",
+    "correct_answer": "37°C",
+    "choices": [
+      "35°C",
+      "36°C",
+      "37°C",
+      "38°C"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "012ac96a115fa96c230ef13542490d10660d943fe593442037b686d861cf752d"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Какая медицинская специальность занимается лечением рака?",
+    "correct_answer": "Онкология",
+    "choices": [
+      "Онкология",
+      "Рентгенология",
+      "Патология",
+      "Гематология"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cded6ea4096176092d2401a659597e7dc73d242b97bc191e8d1140b2a42e7838"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Что позволяет врачу слушать стетоскоп?",
+    "correct_answer": "Внутренние звуки тела",
+    "choices": [
+      "Химический состав крови",
+      "Внутренние звуки тела",
+      "Электрические сигналы",
+      "Температуру тела"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9b686dcc0819cfad0020c7f5a8a15bb1478d4d6444f47d6f2a315e7c87319a8b"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Как называется период обучения после медицинского вуза?",
+    "correct_answer": "Ординатура",
+    "choices": [
+      "Интернатура",
+      "Ординатура",
+      "Аспирантура",
+      "Клиническая практика"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "992efe61117d01a0588846cffa507ac2abbfa7dc5f9a277efc6dfe96d89dbb2a"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Что клятва Гиппократа предписывает врачам «прежде всего, не»?",
+    "correct_answer": "Вредить",
+    "choices": [
+      "Делать добро",
+      "Вредить",
+      "Делать операцию",
+      "Ставить диагноз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1910e3bcc6e33dd4421fb3f01ef2a8b9827e9949d25e3f8d38cda41ba02a55ee"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура ИМТ?",
+    "correct_answer": "Индекс массы тела",
+    "choices": [
+      "Индекс массы тела",
+      "Базовый метаболический индекс",
+      "Показатель измерения тела",
+      "Индекс метаболизма крови"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2b05e15a27a0a4158289b6a2bfed5da871d5bfcc9a084f2339df97e5f3b92409"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Какая медицинская специальность занимается лечением детей?",
+    "correct_answer": "Педиатрия",
+    "choices": [
+      "Гериатрия",
+      "Педиатрия",
+      "Неонатология",
+      "Акушерство"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b9d67e552f7c5163a96789424f4ef73387ceb12eceeb9747c1af78ef64dd3ab9"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Какова цель биопсии?",
+    "correct_answer": "Исследование тканей на наличие заболевания",
+    "choices": [
+      "Измерение артериального давления",
+      "Исследование тканей на наличие заболевания",
+      "Визуализация внутренних органов",
+      "Введение лекарств"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a2780f4851f2d805e1221e48d88e16ea2708c0e115c9e1475e326f0f294058f2"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Что означает термин «хронический» в медицинском контексте?",
+    "correct_answer": "Длительный или постоянный",
+    "choices": [
+      "Острый и тяжелый",
+      "Длительный или постоянный",
+      "Угрожающий жизни",
+      "Внезапное начало"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "560657c4ad91f39987fedebf3bf62f839ba9cfc617e984decb8baa61c07009d5"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Какая медицинская специальность занимается беременностью и родами?",
+    "correct_answer": "Акушерство",
+    "choices": [
+      "Педиатрия",
+      "Акушерство",
+      "Гинекология",
+      "Неонатология"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cb3d8d1c658f044ac43a3ca94795e37666678ead8a6553936b3de0275b79a4fb"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура ОИТ?",
+    "correct_answer": "Отделение интенсивной терапии",
+    "choices": [
+      "Отделение внутреннего ухода",
+      "Отделение интенсивной терапии",
+      "Отделение промежуточного ухода",
+      "Интегрированное отделение ухода"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "09284e5af82819840ef3c2d5aedc30d2a2c8b3faded72083ebd5660bdcb970a2"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "Какова средняя продолжительность жизни эритроцита?",
+    "correct_answer": "Около 120 дней",
+    "choices": [
+      "Около 30 дней",
+      "Около 60 дней",
+      "Около 120 дней",
+      "Около 180 дней"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b100f25bff0c8e8b077ce8b921662067db9164c7c8715fbebba1714f0c3e0758"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "Каков нормальный диапазон pH крови?",
+    "correct_answer": "7,35–7,45",
+    "choices": [
+      "6,80–7,00",
+      "7,00–7,20",
+      "7,35–7,45",
+      "7,50–7,65"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "48902b4221caf28145477d5b4439eba3ea86978342d573637c5c382a26ca2180"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "Какой процент массы тела составляет вода у среднего взрослого человека?",
+    "correct_answer": "Около 60%",
+    "choices": [
+      "Около 40%",
+      "Около 60%",
+      "Около 75%",
+      "Около 85%"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "243b968312752a578e8be0c0c92e4d7a5e46ff0cd06a5441119f6816df8aca2a"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Что означает термин «плацебо»?",
+    "correct_answer": "Вещество без лечебного эффекта, используемое в качестве контроля",
+    "choices": [
+      "Сильное обезболивающее",
+      "Вещество без лечебного эффекта, используемое в качестве контроля",
+      "Тип антибиотика",
+      "Хирургический инструмент"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7bd2e216eedc31b7ac2a89683af1670acde13eff0444a77f16dd2f5fdd4e0c10"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "Какова самая быстрая сенсорная реакция в человеческом теле?",
+    "correct_answer": "Слух",
+    "choices": [
+      "Зрение",
+      "Слух",
+      "Осязание",
+      "Обоняние"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6c6518557e7c671360cc7f4388f43d173710f854deae7d55949a599922063243"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Какая медицинская специальность занимается кожными заболеваниями?",
+    "correct_answer": "Дерматология",
+    "choices": [
+      "Дерматология",
+      "Ревматология",
+      "Нефрология",
+      "Эндокринология"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d67c9bd8070f1d3787f2a106f7f15aee0e105c34a727314b3c011a4d6fda1d67"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "hard",
+    "question_text": "Как называется первый стул новорожденного?",
+    "correct_answer": "Меконий",
+    "choices": [
+      "Меконий",
+      "Молозиво",
+      "Верникс",
+      "Лануго"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "be943f875e24e14ba08084a667ff1896e38e71827c3d68aa4742223f717d951a"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Как называется наука об использовании рентгеновских лучей и визуализации для диагностики?",
+    "correct_answer": "Рентгенология",
+    "choices": [
+      "Рентгенология",
+      "Онкология",
+      "Патология",
+      "Кардиология"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1ad24112b9339ab66b9eb444d6a9ab2851a69af15ad68dc96516a7cba9bf23ef"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "Какова нормальная продолжительность беременности у человека?",
+    "correct_answer": "Около 40 недель",
+    "choices": [
+      "Около 30 недель",
+      "Около 35 недель",
+      "Около 40 недель",
+      "Около 45 недель"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "34bf2c3ee8461c67148ec079c6cafa4cae5a0015ebc5eb81bafe85dcb4ba35c7"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "Что является основной функциональной единицей нервной системы?",
+    "correct_answer": "Нейрон",
+    "choices": [
+      "Синапс",
+      "Аксон",
+      "Нейрон",
+      "Дендрит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a09de4e8d9171baf9a1134b8a4687c116bb4ca09683771d3a92aba8862092942"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "Какая часть мозга контролирует жизненно важные функции, такие как дыхание и частота сердечных сокращений?",
+    "correct_answer": "Ствол мозга",
+    "choices": [
+      "Мозжечок",
+      "Ствол мозга",
+      "Большой мозг",
+      "Таламус"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a2d849d4ea1a3fe7e90013fbe46c7bbeb24ebde500c001c982658945e62e2c12"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание связано с дегенерацией дофамин-продуцирующих нейронов в головном мозге?",
+    "correct_answer": "Болезнь Паркинсона",
+    "choices": [
+      "Болезнь Альцгеймера",
+      "Болезнь Паркинсона",
+      "Болезнь Хантингтона",
+      "Рассеянный склероз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "11f9507a35d4e96e62e99422ca7504d7648dc7d49191d7608750d81ab7b829f8"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Как называется промежуток между двумя нейронами, через который передаются сигналы?",
+    "correct_answer": "Синапс",
+    "choices": [
+      "Аксон",
+      "Синапс",
+      "Дендрит",
+      "Миелиновая оболочка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5151acfc2e2874b533c6e4bd8ec40f2a04dd17fdd3fa16002db44228e441e18d"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "hard",
+    "question_text": "Какой черепной нерв является самым длинным и широко распределенным?",
+    "correct_answer": "Блуждающий нерв",
+    "choices": [
+      "Тройничный нерв",
+      "Блуждающий нерв",
+      "Седалищный нерв",
+      "Лицевой нерв"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a10eeba66f2c237cd6e3a9739d78d5750b62cc9c7ffb79e1fb02e9e86bbfbe98"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Какой основной тормозный нейромедиатор в головном мозге?",
+    "correct_answer": "GABA",
+    "choices": [
+      "Глутамат",
+      "Дофамин",
+      "GABA",
+      "Серотонин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "56e47b281a274397fd6a9ca39afc4870875fc63317442b680252af918830bb2c"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Как называется кратковременное нарушение функции мозга, часто называемое «мини-инсульт»?",
+    "correct_answer": "Транзиторная ишемическая атака",
+    "choices": [
+      "Геморрагический инсульт",
+      "Транзиторная ишемическая атака",
+      "Субарахноидальное кровоизлияние",
+      "Церебральная эмболия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5cda13e8f9440f998b6c492c108b908fe0d66dddbb652ceb7af61cb872aac572"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Какую функцию выполняет гематоэнцефалический барьер?",
+    "correct_answer": "Защищает мозг от вредных веществ в крови",
+    "choices": [
+      "Вырабатывает спинномозговую жидкость",
+      "Защищает мозг от вредных веществ в крови",
+      "Регулирует температуру мозга",
+      "Снабжает нейроны кислородом"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "96cf6a7f9617b2ea7d0f451b3221355cd275fe66fb038f8e44ab752d7cc0a14d"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание характеризуется повторными, спонтанными припадками?",
+    "correct_answer": "Эпилепсия",
+    "choices": [
+      "Эпилепсия",
+      "Мигрень",
+      "Нарколепсия",
+      "Синкопе"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "223209ec84822602416091f874d235b9afffe09669d75446b0bccbd35110239c"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Как называется повреждение защитной миелиновой оболочки, наблюдаемое при рассеянном склерозе?",
+    "correct_answer": "Демиелинизация",
+    "choices": [
+      "Демиелинизация",
+      "Нейродегенерация",
+      "Аксональное повреждение",
+      "Синаптический прунинг"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d7fc6d9c4908e8cd1ec3b2244043b43ea6699de3c93aa2078b877104a796a1bd"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Сколько пар черепных нервов у человека?",
+    "correct_answer": "12",
+    "choices": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6f0d32b84a7b3b2ac603f1f2217973082c1bb26948f3fbb73a0873bcc4a32885"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Какой основной возбуждающий нейромедиатор в головном мозге?",
+    "correct_answer": "Глутамат",
+    "choices": [
+      "Дофамин",
+      "Глутамат",
+      "GABA",
+      "Серотонин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e107cb4daa9a73f292076d8fb7059233acc3fbbc600593f22190c11cb3222c52"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание вызывается прионом и поражает ткань мозга, образуя губкообразные отверстия?",
+    "correct_answer": "Болезнь Крейтцфельдта-Якоба",
+    "choices": [
+      "Болезнь Альцгеймера",
+      "Болезнь Крейтцфельдта-Якоба",
+      "Болезнь Паркинсона",
+      "Болезнь Хантингтона"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "57258fe1f64198c2b3f4af0ad62c103f9042fed209983677f24645f4a20de1da"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Что означает термин «афазия»?",
+    "correct_answer": "Потеря способности понимать или выражать речь",
+    "choices": [
+      "Потеря памяти",
+      "Потеря способности понимать или выражать речь",
+      "Потеря двигательной функции",
+      "Потеря зрения"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e79f029b6afec7c88259499a471f3dadaa8e0814cbe9301d14bc27bcd3cdb2bc"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Как называется релейная станция мозга для сенсорной информации?",
+    "correct_answer": "Таламус",
+    "choices": [
+      "Гипоталамус",
+      "Таламус",
+      "Гиппокамп",
+      "Амигдала"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "47b5f7533622e9d9c29a4d1feb26e1e78c2326d8f8ae2b91b86442ef6ae06f9a"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "Какая часть мозга в первую очередь отвечает за формирование памяти?",
+    "correct_answer": "Гиппокамп",
+    "choices": [
+      "Амигдала",
+      "Гиппокамп",
+      "Мозжечок",
+      "Гипоталамус"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d56ba9fe100017541851220878382a22ec4cb931b2e7f4d80646a01b1a3a9c89"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Как называется паралич одной стороны тела?",
+    "correct_answer": "Гемиплегия",
+    "choices": [
+      "Параплегия",
+      "Квадриплегия",
+      "Гемиплегия",
+      "Моноплегия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d11cc2dd3fc031997e1a92c393dc943c8b1c994300bb3038e2278e68c8a0500d"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "Какой самый распространенный тип головной боли?",
+    "correct_answer": "Головная боль напряжения",
+    "choices": [
+      "Мигрень",
+      "Головная боль напряжения",
+      "Кластерная головная боль",
+      "Синусовая головная боль"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f62431d459b26242a02241c9271e673ef6c966280a971d8590da49f68f437d54"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Какова роль спинномозговой жидкости (CSF)?",
+    "correct_answer": "Защищает мозг и спинной мозг от повреждений",
+    "choices": [
+      "Вырабатывает нейромедиаторы",
+      "Защищает мозг и спинной мозг от повреждений",
+      "Регулирует температуру тела",
+      "Вырабатывает красные кровяные клетки"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1ebdca2050c881e5de831dbb8b93972ff333ff4ca006095a8fe2521f4c5e27df"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой витамин также известен как аскорбиновая кислота?",
+    "correct_answer": "Витамин C",
+    "choices": [
+      "Витамин A",
+      "Витамин B12",
+      "Витамин C",
+      "Витамин D"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "798f7d7262acd7b3809918ba3a505180363c6dd6dac442cada637a81e8aabff3"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какой минерал необходим для выработки гормонов щитовидной железы?",
+    "correct_answer": "Йод",
+    "choices": [
+      "Железо",
+      "Йод",
+      "Цинк",
+      "Кальций"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a6efb428947547c0d09dca844603086bfdfa87d115f575538bc5c73f6ab2039c"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой витамин известен как «витамин солнца»?",
+    "correct_answer": "Витамин D",
+    "choices": [
+      "Витамин A",
+      "Витамин C",
+      "Витамин D",
+      "Витамин E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e6a754021e5db22214e6e4990fbc681ba2771ba42b34a260557123be0e84a10b"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какое основное макронутриент содержится в яйцах и мясе?",
+    "correct_answer": "Белок",
+    "choices": [
+      "Углеводы",
+      "Белок",
+      "Жиры",
+      "Клетчатка"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a0d1c6e2dea856ee99d551f2d1cbbc8ce150406e796e0294193485381aa0c888"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какой витамин необходим для свертывания крови?",
+    "correct_answer": "Витамин K",
+    "choices": [
+      "Витамин A",
+      "Витамин D",
+      "Витамин E",
+      "Витамин K"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "57407c630d0a679ffb8730cee72b5d5206ccbefbfe86c40dac01a170e06eb307"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Дефицит какого минерала вызывает анемию, характеризующуюся маленькими бледными эритроцитами?",
+    "correct_answer": "Железо",
+    "choices": [
+      "Кальций",
+      "Железо",
+      "Цинк",
+      "Магний"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "fdbc7764da0d9906747798c0e930396749216cd795a0d1af2b9f4c136fa0178d"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой витамин также известен как ретинол и важен для зрения?",
+    "correct_answer": "Витамин A",
+    "choices": [
+      "Витамин A",
+      "Витамин B12",
+      "Витамин C",
+      "Витамин E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f5b2cd7184940a302079ad53faa807f896e7ae64a180712447c2555229e19e54"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой основной источник энергии для организма?",
+    "correct_answer": "Углеводы",
+    "choices": [
+      "Белок",
+      "Углеводы",
+      "Жиры",
+      "Витамины"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8c9fa0ebdbe9ac08444280f14f7d96bb33e13efbeea0cce0bbcc125dc48c0a9f"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какой витамин группы B необходим для предотвращения дефектов нервной трубки во время беременности?",
+    "correct_answer": "Фолат (B9)",
+    "choices": [
+      "Тиамин (B1)",
+      "Фолат (B9)",
+      "Кобаламин (B12)",
+      "Рибофлавин (B2)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "dc0cbf5681525266b814bd074568a2f5929ae3ba5c31ea3708d3b6eba923aded"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой минерал важен для крепких костей и зубов?",
+    "correct_answer": "Кальций",
+    "choices": [
+      "Железо",
+      "Кальций",
+      "Калий",
+      "Натрий"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e9431a2234a09ebd86f9223c6d5e3e2c49adeb4a4abb281b429df682ab58f969"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какой витамин является мощным антиоксидантом, также известным как токоферол?",
+    "correct_answer": "Витамин E",
+    "choices": [
+      "Витамин A",
+      "Витамин C",
+      "Витамин D",
+      "Витамин E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a64ba210e5cc9b4952230944b42dd14666a6fe1f9806b6f11245007d819c30f0"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какое состояние вызвано тяжелым дефицитом белка и энергии, часто встречается у детей?",
+    "correct_answer": "Квашиоркор",
+    "choices": [
+      "Марасма",
+      "Квашиоркор",
+      "Рахит",
+      "Цинга"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9a93672037c41050d4d26bca3b18d18dc0099b7ebeeaf954248e979a6cfabd3c"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой минерал помогает регулировать баланс жидкости и мышечные сокращения, содержится в бананах?",
+    "correct_answer": "Калий",
+    "choices": [
+      "Натрий",
+      "Кальций",
+      "Калий",
+      "Магний"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e6c185f5a391e85829fdf4a90d8ac5fa73ea29299e7d7a9c2217da0c9f7976c6"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какие витамины являются жирорастворимыми?",
+    "correct_answer": "A, D, E, K",
+    "choices": [
+      "A, B, C, D",
+      "A, D, E, K",
+      "B, C, D, E",
+      "A, C, E, K"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c32d36b46a428f7a2ea39fda8165ebc0a9165128a83d9d9b3514d2a04548f56e"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какое ежедневное рекомендуемое потребление воды для среднего взрослого человека?",
+    "correct_answer": "Около 2 литров (8 стаканов)",
+    "choices": [
+      "Около 1 литра (4 стакана)",
+      "Около 2 литров (8 стаканов)",
+      "Около 3 литров (12 стаканов)",
+      "Около 4 литров (16 стаканов)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3f06f1e76b384d99dc1a1a3898ef3cdb391a4441b8824211aca4c6efd94abc6d"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Дефицит какого витамина вызывает куриную слепоту?",
+    "correct_answer": "Витамин A",
+    "choices": [
+      "Витамин A",
+      "Витамин C",
+      "Витамин D",
+      "Витамин E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9cd08e57cf68225e85fc7af3649f946392fe13412352e598f98cacd6accb53ad"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какова основная функция пищевых волокон?",
+    "correct_answer": "Способствуют здоровью пищеварения и регулярности стула",
+    "choices": [
+      "Обеспечивают быструю энергию",
+      "Способствуют здоровью пищеварения и регулярности стула",
+      "Строят мышцы",
+      "Укрепляют кости"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "947e1f8791f252bf652ee100935258c756cee05b172b3cb1aacac009b538d71a"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой минерал является ключевым компонентом гемоглобина в эритроцитах?",
+    "correct_answer": "Железо",
+    "choices": [
+      "Кальций",
+      "Железо",
+      "Цинк",
+      "Медь"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cddf741d7bafa0fe704f81ae96ea125ecf3dcccd37f0306e896ff87b38e33297"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Что такое калория?",
+    "correct_answer": "Единица энергии из пищи",
+    "choices": [
+      "Тип жира",
+      "Единица энергии из пищи",
+      "Мера белка",
+      "Измерение витаминов"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "578fb2f9d824b82f483ab6331874ad0287d8d80220878842d983dabc92f7a834"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Дефицит какого витамина B12 вызывает усталость, слабость и неврологические симптомы?",
+    "correct_answer": "Пернициозная анемия",
+    "choices": [
+      "Железодефицитная анемия",
+      "Пернициозная анемия",
+      "Апластическая анемия",
+      "Серповидноклеточная анемия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "44733f061cd059b94cbabb70f2a0a9dcb0e1b929deb3f8275f2c17548b760ad0"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой минерал важен для иммунной функции и заживления ран?",
+    "correct_answer": "Цинк",
+    "choices": [
+      "Железо",
+      "Цинк",
+      "Кальций",
+      "Натрий"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9a3e1f8f49cd50e01ef08920f5ade2bc4b77ae3b496ef0c6c1287c5fad880fbb"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какова основная функция белка в организме?",
+    "correct_answer": "Строительство и восстановление тканей",
+    "choices": [
+      "Обеспечение немедленной энергии",
+      "Строительство и восстановление тканей",
+      "Изоляция органов",
+      "Регуляция температуры тела"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "751f2cc7846155179542434be10f3f0be5159a95e3fd5848e4fedb59aa6033a1"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Какой нутриент наиболее энергоемкий, обеспечивая 9 калорий на грамм?",
+    "correct_answer": "Жир",
+    "choices": [
+      "Белок",
+      "Углевод",
+      "Жир",
+      "Алкоголь"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3c019e60141a2fd9300e9ac85099b016a7e00e458fbcc92bba7a7e80d1842e24"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "hard",
+    "question_text": "Какое состояние возникает из-за тяжелого дефицита белка и калорий?",
+    "correct_answer": "Марасма",
+    "choices": [
+      "Квашиоркор",
+      "Марасма",
+      "Рахит",
+      "Цинга"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c94069eb4fa28a2bd19aae8f62129e583d522184de73aa91268b2aa5d0f12706"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какая специя содержит куркумин, известный своими противовоспалительными свойствами?",
+    "correct_answer": "Куркума",
+    "choices": [
+      "Имбирь",
+      "Куркума",
+      "Корица",
+      "Кайенский перец"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3db3386a5121c49f5572091ea5a23e662b5a27bf1db583813aa89e170e096df4"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Каково медицинское название витамина B1?",
+    "correct_answer": "Тиамин",
+    "choices": [
+      "Тиамин",
+      "Рибофлавин",
+      "Ниацин",
+      "Пиридоксин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3c2b7328042fbc47ae94c1b9dadba183b764d45330ccec8e8e861161d544f902"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "hard",
+    "question_text": "Какое состояние характеризуется сильным разрушением зубов и размягчением костей из-за дефицита витамина D у взрослых?",
+    "correct_answer": "Остеомаляция",
+    "choices": [
+      "Остеопороз",
+      "Остеомаляция",
+      "Рахит",
+      "Остеоартрит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4c292f14c94a41f13bfeaf50fdc5fe07b1b2e224fda3fc431819786b9e8305f6"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какой минерал помогает поддерживать здоровый уровень артериального давления?",
+    "correct_answer": "Калий",
+    "choices": [
+      "Натрий",
+      "Калий",
+      "Хлорид",
+      "Фосфор"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f56e9d4a791386bb6f0a5ee357d09c2792523dfae0c20bd9e226da63b0846c15"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Из каких строительных блоков состоят белки?",
+    "correct_answer": "Аминокислоты",
+    "choices": [
+      "Жирные кислоты",
+      "Молекулы глюкозы",
+      "Аминокислоты",
+      "Нуклеотиды"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "480919a276303d4c59f3a668c02436b03c7e8cd4de68e4ae9e2e6d06b3bc2995"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Какая пища является полноценным белком, содержащим все девять незаменимых аминокислот?",
+    "correct_answer": "Соя",
+    "choices": [
+      "Рис",
+      "Соя",
+      "Фасоль",
+      "Кукуруза"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3bd4bf70ba33eabaa96630f288708b09c31c9fe207bb9a3e6e2c201ff00d318b"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Как называется прозрачная передняя часть глаза?",
+    "correct_answer": "Роговица",
+    "choices": [
+      "Радужка",
+      "Роговица",
+      "Сетчатка",
+      "Хрусталик"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9a7e31c6e5da9217cff3038d24a83619d3c7d79d167615a7dc4207ffcbc6ca14"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Какое состояние обычно называют близорукостью?",
+    "correct_answer": "Миопия",
+    "choices": [
+      "Гиперопия",
+      "Пресбиопия",
+      "Миопия",
+      "Астигматизм"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "15cd2c4732bb0eb8242afc328999d472b079e966b2d80d321e517bd4f536ef25"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Какой медицинский термин для глазного врача?",
+    "correct_answer": "Офтальмолог",
+    "choices": [
+      "Оптометрист",
+      "Оптик",
+      "Офтальмолог",
+      "Ортопед"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ee7aa3c3a42d55ee48aee93365a62add05ed9258c152f1b1048c0c48835ec1ee"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание вызывает повышение давления внутри глаза и может привести к слепоте?",
+    "correct_answer": "Глаукома",
+    "choices": [
+      "Катаракта",
+      "Глаукома",
+      "Макулярная дегенерация",
+      "Отслойка сетчатки"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "dcbb77dfcddef17427b0f2f01024510c14e3c0c3117c620b35c5a1985ed9d8d7"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Как называется помутнение естественного хрусталика глаза?",
+    "correct_answer": "Катаракта",
+    "choices": [
+      "Глаукома",
+      "Катаракта",
+      "Птеригиум",
+      "Кератоконус"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cab408e6817147be18c620679da8d3d30ec52bd57271c5de112f1c1ad28cd179"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Какая часть глаза меняет форму, чтобы сфокусировать свет на сетчатке?",
+    "correct_answer": "Хрусталик",
+    "choices": [
+      "Роговица",
+      "Радужка",
+      "Хрусталик",
+      "Зрачок"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "443f65b1010d29240644d59dfaa45474aaa23ea285ad3fe33bf8daa9e47a8bd6"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Какова ведущая причина потери зрения у людей старше 50 лет?",
+    "correct_answer": "Возрастная макулярная дегенерация",
+    "choices": [
+      "Катаракта",
+      "Глаукома",
+      "Возрастная макулярная дегенерация",
+      "Диабетическая ретинопатия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6ba0b297171607c69e8f8babb486f20b3152e238a48f261ba2196818d9e6a904"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Как называется в просторечии субконъюнктивальное кровоизлияние?",
+    "correct_answer": "Лопнувший сосуд в глазу",
+    "choices": [
+      "Конъюнктивит (розовый глаз)",
+      "Лопнувший сосуд в глазу",
+      "Ссадина роговицы",
+      "Ячмень"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "03a09a9dcf14744692b83e2cfcf378d72dd9b9eaf56cf30f7fc1c9e28f70252e"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Какая часть сетчатки отвечает за четкое центральное зрение?",
+    "correct_answer": "Макула",
+    "choices": [
+      "Макула",
+      "Фовеа",
+      "Диск зрительного нерва",
+      "Хориоидея"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a70901ac896d116098aded4281b8ef5f72cad7474e3d01bb11d024e9a0bee26f"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Как называется состояние, при котором глаза не выровнены, обычно называемое косоглазием?",
+    "correct_answer": "Страбизм",
+    "choices": [
+      "Амблиопия",
+      "Страбизм",
+      "Нистагм",
+      "Птоз"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "68cb1278612140136f6662643043380a4376ca11ceb905904ad4dfad5dbf0939"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Как называется по-медицински ленивый глаз?",
+    "correct_answer": "Амблиопия",
+    "choices": [
+      "Страбизм",
+      "Амблиопия",
+      "Миопия",
+      "Астигматизм"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b779e693ccdee76cd4cb01ec8640c728e528dd318ec209d1284a417c7a0b8d78"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Что означает аббревиатура LASIK?",
+    "correct_answer": "Лазерный кератомилез in situ",
+    "choices": [
+      "Лазерный кератомилез in situ",
+      "Лазерная интраокулярная кератотомия",
+      "Светоактивированная поверхностная кератэктомия",
+      "Лазерная абляция для интраокулярного кератоконуса"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c305a960c54b241215b927c16626a1ed183529d271a75b8c7c50ef1e58265395"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Каков медицинский термин для розового глаза?",
+    "correct_answer": "Конъюнктивит",
+    "choices": [
+      "Конъюнктивит",
+      "Кератит",
+      "Блефарит",
+      "Увеит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "45ad80801c7d8bdc240e5cf5a281336f5245f9171ec692f78c44935423b9aea6"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "hard",
+    "question_text": "Каково нормальное поле зрения человеческого глаза в градусах?",
+    "correct_answer": "Около 180 градусов по горизонтали",
+    "choices": [
+      "Около 90 градусов по горизонтали",
+      "Около 135 градусов по горизонтали",
+      "Около 180 градусов по горизонтали",
+      "Около 240 градусов по горизонтали"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "beaa1d1d1c736e74a7dc5b189aae165a870e9244e521049480986b25f32209a9"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Какое состояние вызывает появление плавающих помутнений в поле зрения?",
+    "correct_answer": "Отслойка стекловидного тела",
+    "choices": [
+      "Катаракта",
+      "Отслойка стекловидного тела",
+      "Язва роговицы",
+      "Макулярное отверстие"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7b8a1ee61b0c3d0e7e0c5df60607e209de4f63393ce5308c4c00b0eefd9c249f"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Как называется гелеобразное вещество, заполняющее заднюю часть глаза?",
+    "correct_answer": "Стекловидное тело",
+    "choices": [
+      "Водянистая влага",
+      "Стекловидное тело",
+      "Слезы",
+      "Спинномозговая жидкость"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "91eb924c42a2601ab5d051a4eeba7870a7960965ba8ad52fe4088b70127755d0"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Какое состояние включает воспаление век?",
+    "correct_answer": "Блефарит",
+    "choices": [
+      "Конъюнктивит",
+      "Блефарит",
+      "Кератит",
+      "Увеит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "db080f280fa18304125410be66d19d7aeee78a51b02a5b672e19f96e0d2e2ee2"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Каков медицинский термин для ячменя?",
+    "correct_answer": "Гордеолум",
+    "choices": [
+      "Халазион",
+      "Гордеолум",
+      "Птеригиум",
+      "Пингвекула"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7ac63849edc619de1cf4e2924870320b0aae79dca417a7523345c6e5d9f2164f"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Как называется тест, измеряющий внутриглазное давление?",
+    "correct_answer": "Тонометрия",
+    "choices": [
+      "Офтальмоскопия",
+      "Тонометрия",
+      "Периметрия",
+      "Ретиноскопия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4377d016a3c1b31e1e1f082e3e8d2020492d760038fb506f12876a0d5d9658d8"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Что проверяет таблица Снеллена?",
+    "correct_answer": "Остроту зрения",
+    "choices": [
+      "Цветовую слепоту",
+      "Остроту зрения",
+      "Глубину восприятия",
+      "Периферическое зрение"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9405f972892bad8a5d9f21e0ae9ca376acfe61ccfccd1e463146dc3e695fff45"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Какова наиболее распространенная причина необратимой слепоты в мире?",
+    "correct_answer": "Глаукома",
+    "choices": [
+      "Катаракта",
+      "Глаукома",
+      "Трахома",
+      "Макулярная дегенерация"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b71fd604cfde3d01f557420805f8c2ac625eee771e5101c2cba850c9949efa25"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "В чем разница между оптометристом и офтальмологом?",
+    "correct_answer": "Офтальмологи проводят операции; оптометристы — нет",
+    "choices": [
+      "Оптометристы проводят операции; офтальмологи — нет",
+      "Офтальмологи проводят операции; оптометристы — нет",
+      "Разницы нет",
+      "Оптометристы лечат только детей"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "170b601dc42e1c2943a969f42d376f9c34122759b5b44df1dfa912c698644c72"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Как называется светочувствительная ткань в задней части глаза?",
+    "correct_answer": "Сетчатка",
+    "choices": [
+      "Роговица",
+      "Сетчатка",
+      "Склера",
+      "Хориоидея"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2a76633bb5105cce050aaa0c01a4d29002694ad1357bd80dcadd8ff8406e2725"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Какое состояние возникает в результате отслойки сетчатки?",
+    "correct_answer": "Отделение сетчатки от задней части глаза",
+    "choices": [
+      "Помутнение хрусталика",
+      "Отделение сетчатки от задней части глаза",
+      "Повышение внутриглазного давления",
+      "Воспаление роговицы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b4e70336d9468f82bb203ce9fe11f4d525fe54f298ca625325e0fac790de7594"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "Как называется цветное кольцо мышцы, контролирующее размер зрачка?",
+    "correct_answer": "Радужка",
+    "choices": [
+      "Роговица",
+      "Радужка",
+      "Хрусталик",
+      "Склера"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9c817d31b3a9fb3d3943d57bc21bb4d4d5bc96c91eacf32b33e6c232f0f13c07"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какой активный ингредиент аспирина обезболивает?",
+    "correct_answer": "Ацетилсалициловая кислота",
+    "choices": [
+      "Ибупрофен",
+      "Ацетаминофен",
+      "Ацетилсалициловая кислота",
+      "Напроксен"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "044e4da816b60147c893337158145e29b755f17c93add078e06fcd8e3a115714"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какой антибиотик был открыт первым, Александром Флемингом в 1928 году?",
+    "correct_answer": "Пенициллин",
+    "choices": [
+      "Тетрациклин",
+      "Стрептомицин",
+      "Пенициллин",
+      "Эритромицин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "eb075f94b424882f4d176c0456fe29f1676bd34c28f3e4f601510dd7dc245a86"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Каково международное непатентованное название бренда Tylenol?",
+    "correct_answer": "Ацетаминофен",
+    "choices": [
+      "Ибупрофен",
+      "Ацетаминофен",
+      "Напроксен",
+      "Аспирин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "850794de7267cba2d04ba003c637935c55ce7f53b3d60403b5cba1ce8d66cd3e"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой класс препаратов обычно используется для снижения выработки желудочной кислоты?",
+    "correct_answer": "Ингибиторы протонной помпы",
+    "choices": [
+      "Антигистаминные",
+      "Ингибиторы протонной помпы",
+      "Бета-блокаторы",
+      "Ингибиторы АПФ"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "73bb91c0928fe5cb6098b0b5b9538a0881fa79bc9ffe1ce1567cb3bbbe74c722"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какое растительное соединение лежит в основе сердечного препарата дигоксин?",
+    "correct_answer": "Наперстянка",
+    "choices": [
+      "Белладонна",
+      "Наперстянка",
+      "Тис",
+      "Кора ивы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a491adc30829977be7d4512920a1632776d8097d30c6a5d3e0a82cb8479c51f8"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какой антикоагулянт обычно называют 'разжижающим кровь'?",
+    "correct_answer": "Варфарин",
+    "choices": [
+      "Аспирин",
+      "Варфарин",
+      "Инсулин",
+      "Метформин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c3584b47c94c91244a9c54a6df08fc124347f979335e5a0ec0e673c43e90d29f"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "К какому типу наркотиков относится морфин?",
+    "correct_answer": "Опиоид",
+    "choices": [
+      "Стимулятор",
+      "Опиоид",
+      "Бензодиазепин",
+      "Барбитурат"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1b62a87aebc23b9d2f08eb7dd14156882f5be7f454b1dd5a5adc7df4f3379a41"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой препарат используется для устранения передозировки опиоидов?",
+    "correct_answer": "Налоксон",
+    "choices": [
+      "Эпинефрин",
+      "Налоксон",
+      "Атропин",
+      "Флумазенил"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7f138bcd9941e304caa66aad88befd89cebb31f2e696a9962874160c6cd37394"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какой анестетик наиболее часто используется при небольших стоматологических процедурах?",
+    "correct_answer": "Лидокаин",
+    "choices": [
+      "Морфин",
+      "Лидокаин",
+      "Пропофол",
+      "Кетамин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6528f5f694de8cadcab9389e49a4bd9290e6c78ebcb311599c864ec81c3cc695"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "hard",
+    "question_text": "Какой препарат от диабета получен из слюны ядозуба?",
+    "correct_answer": "Эксенатид",
+    "choices": [
+      "Метформин",
+      "Инсулин",
+      "Эксенатид",
+      "Глипизид"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8272c4c61eb53f4cbf5b553a87672743c2309635e89d07c132b1ca1619a45344"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой класс препаратов для снижения давления заканчивается на '-прил'?",
+    "correct_answer": "Ингибиторы АПФ",
+    "choices": [
+      "Бета-блокаторы",
+      "Блокаторы кальциевых каналов",
+      "Ингибиторы АПФ",
+      "Диуретики"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e30880944739efc119d1c004979123b53d77d8f4f582e3dab8e065e084e6f177"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой химиотерапевтический препарат изначально был получен из тихоокеанского тиса?",
+    "correct_answer": "Паклитаксел",
+    "choices": [
+      "Доксорубицин",
+      "Паклитаксел",
+      "Цисплатин",
+      "Метотрексат"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "73f4d132ecd76f4bc9af69772872ff279a524810d28e90e8bac62a235377ffa4"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "К какому типу препаратов относится эпинефрин (адреналин)?",
+    "correct_answer": "Симпатомиметик",
+    "choices": [
+      "Симпатомиметик",
+      "Парасимпатомиметик",
+      "Симпатолитик",
+      "Антихолинергик"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cc224ab5def4d1ea2accb50ec8a7ba8d3789eab71d8331afeadf0bdc4ac9016e"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какое безрецептурное обезболивающее в низких дозах также является разжижающим кровь?",
+    "correct_answer": "Аспирин",
+    "choices": [
+      "Ибупрофен",
+      "Ацетаминофен",
+      "Аспирин",
+      "Напроксен"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8e008c86c47407cd7c47cdc76c4c0caf139616ee4c893b0351af08e647bd3388"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "hard",
+    "question_text": "Как называлось первое эффективное средство от сифилиса, открытое в 1909 году?",
+    "correct_answer": "Сальварсан",
+    "choices": [
+      "Пенициллин",
+      "Сальварсан",
+      "Стрептомицин",
+      "Сульфаниламид"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "9cc1cf4a72ef5527be759e5ce98c43f98d7d1de916dee595a869c971ba37e065"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "К какому классу седативных препаратов относится диазепам (Валиум)?",
+    "correct_answer": "Бензодиазепины",
+    "choices": [
+      "Барбитураты",
+      "Бензодиазепины",
+      "Опиоиды",
+      "Антипсихотики"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4ef2188c4cd0437ed031d7dfeea0ce15b49b3fc3a024b578b7f2b1047eb761ab"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "hard",
+    "question_text": "Дефицит какого витамина наиболее близко имитирует действие варфарина?",
+    "correct_answer": "Витамин K",
+    "choices": [
+      "Витамин D",
+      "Витамин K",
+      "Витамин B12",
+      "Витамин C"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "3c01b4101bd0b8c57ffe73f384e96050a415fafaf91d86671fed1bcc6e47b72e"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Каково международное непатентованное название бренда Lipitor?",
+    "correct_answer": "Аторвастатин",
+    "choices": [
+      "Аторвастатин",
+      "Симвастатин",
+      "Розувастатин",
+      "Правастатин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "da8feeae5da36260531006f761033946300f558e548006d98d38454cb2cb881b"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какой препарат используется для лечения анафилактического шока?",
+    "correct_answer": "Эпинефрин",
+    "choices": [
+      "Эпинефрин",
+      "Дифенгидрамин",
+      "Альбутерол",
+      "Преднизон"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "4a5f385de861f48be9349b8ad8e8cf1b895f40ed1d2ae21dc678a277cd8b324e"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "К какому типу препаратов относится силденафил (Виагра)?",
+    "correct_answer": "Ингибитор ФДЭ-5",
+    "choices": [
+      "Бета-блокатор",
+      "Ингибитор ФДЭ-5",
+      "Ингибитор АПФ",
+      "Альфа-блокатор"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1ee7096b13ce4eb7e72c913ef2e05423407e8d1158f78fdcc58c548fb6a8f624"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какое древнее болеутоляющее средство, полученное из опийного мака, использовалось тысячи лет?",
+    "correct_answer": "Морфин",
+    "choices": [
+      "Аспирин",
+      "Морфин",
+      "Хинин",
+      "Дигиталис"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "bff15269d3e3a50ee47f60feac20cd032d3198520a6815462a5a87141841080b"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Каков наиболее распространенный побочный эффект антибиотиков?",
+    "correct_answer": "Диарея",
+    "choices": [
+      "Головная боль",
+      "Диарея",
+      "Бессонница",
+      "Сыпь"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "a081dc73167d197dd97e0cca8cfa2fa4ff7f3c062b79048c7a33dcff24afcfbf"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой противомалярийный препарат исторически смешивали с джином, чтобы сделать напиток более приятным?",
+    "correct_answer": "Хинин",
+    "choices": [
+      "Хлорохин",
+      "Хинин",
+      "Артемизинин",
+      "Мефлохин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "feaface1e1ea1541c6900761aad1e94b684e9513a6f908201cd88e308fbc1775"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Каково международное непатентованное название препарата, обычно продаваемого как Advil?",
+    "correct_answer": "Ибупрофен",
+    "choices": [
+      "Ацетаминофен",
+      "Ибупрофен",
+      "Напроксен",
+      "Кетопрофен"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "55e1f97ce1bfcc295e4073f7ee1c1fa0a046ac70a14a9cc8e8863a895777ee83"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какой класс снижающих холестерин препаратов заканчивается на '-статин'?",
+    "correct_answer": "Статины",
+    "choices": [
+      "Статины",
+      "Фибраты",
+      "Секвестранты желчных кислот",
+      "Эзетимиб"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "80c4cdfb475a634d08579249dfa2492a91cee9c571219ba838b8f4a21c7c8b9b"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Какой орган в организме метаболизирует большинство лекарств?",
+    "correct_answer": "Печень",
+    "choices": [
+      "Почки",
+      "Печень",
+      "Селезенка",
+      "Поджелудочная железа"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "deb1fa688bd8bef700da22647caef8fd749e27dd3e696871a11b0dcd544798da"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой противоэпилептический препарат также часто используется для лечения биполярного расстройства?",
+    "correct_answer": "Вальпроевая кислота",
+    "choices": [
+      "Фенитоин",
+      "Вальпроевая кислота",
+      "Карбамазепин",
+      "Ламотриджин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "44ce521a67ad05ca929c0b98bda03998141d1c2df4c94ba86f7df7d527dff560"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Что означает аббревиатура OTC в медицине?",
+    "correct_answer": "Безрецептурный",
+    "choices": [
+      "Безрецептурный",
+      "В графике",
+      "Амбулаторный лечебный центр",
+      "Оптимальный терапевтический курс"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "21a998486f37c8d07bb0c2d9f8b9d370ae349b45a6cae1aad440776c853172cb"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой общий анестетик называют 'молоком амнезии' из-за его белого цвета?",
+    "correct_answer": "Пропофол",
+    "choices": [
+      "Пропофол",
+      "Кетамин",
+      "Мидазолам",
+      "Тиопентал"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6f9998757bf039055a7867ef743284c5daefe27877b64e7c827f9e017b05f75c"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Какой был первый коммерчески доступный антибиотик?",
+    "correct_answer": "Пенициллин",
+    "choices": [
+      "Сульфаниламид",
+      "Пенициллин",
+      "Стрептомицин",
+      "Тетрациклин"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8108da324286f45350f8b7cabcb51bc9d4e1280f0e6702d6613d03629959e914"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Какая медицинская специальность занимается оперативными процедурами?",
+    "correct_answer": "Хирургия",
+    "choices": [
+      "Кардиология",
+      "Хирургия",
+      "Радиология",
+      "Дерматология"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8d91d05ec3d894da997f8e996da57a243d10432d654916d4fb9a43ef77650c9e"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Как называется хирургическая процедура по удалению аппендикса?",
+    "correct_answer": "Аппендэктомия",
+    "choices": [
+      "Аппендэктомия",
+      "Холецистэктомия",
+      "Колэктомия",
+      "Гастрэктомия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "587f5d3b30cceaadbb3c17b121f17b3af2cf2940798d7e77ec1d9bfbdaa8da45"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Как называется хирургическое удаление желчного пузыря?",
+    "correct_answer": "Холецистэктомия",
+    "choices": [
+      "Аппендэктомия",
+      "Холецистэктомия",
+      "Нефрэктомия",
+      "Спленэктомия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f1f26c0153abbdf3f0d6e6cf971e225bcb66e1b2ceefb5708b3c7ec1b6ab0a05"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Что означает термин '-эктомия' в хирургической терминологии?",
+    "correct_answer": "Хирургическое удаление",
+    "choices": [
+      "Хирургическое восстановление",
+      "Хирургический разрез",
+      "Хирургическое удаление",
+      "Хирургическое исследование"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "796262f25f33c9513384b2c9b88288f513f99920dc91969b52699ecbfbee8faa"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Какой хирургический инструмент используется для пережатия кровеносных сосудов во время операции?",
+    "correct_answer": "Гемостат",
+    "choices": [
+      "Скальпель",
+      "Гемостат",
+      "Ретрактор",
+      "Зажим"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "483411fa38101404fe14eac2fbe8d522881740437e95202750420c839b0e8954"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Как называется робот-ассистированная хирургическая система, разработанная компанией Intuitive Surgical?",
+    "correct_answer": "da Vinci Surgical System",
+    "choices": [
+      "da Vinci Surgical System",
+      "ROSA",
+      "MAKO",
+      "CyberKnife"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0c27f8e3ef7b8f555c7d47a46b73adbb57c618e8e87950f00d95e1ec9ad0ea01"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Какой тип хирургии использует небольшие разрезы и камеру?",
+    "correct_answer": "Лапароскопическая хирургия",
+    "choices": [
+      "Лапароскопическая хирургия",
+      "Открытая хирургия",
+      "Микрохирургия",
+      "Криохирургия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b591b4a20ce22c2bb28af18201c72b08cea89df1aed771003282815faa9ca95f"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Какой медицинский термин для ринопластики?",
+    "correct_answer": "Ринопластика",
+    "choices": [
+      "Ринопластика",
+      "Септопластика",
+      "Блефаропластика",
+      "Ритидэктомия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7e3f6f84ec3e63c684a7b17492d1e22bfd3512e3425d520dfd603664b7bbbc39"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Как называется хирургическое удаление почки?",
+    "correct_answer": "Нефрэктомия",
+    "choices": [
+      "Нефрэктомия",
+      "Гепатотомия",
+      "Спленэктомия",
+      "Цистэктомия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "c392ac66804b6c869f915b9786e876ad61bcddccfe7b5e90835254f464638390"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Какой тип шовного материала со временем естественным образом растворяется в организме?",
+    "correct_answer": "Рассасывающиеся швы",
+    "choices": [
+      "Рассасывающиеся швы",
+      "Нерассасывающиеся швы",
+      "Шелковые швы",
+      "Скобы"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f630e6479813e81b99043c5405bd18ebff0ec37a93cdfbc632dff97b664ed68c"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Как называется хирургическое отверстие, сделанное в трахее?",
+    "correct_answer": "Трахеостомия",
+    "choices": [
+      "Трахеостомия",
+      "Лоботомия",
+      "Колостомия",
+      "Торакотомия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6cb61a7c19abb6457d67ec7de3d770a2065f1a08f7f2643ea9d619f55b1370c8"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Как часто называют аортокоронарное шунтирование (АКШ)?",
+    "correct_answer": "Шунтирование сердца",
+    "choices": [
+      "Шунтирование сердца",
+      "Замена клапана",
+      "Ангиопластика",
+      "Установка кардиостимулятора"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2b5f482a64269584f75ad76f65457823a31d9c8024c1e42ed16e691584361434"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Что означает хирургический термин '-отомия'?",
+    "correct_answer": "Вскрытие",
+    "choices": [
+      "Удаление",
+      "Вскрытие",
+      "Восстановление",
+      "Осмотр"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "74b8685d52ffa0b4494fe160ddec4e44fec8380b024075a2a71476fb47f09dc9"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Какая хирургическая процедура является наиболее часто выполняемой во всем мире?",
+    "correct_answer": "Кесарево сечение",
+    "choices": [
+      "Аппендэктомия",
+      "Кесарево сечение",
+      "Операция по удалению катаракты",
+      "Грыжесечение"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7948fe0f576096cb47fd98577adf0a48edcab39fd02f68b0992db95850f028f7"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Что означает термин '-пластика' в хирургической терминологии?",
+    "correct_answer": "Хирургическое восстановление или изменение формы",
+    "choices": [
+      "Хирургическое удаление",
+      "Хирургический разрез",
+      "Хирургическое восстановление или изменение формы",
+      "Хирургический осмотр"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2460f192442ae83f27f9cab21b6ec5cf07bd1864abd0ac9213354865b6a173be"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Как называется процедура осмотра внутренней части сустава?",
+    "correct_answer": "Артроскопия",
+    "choices": [
+      "Артроскопия",
+      "Лапароскопия",
+      "Эндоскопия",
+      "Колоноскопия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "79f694fb96de78188219dd64d863c2ad35fc0bb4d940d9cb78238114ff3a883c"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Какая хирургическая специальность специализируется на головном мозге и нервной системе?",
+    "correct_answer": "Нейрохирургия",
+    "choices": [
+      "Нейрохирургия",
+      "Кардиоторакальная хирургия",
+      "Ортопедическая хирургия",
+      "Сосудистая хирургия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "068a0b32df0cd38d3085c57b48ea0027ea3d8640ae2ec5e9a73ca7f54a1dcf88"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Как называется хирургическое удаление селезенки?",
+    "correct_answer": "Спленэктомия",
+    "choices": [
+      "Спленэктомия",
+      "Нефрэктомия",
+      "Панкреатэктомия",
+      "Гастрэктомия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "07ffe6b4dd7f9d51db97d45fe815cb3f9d7cfa2885ec2ee5eac4016fe91877e8"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Какой орган был первым успешно трансплантирован человеку?",
+    "correct_answer": "Почка",
+    "choices": [
+      "Сердце",
+      "Почка",
+      "Печень",
+      "Легкое"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "df501b414388d8a3c582039253987c643f1a196b598a6305290f66307427b907"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Что такое мастэктомия?",
+    "correct_answer": "Хирургическое удаление груди",
+    "choices": [
+      "Хирургическое удаление груди",
+      "Хирургическое удаление желудка",
+      "Хирургическое удаление щитовидной железы",
+      "Хирургическое удаление лимфатических узлов"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "faed71fe7819cc18ee5d720a5b9ca6d2888dc8187bafb32511ee196f29d54267"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Что означает термин '-остомия' в хирургии?",
+    "correct_answer": "Создание искусственного отверстия",
+    "choices": [
+      "Удаление ткани",
+      "Создание искусственного отверстия",
+      "Восстановление ткани",
+      "Разрезание ткани"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "148f0bc906e46f85d67d176d3d0224910a8324993a9b8976f182a6a69933cc47"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Какой тип хирургии использует экстремальный холод для уничтожения аномальной ткани?",
+    "correct_answer": "Криохирургия",
+    "choices": [
+      "Криохирургия",
+      "Лазерная хирургия",
+      "Электрохирургия",
+      "Радиохирургия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "36185ee2f6bc8d3864ba80452548272560ec2d423ccc357e129ba76dd9675a48"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Какой медицинский термин для подтяжки лица?",
+    "correct_answer": "Ритидэктомия",
+    "choices": [
+      "Ринопластика",
+      "Ритидэктомия",
+      "Блефаропластика",
+      "Отопластика"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "af6cbeaef6860588ed0d69f49c486659192246a94ced6c63832161e1b6a24cce"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Для лечения чего используется ангиопластика?",
+    "correct_answer": "Суженных или закупоренных кровеносных сосудов",
+    "choices": [
+      "Переломов костей",
+      "Суженных или закупоренных кровеносных сосудов",
+      "Опухолей",
+      "Боли в суставах"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7e8124018e997a7379a37fb99ec42ab843221b6f984f09de0888e49d80d3f4a3"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Как называется операция по удалению катаракты глаза?",
+    "correct_answer": "Факоэмульсификация",
+    "choices": [
+      "LASIK",
+      "Факоэмульсификация",
+      "Витрэктомия",
+      "Кератопластика"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ff7bc438709abda05f52cc9ac019d311e8f1dc73965a6df1bff06a21d17a6f09"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Как называется введение ослабленной формы патогена для стимуляции иммунитета?",
+    "correct_answer": "Вакцинация",
+    "choices": [
+      "Инокуляция",
+      "Вакцинация",
+      "Иммуносупрессия",
+      "Антибиотикотерапия"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "5b45b6af3d8eb73a60fb3453a05f7fc42e3044b8428bd5190606429cc680c947"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Кто разработал первую вакцину от оспы, используя коровью оспу?",
+    "correct_answer": "Эдвард Дженнер",
+    "choices": [
+      "Луи Пастер",
+      "Эдвард Дженнер",
+      "Джонас Солк",
+      "Роберт Кох"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "e23c28c02c9460760b03b5b84399e97949b2cd362c9966857ae81cd21e8221c2"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Какой тип иммунитета возникает в результате вакцинации?",
+    "correct_answer": "Активный иммунитет",
+    "choices": [
+      "Пассивный иммунитет",
+      "Активный иммунитет",
+      "Врожденный иммунитет",
+      "Естественный иммунитет"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "6e4eba12c5a2d953e968bcc142bbc9359cd929a7eb780dce218daf5711eea7d1"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Как называется комбинированная вакцина против дифтерии, столбняка и коклюша?",
+    "correct_answer": "АКДС",
+    "choices": [
+      "MMR",
+      "АКДС",
+      "Hib",
+      "IPV"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "f6f050835212886fecb48728f38b19499a121cd4d653f7e41e6a8eea5b39bbf9"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "От каких заболеваний защищает вакцина MMR?",
+    "correct_answer": "Корь, паротит, краснуха",
+    "choices": [
+      "Корь, паротит, бешенство",
+      "Корь, паротит, краснуха",
+      "Корь, малярия, краснуха",
+      "Менингит, паротит, краснуха"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "65c1ef5f59ff62d355f1f2f23583dad11bc84bf24b9858306daca8092a723525"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Какое вещество иногда добавляют в вакцины для усиления иммунного ответа?",
+    "correct_answer": "Адъювант",
+    "choices": [
+      "Антибиотик",
+      "Адъювант",
+      "Антиоксидант",
+      "Антикоагулянт"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8b9fe06997c0aecfb5b5107ca455ce6ef8cfa73bef07ddab45f05808c25f7be7"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Какую вакцину разработал Джонас Солк, а позже усовершенствовал Альберт Сэйбин?",
+    "correct_answer": "Вакцина от полиомиелита",
+    "choices": [
+      "Вакцина от кори",
+      "Вакцина от полиомиелита",
+      "Вакцина от столбняка",
+      "Вакцина от бешенства"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d48251e2f1df85c0c1dc55014cefd59c6342b998a5e432d6fd1e5fc18d6377e9"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Какой тип вакцины использует безвредный вирус для доставки генетического материала от патогена?",
+    "correct_answer": "Вакцина на основе вирусного вектора",
+    "choices": [
+      "Инактивированная вакцина",
+      "Вакцина на основе вирусного вектора",
+      "Субъединичная вакцина",
+      "Анатоксиновая вакцина"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "035442fb8ce6bc64b959fef085abe366744dca6be42e957f9f3b51849e6a2b7d"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Что означает термин 'коллективный иммунитет'?",
+    "correct_answer": "Защита населения, когда достаточно людей иммунны",
+    "choices": [
+      "Иммунитет, передающийся от матери к ребенку",
+      "Защита населения, когда достаточно людей иммунны",
+      "Иммунитет от предыдущей инфекции",
+      "Иммунитет, обеспечиваемый антибиотиками"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "36191a358ed7bcd500acafb79d7c1f0523f6c2625a49fd1acba42e3d0b08bc3b"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "К какому типу относится вакцина от столбняка?",
+    "correct_answer": "Анатоксиновая вакцина",
+    "choices": [
+      "Живая аттенуированная вакцина",
+      "Инактивированная вакцина",
+      "Анатоксиновая вакцина",
+      "мРНК-вакцина"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "0081b3086c095498b97b90588f6ca4907f3f05d1c34eac5283a9a59daf12e9b1"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Какие мРНК-вакцины были разработаны для защиты от COVID-19?",
+    "correct_answer": "Pfizer-BioNTech и Moderna",
+    "choices": [
+      "Johnson & Johnson и AstraZeneca",
+      "Pfizer-BioNTech и Moderna",
+      "Sinovac и Sinopharm",
+      "Novavax и Sputnik V"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "ed885860e3ae464e39f032e176dee456eb4da7a0df96a908c3976a5b87482a27"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Какая ежегодная вакцина разработана для защиты от сезонных респираторных заболеваний?",
+    "correct_answer": "Вакцина от гриппа",
+    "choices": [
+      "Вакцина от COVID-19",
+      "Вакцина от гриппа",
+      "Вакцина от РСВ",
+      "Вакцина от пневмонии"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "2ebf1084a96baca501f8b8676363e1b5d6802de608013240615023873c6be0de"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "hard",
+    "question_text": "При какой температуре изначально должна храниться вакцина Pfizer-BioNTech от COVID-19?",
+    "correct_answer": "-70°C (-94°F)",
+    "choices": [
+      "-20°C (-4°F)",
+      "-40°C (-40°F)",
+      "-70°C (-94°F)",
+      "-10°C (14°F)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "cf1b886f857608dc1c83ef005da458b5365bb5400c70804ee20e4a3fae9559a3"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Какое заболевание, предотвращаемое вакциной HPV, является наиболее распространенной инфекцией, передающейся половым путем?",
+    "correct_answer": "Вирус папилломы человека",
+    "choices": [
+      "Герпес симплекс",
+      "Вирус папилломы человека",
+      "Хламидиоз",
+      "Гонорея"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "75e212679ad0fb35168dc3da7dc8a9617df9ad90d312162bae3ad7c22132a5b8"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "hard",
+    "question_text": "Что означает аббревиатура EPI ВОЗ?",
+    "correct_answer": "Расширенная программа иммунизации",
+    "choices": [
+      "Основная педиатрическая иммунизация",
+      "Расширенная программа иммунизации",
+      "Экстренная пандемическая инициатива",
+      "Эпидемиологический институт профилактики"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "b57edf1b55bd8a5b9610d258251ebb3a1ff2af46a5ae469dbe0e996ca3a073e0"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Для защиты от чего используется вакцина БЦЖ?",
+    "correct_answer": "Туберкулез",
+    "choices": [
+      "Корь",
+      "Туберкулез",
+      "Полиомиелит",
+      "Столбняк"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "16ef1e04e7938d3bf27536614bc67edacd491b05ef5b57ed5a45052db70e91bd"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Какой знаменитый эксперимент подтвердил, что коровья оспа защищает от натуральной оспы?",
+    "correct_answer": "Эксперимент Дженнера на Джеймсе Фиппсе",
+    "choices": [
+      "Испытание сибиреязвенной вакцины Пастера",
+      "Эксперимент Дженнера на Джеймсе Фиппсе",
+      "Полевое испытание полиомиелитной вакцины Солка",
+      "Туберкулиновая проба Коха"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "1ff7fced88976d474619064ec199dbd7d3d2b571e46a7b37468c23fc654c04d9"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Какой тип вакцины содержит ослабленные, но живые формы патогена?",
+    "correct_answer": "Живая аттенуированная вакцина",
+    "choices": [
+      "Инактивированная вакцина",
+      "Живая аттенуированная вакцина",
+      "Субъединичная вакцина",
+      "Анатоксиновая вакцина"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "7d02af6334b8ef4242a48bd05d6997b5a410d4610e30d0528e4b36764bcf30b2"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Какое заболевание было полностью искоренено с помощью вакцинации?",
+    "correct_answer": "Натуральная оспа",
+    "choices": [
+      "Полиомиелит",
+      "Натуральная оспа",
+      "Корь",
+      "Паротит"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "d17e6a1a0d0e35e2f4287e2a28b4038c8294ab3c292dfaa71a8e58829a17d17c"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "hard",
+    "question_text": "Из чего была сделана вакцина от бешенства, впервые разработанная Луи Пастером?",
+    "correct_answer": "Высушенные спинные мозги инфицированных кроликов",
+    "choices": [
+      "Вирус коровьей оспы",
+      "Высушенные спинные мозги инфицированных кроликов",
+      "Ослабленные бактерии",
+      "Синтетические белки"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "language": "ru",
+    "translation_key": "8fc7be54a7d2fb1d15705e26eb755cc60e02cb3a3864f43be647b226815ba9bb"
+  }
+]

@@ -1,0 +1,6322 @@
+[
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the largest organ in the human body?",
+    "correct_answer": "Skin",
+    "choices": [
+      "Liver",
+      "Skin",
+      "Brain",
+      "Lungs"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1093e569297abb6d68c8fc1c5db330091fbc7c7c3a1cdd05c0e1ac232d4215a2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "How many bones are in the adult human body?",
+    "correct_answer": "206",
+    "choices": [
+      "186",
+      "196",
+      "206",
+      "216"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d341184ba36d33d639a503f1d7b65d17cdeb534e4fec8d3afa7b1dc56dd4f0bf",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "What is the strongest muscle in the human body relative to its size?",
+    "correct_answer": "Masseter",
+    "choices": [
+      "Gluteus maximus",
+      "Heart",
+      "Masseter",
+      "Quadriceps"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f13df61d39867195bfd8ba561adc634f09d2c72713190b5b8e0dfe80c88b9467",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Which bone is known as the collarbone?",
+    "correct_answer": "Clavicle",
+    "choices": [
+      "Scapula",
+      "Clavicle",
+      "Sternum",
+      "Humerus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d71ebba7d0a5a72b190a621a7afb9c9a87cd71ce9b3666cebe83ab7712ceb5a7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the scientific name for the kneecap?",
+    "correct_answer": "Patella",
+    "choices": [
+      "Patella",
+      "Fabella",
+      "Meniscus",
+      "Fibula"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "282c0ca8fe74a328aba23520a0da76ed4e961b6d7d1eed81f01f6aa834092bd2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "How many chambers does the human heart have?",
+    "correct_answer": "Four",
+    "choices": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "51e6cab27ce885d262bc6a54aef42181577de0371dbc7db3d6abe613bfcca8be",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the largest artery in the human body?",
+    "correct_answer": "Aorta",
+    "choices": [
+      "Pulmonary artery",
+      "Aorta",
+      "Femoral artery",
+      "Carotid artery"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "40be479af4ab6e2bcff0a81943891defc14024834b31b0532ffb65933d8525d1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Which part of the brain controls balance and coordination?",
+    "correct_answer": "Cerebellum",
+    "choices": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Hypothalamus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "837866210603ba43337cb9cc0057eb566c9e4a2083aeada8911faddecade3782",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the longest bone in the human body?",
+    "correct_answer": "Femur",
+    "choices": [
+      "Tibia",
+      "Humerus",
+      "Spine",
+      "Femur"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b148706348e6500ce259229622a4f52d7b1d61544e8b7021fff5e294543bf0d0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "How many pairs of ribs does a typical human have?",
+    "correct_answer": "12",
+    "choices": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0099935ecc575c7a47dfbd09c52c1d3c6aa7e3d996fc1bda2aebd3220283713b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Which organ produces insulin?",
+    "correct_answer": "Pancreas",
+    "choices": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Spleen"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f48389b718d4f3a774ba12df097f6340d613269194e3f1b24ce1892ef529a244",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the name of the tube that carries food from the throat to the stomach?",
+    "correct_answer": "Esophagus",
+    "choices": [
+      "Trachea",
+      "Esophagus",
+      "Larynx",
+      "Pharynx"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d1871f0b8422f1ffd0f14f3dc49243793e9488ee9ad6897d02f96d1501f42b1f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Which blood cells are responsible for clotting?",
+    "correct_answer": "Platelets",
+    "choices": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6d2207000855d2010c5b5b0c5edfd57114738a5ae6391155d64ad23d809a775f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the colored part of the eye called?",
+    "correct_answer": "Iris",
+    "choices": [
+      "Pupil",
+      "Iris",
+      "Cornea",
+      "Retina"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c10d397ee3fa950272c4d58d999cfec4e958d971d3fbf3b4b6419658f9fd0990",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "How many vertebrae are in the human spinal column?",
+    "correct_answer": "33",
+    "choices": [
+      "24",
+      "28",
+      "33",
+      "36"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "29654be7bc85da67a2bcf02b8b456d826a36f8ee95511017e946550bcbbe365e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the smallest bone in the human body?",
+    "correct_answer": "Stapes",
+    "choices": [
+      "Stapes",
+      "Incus",
+      "Malleus",
+      "Hyoid"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3043bd7a0d8ca4ba0930c6c140e7aede14b7d4a3b7bc3a5dc25ed125dea70639",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Which organ filters waste from the blood?",
+    "correct_answer": "Kidneys",
+    "choices": [
+      "Liver",
+      "Kidneys",
+      "Spleen",
+      "Gallbladder"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "956bc84b092c7fd640ee8e351cdb860d70d57ba53769e2553aa6defc32df2cab",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the name of the windpipe?",
+    "correct_answer": "Trachea",
+    "choices": [
+      "Esophagus",
+      "Trachea",
+      "Bronchus",
+      "Larynx"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "11937ee3d7ef6ba28915cf6e09fb8f80f094698ecf8b54fe5940c30a62dc3c7d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Which type of muscle is found in the walls of the heart?",
+    "correct_answer": "Cardiac muscle",
+    "choices": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Striated muscle"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ee48d8e70a51b6b4ecc27a2816c0b6434ac0221d7a8fc1bc21a9da545cc8b500",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the scientific name for the shoulder blade?",
+    "correct_answer": "Scapula",
+    "choices": [
+      "Clavicle",
+      "Scapula",
+      "Sternum",
+      "Humerus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7b3d3417cbd56160bc040ae30e99156f0584d18a7c66c0bb1b34fa0a5ad94f51",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "How many teeth does a typical adult human have?",
+    "correct_answer": "32",
+    "choices": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5320e939c88de24118267aa1049e459a237d06dda1c52e1a7f44b9529d93b2a2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the largest part of the human brain?",
+    "correct_answer": "Cerebrum",
+    "choices": [
+      "Cerebellum",
+      "Brainstem",
+      "Cerebrum",
+      "Thalamus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a7923e5cab1bf7eccadab0f53d6fef5ba2fa62e92605f5fcef9427ca6f1d6d30",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Which gland is known as the master gland of the endocrine system?",
+    "correct_answer": "Pituitary gland",
+    "choices": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pineal gland"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "67c2406fa56f1e9534e0f3d7ad9c305fbbfdf87a56c697c268f38b50991e94e8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "What is the name of the C-shaped structure in the inner ear responsible for balance?",
+    "correct_answer": "Semicircular canals",
+    "choices": [
+      "Cochlea",
+      "Eustachian tube",
+      "Semicircular canals",
+      "Tympanic membrane"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a015621e1adb0e01ad0444b9576ea764584a23c1cc3f633cf27802fda46808b2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Which organ stores bile?",
+    "correct_answer": "Gallbladder",
+    "choices": [
+      "Liver",
+      "Pancreas",
+      "Gallbladder",
+      "Spleen"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0280901292f5706b47e0fed85c3c2162f8b534fa4de8210012333e885110539c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "What type of joint is the hip?",
+    "correct_answer": "Ball and socket",
+    "choices": [
+      "Hinge",
+      "Pivot",
+      "Ball and socket",
+      "Saddle"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d241aea580c283d6f1f01deaae96ae27dfc3e373be5d89a3eae38aaf3838ee0c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Which bone is found in the upper arm?",
+    "correct_answer": "Humerus",
+    "choices": [
+      "Femur",
+      "Humerus",
+      "Tibia",
+      "Radius"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ab9402715e15daa3700a191ecf58a2feacc1e152dc74bd5e111e2f08950d1545",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the membrane that surrounds and protects the heart?",
+    "correct_answer": "Pericardium",
+    "choices": [
+      "Peritoneum",
+      "Pericardium",
+      "Pleura",
+      "Meninges"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "204fce00061bbf0bdc5c8da77f0ee5942184151f96a957eb2cf056f6e1cd94b1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Which lobe of the brain is responsible for vision?",
+    "correct_answer": "Occipital lobe",
+    "choices": [
+      "Frontal lobe",
+      "Temporal lobe",
+      "Parietal lobe",
+      "Occipital lobe"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "63f438a1452f32bf912b6bf5d5133b06a53cf76af1d4319abcada4e195110372",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the scientific name for the thigh bone?",
+    "correct_answer": "Femur",
+    "choices": [
+      "Tibia",
+      "Fibula",
+      "Femur",
+      "Patella"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "75a98bc75a462528cd0b029b486c7fd5ab3762c7f52d0b3263b78ff4b59c6a06",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "How many lobes does the human liver have?",
+    "correct_answer": "Four",
+    "choices": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "db8e141b71fc030242381acb3d664056215d98f7577df5f717572afcf8a10f3f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "What is the name of the valve between the stomach and small intestine?",
+    "correct_answer": "Pyloric sphincter",
+    "choices": [
+      "Cardiac sphincter",
+      "Pyloric sphincter",
+      "Ileocecal valve",
+      "Epiglottis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b06169cfac9af4b81f1e211a7c5c9d7ad661751879d3d282e4a21894c44a6792",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Which part of the eye contains photoreceptor cells?",
+    "correct_answer": "Retina",
+    "choices": [
+      "Cornea",
+      "Iris",
+      "Retina",
+      "Lens"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "21a146f90eaaa1b8218a779448b410279b60e6a1b212dcd00f9f5e9f1eba0529",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "hard",
+    "question_text": "What is the name of the fluid that fills the anterior chamber of the eye?",
+    "correct_answer": "Aqueous humor",
+    "choices": [
+      "Vitreous humor",
+      "Aqueous humor",
+      "Tears",
+      "Cerebrospinal fluid"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "139d28b4db72677bc0cfd37ffab20ea05e2e367e9fd83bc6235963e88b00afad",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "Which bones make up the fingers and toes?",
+    "correct_answer": "Phalanges",
+    "choices": [
+      "Metacarpals",
+      "Carpals",
+      "Phalanges",
+      "Tarsals"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "31983705e0d0dc0e02f34b3198127aa71a1d3ad6e9b765e6fa9909f07ead41a5",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the name of the structure that connects muscle to bone?",
+    "correct_answer": "Tendon",
+    "choices": [
+      "Ligament",
+      "Tendon",
+      "Cartilage",
+      "Fascia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9512c5d60c899f2963d903f6a1991ae98bb9f68fab564f79788434280e377f31",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Which organ is responsible for producing most of the body's heat at rest?",
+    "correct_answer": "Liver",
+    "choices": [
+      "Heart",
+      "Brain",
+      "Liver",
+      "Muscles"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "38d9347496a043187cbfad6ea9cec7751259da4357a80a80e03abb0046be5837",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "easy",
+    "question_text": "What is the name of the pigment that gives skin its color?",
+    "correct_answer": "Melanin",
+    "choices": [
+      "Keratin",
+      "Melanin",
+      "Collagen",
+      "Elastin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "33fd7c0c64f3f831141f6a66fafef78d2a125783cef921b079b850bd4d3fd048",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "Which cranial nerve is responsible for the sense of smell?",
+    "correct_answer": "Olfactory nerve",
+    "choices": [
+      "Optic nerve",
+      "Olfactory nerve",
+      "Trigeminal nerve",
+      "Facial nerve"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "23c14681e0e9b2a520cee3a9ed6471f92e869d4a3d921728ec1e4abc5c1c1764",
+    "language": "zh-tw"
+  },
+  {
+    "category": "anatomy",
+    "difficulty": "medium",
+    "question_text": "What is the name of the smallest blood vessels where gas exchange occurs?",
+    "correct_answer": "Capillaries",
+    "choices": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "be953ceecbd2b35cad3779f12d75d75c890eab90fad2ebc7ef47ae58e66ae922",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What is the average resting heart rate for a healthy adult?",
+    "correct_answer": "60 to 100 beats per minute",
+    "choices": [
+      "40 to 60 beats per minute",
+      "60 to 100 beats per minute",
+      "100 to 140 beats per minute",
+      "80 to 120 beats per minute"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f4cabecc6486b8c7165b2f517340bcbd8edc94280401b78c8a0c861642747cf3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "What is the function of the sinoatrial (SA) node?",
+    "correct_answer": "It acts as the heart's natural pacemaker",
+    "choices": [
+      "It pumps blood to the lungs",
+      "It acts as the heart's natural pacemaker",
+      "It filters blood before it enters the heart",
+      "It regulates blood pressure"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "390de133b5aa2c5d3022c8e21fc0222ec42199ca3194522a4095ed7025aa6ecf",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What condition occurs when blood flow to a part of the heart is blocked?",
+    "correct_answer": "Heart attack",
+    "choices": [
+      "Heart attack",
+      "Stroke",
+      "Cardiac arrest",
+      "Heart failure"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c36e6766371889f538eb5ab35357f249c4705785008b4643c910cf3c821a083d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "What is the difference between a heart attack and cardiac arrest?",
+    "correct_answer": "Heart attack is a circulation problem; cardiac arrest is an electrical problem",
+    "choices": [
+      "They are the same condition",
+      "Heart attack is a circulation problem; cardiac arrest is an electrical problem",
+      "Cardiac arrest is less severe",
+      "Heart attack always leads to cardiac arrest"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7dd9d5d7dc118a408d2b5a5cc4601f9ff082a8b44b66b0636c52ce0be8d85e61",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What does an ECG (or EKG) measure?",
+    "correct_answer": "Electrical activity of the heart",
+    "choices": [
+      "Blood pressure",
+      "Electrical activity of the heart",
+      "Blood oxygen levels",
+      "Heart muscle strength"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "716f3eb095b50a9864ffed3af799761a049ff9e304104349c042d40b7465f08b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for an irregular heartbeat?",
+    "correct_answer": "Arrhythmia",
+    "choices": [
+      "Tachycardia",
+      "Bradycardia",
+      "Arrhythmia",
+      "Palpitation"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8509178232d436493fc52720a45e7d4232f7cabab370452f15f4a72422417033",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Which type of cholesterol is considered 'bad' cholesterol?",
+    "correct_answer": "LDL",
+    "choices": [
+      "HDL",
+      "LDL",
+      "Triglycerides",
+      "VLDL"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4e5b061c1aa603394590db76ae6f6c7b7ce2f2175f21311d56dd8c3b6848746d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What is the name of the procedure that uses a balloon to open blocked arteries?",
+    "correct_answer": "Angioplasty",
+    "choices": [
+      "Angioplasty",
+      "Bypass surgery",
+      "Pacemaker insertion",
+      "Valve replacement"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6c20313d4a75a15f7b7a99f7130eebe9f14a9b2eb245a497396ec55588b48384",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What device is surgically implanted to regulate slow heart rhythms?",
+    "correct_answer": "Pacemaker",
+    "choices": [
+      "Defibrillator",
+      "Pacemaker",
+      "Stent",
+      "Catheter"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8a807c24851234a196c411b397d0e10c4590af01142152ef02029a3a6c67b811",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for high blood pressure?",
+    "correct_answer": "Hypertension",
+    "choices": [
+      "Hypotension",
+      "Hypertension",
+      "Tachycardia",
+      "Hyperlipidemia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a7b4ecbf7cb2c215075b292d5c0809809148a3e0beff728715505babd2ceb078",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "Which chamber of the heart pumps blood to the rest of the body?",
+    "correct_answer": "Left ventricle",
+    "choices": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "82fd9387e959367501f57678e2a115589611fd0c27acba403979fde5723d60df",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "What is atherosclerosis?",
+    "correct_answer": "Hardening and narrowing of arteries from plaque buildup",
+    "choices": [
+      "Hardening and narrowing of arteries from plaque buildup",
+      "Inflammation of the heart muscle",
+      "Weakening of vein walls",
+      "Blood clot in the lung"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "aacc6e36b755c6dbdacc0ea641fe80f6a17ee38a268c8c9adaa55942ece3a448",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "What is the purpose of a stent?",
+    "correct_answer": "To keep an artery open",
+    "choices": [
+      "To regulate heart rhythm",
+      "To keep an artery open",
+      "To replace a heart valve",
+      "To monitor blood pressure"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "fcc25e7736c67684435a68a4036edc1efa2b5c94b2fa6e9ab55fdf5f12209740",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "What does 'systolic' blood pressure measure?",
+    "correct_answer": "Pressure when the heart contracts",
+    "choices": [
+      "Pressure when the heart contracts",
+      "Pressure when the heart relaxes",
+      "Average arterial pressure",
+      "Venous pressure"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e8960376e6082231d0e8a95bd76c49f4bbf864d4aed5f78ae49ed3ea72477ae7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "What is the function of the mitral valve?",
+    "correct_answer": "Controls blood flow between the left atrium and left ventricle",
+    "choices": [
+      "Controls blood flow between the left atrium and left ventricle",
+      "Prevents backflow from the aorta",
+      "Controls blood flow to the lungs",
+      "Regulates blood flow to the right ventricle"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "bf5eb309a16bedaccd0cda92fa9187da84e4b9113277f53d7a9ac032ea904695",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What condition causes the heart to be unable to pump blood efficiently?",
+    "correct_answer": "Heart failure",
+    "choices": [
+      "Heart attack",
+      "Heart failure",
+      "Cardiac arrest",
+      "Angina"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ffb79675b55211cd618d30af7327f352c5cd88fc854a78a7bf5fd9b86ba072c3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "hard",
+    "question_text": "What is the normal QRS duration on an ECG?",
+    "correct_answer": "Less than 0.12 seconds",
+    "choices": [
+      "Less than 0.06 seconds",
+      "Less than 0.12 seconds",
+      "Less than 0.20 seconds",
+      "Less than 0.30 seconds"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "23c97d9d44ee5538bf16819d4fdccdb02bb478e70124c5e91519fddcf27857be",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "easy",
+    "question_text": "What does CPR restore when the heart stops?",
+    "correct_answer": "Blood circulation",
+    "choices": [
+      "Blood circulation",
+      "Consciousness",
+      "Breathing only",
+      "Heart rhythm"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1076f80449a4f009ff358f04d23da434532a7513878e7a29104c7ef9c41076c1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "hard",
+    "question_text": "What is the most common type of congenital heart defect?",
+    "correct_answer": "Ventricular septal defect",
+    "choices": [
+      "Tetralogy of Fallot",
+      "Ventricular septal defect",
+      "Coarctation of the aorta",
+      "Patent ductus arteriosus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "90d16270095791ed5826d9e72ae5579437b88488a7510230f461cfb9c9a43aed",
+    "language": "zh-tw"
+  },
+  {
+    "category": "cardiology",
+    "difficulty": "medium",
+    "question_text": "What is the medical term for chest pain caused by reduced blood flow to the heart?",
+    "correct_answer": "Angina pectoris",
+    "choices": [
+      "Myocardial infarction",
+      "Angina pectoris",
+      "Pericarditis",
+      "Costochondritis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5017c22f67d5ca5565ad2c2def89a5f96f0ffadd8d4434728a9d28610feb5e2f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What disease is caused by the deficiency of vitamin C?",
+    "correct_answer": "Scurvy",
+    "choices": [
+      "Rickets",
+      "Scurvy",
+      "Pellagra",
+      "Beriberi"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a24a19bd46139dce24773a263c32e6f332f7a71b0ad38b372bb6277ba3db2495",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Which mosquito-borne disease is caused by Plasmodium parasites?",
+    "correct_answer": "Malaria",
+    "choices": [
+      "Dengue",
+      "Malaria",
+      "Zika",
+      "Yellow fever"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ee6ad60ba9094683554570fc7d9a2de44af97bec123a33b2e946daea612c9a0b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "What autoimmune disease causes the body to attack the myelin sheath of nerves?",
+    "correct_answer": "Multiple sclerosis",
+    "choices": [
+      "ALS",
+      "Multiple sclerosis",
+      "Parkinson's disease",
+      "Myasthenia gravis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b5ca1e920860a28f6003e0b771f3d91e878909f5e930660d8ab860844038e9a2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "What disease, also known as Hansen's disease, has historically carried a severe social stigma?",
+    "correct_answer": "Leprosy",
+    "choices": [
+      "Syphilis",
+      "Leprosy",
+      "Tuberculosis",
+      "Smallpox"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1cc06f6edab57870336f6e9a209494d24f036b5ec1e80c8b7b581483ac89041d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the common name for varicella?",
+    "correct_answer": "Chickenpox",
+    "choices": [
+      "Measles",
+      "Mumps",
+      "Chickenpox",
+      "Rubella"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1c8db7e901cb1419a1dbb858425af3a3aa22f7da9632c98c67a7a526bea6b248",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Which vitamin deficiency causes rickets in children?",
+    "correct_answer": "Vitamin D",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f2b4f80c734b5b66ffbc6a6564aeec6b65bdedd49457b31054288580bf9febdc",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What common condition is known as the 'silent killer' because it often has no symptoms?",
+    "correct_answer": "Hypertension",
+    "choices": [
+      "Hypoglycemia",
+      "Hypertension",
+      "Anemia",
+      "Diabetes"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3b93acb5a91bd618664523da9e33f796636b00671ce477517d6fd7a3b6839df7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which disease, eradicated in 1979, was the first and only human infectious disease to be completely eliminated?",
+    "correct_answer": "Smallpox",
+    "choices": [
+      "Polio",
+      "Smallpox",
+      "Measles",
+      "Plague"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9d6bceeeb6518fe31977a580160aa2cc7afcacbee03b7de5800dc2ea43f55bb1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What type of diabetes is an autoimmune condition typically diagnosed in childhood?",
+    "correct_answer": "Type 1 diabetes",
+    "choices": [
+      "Type 1 diabetes",
+      "Type 2 diabetes",
+      "Gestational diabetes",
+      "Diabetes insipidus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ade3cad6fae03fc410f91155e1df9e10653aac7562b8cd7c7d30b1dbcd8ee607",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for a heart attack?",
+    "correct_answer": "Myocardial infarction",
+    "choices": [
+      "Cardiac arrest",
+      "Myocardial infarction",
+      "Angina pectoris",
+      "Atrial fibrillation"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "33c49d978d77c3908a21cd0d9e52d2e8ed7d80ed98781ca339d6e1b1f54bd094",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which genetic disorder causes the body to produce abnormally thick mucus?",
+    "correct_answer": "Cystic fibrosis",
+    "choices": [
+      "Huntington's disease",
+      "Cystic fibrosis",
+      "Marfan syndrome",
+      "Tay-Sachs disease"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6749454ff925fb7cb5efd02890d628e45db77907479d15db457187d0653cd24e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What disease is caused by the human immunodeficiency virus (HIV)?",
+    "correct_answer": "AIDS",
+    "choices": [
+      "Hepatitis",
+      "AIDS",
+      "Tuberculosis",
+      "Lupus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1949111a9a64735a06bc203279b0903134a2443e0d20da659f6e7d0958e388d0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the most common type of dementia?",
+    "correct_answer": "Alzheimer's disease",
+    "choices": [
+      "Vascular dementia",
+      "Alzheimer's disease",
+      "Lewy body dementia",
+      "Frontotemporal dementia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6d97c791a26637fbe974241ef4568778e69734652f6b328799d0b39d6492b8be",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which tick-borne bacterial illness is named after a town in Connecticut?",
+    "correct_answer": "Lyme disease",
+    "choices": [
+      "Rocky Mountain spotted fever",
+      "Lyme disease",
+      "Ehrlichiosis",
+      "Babesiosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0d53ed51a2f28655b73edcfb0d572c0714debcd2eeb0ad2ac37ce0851170bbf1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the common name for pertussis?",
+    "correct_answer": "Whooping cough",
+    "choices": [
+      "Croup",
+      "Whooping cough",
+      "Bronchitis",
+      "Diphtheria"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "fed34d16d52729e6c3635f5106b4607467d496eebe7225ea71e8f289f9113f16",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which deficiency disease is caused by a lack of niacin (vitamin B3)?",
+    "correct_answer": "Pellagra",
+    "choices": [
+      "Scurvy",
+      "Beriberi",
+      "Pellagra",
+      "Rickets"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "936c886898e5698dddf7653a57b54da33cccc1c58fd2d1e8dd6de6bd2322ee09",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "What chronic inflammatory bowel disease primarily affects the lining of the digestive tract?",
+    "correct_answer": "Crohn's disease",
+    "choices": [
+      "Ulcerative colitis",
+      "Crohn's disease",
+      "Irritable bowel syndrome",
+      "Diverticulitis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "673492c3fc5fa6b211a93343c8619c9210e0f0f2aafb04f51d422a998e66a9a0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for a stroke?",
+    "correct_answer": "Cerebrovascular accident",
+    "choices": [
+      "Myocardial infarction",
+      "Cerebrovascular accident",
+      "Transient ischemic attack",
+      "Aneurysm"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c9147214322265652e848b4461743093129656ff1443219943c1aace0d72a7f7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which viral disease is nicknamed 'breakbone fever' due to severe joint and muscle pain?",
+    "correct_answer": "Dengue fever",
+    "choices": [
+      "Chikungunya",
+      "Dengue fever",
+      "Yellow fever",
+      "Zika"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "07ce2d54a4fe51cff0056387c29493734cc09fbe180d14e990a6269e661d2bb6",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What disease results from the uncontrolled growth of abnormal cells in the body?",
+    "correct_answer": "Cancer",
+    "choices": [
+      "Cancer",
+      "Autoimmune disease",
+      "Infection",
+      "Inflammation"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f8839a35ab5cce75586428dfa23621304e481df44138d7a883e7965eb7a671b9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What condition is characterized by dangerously high body temperature from prolonged exposure to heat?",
+    "correct_answer": "Heat stroke",
+    "choices": [
+      "Hypothermia",
+      "Heat stroke",
+      "Frostbite",
+      "Dehydration"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6920b7071030927fd208fbdac1321cecac58c5a95cded3691ef21732b902ac93",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which rare genetic disorder causes rapid aging in children?",
+    "correct_answer": "Progeria",
+    "choices": [
+      "Progeria",
+      "Werner syndrome",
+      "Down syndrome",
+      "Turner syndrome"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d1129f061ed306494bb02b7664f848c2a1273e58e4eb65ae5bb63f8646da08b2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What bacterial infection is characterized by a bulls-eye rash?",
+    "correct_answer": "Lyme disease",
+    "choices": [
+      "Ringworm",
+      "Lyme disease",
+      "Impetigo",
+      "Cellulitis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3362c9af07cb6742b1211f986b7c813b0b549c752434cbcf0dce29e79b814293",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "What is the medical term for 'farsightedness'?",
+    "correct_answer": "Hyperopia",
+    "choices": [
+      "Myopia",
+      "Presbyopia",
+      "Hyperopia",
+      "Astigmatism"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "bee64141de6718307b70eb345bda5c3f8740dde01e02a5e817939faf731fbdf1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Which disease was known as 'consumption' in the 19th century?",
+    "correct_answer": "Tuberculosis",
+    "choices": [
+      "Pneumonia",
+      "Tuberculosis",
+      "Influenza",
+      "Malaria"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3fd36c666352edcf15b166d6226d4be23a028ef4d6e12096f5e48991d3815223",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "What autoimmune condition causes the thyroid gland to become overactive?",
+    "correct_answer": "Graves' disease",
+    "choices": [
+      "Hashimoto's thyroiditis",
+      "Graves' disease",
+      "Cushing's syndrome",
+      "Addison's disease"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "461344f39022ec61c740f1792adbb5ede0a32daca5e0f55ae4e7c5883c982487",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "hard",
+    "question_text": "What disease is caused by the deficiency of vitamin B1 (thiamine)?",
+    "correct_answer": "Beriberi",
+    "choices": [
+      "Scurvy",
+      "Pellagra",
+      "Beriberi",
+      "Rickets"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "93d029e3db6f7f6c578c1179bd3364588af586415bf74714d01cc87aa61aec4c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the common name for rubella?",
+    "correct_answer": "German measles",
+    "choices": [
+      "Measles",
+      "German measles",
+      "Roseola",
+      "Scarlet fever"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b6063858b7421776b414e95780da5e1699f45590409f1197154ab3afd5365289",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which parasitic infection is caused by Toxoplasma gondii?",
+    "correct_answer": "Toxoplasmosis",
+    "choices": [
+      "Giardiasis",
+      "Toxoplasmosis",
+      "Trichinosis",
+      "Cryptosporidiosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f69a7b1b89fd4849f0303569cc212ac4201241235a8d97a816e620a93697176b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the most common form of arthritis?",
+    "correct_answer": "Osteoarthritis",
+    "choices": [
+      "Rheumatoid arthritis",
+      "Gout",
+      "Osteoarthritis",
+      "Psoriatic arthritis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3c6914c1f8da1dd0b0d9f9a959e1e38c1fc254ebedf366e8524f6c4d8fb2ed59",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which disease is caused by the reactivation of the varicella-zoster virus?",
+    "correct_answer": "Shingles",
+    "choices": [
+      "Measles",
+      "Shingles",
+      "Roseola",
+      "Chickenpox"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c9071e1029362c7cce0c59b680e8c969a6e6d0a38031f152bf9efbeb182847a0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "hard",
+    "question_text": "What condition, characterized by the 'three Ds', is caused by severe niacin deficiency?",
+    "correct_answer": "Pellagra",
+    "choices": [
+      "Scurvy",
+      "Beriberi",
+      "Pellagra",
+      "Kwashiorkor"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2db3e60f6661e8da126b7b82f06fd52e6736e1ce1c3564d49d7740cb60f03ea3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which disease is caused by a prion and affects the brain?",
+    "correct_answer": "Creutzfeldt-Jakob disease",
+    "choices": [
+      "Alzheimer's disease",
+      "Creutzfeldt-Jakob disease",
+      "ALS",
+      "Huntington's disease"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a03769191903fe4b9b7063e523673e0aaf5437556de9d1a40b359e9d72b24d3f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for low blood sugar?",
+    "correct_answer": "Hypoglycemia",
+    "choices": [
+      "Hyperglycemia",
+      "Hypoglycemia",
+      "Hypotension",
+      "Hypothyroidism"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5bf3ec83f931d374f0228005efb7cb7af363537c69ec78376e556dca01cc56ee",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "What disease is characterized by a 'butterfly rash' across the cheeks?",
+    "correct_answer": "Lupus",
+    "choices": [
+      "Rosacea",
+      "Lupus",
+      "Eczema",
+      "Psoriasis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3770b8ed45bcf6d74309f030a1fd54a1a2ff691bac03ab1f8e54d8874f186120",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "Which bacterial disease was responsible for the Black Death in the 14th century?",
+    "correct_answer": "Plague",
+    "choices": [
+      "Smallpox",
+      "Cholera",
+      "Plague",
+      "Typhus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4c8d91ae084a36adfcd5a0cfd7f643698d5203bfe9ba25f414f7cd7d21b98069",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What inherited blood disorder causes abnormally shaped red blood cells?",
+    "correct_answer": "Sickle cell disease",
+    "choices": [
+      "Hemophilia",
+      "Sickle cell disease",
+      "Thalassemia",
+      "Anemia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1e84afd86b9446db25111fc53f28a81832f741123449d2a7bc8195156135c5fc",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "What is the common name for infectious mononucleosis?",
+    "correct_answer": "Mono",
+    "choices": [
+      "Strep throat",
+      "Mono",
+      "Tonsillitis",
+      "Pharyngitis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c7e664bd8eee3e8d462d1ed89967b444748792fef13c8d7f03413d907675f58d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "medium",
+    "question_text": "Which disease causes the gradual destruction of motor neurons?",
+    "correct_answer": "ALS",
+    "choices": [
+      "Multiple sclerosis",
+      "ALS",
+      "Parkinson's disease",
+      "Muscular dystrophy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4180a811ff189fbbca29d248f64c9cbd7efb9f6eecb18b694e57fead4bb8a312",
+    "language": "zh-tw"
+  },
+  {
+    "category": "diseases",
+    "difficulty": "easy",
+    "question_text": "What childhood disease is caused by vitamin D deficiency?",
+    "correct_answer": "Rickets",
+    "choices": [
+      "Scurvy",
+      "Rickets",
+      "Kwashiorkor",
+      "Marasmus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "34e4ec6567c8cea4af69bbb72467da7e0a95b6204c13845048038aa9dae390e2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What does CPR stand for?",
+    "correct_answer": "Cardiopulmonary resuscitation",
+    "choices": [
+      "Cardiac primary response",
+      "Cardiopulmonary resuscitation",
+      "Critical patient recovery",
+      "Continuous pulse restoration"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e79a8c3b6eeb50b5dc339ec4c089fa5f0c39ac294ade87272f4c9f76c3c63f81",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What is the recommended ratio of chest compressions to rescue breaths in adult CPR?",
+    "correct_answer": "30 to 2",
+    "choices": [
+      "15 to 2",
+      "30 to 2",
+      "10 to 1",
+      "20 to 4"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "eb654520808943ecfa8ccecb8c2939c30df52e77998287c88f84ee0012b08608",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What does the abbreviation AED stand for?",
+    "correct_answer": "Automated external defibrillator",
+    "choices": [
+      "Automated external defibrillator",
+      "Automatic emergency device",
+      "Advanced electrical defibrillator",
+      "Ambulatory emergency detector"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7e06a428d9cc9170e8bdd9603647c7106d64f0fdae34c826333260e732314bc5",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What is the first step when encountering an unconscious person?",
+    "correct_answer": "Check for responsiveness",
+    "choices": [
+      "Start CPR",
+      "Call 911",
+      "Check for responsiveness",
+      "Open the airway"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3574e7aae5d44b3576a0c4fafdf4c6ea8736945028ef5c65e66e8929235d8823",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What is the Heimlich maneuver used for?",
+    "correct_answer": "Choking",
+    "choices": [
+      "Drowning",
+      "Choking",
+      "Heart attack",
+      "Seizure"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8f4bdbc4c862dcc692b7b89a86937490217a7fc23d4b05bb438b7db8cd3e443a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "How long should you wash your hands to effectively remove germs?",
+    "correct_answer": "At least 20 seconds",
+    "choices": [
+      "At least 10 seconds",
+      "At least 20 seconds",
+      "At least 30 seconds",
+      "At least 60 seconds"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9218549287201edc633729f2ec3f9ddeaad801ef15d64559ccff4b3b70070d69",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "What does the 'P' stand for in the RICE method for treating sprains?",
+    "correct_answer": "Protection",
+    "choices": [
+      "Pressure",
+      "Protection",
+      "Pain relief",
+      "Positioning"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1964376549ec9af50be281a57e2537b9a0f5162740f472950b0b63662e6ded19",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What is the universal sign of choking?",
+    "correct_answer": "Hands clutching the throat",
+    "choices": [
+      "Waving arms",
+      "Hands clutching the throat",
+      "Pointing to the mouth",
+      "Falling to the ground"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "76bf2ffd64714bb0a184c5bedb87810965addbf614b1cf54f5e4c9f18e851e76",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "In first aid, what does ABC stand for?",
+    "correct_answer": "Airway, Breathing, Circulation",
+    "choices": [
+      "Airway, Breathing, Circulation",
+      "Alert, Bleeding, Compressions",
+      "Assess, Bandage, Call",
+      "Airway, Bleeding, Consciousness"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "203b5364a9ec018a5095fdb49f391fda7397db6350afdafa1490b749bf4d7e0c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What should you do first for a severe bleeding wound?",
+    "correct_answer": "Apply direct pressure",
+    "choices": [
+      "Apply a tourniquet",
+      "Apply direct pressure",
+      "Elevate the wound",
+      "Clean the wound"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ecfe089de32f32e70422d75b354e44d9fd4fb44b787989c3b596b2c79bb0b4d3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "What position should a conscious person experiencing a heart attack be placed in?",
+    "correct_answer": "Semi-sitting position",
+    "choices": [
+      "Lying flat",
+      "Semi-sitting position",
+      "Recovery position",
+      "Standing upright"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3ff9d9812f93b4f206bb438234f1b20da61b5c525f103d6dd09bb319291d8006",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What is the recovery position used for?",
+    "correct_answer": "Keeping an unconscious breathing person's airway clear",
+    "choices": [
+      "Treating a heart attack",
+      "Keeping an unconscious breathing person's airway clear",
+      "Reducing fever",
+      "Immobilizing a fracture"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "065997be4279424fa5d5744a761d71f7f2370891989166eba86af2fe37448a96",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "How should you treat a burn immediately after it occurs?",
+    "correct_answer": "Cool under running water for at least 10 minutes",
+    "choices": [
+      "Apply ice directly",
+      "Cool under running water for at least 10 minutes",
+      "Apply butter or oil",
+      "Pop any blisters"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a9939b0428e5e1a56c6416bfd1d8601a52f356735697e23c2d531dedfcefc3f0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "What is anaphylaxis?",
+    "correct_answer": "A severe, life-threatening allergic reaction",
+    "choices": [
+      "A severe, life-threatening allergic reaction",
+      "A type of heart attack",
+      "A breathing emergency caused by asthma",
+      "A diabetic emergency"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b0c9f2001f68e279486d4ba69096c046b259f01beff3b3a3adf890c5c84c3df7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What does FAST stand for in stroke recognition?",
+    "correct_answer": "Face, Arms, Speech, Time",
+    "choices": [
+      "Face, Arms, Speech, Time",
+      "Fast Action Saves Time",
+      "Fever, Agitation, Speech, Tremors",
+      "Face, Abdomen, Skin, Time"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "de96a6da31ef78b0be92d6202c9b7b88247a7adc9b50dd2cd52a5f75c42566c4",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "How deep should chest compressions be for an adult during CPR?",
+    "correct_answer": "At least 2 inches (5 cm)",
+    "choices": [
+      "At least 1 inch (2.5 cm)",
+      "At least 2 inches (5 cm)",
+      "At least 3 inches (7.5 cm)",
+      "At least 4 inches (10 cm)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6573a24d73dde01f18364c9fa76922c2d167b762f2d0859bd9911d9a274fb96a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What type of bandage should be used for a sprained ankle?",
+    "correct_answer": "Elastic bandage",
+    "choices": [
+      "Gauze bandage",
+      "Elastic bandage",
+      "Adhesive bandage",
+      "Triangular bandage"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "26dbb7746e9e60156ffab838ad94e8d111fb8781c71f005fa73a7193c8cd144e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What should you do if someone is having a seizure?",
+    "correct_answer": "Clear the area and protect their head",
+    "choices": [
+      "Restrain them",
+      "Put something in their mouth",
+      "Clear the area and protect their head",
+      "Pour water on their face"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ceec727decb56255a8b9aad011a2b985b8c07d1a3499936b77f367a961215b86",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "What is the most common cause of airway obstruction in an unconscious person?",
+    "correct_answer": "The tongue",
+    "choices": [
+      "The tongue",
+      "Food",
+      "Vomit",
+      "Swelling"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "afadd119550a752d8373cf03fa058bff7efe2d47449848b0c4c5b2ea019f8eaf",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What does the emergency number 911 represent in terms of the first aid response chain?",
+    "correct_answer": "Activating emergency medical services",
+    "choices": [
+      "Performing CPR",
+      "Activating emergency medical services",
+      "Administering first aid",
+      "Beginning the recovery process"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "04f3cc7ce09f1aa035ba9482851f5022809570b0278bcd7ba9f1927a494af3a3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "When should a tourniquet be used?",
+    "correct_answer": "When direct pressure fails to stop severe bleeding from a limb",
+    "choices": [
+      "For any bleeding wound",
+      "When direct pressure fails to stop severe bleeding from a limb",
+      "Only for snake bites",
+      "For all head wounds"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f3191a53ad6f9193617b9a198a1210fda1f8a6c8f5e08a2651448ac4991661ad",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "What should you give a conscious person with low blood sugar (hypoglycemia)?",
+    "correct_answer": "A sugary drink or glucose tablets",
+    "choices": [
+      "Insulin injection",
+      "A sugary drink or glucose tablets",
+      "Plain water",
+      "Salty snacks"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c5a90e98772b74d688ae63a866fcf7e654b73d15fa6ce2c816448144a1247cc4",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "How should a nosebleed be managed?",
+    "correct_answer": "Lean forward and pinch the soft part of the nose",
+    "choices": [
+      "Tilt the head back",
+      "Lean forward and pinch the soft part of the nose",
+      "Pack the nostril with cotton",
+      "Apply ice to the back of the neck"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "92640ece7ed9002bd6e0407b01addc60a29c78477fd2fc2072fd6cd57b552030",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "easy",
+    "question_text": "What is the correct rate of chest compressions per minute during CPR?",
+    "correct_answer": "100 to 120",
+    "choices": [
+      "60 to 80",
+      "80 to 100",
+      "100 to 120",
+      "120 to 140"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0e4ba2342973251a235d055fc7d0f55eb321e1eca66352e6fb9071b804315eed",
+    "language": "zh-tw"
+  },
+  {
+    "category": "first-aid",
+    "difficulty": "medium",
+    "question_text": "What should you do if a person is impaled by an object?",
+    "correct_answer": "Stabilize the object and do not remove it",
+    "choices": [
+      "Remove the object immediately",
+      "Stabilize the object and do not remove it",
+      "Push the object through",
+      "Cut the object flush with the skin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "58a48495d42be01ec562d5fef9a0c44794fdc0caf6bb20fd7b77dacf44078116",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "What type of pathogen causes malaria?",
+    "correct_answer": "Parasite",
+    "choices": [
+      "Virus",
+      "Bacteria",
+      "Parasite",
+      "Fungus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "faa64be089fa9ba9d661da3a4e4fc18105067161c5f2f52a58ebe093ea5ef396",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "What is the causative agent of tuberculosis?",
+    "correct_answer": "Mycobacterium tuberculosis",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis",
+      "Staphylococcus aureus",
+      "Escherichia coli"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ae000cd473d178c8e4c33fe87d1e69cbfa92b4460b7b1cf86aca4a3c94d97186",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "What does HIV attack in the human immune system?",
+    "correct_answer": "CD4 T cells",
+    "choices": [
+      "Red blood cells",
+      "B cells",
+      "CD4 T cells",
+      "Platelets"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5b71be03e4cac65d8122ae9d87a602092bcafaaab264edd85c22660565d0c7c8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What is the most common bacterial sexually transmitted infection worldwide?",
+    "correct_answer": "Chlamydia",
+    "choices": [
+      "Gonorrhea",
+      "Chlamydia",
+      "Syphilis",
+      "Herpes"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6b378a7fba2f9b360fc42435f43ae2059d6da06e76fb6e8148b197414410ab4a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Which virus causes COVID-19?",
+    "correct_answer": "SARS-CoV-2",
+    "choices": [
+      "H1N1",
+      "SARS-CoV-2",
+      "MERS-CoV",
+      "Rhinovirus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3a5e67699d3237b5f8c531e75d86fb1c11519bb4e004f1a2bd6a9b61f85622e7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "What was the primary vector for the Black Death?",
+    "correct_answer": "Fleas on rats",
+    "choices": [
+      "Mosquitoes",
+      "Fleas on rats",
+      "Ticks",
+      "Contaminated water"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a59f15936ec6a97de7aad5e9ca76e92042a933f1ca03bea34e4ab1062a3539bd",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "What type of pathogen causes athlete's foot?",
+    "correct_answer": "Fungus",
+    "choices": [
+      "Bacteria",
+      "Virus",
+      "Parasite",
+      "Fungus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "35ec58ecb3ee94a9ba026eafe8bd95a27a2af60a2281f1959f102c98ec301fc5",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What is the bacterial cause of strep throat?",
+    "correct_answer": "Group A Streptococcus",
+    "choices": [
+      "Staphylococcus aureus",
+      "Group A Streptococcus",
+      "Haemophilus influenzae",
+      "Mycoplasma pneumoniae"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "aa3da5c61d82bc72bcb848a43998a07959a12c22b7f863c08a3a5b7b52f59549",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "Which virus is responsible for the common cold most frequently?",
+    "correct_answer": "Rhinovirus",
+    "choices": [
+      "Influenza virus",
+      "Rhinovirus",
+      "Coronavirus",
+      "Adenovirus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4f867e24b0365f8aa0a55cadea9a3f3d21b5e82696600e800f201e08f99071fe",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What is the fatality rate of untreated rabies?",
+    "correct_answer": "Nearly 100%",
+    "choices": [
+      "About 50%",
+      "About 75%",
+      "Nearly 100%",
+      "About 90%"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1808ea79bab4923a5c2a1ef47bac52779b45bf65409f44cb40b28b32ff2fe801",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "easy",
+    "question_text": "What disease is caused by the Zika virus primarily transmitted by?",
+    "correct_answer": "Mosquitoes",
+    "choices": [
+      "Ticks",
+      "Mosquitoes",
+      "Fleas",
+      "Bats"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "567de90a01cbe60be0c3344dc3cfc0b1534c0790ebceaa8098d870516d8a55fe",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "hard",
+    "question_text": "What is the incubation period for rabies in humans typically?",
+    "correct_answer": "1 to 3 months",
+    "choices": [
+      "1 to 3 days",
+      "1 to 3 weeks",
+      "1 to 3 months",
+      "1 to 3 years"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6a609014e8a65ca54cbed7ea632866d3b4d14f077c17f51669bdf8036d8874dd",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Which bacterium causes tetanus?",
+    "correct_answer": "Clostridium tetani",
+    "choices": [
+      "Clostridium botulinum",
+      "Clostridium tetani",
+      "Clostridium difficile",
+      "Clostridium perfringens"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "bd4233a057c179c97e711c4ebd324cdfef78995a74e79e3deff04e26c0a44019",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What disease, transmitted by the tsetse fly, causes sleeping sickness?",
+    "correct_answer": "African trypanosomiasis",
+    "choices": [
+      "Malaria",
+      "African trypanosomiasis",
+      "Dengue fever",
+      "Yellow fever"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "dc4969527742484ed6a0b1e962621eb6bb50967673a0cd55c1e5d346c2296dc2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What is the most common cause of traveler's diarrhea?",
+    "correct_answer": "Enterotoxigenic E. coli",
+    "choices": [
+      "Salmonella",
+      "Enterotoxigenic E. coli",
+      "Shigella",
+      "Campylobacter"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "249d54eab49c9d76daa575fcbd42bcf390091869413d180b29d81f47fd622dda",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What is the leading infectious cause of blindness worldwide?",
+    "correct_answer": "Trachoma",
+    "choices": [
+      "Trachoma",
+      "Onchocerciasis",
+      "Herpes simplex",
+      "Ocular toxoplasmosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "851670465a713475ea482d142548ed457bf489d9ef2793b037ba4b04347bf2ea",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "hard",
+    "question_text": "What is the R0 (basic reproduction number) of measles?",
+    "correct_answer": "12 to 18",
+    "choices": [
+      "2 to 3",
+      "5 to 7",
+      "12 to 18",
+      "1 to 2"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1368ccad51579d631886672aa1c1ca5df2ad201d492add7ce13b300273287afd",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "Which disease does Helicobacter pylori primarily cause?",
+    "correct_answer": "Stomach ulcers",
+    "choices": [
+      "Stomach ulcers",
+      "Pneumonia",
+      "Meningitis",
+      "Urinary tract infections"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "231365e5ad202d5fab0a5b23d25cb83f2131627c02995e0029a110c0b056a8b6",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What is the name of the fungal infection caused by Candida species?",
+    "correct_answer": "Candidiasis",
+    "choices": [
+      "Aspergillosis",
+      "Candidiasis",
+      "Cryptococcosis",
+      "Histoplasmosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c17183de9d9e421cf00e191d14f5096430dab14ab105ebd7276b2bf426a1a25f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "infectious-diseases",
+    "difficulty": "medium",
+    "question_text": "What is the world's deadliest infectious disease by annual deaths?",
+    "correct_answer": "Tuberculosis",
+    "choices": [
+      "Malaria",
+      "HIV/AIDS",
+      "Tuberculosis",
+      "Influenza"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e64a1e8ed86f710bed1d5de9c88f841eaea9cae5df200e5bd8dded7ad8287acd",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Who is considered the father of modern medicine?",
+    "correct_answer": "Hippocrates",
+    "choices": [
+      "Galen",
+      "Hippocrates",
+      "Avicenna",
+      "Paracelsus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ae463fb40219353f5f15f3419bf3de2995ef2fc0a7972a2c15fdc4434640ae87",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "What oath do new physicians traditionally take?",
+    "correct_answer": "Hippocratic Oath",
+    "choices": [
+      "Nightingale Pledge",
+      "Hippocratic Oath",
+      "Geneva Declaration",
+      "Apollo's Vow"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8ffa9dc0ebce6c6f3afa23bfb8e8ac067f2c77e0f50966f396cf9ae1a705fd23",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Who discovered penicillin in 1928?",
+    "correct_answer": "Alexander Fleming",
+    "choices": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Joseph Lister",
+      "Robert Koch"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5aae32b6b4a87a65e942af478502a186ee3a3b09a91499735e56912aee7009d8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Which nurse is famous for founding modern nursing and the polar area chart?",
+    "correct_answer": "Florence Nightingale",
+    "choices": [
+      "Clara Barton",
+      "Florence Nightingale",
+      "Mary Seacole",
+      "Dorothea Dix"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cf07ca70286418277d1dc0764e6d712e9ca369544d50f1da9e39d11d433eea8a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "Who developed the first successful polio vaccine?",
+    "correct_answer": "Jonas Salk",
+    "choices": [
+      "Albert Sabin",
+      "Jonas Salk",
+      "Louis Pasteur",
+      "Edward Jenner"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c88296faa5a1a88bc39d4cb0c3f2ae1bef670ec3242f5207904667307f4ba45c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "What did Edward Jenner develop in 1796 by using cowpox material?",
+    "correct_answer": "Smallpox vaccine",
+    "choices": [
+      "Rabies vaccine",
+      "Smallpox vaccine",
+      "Polio vaccine",
+      "Tetanus vaccine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "80044743a41e7d0c435bbf1145b8d2cd638219ec26eafa0822428e5b0babfb85",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Which ancient Greek physician wrote extensively on anatomy and influenced medicine for over 1,300 years?",
+    "correct_answer": "Galen",
+    "choices": [
+      "Hippocrates",
+      "Galen",
+      "Aristotle",
+      "Plato"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d1b61b6d66af408fde3cbdc9be5d4bd7362a7a4e173fe26147a72daa21dd6b34",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "What was the first human organ to be successfully transplanted?",
+    "correct_answer": "Kidney",
+    "choices": [
+      "Heart",
+      "Kidney",
+      "Liver",
+      "Cornea"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a910c5992c37366c280f419f4effca98e7b589ae9025e5f4ab226adcd8abe4f0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Who performed the first successful human heart transplant in 1967?",
+    "correct_answer": "Christiaan Barnard",
+    "choices": [
+      "Christiaan Barnard",
+      "Michael DeBakey",
+      "Norman Shumway",
+      "Denton Cooley"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d4195e3d8f7b18c6d39025fd4804dd5397c7c382e8e02cf46f4a02bdb0747f18",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "What 19th century discovery by John Snow helped stop a London cholera outbreak?",
+    "correct_answer": "Contaminated water pump",
+    "choices": [
+      "Antiseptic surgery",
+      "Contaminated water pump",
+      "Vaccination",
+      "Quarantine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "06626d8bfd04b199c408e72d73a6c5658029fc2ddf985975f2281093855fd264",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Who identified the bacterium that causes tuberculosis?",
+    "correct_answer": "Robert Koch",
+    "choices": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ea5b4b0e0831e224c940d88fea21c6a6d1a36d03698a58bb9f5220de2b76c0e3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "What did Wilhelm Roentgen discover in 1895?",
+    "correct_answer": "X-rays",
+    "choices": [
+      "X-rays",
+      "Ultrasound",
+      "MRI",
+      "CT scan"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "af700a20e498192caf41012b32c59564382e7241430404b0af6125832bbe3811",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Which civilization is credited with the earliest known medical texts, including the Edwin Smith Papyrus?",
+    "correct_answer": "Ancient Egypt",
+    "choices": [
+      "Ancient Greece",
+      "Ancient Egypt",
+      "Ancient China",
+      "Ancient India"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ec2e28c41bbb55655a2f3dd64182233ae25a69ebc389db4d70dd8b769f2a829a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "Who is credited with developing the CT scanner?",
+    "correct_answer": "Godfrey Hounsfield",
+    "choices": [
+      "Raymond Damadian",
+      "Godfrey Hounsfield",
+      "Paul Lauterbur",
+      "William Oldendorf"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0e470a5b77e2986820c9ddec298d33407b41666520a70336cd4892ffa5e3a029",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "What pandemic killed an estimated 50 million people worldwide in 1918-1919?",
+    "correct_answer": "Spanish flu",
+    "choices": [
+      "Bubonic plague",
+      "Spanish flu",
+      "Asian flu",
+      "Hong Kong flu"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "13ae6617e401071fbe8def45216cf799f126bf1e1731121e2180d01d33462132",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "Who discovered the ABO blood group system in 1901?",
+    "correct_answer": "Karl Landsteiner",
+    "choices": [
+      "Karl Landsteiner",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Paul Ehrlich"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4c50856c439acee17773de187e303591d147563c2fc466c8168c1a68e129d9c8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "What did Joseph Lister pioneer in surgery?",
+    "correct_answer": "Antiseptic technique",
+    "choices": [
+      "Anesthesia",
+      "Antiseptic technique",
+      "Organ transplantation",
+      "Blood transfusion"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "534108df8639e9d322b4f3a2ad8372a41c6efe9e55b7e351f686ddc3e4e65a01",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Which Persian physician wrote 'The Canon of Medicine,' a standard medical text for centuries?",
+    "correct_answer": "Avicenna",
+    "choices": [
+      "Galen",
+      "Avicenna",
+      "Rhazes",
+      "Maimonides"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "fc5b8a9ed9d93eed4aa88943be3a829ccde410147f769fa9059060bf6a43387c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "What was the first disease shown to be caused by a virus?",
+    "correct_answer": "Tobacco mosaic disease",
+    "choices": [
+      "Rabies",
+      "Smallpox",
+      "Tobacco mosaic disease",
+      "Polio"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c181670f991be4f50004f232dd28875a87423b02f382dc7adf7f68c236bdfe8e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Who developed the first successful oral contraceptive pill?",
+    "correct_answer": "Gregory Pincus",
+    "choices": [
+      "Gregory Pincus",
+      "Carl Djerassi",
+      "John Rock",
+      "Margaret Sanger"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6a87f1434c51d6640be6f0b5ba14087ef4205bc6e8ed069d6431065e8da6134b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "easy",
+    "question_text": "What ancient medical practice involved drilling holes into the skull?",
+    "correct_answer": "Trepanation",
+    "choices": [
+      "Lobotomy",
+      "Trepanation",
+      "Craniotomy",
+      "Phrenology"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "fd6de80a5f2aebe445814960688b030f4851b4ac9d16ee3d06745baccab66a34",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Who discovered insulin in 1921 alongside Charles Best?",
+    "correct_answer": "Frederick Banting",
+    "choices": [
+      "Frederick Banting",
+      "Alexander Fleming",
+      "Jonas Salk",
+      "Paul Langerhans"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d35039696a1ff2022d09352dc0c47b8c1485dbd7eb8b4f9b6c0a65b6346c52e4",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "What medical imaging technique was first developed by Raymond Damadian in 1977?",
+    "correct_answer": "MRI",
+    "choices": [
+      "CT scan",
+      "MRI",
+      "Ultrasound",
+      "PET scan"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8e4be1b9ced77af2ef50e9499ddfdd93df1d1c5ef906da511b7c59fc096fd26f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Which 19th-century doctor first demonstrated that hand washing reduces infection?",
+    "correct_answer": "Ignaz Semmelweis",
+    "choices": [
+      "Ignaz Semmelweis",
+      "Joseph Lister",
+      "Louis Pasteur",
+      "John Snow"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "57df1d4c13444c39f96ebffda14d9bd000eb4c05f5b5839e7dcf97cfebcfde74",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "What infectious disease was the first to be described in detail by Hippocrates?",
+    "correct_answer": "Tuberculosis",
+    "choices": [
+      "Malaria",
+      "Tuberculosis",
+      "Leprosy",
+      "Plague"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "30c53ebebad90da4ad5f84ffa1b09b49c92bb2c994222f68aed35e9285d2840a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Who is credited with the first description of blood circulation in 1628?",
+    "correct_answer": "William Harvey",
+    "choices": [
+      "Galen",
+      "William Harvey",
+      "Andreas Vesalius",
+      "Marcello Malpighi"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "afd9586702b3b4e01635115d943bd1e25d6260b8dd1a61a844e0cf8bb1cdb614",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first test-tube baby born in 1978?",
+    "correct_answer": "Louise Brown",
+    "choices": [
+      "Louise Brown",
+      "Elizabeth Carr",
+      "Victoria Parker",
+      "Emily Miller"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "332e315b5930ed9cb8f4ac9b48705416c8fe3082b67ff710d81fe770487cbc7d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Who developed the first rabies vaccine?",
+    "correct_answer": "Louis Pasteur",
+    "choices": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Jonas Salk"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "fa9764de765c598170f4ba8f4f2aabb5ba6acc77f6e75e1f6b12e1ae21e53c24",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "hard",
+    "question_text": "What was the name of the first chemotherapy drug, discovered from mustard gas research?",
+    "correct_answer": "Nitrogen mustard",
+    "choices": [
+      "Methotrexate",
+      "Nitrogen mustard",
+      "Cisplatin",
+      "Doxorubicin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f0434d099347a329b237c50c010379853b6132e2e1c05e3791d27ea29ee2d7cb",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-history",
+    "difficulty": "medium",
+    "question_text": "Which civilization developed the first known system of public health and sanitation, including sewers?",
+    "correct_answer": "Ancient Rome",
+    "choices": [
+      "Ancient Greece",
+      "Ancient Rome",
+      "Ancient Egypt",
+      "Ancient India"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0a663e65671b19865575d7c3074a391a1d617cf68acd0a6c0a80ca53739b5b35",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the medical term 'tachycardia' mean?",
+    "correct_answer": "Fast heart rate",
+    "choices": [
+      "Slow heart rate",
+      "Fast heart rate",
+      "Irregular heart beat",
+      "Normal heart rate"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cab92830d89c74e9a73bfb0d6cad9d1c611532cb2c29496ff08afa5495e0d466",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'brady-' mean in medical terminology?",
+    "correct_answer": "Slow",
+    "choices": [
+      "Fast",
+      "Slow",
+      "Large",
+      "Small"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "984c112e4c8dfbe4e46583a99fad77bbd788bd4a1469da103d281c146fec61ae",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the medical term 'hematuria' refer to?",
+    "correct_answer": "Blood in the urine",
+    "choices": [
+      "Blood in the stool",
+      "Blood in the urine",
+      "Blood in the vomit",
+      "Blood in the sputum"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "16de4ec11e75401d5720b71aeaea5e1a68acd24e07b4b3ecbc61c212e3cef360",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the suffix '-itis' mean in medical terminology?",
+    "correct_answer": "Inflammation",
+    "choices": [
+      "Inflammation",
+      "Removal",
+      "Disease",
+      "Pain"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0c0e862d3caa8377d288b90c97f2255bc2059db927329bce8556ea4946740075",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'osteo-' refer to?",
+    "correct_answer": "Bone",
+    "choices": [
+      "Muscle",
+      "Bone",
+      "Joint",
+      "Nerve"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "714526befe9f28a87ba6d31dab5d06937e1121bf133ae79efefda0d1656cda12",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What is 'dyspnea'?",
+    "correct_answer": "Difficulty breathing",
+    "choices": [
+      "Chest pain",
+      "Difficulty breathing",
+      "Difficulty swallowing",
+      "Difficulty speaking"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a7b8de9560f02d983f4209715fe77ec87ee440f0429c1748abfa401b14694198",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'cardio-' refer to?",
+    "correct_answer": "Heart",
+    "choices": [
+      "Lungs",
+      "Heart",
+      "Blood",
+      "Brain"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7ba256062fe6a967f7030300af22d705d0da05e195fd780185cf5d62fecba448",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the medical term 'idiopathic' mean?",
+    "correct_answer": "Of unknown cause",
+    "choices": [
+      "Genetic",
+      "Of unknown cause",
+      "Infectious",
+      "Autoimmune"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "41699f55937d2b52e24768f1cbf2dd4564f2fe650e1de3a8925260db67a74f21",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'neuro-' refer to?",
+    "correct_answer": "Nerves or nervous system",
+    "choices": [
+      "Heart",
+      "Nerves or nervous system",
+      "Muscles",
+      "Bones"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1065e48209e5aaa59479e0d107b6a16a1b8a5834e222e011406d073442b64655",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does 'edema' mean?",
+    "correct_answer": "Swelling caused by fluid retention",
+    "choices": [
+      "Swelling caused by fluid retention",
+      "Redness of the skin",
+      "Bruising",
+      "Itching"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f3f5861d36b7e354a80bfd652472efbf9102772058161f7c9b5ba3147f9705ff",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'hema-' or 'hemo-' refer to?",
+    "correct_answer": "Blood",
+    "choices": [
+      "Heart",
+      "Blood",
+      "Liver",
+      "Bone"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9520fa5989be5e9736f2c56fe2c583d72cdee8e4d70347e5506b6a4423e54970",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the term 'cyanosis' describe?",
+    "correct_answer": "Bluish discoloration of the skin from lack of oxygen",
+    "choices": [
+      "Yellowing of the skin",
+      "Bluish discoloration of the skin from lack of oxygen",
+      "Redness of the skin",
+      "Paleness of the skin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9221b022a9d746ebee0d9c6e0fd15c57c5983caa9e7084af567100eb4547b3e9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the suffix '-algia' mean?",
+    "correct_answer": "Pain",
+    "choices": [
+      "Swelling",
+      "Pain",
+      "Weakness",
+      "Numbness"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0ec77b013e90fdc921f9ccd4b797986cc8d5cc2e232115cd2587d164580e3435",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does 'bradycardia' mean?",
+    "correct_answer": "Slow heart rate",
+    "choices": [
+      "Fast heart rate",
+      "Slow heart rate",
+      "Irregular heart rate",
+      "Normal heart rate"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f92e6831586442a12b619b47a1a3efdbcdc618a6a3af6202fce4f86c37effaa5",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'arthro-' refer to?",
+    "correct_answer": "Joint",
+    "choices": [
+      "Muscle",
+      "Bone",
+      "Joint",
+      "Tendon"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "287242888fec0f5fe23a29a1cc66b5f91127c2438828480dd04fc4a6c72a2abc",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the medical term 'contusion' mean?",
+    "correct_answer": "Bruise",
+    "choices": [
+      "Cut",
+      "Bruise",
+      "Burn",
+      "Fracture"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "df4564dbd1200b3bee6665e69cdb41f078605337eb81b47fee2b9051e9298acf",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the term 'ischemia' describe?",
+    "correct_answer": "Inadequate blood supply to an organ",
+    "choices": [
+      "Excess blood flow to an organ",
+      "Inadequate blood supply to an organ",
+      "Inflammation of blood vessels",
+      "Rupture of blood vessels"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7c6f61d12f41cf519d972d005d929ee303d005fd011c08b5b89b247c638cb354",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the suffix '-oma' mean in medical terminology?",
+    "correct_answer": "Tumor or mass",
+    "choices": [
+      "Tumor or mass",
+      "Inflammation",
+      "Disease",
+      "Condition"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2e8ffe68f9882c9ca01ad882e82c40bd94f478191e9adda21fce20c49582cbe0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'derma-' refer to?",
+    "correct_answer": "Skin",
+    "choices": [
+      "Hair",
+      "Skin",
+      "Nails",
+      "Muscles"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "bc01ce417399488f0c42dc173baa302eaa4414fed645a76ae971caacb0496964",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does 'necrosis' mean?",
+    "correct_answer": "Tissue death",
+    "choices": [
+      "Tissue death",
+      "Tissue growth",
+      "Tissue inflammation",
+      "Tissue repair"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e933a80724da063f5865e63b24da2b87bfda2eea886b1d270f881bbacf229937",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the prefix 'gastro-' refer to?",
+    "correct_answer": "Stomach",
+    "choices": [
+      "Intestine",
+      "Stomach",
+      "Liver",
+      "Esophagus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "34fef184944fa20aee17c6c36e023b5ea46f0c690080e8b75cdee9d61d594f14",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "easy",
+    "question_text": "What does the term 'benign' mean in a medical context?",
+    "correct_answer": "Non-cancerous",
+    "choices": [
+      "Non-cancerous",
+      "Cancerous",
+      "Fast-growing",
+      "Life-threatening"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cbe7da0ea4c4efa9c0c3fdbda09d36aaf248ea8cb04e0b166ff64295eebd3e25",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the suffix '-pathy' mean?",
+    "correct_answer": "Disease",
+    "choices": [
+      "Pain",
+      "Disease",
+      "Swelling",
+      "Treatment"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c7f7754b5462d0c20f73f69fb527bb77c02d1b38ad4979cfe04f31981ba1b761",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the term 'metastasis' refer to?",
+    "correct_answer": "Spread of cancer to other body parts",
+    "choices": [
+      "Original tumor site",
+      "Spread of cancer to other body parts",
+      "Complete remission",
+      "Initial diagnosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9bebbeffd541461f66d7afb3f62cceee155bfb1f27241e0524d60d05f9f4f922",
+    "language": "zh-tw"
+  },
+  {
+    "category": "medical-terms",
+    "difficulty": "medium",
+    "question_text": "What does the prefix 'pulmo-' or 'pneumo-' refer to?",
+    "correct_answer": "Lungs",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Brain"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a38df69daaca4ef1ac8415a5e103b42ba022021781a271d182c187996419a514",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What is the most common mental health disorder worldwide?",
+    "correct_answer": "Depression",
+    "choices": [
+      "Schizophrenia",
+      "Depression",
+      "Bipolar disorder",
+      "OCD"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f31797c72c2e3cc0199503d8df5942735cf368097caeabab45cda00610b21638",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What does CBT stand for in mental health therapy?",
+    "correct_answer": "Cognitive Behavioral Therapy",
+    "choices": [
+      "Continuous Brain Training",
+      "Cognitive Behavioral Therapy",
+      "Clinical Behavioral Treatment",
+      "Controlled Biofeedback Therapy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ee7c354f9ffb0bc915538c35d1838fe38b0b6f9665a801e3b01d29d8532aa17e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What condition involves alternating periods of mania and depression?",
+    "correct_answer": "Bipolar disorder",
+    "choices": [
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Borderline personality disorder",
+      "Cyclothymia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "307397a83fb78e10dfebfcf1297e290f15abd51ae7f9229710198baefc616a8f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What neurotransmitter is most commonly associated with depression?",
+    "correct_answer": "Serotonin",
+    "choices": [
+      "Dopamine",
+      "Serotonin",
+      "Acetylcholine",
+      "GABA"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "52bcfa9158f71a4de35b2f9a5ce0bc9a41a168bd956a43c8ceaa35dd8a2018bf",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is agoraphobia?",
+    "correct_answer": "Fear of open or crowded spaces",
+    "choices": [
+      "Fear of spiders",
+      "Fear of heights",
+      "Fear of open or crowded spaces",
+      "Fear of flying"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7643c04582ad714d0e48007b03bbad128781d02f359fa02a8a3ed54eb97ecf3b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is the most common eating disorder?",
+    "correct_answer": "Binge eating disorder",
+    "choices": [
+      "Anorexia nervosa",
+      "Bulimia nervosa",
+      "Binge eating disorder",
+      "ARFID"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b25f0b0d146529ace8c0dde68ff8115cf3a4c3d76d5f231c66744d2386704fae",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What does PTSD stand for?",
+    "correct_answer": "Post-Traumatic Stress Disorder",
+    "choices": [
+      "Post-Traumatic Stress Disorder",
+      "Pre-Traumatic Stress Disorder",
+      "Persistent Tension Stress Disorder",
+      "Primary Trauma Stress Disorder"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c91e31f6d6f29df010ada20f2744516c88722663abe513303c5ba26ce0e8a7c4",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What class of antidepressants includes fluoxetine (Prozac)?",
+    "correct_answer": "SSRIs",
+    "choices": [
+      "MAOIs",
+      "TCAs",
+      "SSRIs",
+      "SNRIs"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d8264ce75c24043729d5cd23bd0d02affcfd2b77131a70d9dda4bdcba376b95d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What is the term for a persistent, irrational fear of a specific object or situation?",
+    "correct_answer": "Phobia",
+    "choices": [
+      "Anxiety",
+      "Phobia",
+      "Panic",
+      "Obsession"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f13e0110dfd08f6d61bba46023192d36b6180befc4fc1606ba193a9bde7b9b3f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "Who is considered the father of psychoanalysis?",
+    "correct_answer": "Sigmund Freud",
+    "choices": [
+      "Carl Jung",
+      "Sigmund Freud",
+      "B.F. Skinner",
+      "Ivan Pavlov"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3d8e7edd26065c68814b59fc5f96a5c3d05ed3f84af0897ce08b70b184be1303",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What does OCD stand for?",
+    "correct_answer": "Obsessive-Compulsive Disorder",
+    "choices": [
+      "Obsessive-Compulsive Disorder",
+      "Over-Conscious Disorder",
+      "Organic Cognitive Dysfunction",
+      "Obsessive-Control Dysphoria"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ec9b66a249172ee4e401f2773b2a425ab395e0ce28cdbc5b3ee80f20c9db738b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is schizophrenia primarily characterized by?",
+    "correct_answer": "Hallucinations, delusions, and disorganized thinking",
+    "choices": [
+      "Hallucinations, delusions, and disorganized thinking",
+      "Mood swings between mania and depression",
+      "Memory loss and confusion",
+      "Persistent sadness and loss of interest"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "833b46e2bea82dde8101e6ae0c987099fbb71826abe2a9e4413fbc83d6029c91",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is the name of the manual used to diagnose mental disorders?",
+    "correct_answer": "DSM (Diagnostic and Statistical Manual)",
+    "choices": [
+      "DSM (Diagnostic and Statistical Manual)",
+      "ICD (International Classification of Diseases)",
+      "MMPI (Minnesota Multiphasic Personality Inventory)",
+      "PHQ (Patient Health Questionnaire)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b7b95edb5eb4060c81318d137651b196b978b309eb5031a37bb08e677f426295",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What is a panic attack?",
+    "correct_answer": "A sudden episode of intense fear with physical symptoms",
+    "choices": [
+      "A sudden episode of intense fear with physical symptoms",
+      "A chronic state of low-level anxiety",
+      "A fear of social situations",
+      "An obsessive thought pattern"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "080d4d428e861b3d567d65eb7e6751bd578c8b029475c400eaa063c4b48c821b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What neurotransmitter is primarily associated with reward and pleasure?",
+    "correct_answer": "Dopamine",
+    "choices": [
+      "Serotonin",
+      "Dopamine",
+      "Norepinephrine",
+      "Acetylcholine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ed1fee1d84f3f609aac3733ff42c0b71f200f98f80584da88049d940de38a7f7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What is the difference between a psychiatrist and a psychologist?",
+    "correct_answer": "Psychiatrists can prescribe medication; psychologists cannot",
+    "choices": [
+      "Psychiatrists can prescribe medication; psychologists cannot",
+      "Psychologists can prescribe medication; psychiatrists cannot",
+      "There is no difference",
+      "Psychiatrists only treat severe mental illness"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c93cb79518f1859e4c4bf6a69c45538285d76b55f1d03fe18f979fab431534f0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is seasonal affective disorder (SAD)?",
+    "correct_answer": "Depression related to changes in seasons",
+    "choices": [
+      "Depression related to changes in seasons",
+      "Anxiety triggered by social events",
+      "Bipolar episodes in winter",
+      "Insomnia during summer months"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0c8d88be5dad682eec08df170fe35ac29c819a95ecd62b3d963e8f1eb23cff10",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "easy",
+    "question_text": "What does ADHD stand for?",
+    "correct_answer": "Attention-Deficit/Hyperactivity Disorder",
+    "choices": [
+      "Attention-Deficit/Hyperactivity Disorder",
+      "Anxiety-Depression Hybrid Disorder",
+      "Automatic Dysfunction Hyperactivity Disorder",
+      "Atypical Developmental Hyperactivity Disorder"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6cc6ea7f43a6d45e3571a240480218cdf138f6b774cf9bfe3c1c84a210188e6b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is dissociative identity disorder previously known as?",
+    "correct_answer": "Multiple personality disorder",
+    "choices": [
+      "Multiple personality disorder",
+      "Schizophrenia",
+      "Borderline personality disorder",
+      "Bipolar disorder"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d1982c6cafb8ea2a0b0b9695de9a8fa1b0cb64704fb7ccfc0d4cbb5704b438af",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is the most effective treatment for seasonal affective disorder involving light?",
+    "correct_answer": "Light therapy (phototherapy)",
+    "choices": [
+      "Light therapy (phototherapy)",
+      "Vitamin D supplements",
+      "Cognitive behavioral therapy",
+      "Antidepressant medication"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "14a0545145c315db4adc804906808442eac2fae7c48024516148ca1f231f63c9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What is the term for the inability to experience pleasure in activities once enjoyed?",
+    "correct_answer": "Anhedonia",
+    "choices": [
+      "Anhedonia",
+      "Apathy",
+      "Dysphoria",
+      "Catatonia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2a37e405ed0abe1daa5eb6ebf2db5d9270a65fb90da9ba600bd8e8f0db5a5a5c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What class of medication is lithium typically used as?",
+    "correct_answer": "Mood stabilizer",
+    "choices": [
+      "Antidepressant",
+      "Mood stabilizer",
+      "Antipsychotic",
+      "Anxiolytic"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "fd5e4144296dc8a4e417d805b6c33cce1ecf8fb0cc6fc7b586de250732cdf0de",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "medium",
+    "question_text": "What disorder is characterized by sudden, brief, involuntary episodes of falling asleep?",
+    "correct_answer": "Narcolepsy",
+    "choices": [
+      "Insomnia",
+      "Narcolepsy",
+      "Sleep apnea",
+      "Restless leg syndrome"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "41d9ad966a424bd4a0d311723e3acc5e1843cf2dfcf705403a6558b73149c556",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "hard",
+    "question_text": "What percentage of the global population is estimated to experience a mental health condition in their lifetime?",
+    "correct_answer": "About 25%",
+    "choices": [
+      "About 10%",
+      "About 25%",
+      "About 50%",
+      "About 75%"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f0737ec16f9ab080e6217df52ba288893e69db079de4a690c7a3f342de3c45b4",
+    "language": "zh-tw"
+  },
+  {
+    "category": "mental-health",
+    "difficulty": "hard",
+    "question_text": "What is echolalia?",
+    "correct_answer": "The repetition of another person's words or phrases",
+    "choices": [
+      "The repetition of one's own words",
+      "The repetition of another person's words or phrases",
+      "The creation of new words",
+      "The loss of speech ability"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d3630cc5d7989b09790fa4748f28783a71d079baf50aaffe0678c2c368b1b72f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the normal body temperature for a healthy adult in Celsius?",
+    "correct_answer": "37C",
+    "choices": [
+      "35C",
+      "36C",
+      "37C",
+      "38C"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "012ac96a115fa96c230ef13542490d10660d943fe593442037b686d861cf752d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the medical specialty concerned with the treatment of cancer?",
+    "correct_answer": "Oncology",
+    "choices": [
+      "Oncology",
+      "Radiology",
+      "Pathology",
+      "Hematology"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cded6ea4096176092d2401a659597e7dc73d242b97bc191e8d1140b2a42e7838",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What does the stethoscope allow doctors to listen to?",
+    "correct_answer": "Internal body sounds",
+    "choices": [
+      "Blood chemistry",
+      "Internal body sounds",
+      "Electrical signals",
+      "Body temperature"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9b686dcc0819cfad0020c7f5a8a15bb1478d4d6444f47d6f2a315e7c87319a8b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the training period after medical school called?",
+    "correct_answer": "Residency",
+    "choices": [
+      "Internship",
+      "Residency",
+      "Fellowship",
+      "Clerkship"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "992efe61117d01a0588846cffa507ac2abbfa7dc5f9a277efc6dfe96d89dbb2a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What does the Hippocratic Oath instruct physicians to 'first, do no'?",
+    "correct_answer": "Harm",
+    "choices": [
+      "Good",
+      "Harm",
+      "Surgery",
+      "Diagnosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1910e3bcc6e33dd4421fb3f01ef2a8b9827e9949d25e3f8d38cda41ba02a55ee",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What does BMI stand for?",
+    "correct_answer": "Body Mass Index",
+    "choices": [
+      "Body Mass Index",
+      "Basal Metabolic Index",
+      "Body Measurement Indicator",
+      "Blood Metabolic Index"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2b05e15a27a0a4158289b6a2bfed5da871d5bfcc9a084f2339df97e5f3b92409",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the medical specialty for treating children?",
+    "correct_answer": "Pediatrics",
+    "choices": [
+      "Geriatrics",
+      "Pediatrics",
+      "Neonatology",
+      "Obstetrics"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b9d67e552f7c5163a96789424f4ef73387ceb12eceeb9747c1af78ef64dd3ab9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the purpose of a biopsy?",
+    "correct_answer": "To examine tissue for disease",
+    "choices": [
+      "To measure blood pressure",
+      "To examine tissue for disease",
+      "To image internal organs",
+      "To administer medication"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a2780f4851f2d805e1221e48d88e16ea2708c0e115c9e1475e326f0f294058f2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What does the term 'chronic' mean in a medical context?",
+    "correct_answer": "Long-lasting or persistent",
+    "choices": [
+      "Acute and severe",
+      "Long-lasting or persistent",
+      "Life-threatening",
+      "Sudden onset"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "560657c4ad91f39987fedebf3bf62f839ba9cfc617e984decb8baa61c07009d5",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the medical specialty dealing with pregnancy and childbirth?",
+    "correct_answer": "Obstetrics",
+    "choices": [
+      "Pediatrics",
+      "Obstetrics",
+      "Gynecology",
+      "Neonatology"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cb3d8d1c658f044ac43a3ca94795e37666678ead8a6553936b3de0275b79a4fb",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What does the abbreviation ICU stand for?",
+    "correct_answer": "Intensive Care Unit",
+    "choices": [
+      "Internal Care Unit",
+      "Intensive Care Unit",
+      "Intermediate Care Unit",
+      "Integrated Care Unit"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "09284e5af82819840ef3c2d5aedc30d2a2c8b3faded72083ebd5660bdcb970a2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "What is the average lifespan of a red blood cell?",
+    "correct_answer": "About 120 days",
+    "choices": [
+      "About 30 days",
+      "About 60 days",
+      "About 120 days",
+      "About 180 days"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b100f25bff0c8e8b077ce8b921662067db9164c7c8715fbebba1714f0c3e0758",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "What is the normal range for blood pH?",
+    "correct_answer": "7.35 to 7.45",
+    "choices": [
+      "6.80 to 7.00",
+      "7.00 to 7.20",
+      "7.35 to 7.45",
+      "7.50 to 7.65"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "48902b4221caf28145477d5b4439eba3ea86978342d573637c5c382a26ca2180",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "What percentage of body weight is water in an average adult?",
+    "correct_answer": "About 60%",
+    "choices": [
+      "About 40%",
+      "About 60%",
+      "About 75%",
+      "About 85%"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "243b968312752a578e8be0c0c92e4d7a5e46ff0cd06a5441119f6816df8aca2a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What does the term 'placebo' refer to?",
+    "correct_answer": "A substance with no therapeutic effect used as a control",
+    "choices": [
+      "A powerful painkiller",
+      "A substance with no therapeutic effect used as a control",
+      "A type of antibiotic",
+      "A surgical instrument"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7bd2e216eedc31b7ac2a89683af1670acde13eff0444a77f16dd2f5fdd4e0c10",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "medium",
+    "question_text": "What is the fastest known sensory response speed in the human body?",
+    "correct_answer": "Hearing",
+    "choices": [
+      "Vision",
+      "Hearing",
+      "Touch",
+      "Smell"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6c6518557e7c671360cc7f4388f43d173710f854deae7d55949a599922063243",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the medical specialty concerned with skin diseases?",
+    "correct_answer": "Dermatology",
+    "choices": [
+      "Dermatology",
+      "Rheumatology",
+      "Nephrology",
+      "Endocrinology"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d67c9bd8070f1d3787f2a106f7f15aee0e105c34a727314b3c011a4d6fda1d67",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "hard",
+    "question_text": "What is the term for the first bowel movement of a newborn?",
+    "correct_answer": "Meconium",
+    "choices": [
+      "Meconium",
+      "Colostrum",
+      "Vernix",
+      "Lanugo"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "be943f875e24e14ba08084a667ff1896e38e71827c3d68aa4742223f717d951a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the science of using X-rays and imaging for diagnosis called?",
+    "correct_answer": "Radiology",
+    "choices": [
+      "Radiology",
+      "Oncology",
+      "Pathology",
+      "Cardiology"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1ad24112b9339ab66b9eb444d6a9ab2851a69af15ad68dc96516a7cba9bf23ef",
+    "language": "zh-tw"
+  },
+  {
+    "category": "misc-medical",
+    "difficulty": "easy",
+    "question_text": "What is the normal gestation period for a human pregnancy?",
+    "correct_answer": "About 40 weeks",
+    "choices": [
+      "About 30 weeks",
+      "About 35 weeks",
+      "About 40 weeks",
+      "About 45 weeks"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "34bf2c3ee8461c67148ec079c6cafa4cae5a0015ebc5eb81bafe85dcb4ba35c7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "What is the basic functional unit of the nervous system?",
+    "correct_answer": "Neuron",
+    "choices": [
+      "Synapse",
+      "Axon",
+      "Neuron",
+      "Dendrite"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a09de4e8d9171baf9a1134b8a4687c116bb4ca09683771d3a92aba8862092942",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "Which part of the brain controls vital functions like breathing and heart rate?",
+    "correct_answer": "Brainstem",
+    "choices": [
+      "Cerebellum",
+      "Brainstem",
+      "Cerebrum",
+      "Thalamus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a2d849d4ea1a3fe7e90013fbe46c7bbeb24ebde500c001c982658945e62e2c12",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What disease involves the degeneration of dopamine-producing neurons in the brain?",
+    "correct_answer": "Parkinson's disease",
+    "choices": [
+      "Alzheimer's disease",
+      "Parkinson's disease",
+      "Huntington's disease",
+      "Multiple sclerosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "11f9507a35d4e96e62e99422ca7504d7648dc7d49191d7608750d81ab7b829f8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the name of the gap between two neurons where signals are transmitted?",
+    "correct_answer": "Synapse",
+    "choices": [
+      "Axon",
+      "Synapse",
+      "Dendrite",
+      "Myelin sheath"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5151acfc2e2874b533c6e4bd8ec40f2a04dd17fdd3fa16002db44228e441e18d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "hard",
+    "question_text": "Which cranial nerve is the longest and most widely distributed?",
+    "correct_answer": "Vagus nerve",
+    "choices": [
+      "Trigeminal nerve",
+      "Vagus nerve",
+      "Sciatic nerve",
+      "Facial nerve"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a10eeba66f2c237cd6e3a9739d78d5750b62cc9c7ffb79e1fb02e9e86bbfbe98",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the primary inhibitory neurotransmitter in the brain?",
+    "correct_answer": "GABA",
+    "choices": [
+      "Glutamate",
+      "Dopamine",
+      "GABA",
+      "Serotonin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "56e47b281a274397fd6a9ca39afc4870875fc63317442b680252af918830bb2c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the term for a brief, temporary disturbance of brain function, often called a 'mini-stroke'?",
+    "correct_answer": "Transient ischemic attack",
+    "choices": [
+      "Hemorrhagic stroke",
+      "Transient ischemic attack",
+      "Subarachnoid hemorrhage",
+      "Cerebral embolism"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5cda13e8f9440f998b6c492c108b908fe0d66dddbb652ceb7af61cb872aac572",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What does the blood-brain barrier do?",
+    "correct_answer": "Protects the brain from harmful substances in the blood",
+    "choices": [
+      "Produces cerebrospinal fluid",
+      "Protects the brain from harmful substances in the blood",
+      "Regulates brain temperature",
+      "Supplies oxygen to neurons"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "96cf6a7f9617b2ea7d0f451b3221355cd275fe66fb038f8e44ab752d7cc0a14d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "What condition is characterized by recurrent, unprovoked seizures?",
+    "correct_answer": "Epilepsy",
+    "choices": [
+      "Epilepsy",
+      "Migraine",
+      "Narcolepsy",
+      "Syncope"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "223209ec84822602416091f874d235b9afffe09669d75446b0bccbd35110239c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the term for the protective myelin sheath damage seen in multiple sclerosis?",
+    "correct_answer": "Demyelination",
+    "choices": [
+      "Demyelination",
+      "Neurodegeneration",
+      "Axonal damage",
+      "Synaptic pruning"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d7fc6d9c4908e8cd1ec3b2244043b43ea6699de3c93aa2078b877104a796a1bd",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "How many pairs of cranial nerves does the human body have?",
+    "correct_answer": "12",
+    "choices": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6f0d32b84a7b3b2ac603f1f2217973082c1bb26948f3fbb73a0873bcc4a32885",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the main excitatory neurotransmitter in the brain?",
+    "correct_answer": "Glutamate",
+    "choices": [
+      "Dopamine",
+      "Glutamate",
+      "GABA",
+      "Serotonin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e107cb4daa9a73f292076d8fb7059233acc3fbbc600593f22190c11cb3222c52",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "Which disease is caused by a prion and affects brain tissue, causing sponge-like holes?",
+    "correct_answer": "Creutzfeldt-Jakob disease",
+    "choices": [
+      "Alzheimer's disease",
+      "Creutzfeldt-Jakob disease",
+      "Parkinson's disease",
+      "Huntington's disease"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "57258fe1f64198c2b3f4af0ad62c103f9042fed209983677f24645f4a20de1da",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What does the term 'aphasia' refer to?",
+    "correct_answer": "Loss of ability to understand or express speech",
+    "choices": [
+      "Loss of memory",
+      "Loss of ability to understand or express speech",
+      "Loss of motor function",
+      "Loss of vision"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e79f029b6afec7c88259499a471f3dadaa8e0814cbe9301d14bc27bcd3cdb2bc",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the name of the brain's relay station for sensory information?",
+    "correct_answer": "Thalamus",
+    "choices": [
+      "Hypothalamus",
+      "Thalamus",
+      "Hippocampus",
+      "Amygdala"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "47b5f7533622e9d9c29a4d1feb26e1e78c2326d8f8ae2b91b86442ef6ae06f9a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "What part of the brain is primarily responsible for memory formation?",
+    "correct_answer": "Hippocampus",
+    "choices": [
+      "Amygdala",
+      "Hippocampus",
+      "Cerebellum",
+      "Hypothalamus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d56ba9fe100017541851220878382a22ec4cb931b2e7f4d80646a01b1a3a9c89",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the term for paralysis affecting one side of the body?",
+    "correct_answer": "Hemiplegia",
+    "choices": [
+      "Paraplegia",
+      "Quadriplegia",
+      "Hemiplegia",
+      "Monoplegia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d11cc2dd3fc031997e1a92c393dc943c8b1c994300bb3038e2278e68c8a0500d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "easy",
+    "question_text": "What is the most common type of headache disorder?",
+    "correct_answer": "Tension headache",
+    "choices": [
+      "Migraine",
+      "Tension headache",
+      "Cluster headache",
+      "Sinus headache"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f62431d459b26242a02241c9271e673ef6c966280a971d8590da49f68f437d54",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is the role of cerebrospinal fluid (CSF)?",
+    "correct_answer": "Cushions and protects the brain and spinal cord",
+    "choices": [
+      "Produces neurotransmitters",
+      "Cushions and protects the brain and spinal cord",
+      "Regulates body temperature",
+      "Produces red blood cells"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1ebdca2050c881e5de831dbb8b93972ff333ff4ca006095a8fe2521f4c5e27df",
+    "language": "zh-tw"
+  },
+  {
+    "category": "neurology",
+    "difficulty": "medium",
+    "question_text": "What is a lumbar puncture (spinal tap) used to collect?",
+    "correct_answer": "Cerebrospinal fluid",
+    "choices": [
+      "Blood",
+      "Cerebrospinal fluid",
+      "Bone marrow",
+      "Nerve tissue"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f57ffc56bd16a6833c26411739606ee595c88b7d6621525ed74b8b27d38f8ebb",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Which vitamin is also known as ascorbic acid?",
+    "correct_answer": "Vitamin C",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "798f7d7262acd7b3809918ba3a505180363c6dd6dac442cada637a81e8aabff3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "What mineral is essential for thyroid hormone production?",
+    "correct_answer": "Iodine",
+    "choices": [
+      "Iron",
+      "Iodine",
+      "Zinc",
+      "Calcium"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a6efb428947547c0d09dca844603086bfdfa87d115f575538bc5c73f6ab2039c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Which vitamin is known as the 'sunshine vitamin'?",
+    "correct_answer": "Vitamin D",
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e6a754021e5db22214e6e4990fbc681ba2771ba42b34a260557123be0e84a10b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What is the primary macronutrient found in eggs and meat?",
+    "correct_answer": "Protein",
+    "choices": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Fiber"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a0d1c6e2dea856ee99d551f2d1cbbc8ce150406e796e0294193485381aa0c888",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Which vitamin is essential for blood clotting?",
+    "correct_answer": "Vitamin K",
+    "choices": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "57407c630d0a679ffb8730cee72b5d5206ccbefbfe86c40dac01a170e06eb307",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "What mineral deficiency causes anemia characterized by small, pale red blood cells?",
+    "correct_answer": "Iron",
+    "choices": [
+      "Calcium",
+      "Iron",
+      "Zinc",
+      "Magnesium"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "fdbc7764da0d9906747798c0e930396749216cd795a0d1af2b9f4c136fa0178d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Which vitamin is also known as retinol and is important for vision?",
+    "correct_answer": "Vitamin A",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f5b2cd7184940a302079ad53faa807f896e7ae64a180712447c2555229e19e54",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What is the body's primary source of energy?",
+    "correct_answer": "Carbohydrates",
+    "choices": [
+      "Protein",
+      "Carbohydrates",
+      "Fat",
+      "Vitamins"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8c9fa0ebdbe9ac08444280f14f7d96bb33e13efbeea0cce0bbcc125dc48c0a9f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Which B vitamin is essential for preventing neural tube defects during pregnancy?",
+    "correct_answer": "Folate (B9)",
+    "choices": [
+      "Thiamine (B1)",
+      "Folate (B9)",
+      "Cobalamin (B12)",
+      "Riboflavin (B2)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "dc0cbf5681525266b814bd074568a2f5929ae3ba5c31ea3708d3b6eba923aded",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What mineral is crucial for strong bones and teeth?",
+    "correct_answer": "Calcium",
+    "choices": [
+      "Iron",
+      "Calcium",
+      "Potassium",
+      "Sodium"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e9431a2234a09ebd86f9223c6d5e3e2c49adeb4a4abb281b429df682ab58f969",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Which vitamin is a powerful antioxidant also known as tocopherol?",
+    "correct_answer": "Vitamin E",
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a64ba210e5cc9b4952230944b42dd14666a6fe1f9806b6f11245007d819c30f0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "What condition is caused by severe protein-energy malnutrition, often seen in children?",
+    "correct_answer": "Kwashiorkor",
+    "choices": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Rickets",
+      "Scurvy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9a93672037c41050d4d26bca3b18d18dc0099b7ebeeaf954248e979a6cfabd3c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Which mineral helps regulate fluid balance and muscle contractions, and is found in bananas?",
+    "correct_answer": "Potassium",
+    "choices": [
+      "Sodium",
+      "Calcium",
+      "Potassium",
+      "Magnesium"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e6c185f5a391e85829fdf4a90d8ac5fa73ea29299e7d7a9c2217da0c9f7976c6",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "What are the fat-soluble vitamins?",
+    "correct_answer": "A, D, E, K",
+    "choices": [
+      "A, B, C, D",
+      "A, D, E, K",
+      "B, C, D, E",
+      "A, C, E, K"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c32d36b46a428f7a2ea39fda8165ebc0a9165128a83d9d9b3514d2a04548f56e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What is the daily recommended water intake for an average adult?",
+    "correct_answer": "About 2 liters (8 cups)",
+    "choices": [
+      "About 1 liter (4 cups)",
+      "About 2 liters (8 cups)",
+      "About 3 liters (12 cups)",
+      "About 4 liters (16 cups)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3f06f1e76b384d99dc1a1a3898ef3cdb391a4441b8824211aca4c6efd94abc6d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Which vitamin deficiency causes night blindness?",
+    "correct_answer": "Vitamin A",
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9cd08e57cf68225e85fc7af3649f946392fe13412352e598f98cacd6accb53ad",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What is the main function of dietary fiber?",
+    "correct_answer": "Promotes digestive health and regularity",
+    "choices": [
+      "Provides quick energy",
+      "Promotes digestive health and regularity",
+      "Builds muscle",
+      "Strengthens bones"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "947e1f8791f252bf652ee100935258c756cee05b172b3cb1aacac009b538d71a",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Which mineral is a key component of hemoglobin in red blood cells?",
+    "correct_answer": "Iron",
+    "choices": [
+      "Calcium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cddf741d7bafa0fe704f81ae96ea125ecf3dcccd37f0306e896ff87b38e33297",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What is a calorie?",
+    "correct_answer": "A unit of energy from food",
+    "choices": [
+      "A type of fat",
+      "A unit of energy from food",
+      "A measure of protein",
+      "A vitamin measurement"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "578fb2f9d824b82f483ab6331874ad0287d8d80220878842d983dabc92f7a834",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Which vitamin B12 deficiency condition causes fatigue, weakness, and neurological symptoms?",
+    "correct_answer": "Pernicious anemia",
+    "choices": [
+      "Iron-deficiency anemia",
+      "Pernicious anemia",
+      "Aplastic anemia",
+      "Sickle cell anemia"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "44733f061cd059b94cbabb70f2a0a9dcb0e1b929deb3f8275f2c17548b760ad0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What mineral is important for immune function and wound healing?",
+    "correct_answer": "Zinc",
+    "choices": [
+      "Iron",
+      "Zinc",
+      "Calcium",
+      "Sodium"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9a3e1f8f49cd50e01ef08920f5ade2bc4b77ae3b496ef0c6c1287c5fad880fbb",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What is the primary function of protein in the body?",
+    "correct_answer": "Building and repairing tissues",
+    "choices": [
+      "Providing immediate energy",
+      "Building and repairing tissues",
+      "Insulating organs",
+      "Regulating body temperature"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "751f2cc7846155179542434be10f3f0be5159a95e3fd5848e4fedb59aa6033a1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "Which nutrient is the most energy-dense, providing 9 calories per gram?",
+    "correct_answer": "Fat",
+    "choices": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Alcohol"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3c019e60141a2fd9300e9ac85099b016a7e00e458fbcc92bba7a7e80d1842e24",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "hard",
+    "question_text": "What condition results from severe deficiency of both protein and calories?",
+    "correct_answer": "Marasmus",
+    "choices": [
+      "Kwashiorkor",
+      "Marasmus",
+      "Rickets",
+      "Scurvy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c94069eb4fa28a2bd19aae8f62129e583d522184de73aa91268b2aa5d0f12706",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Which spice contains curcumin, known for its anti-inflammatory properties?",
+    "correct_answer": "Turmeric",
+    "choices": [
+      "Ginger",
+      "Turmeric",
+      "Cinnamon",
+      "Cayenne pepper"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3db3386a5121c49f5572091ea5a23e662b5a27bf1db583813aa89e170e096df4",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "What is the medical term for vitamin B1?",
+    "correct_answer": "Thiamine",
+    "choices": [
+      "Thiamine",
+      "Riboflavin",
+      "Niacin",
+      "Pyridoxine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3c2b7328042fbc47ae94c1b9dadba183b764d45330ccec8e8e861161d544f902",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "hard",
+    "question_text": "What condition is characterized by severe tooth decay and bone softening from vitamin D deficiency in adults?",
+    "correct_answer": "Osteomalacia",
+    "choices": [
+      "Osteoporosis",
+      "Osteomalacia",
+      "Rickets",
+      "Osteoarthritis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4c292f14c94a41f13bfeaf50fdc5fe07b1b2e224fda3fc431819786b9e8305f6",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Which mineral helps maintain healthy blood pressure levels?",
+    "correct_answer": "Potassium",
+    "choices": [
+      "Sodium",
+      "Potassium",
+      "Chloride",
+      "Phosphorus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f56e9d4a791386bb6f0a5ee357d09c2792523dfae0c20bd9e226da63b0846c15",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "easy",
+    "question_text": "What are the building blocks of proteins?",
+    "correct_answer": "Amino acids",
+    "choices": [
+      "Fatty acids",
+      "Glucose molecules",
+      "Amino acids",
+      "Nucleotides"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "480919a276303d4c59f3a668c02436b03c7e8cd4de68e4ae9e2e6d06b3bc2995",
+    "language": "zh-tw"
+  },
+  {
+    "category": "nutrition",
+    "difficulty": "medium",
+    "question_text": "Which food is a complete protein, containing all nine essential amino acids?",
+    "correct_answer": "Soy",
+    "choices": [
+      "Rice",
+      "Soy",
+      "Beans",
+      "Corn"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3bd4bf70ba33eabaa96630f288708b09c31c9fe207bb9a3e6e2c201ff00d318b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is the transparent front part of the eye called?",
+    "correct_answer": "Cornea",
+    "choices": [
+      "Iris",
+      "Cornea",
+      "Retina",
+      "Lens"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9a7e31c6e5da9217cff3038d24a83619d3c7d79d167615a7dc4207ffcbc6ca14",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What condition is commonly known as nearsightedness?",
+    "correct_answer": "Myopia",
+    "choices": [
+      "Hyperopia",
+      "Presbyopia",
+      "Myopia",
+      "Astigmatism"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "15cd2c4732bb0eb8242afc328999d472b079e966b2d80d321e517bd4f536ef25",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for an eye doctor?",
+    "correct_answer": "Ophthalmologist",
+    "choices": [
+      "Optometrist",
+      "Optician",
+      "Ophthalmologist",
+      "Orthopedist"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ee7aa3c3a42d55ee48aee93365a62add05ed9258c152f1b1048c0c48835ec1ee",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What disease causes increased pressure inside the eye and can lead to blindness?",
+    "correct_answer": "Glaucoma",
+    "choices": [
+      "Cataracts",
+      "Glaucoma",
+      "Macular degeneration",
+      "Retinal detachment"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "dcbb77dfcddef17427b0f2f01024510c14e3c0c3117c620b35c5a1985ed9d8d7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is the clouding of the eye's natural lens called?",
+    "correct_answer": "Cataract",
+    "choices": [
+      "Glaucoma",
+      "Cataract",
+      "Pterygium",
+      "Keratoconus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cab408e6817147be18c620679da8d3d30ec52bd57271c5de112f1c1ad28cd179",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What part of the eye changes shape to focus light onto the retina?",
+    "correct_answer": "Lens",
+    "choices": [
+      "Cornea",
+      "Iris",
+      "Lens",
+      "Pupil"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "443f65b1010d29240644d59dfaa45474aaa23ea285ad3fe33bf8daa9e47a8bd6",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What is the leading cause of vision loss in people over 50?",
+    "correct_answer": "Age-related macular degeneration",
+    "choices": [
+      "Cataracts",
+      "Glaucoma",
+      "Age-related macular degeneration",
+      "Diabetic retinopathy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6ba0b297171607c69e8f8babb486f20b3152e238a48f261ba2196818d9e6a904",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What is the common name for a subconjunctival hemorrhage?",
+    "correct_answer": "Broken blood vessel in the eye",
+    "choices": [
+      "Pink eye",
+      "Broken blood vessel in the eye",
+      "Corneal abrasion",
+      "Stye"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "03a09a9dcf14744692b83e2cfcf378d72dd9b9eaf56cf30f7fc1c9e28f70252e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "Which part of the retina is responsible for sharp central vision?",
+    "correct_answer": "Macula",
+    "choices": [
+      "Macula",
+      "Fovea",
+      "Optic disc",
+      "Choroid"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a70901ac896d116098aded4281b8ef5f72cad7474e3d01bb11d024e9a0bee26f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is the condition where the eyes are misaligned, commonly called crossed eyes?",
+    "correct_answer": "Strabismus",
+    "choices": [
+      "Ambylopia",
+      "Strabismus",
+      "Nystagmus",
+      "Ptosis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "68cb1278612140136f6662643043380a4376ca11ceb905904ad4dfad5dbf0939",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is a lazy eye medically called?",
+    "correct_answer": "Amblyopia",
+    "choices": [
+      "Strabismus",
+      "Amblyopia",
+      "Myopia",
+      "Astigmatism"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b779e693ccdee76cd4cb01ec8640c728e528dd318ec209d1284a417c7a0b8d78",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What does LASIK stand for?",
+    "correct_answer": "Laser-Assisted In Situ Keratomileusis",
+    "choices": [
+      "Laser-Assisted In Situ Keratomileusis",
+      "Laser-Assisted Intraocular Surgery Keratotomy",
+      "Light-Activated Surface Incision Keratectomy",
+      "Laser Ablation Surgery for Intraocular Keratoconus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c305a960c54b241215b927c16626a1ed183529d271a75b8c7c50ef1e58265395",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for pink eye?",
+    "correct_answer": "Conjunctivitis",
+    "choices": [
+      "Conjunctivitis",
+      "Keratitis",
+      "Blepharitis",
+      "Uveitis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "45ad80801c7d8bdc240e5cf5a281336f5245f9171ec692f78c44935423b9aea6",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "hard",
+    "question_text": "What is the normal field of vision for a human eye in degrees?",
+    "correct_answer": "About 180 degrees horizontally",
+    "choices": [
+      "About 90 degrees horizontally",
+      "About 135 degrees horizontally",
+      "About 180 degrees horizontally",
+      "About 240 degrees horizontally"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "beaa1d1d1c736e74a7dc5b189aae165a870e9244e521049480986b25f32209a9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What condition causes floaters to appear in the field of vision?",
+    "correct_answer": "Vitreous detachment",
+    "choices": [
+      "Cataracts",
+      "Vitreous detachment",
+      "Corneal ulcer",
+      "Macular hole"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7b8a1ee61b0c3d0e7e0c5df60607e209de4f63393ce5308c4c00b0eefd9c249f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What is the name of the gel-like substance that fills the back of the eye?",
+    "correct_answer": "Vitreous humor",
+    "choices": [
+      "Aqueous humor",
+      "Vitreous humor",
+      "Tears",
+      "Cerebrospinal fluid"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "91eb924c42a2601ab5d051a4eeba7870a7960965ba8ad52fe4088b70127755d0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What condition involves inflammation of the eyelids?",
+    "correct_answer": "Blepharitis",
+    "choices": [
+      "Conjunctivitis",
+      "Blepharitis",
+      "Keratitis",
+      "Uveitis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "db080f280fa18304125410be66d19d7aeee78a51b02a5b672e19f96e0d2e2ee2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What is the medical term for a stye?",
+    "correct_answer": "Hordeolum",
+    "choices": [
+      "Chalazion",
+      "Hordeolum",
+      "Pterygium",
+      "Pinguecula"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7ac63849edc619de1cf4e2924870320b0aae79dca417a7523345c6e5d9f2164f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What is the test called that measures intraocular pressure?",
+    "correct_answer": "Tonometry",
+    "choices": [
+      "Ophthalmoscopy",
+      "Tonometry",
+      "Perimetry",
+      "Retinoscopy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4377d016a3c1b31e1e1f082e3e8d2020492d760038fb506f12876a0d5d9658d8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What does the Snellen chart test?",
+    "correct_answer": "Visual acuity",
+    "choices": [
+      "Color blindness",
+      "Visual acuity",
+      "Depth perception",
+      "Peripheral vision"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9405f972892bad8a5d9f21e0ae9ca376acfe61ccfccd1e463146dc3e695fff45",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What is the most common cause of irreversible blindness worldwide?",
+    "correct_answer": "Glaucoma",
+    "choices": [
+      "Cataracts",
+      "Glaucoma",
+      "Trachoma",
+      "Macular degeneration"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b71fd604cfde3d01f557420805f8c2ac625eee771e5101c2cba850c9949efa25",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What is the difference between an optometrist and an ophthalmologist?",
+    "correct_answer": "Ophthalmologists perform surgery; optometrists do not",
+    "choices": [
+      "Optometrists perform surgery; ophthalmologists do not",
+      "Ophthalmologists perform surgery; optometrists do not",
+      "There is no difference",
+      "Optometrists only treat children"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "170b601dc42e1c2943a969f42d376f9c34122759b5b44df1dfa912c698644c72",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is the layer of light-sensitive tissue at the back of the eye called?",
+    "correct_answer": "Retina",
+    "choices": [
+      "Cornea",
+      "Retina",
+      "Sclera",
+      "Choroid"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2a76633bb5105cce050aaa0c01a4d29002694ad1357bd80dcadd8ff8406e2725",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "medium",
+    "question_text": "What condition results from a detached retina?",
+    "correct_answer": "Separation of the retina from the back of the eye",
+    "choices": [
+      "Clouding of the lens",
+      "Separation of the retina from the back of the eye",
+      "Increased eye pressure",
+      "Inflammation of the cornea"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b4e70336d9468f82bb203ce9fe11f4d525fe54f298ca625325e0fac790de7594",
+    "language": "zh-tw"
+  },
+  {
+    "category": "ophthalmology",
+    "difficulty": "easy",
+    "question_text": "What is the colored ring of muscle that controls the size of the pupil?",
+    "correct_answer": "Iris",
+    "choices": [
+      "Cornea",
+      "Iris",
+      "Lens",
+      "Sclera"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9c817d31b3a9fb3d3943d57bc21bb4d4d5bc96c91eacf32b33e6c232f0f13c07",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What is the active pain-relieving ingredient in aspirin?",
+    "correct_answer": "Acetylsalicylic acid",
+    "choices": [
+      "Ibuprofen",
+      "Acetaminophen",
+      "Acetylsalicylic acid",
+      "Naproxen"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "044e4da816b60147c893337158145e29b755f17c93add078e06fcd8e3a115714",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Which antibiotic was the first to be discovered, by Alexander Fleming in 1928?",
+    "correct_answer": "Penicillin",
+    "choices": [
+      "Tetracycline",
+      "Streptomycin",
+      "Penicillin",
+      "Erythromycin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "eb075f94b424882f4d176c0456fe29f1676bd34c28f3e4f601510dd7dc245a86",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What is the generic name for the brand-name drug Tylenol?",
+    "correct_answer": "Acetaminophen",
+    "choices": [
+      "Ibuprofen",
+      "Acetaminophen",
+      "Naproxen",
+      "Aspirin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "850794de7267cba2d04ba003c637935c55ce7f53b3d60403b5cba1ce8d66cd3e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Which class of drugs is commonly used to reduce stomach acid production?",
+    "correct_answer": "Proton pump inhibitors",
+    "choices": [
+      "Antihistamines",
+      "Proton pump inhibitors",
+      "Beta blockers",
+      "ACE inhibitors"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "73bb91c0928fe5cb6098b0b5b9538a0881fa79bc9ffe1ce1567cb3bbbe74c722",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "What plant-derived compound is the basis for the heart medication digoxin?",
+    "correct_answer": "Foxglove",
+    "choices": [
+      "Belladonna",
+      "Foxglove",
+      "Yew",
+      "Willow bark"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a491adc30829977be7d4512920a1632776d8097d30c6a5d3e0a82cb8479c51f8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Which anticoagulant medication is commonly known as a 'blood thinner'?",
+    "correct_answer": "Warfarin",
+    "choices": [
+      "Aspirin",
+      "Warfarin",
+      "Insulin",
+      "Metformin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c3584b47c94c91244a9c54a6df08fc124347f979335e5a0ec0e673c43e90d29f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What type of drug is morphine classified as?",
+    "correct_answer": "Opioid",
+    "choices": [
+      "Stimulant",
+      "Opioid",
+      "Benzodiazepine",
+      "Barbiturate"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1b62a87aebc23b9d2f08eb7dd14156882f5be7f454b1dd5a5adc7df4f3379a41",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Which medication is used to reverse opioid overdoses?",
+    "correct_answer": "Naloxone",
+    "choices": [
+      "Epinephrine",
+      "Naloxone",
+      "Atropine",
+      "Flumazenil"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7f138bcd9941e304caa66aad88befd89cebb31f2e696a9962874160c6cd37394",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What is the most commonly used anesthetic for minor dental procedures?",
+    "correct_answer": "Lidocaine",
+    "choices": [
+      "Morphine",
+      "Lidocaine",
+      "Propofol",
+      "Ketamine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6528f5f694de8cadcab9389e49a4bd9290e6c78ebcb311599c864ec81c3cc695",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "hard",
+    "question_text": "Which diabetes medication is derived from the Gila monster's saliva?",
+    "correct_answer": "Exenatide",
+    "choices": [
+      "Metformin",
+      "Insulin",
+      "Exenatide",
+      "Glipizide"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8272c4c61eb53f4cbf5b553a87672743c2309635e89d07c132b1ca1619a45344",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "What class of blood pressure medications ends in '-pril'?",
+    "correct_answer": "ACE inhibitors",
+    "choices": [
+      "Beta blockers",
+      "Calcium channel blockers",
+      "ACE inhibitors",
+      "Diuretics"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e30880944739efc119d1c004979123b53d77d8f4f582e3dab8e065e084e6f177",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Which chemotherapy drug was originally derived from the Pacific yew tree?",
+    "correct_answer": "Paclitaxel",
+    "choices": [
+      "Doxorubicin",
+      "Paclitaxel",
+      "Cisplatin",
+      "Methotrexate"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "73f4d132ecd76f4bc9af69772872ff279a524810d28e90e8bac62a235377ffa4",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "What type of medication is epinephrine (adrenaline) classified as?",
+    "correct_answer": "Sympathomimetic",
+    "choices": [
+      "Sympathomimetic",
+      "Parasympathomimetic",
+      "Sympatholytic",
+      "Anticholinergic"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cc224ab5def4d1ea2accb50ec8a7ba8d3789eab71d8331afeadf0bdc4ac9016e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Which over-the-counter pain reliever is also a blood thinner at low doses?",
+    "correct_answer": "Aspirin",
+    "choices": [
+      "Ibuprofen",
+      "Acetaminophen",
+      "Aspirin",
+      "Naproxen"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8e008c86c47407cd7c47cdc76c4c0caf139616ee4c893b0351af08e647bd3388",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "hard",
+    "question_text": "What is the name of the first effective treatment for syphilis, discovered in 1909?",
+    "correct_answer": "Salvarsan",
+    "choices": [
+      "Penicillin",
+      "Salvarsan",
+      "Streptomycin",
+      "Sulfa drug"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "9cc1cf4a72ef5527be759e5ce98c43f98d7d1de916dee595a869c971ba37e065",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Which class of sedative drugs includes diazepam (Valium)?",
+    "correct_answer": "Benzodiazepines",
+    "choices": [
+      "Barbiturates",
+      "Benzodiazepines",
+      "Opioids",
+      "Antipsychotics"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4ef2188c4cd0437ed031d7dfeea0ce15b49b3fc3a024b578b7f2b1047eb761ab",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "hard",
+    "question_text": "What vitamin deficiency does the drug warfarin most closely mimic?",
+    "correct_answer": "Vitamin K",
+    "choices": [
+      "Vitamin D",
+      "Vitamin K",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "3c01b4101bd0b8c57ffe73f384e96050a415fafaf91d86671fed1bcc6e47b72e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "What is the generic name for the brand-name drug Lipitor?",
+    "correct_answer": "Atorvastatin",
+    "choices": [
+      "Atorvastatin",
+      "Simvastatin",
+      "Rosuvastatin",
+      "Pravastatin"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "da8feeae5da36260531006f761033946300f558e548006d98d38454cb2cb881b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Which medication is used to treat anaphylactic shock?",
+    "correct_answer": "Epinephrine",
+    "choices": [
+      "Epinephrine",
+      "Diphenhydramine",
+      "Albuterol",
+      "Prednisone"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "4a5f385de861f48be9349b8ad8e8cf1b895f40ed1d2ae21dc678a277cd8b324e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "What type of drug is sildenafil (Viagra) classified as?",
+    "correct_answer": "PDE5 inhibitor",
+    "choices": [
+      "Beta blocker",
+      "PDE5 inhibitor",
+      "ACE inhibitor",
+      "Alpha blocker"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1ee7096b13ce4eb7e72c913ef2e05423407e8d1158f78fdcc58c548fb6a8f624",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Which ancient pain remedy, derived from the opium poppy, has been used for thousands of years?",
+    "correct_answer": "Morphine",
+    "choices": [
+      "Aspirin",
+      "Morphine",
+      "Quinine",
+      "Digitalis"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "bff15269d3e3a50ee47f60feac20cd032d3198520a6815462a5a87141841080b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What is the most common side effect of antibiotics?",
+    "correct_answer": "Diarrhea",
+    "choices": [
+      "Headache",
+      "Diarrhea",
+      "Insomnia",
+      "Rash"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "a081dc73167d197dd97e0cca8cfa2fa4ff7f3c062b79048c7a33dcff24afcfbf",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Which antimalarial drug was historically mixed with gin to make the drink more palatable?",
+    "correct_answer": "Quinine",
+    "choices": [
+      "Chloroquine",
+      "Quinine",
+      "Artemisinin",
+      "Mefloquine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "feaface1e1ea1541c6900761aad1e94b684e9513a6f908201cd88e308fbc1775",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What is the generic name of the drug commonly sold as Advil?",
+    "correct_answer": "Ibuprofen",
+    "choices": [
+      "Acetaminophen",
+      "Ibuprofen",
+      "Naproxen",
+      "Ketoprofen"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "55e1f97ce1bfcc295e4073f7ee1c1fa0a046ac70a14a9cc8e8863a895777ee83",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "Which class of cholesterol-lowering drugs ends in '-statin'?",
+    "correct_answer": "Statins",
+    "choices": [
+      "Statins",
+      "Fibrates",
+      "Bile acid sequestrants",
+      "Ezetimibe"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "80c4cdfb475a634d08579249dfa2492a91cee9c571219ba838b8f4a21c7c8b9b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What organ in the body metabolizes most medications?",
+    "correct_answer": "Liver",
+    "choices": [
+      "Kidneys",
+      "Liver",
+      "Spleen",
+      "Pancreas"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "deb1fa688bd8bef700da22647caef8fd749e27dd3e696871a11b0dcd544798da",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Which antiepileptic drug is also commonly used to treat bipolar disorder?",
+    "correct_answer": "Valproic acid",
+    "choices": [
+      "Phenytoin",
+      "Valproic acid",
+      "Carbamazepine",
+      "Lamotrigine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "44ce521a67ad05ca929c0b98bda03998141d1c2df4c94ba86f7df7d527dff560",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "easy",
+    "question_text": "What does the abbreviation OTC stand for in medicine?",
+    "correct_answer": "Over the counter",
+    "choices": [
+      "Over the counter",
+      "On the chart",
+      "Outpatient treatment center",
+      "Optimal therapeutic course"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "21a998486f37c8d07bb0c2d9f8b9d370ae349b45a6cae1aad440776c853172cb",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "Which general anesthetic is nicknamed 'milk of amnesia' due to its white color?",
+    "correct_answer": "Propofol",
+    "choices": [
+      "Propofol",
+      "Ketamine",
+      "Midazolam",
+      "Thiopental"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6f9998757bf039055a7867ef743284c5daefe27877b64e7c827f9e017b05f75c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "pharmacology",
+    "difficulty": "medium",
+    "question_text": "What was the first commercially available antibiotic?",
+    "correct_answer": "Penicillin",
+    "choices": [
+      "Sulfanilamide",
+      "Penicillin",
+      "Streptomycin",
+      "Tetracycline"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8108da324286f45350f8b7cabcb51bc9d4e1280f0e6702d6613d03629959e914",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What is the medical specialty concerned with operative procedures?",
+    "correct_answer": "Surgery",
+    "choices": [
+      "Cardiology",
+      "Surgery",
+      "Radiology",
+      "Dermatology"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8d91d05ec3d894da997f8e996da57a243d10432d654916d4fb9a43ef77650c9e",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What is the term for a surgical procedure to remove the appendix?",
+    "correct_answer": "Appendectomy",
+    "choices": [
+      "Appendectomy",
+      "Cholecystectomy",
+      "Colectomy",
+      "Gastrectomy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "587f5d3b30cceaadbb3c17b121f17b3af2cf2940798d7e77ec1d9bfbdaa8da45",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What is the surgical removal of the gallbladder called?",
+    "correct_answer": "Cholecystectomy",
+    "choices": [
+      "Appendectomy",
+      "Cholecystectomy",
+      "Nephrectomy",
+      "Splenectomy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f1f26c0153abbdf3f0d6e6cf971e225bcb66e1b2ceefb5708b3c7ec1b6ab0a05",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What does the term '-ectomy' mean in surgical terminology?",
+    "correct_answer": "Surgical removal",
+    "choices": [
+      "Surgical repair",
+      "Surgical incision",
+      "Surgical removal",
+      "Surgical examination"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "796262f25f33c9513384b2c9b88288f513f99920dc91969b52699ecbfbee8faa",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Which surgical instrument is used to clamp blood vessels during surgery?",
+    "correct_answer": "Hemostat",
+    "choices": [
+      "Scalpel",
+      "Hemostat",
+      "Retractor",
+      "Forceps"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "483411fa38101404fe14eac2fbe8d522881740437e95202750420c839b0e8954",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is the name of the robot-assisted surgical system developed by Intuitive Surgical?",
+    "correct_answer": "da Vinci Surgical System",
+    "choices": [
+      "da Vinci Surgical System",
+      "ROSA",
+      "MAKO",
+      "CyberKnife"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0c27f8e3ef7b8f555c7d47a46b73adbb57c618e8e87950f00d95e1ec9ad0ea01",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What type of surgery uses small incisions and a camera?",
+    "correct_answer": "Laparoscopic surgery",
+    "choices": [
+      "Laparoscopic surgery",
+      "Open surgery",
+      "Microsurgery",
+      "Cryosurgery"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b591b4a20ce22c2bb28af18201c72b08cea89df1aed771003282815faa9ca95f",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What is the medical term for a nose job?",
+    "correct_answer": "Rhinoplasty",
+    "choices": [
+      "Rhinoplasty",
+      "Septoplasty",
+      "Blepharoplasty",
+      "Rhytidectomy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7e3f6f84ec3e63c684a7b17492d1e22bfd3512e3425d520dfd603664b7bbbc39",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What is the surgical removal of a kidney called?",
+    "correct_answer": "Nephrectomy",
+    "choices": [
+      "Nephrectomy",
+      "Hepatotomy",
+      "Splenectomy",
+      "Cystectomy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "c392ac66804b6c869f915b9786e876ad61bcddccfe7b5e90835254f464638390",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Which type of suture material dissolves naturally in the body over time?",
+    "correct_answer": "Absorbable sutures",
+    "choices": [
+      "Absorbable sutures",
+      "Non-absorbable sutures",
+      "Silk sutures",
+      "Staples"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f630e6479813e81b99043c5405bd18ebff0ec37a93cdfbc632dff97b664ed68c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is the term for a surgical opening made in the trachea?",
+    "correct_answer": "Tracheostomy",
+    "choices": [
+      "Tracheostomy",
+      "Lobotomy",
+      "Colostomy",
+      "Thoracotomy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6cb61a7c19abb6457d67ec7de3d770a2065f1a08f7f2643ea9d619f55b1370c8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is a coronary artery bypass graft (CABG) surgery commonly called?",
+    "correct_answer": "Heart bypass surgery",
+    "choices": [
+      "Heart bypass surgery",
+      "Valve replacement",
+      "Angioplasty",
+      "Pacemaker insertion"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2b5f482a64269584f75ad76f65457823a31d9c8024c1e42ed16e691584361434",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What does the surgical term '-otomy' mean?",
+    "correct_answer": "Cutting into",
+    "choices": [
+      "Removing",
+      "Cutting into",
+      "Repairing",
+      "Viewing"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "74b8685d52ffa0b4494fe160ddec4e44fec8380b024075a2a71476fb47f09dc9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is the most commonly performed surgical procedure worldwide?",
+    "correct_answer": "Cesarean section",
+    "choices": [
+      "Appendectomy",
+      "Cesarean section",
+      "Cataract surgery",
+      "Hernia repair"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7948fe0f576096cb47fd98577adf0a48edcab39fd02f68b0992db95850f028f7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What does the term '-plasty' mean in surgical terminology?",
+    "correct_answer": "Surgical repair or reshaping",
+    "choices": [
+      "Surgical removal",
+      "Surgical incision",
+      "Surgical repair or reshaping",
+      "Surgical viewing"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2460f192442ae83f27f9cab21b6ec5cf07bd1864abd0ac9213354865b6a173be",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is the procedure to examine the inside of a joint called?",
+    "correct_answer": "Arthroscopy",
+    "choices": [
+      "Arthroscopy",
+      "Laparoscopy",
+      "Endoscopy",
+      "Colonoscopy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "79f694fb96de78188219dd64d863c2ad35fc0bb4d940d9cb78238114ff3a883c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "Which surgical specialty focuses on the brain and nervous system?",
+    "correct_answer": "Neurosurgery",
+    "choices": [
+      "Neurosurgery",
+      "Cardiothoracic surgery",
+      "Orthopedic surgery",
+      "Vascular surgery"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "068a0b32df0cd38d3085c57b48ea0027ea3d8640ae2ec5e9a73ca7f54a1dcf88",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is the surgical removal of the spleen called?",
+    "correct_answer": "Splenectomy",
+    "choices": [
+      "Splenectomy",
+      "Nephrectomy",
+      "Pancreatectomy",
+      "Gastrectomy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "07ffe6b4dd7f9d51db97d45fe815cb3f9d7cfa2885ec2ee5eac4016fe91877e8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What was the first organ to be successfully transplanted in a human?",
+    "correct_answer": "Kidney",
+    "choices": [
+      "Heart",
+      "Kidney",
+      "Liver",
+      "Lung"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "df501b414388d8a3c582039253987c643f1a196b598a6305290f66307427b907",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What is a mastectomy?",
+    "correct_answer": "Surgical removal of the breast",
+    "choices": [
+      "Surgical removal of the breast",
+      "Surgical removal of the stomach",
+      "Surgical removal of the thyroid",
+      "Surgical removal of the lymph nodes"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "faed71fe7819cc18ee5d720a5b9ca6d2888dc8187bafb32511ee196f29d54267",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What does the term '-ostomy' mean in surgery?",
+    "correct_answer": "Creating an artificial opening",
+    "choices": [
+      "Removing tissue",
+      "Creating an artificial opening",
+      "Repairing tissue",
+      "Cutting into tissue"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "148f0bc906e46f85d67d176d3d0224910a8324993a9b8976f182a6a69933cc47",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "Which type of surgery uses extreme cold to destroy abnormal tissue?",
+    "correct_answer": "Cryosurgery",
+    "choices": [
+      "Cryosurgery",
+      "Laser surgery",
+      "Electrosurgery",
+      "Radiosurgery"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "36185ee2f6bc8d3864ba80452548272560ec2d423ccc357e129ba76dd9675a48",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is the medical term for a facelift?",
+    "correct_answer": "Rhytidectomy",
+    "choices": [
+      "Rhinoplasty",
+      "Rhytidectomy",
+      "Blepharoplasty",
+      "Otoplasty"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "af6cbeaef6860588ed0d69f49c486659192246a94ced6c63832161e1b6a24cce",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "medium",
+    "question_text": "What is an angioplasty used to treat?",
+    "correct_answer": "Narrowed or blocked blood vessels",
+    "choices": [
+      "Broken bones",
+      "Narrowed or blocked blood vessels",
+      "Tumors",
+      "Joint pain"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7e8124018e997a7379a37fb99ec42ab843221b6f984f09de0888e49d80d3f4a3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "surgery",
+    "difficulty": "easy",
+    "question_text": "What is the term for surgery to remove a cataract in the eye?",
+    "correct_answer": "Phacoemulsification",
+    "choices": [
+      "LASIK",
+      "Phacoemulsification",
+      "Vitrectomy",
+      "Keratoplasty"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ff7bc438709abda05f52cc9ac019d311e8f1dc73965a6df1bff06a21d17a6f09",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "What is the term for introducing a weakened form of a pathogen to stimulate immunity?",
+    "correct_answer": "Vaccination",
+    "choices": [
+      "Inoculation",
+      "Vaccination",
+      "Immunosuppression",
+      "Antibiotic therapy"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "5b45b6af3d8eb73a60fb3453a05f7fc42e3044b8428bd5190606429cc680c947",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Who developed the first smallpox vaccine using cowpox?",
+    "correct_answer": "Edward Jenner",
+    "choices": [
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Jonas Salk",
+      "Robert Koch"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "e23c28c02c9460760b03b5b84399e97949b2cd362c9966857ae81cd21e8221c2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "What type of immunity results from receiving a vaccine?",
+    "correct_answer": "Active immunity",
+    "choices": [
+      "Passive immunity",
+      "Active immunity",
+      "Innate immunity",
+      "Natural immunity"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "6e4eba12c5a2d953e968bcc142bbc9359cd929a7eb780dce218daf5711eea7d1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "What is the name of the combined vaccine for diphtheria, tetanus, and pertussis?",
+    "correct_answer": "DTaP",
+    "choices": [
+      "MMR",
+      "DTaP",
+      "Hib",
+      "IPV"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "f6f050835212886fecb48728f38b19499a121cd4d653f7e41e6a8eea5b39bbf9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Which diseases does the MMR vaccine protect against?",
+    "correct_answer": "Measles, Mumps, Rubella",
+    "choices": [
+      "Measles, Mumps, Rabies",
+      "Measles, Mumps, Rubella",
+      "Measles, Malaria, Rubella",
+      "Meningitis, Mumps, Rubella"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "65c1ef5f59ff62d355f1f2f23583dad11bc84bf24b9858306daca8092a723525",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "What substance is sometimes added to vaccines to enhance the immune response?",
+    "correct_answer": "Adjuvant",
+    "choices": [
+      "Antibiotic",
+      "Adjuvant",
+      "Antioxidant",
+      "Anticoagulant"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8b9fe06997c0aecfb5b5107ca455ce6ef8cfa73bef07ddab45f05808c25f7be7",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "What vaccine was developed by Jonas Salk and later improved by Albert Sabin?",
+    "correct_answer": "Polio vaccine",
+    "choices": [
+      "Measles vaccine",
+      "Polio vaccine",
+      "Tetanus vaccine",
+      "Rabies vaccine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d48251e2f1df85c0c1dc55014cefd59c6342b998a5e432d6fd1e5fc18d6377e9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Which type of vaccine uses a harmless virus to deliver genetic material from a pathogen?",
+    "correct_answer": "Viral vector vaccine",
+    "choices": [
+      "Inactivated vaccine",
+      "Viral vector vaccine",
+      "Subunit vaccine",
+      "Toxoid vaccine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "035442fb8ce6bc64b959fef085abe366744dca6be42e957f9f3b51849e6a2b7d",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "What does 'herd immunity' refer to?",
+    "correct_answer": "Protection of a population when enough people are immune",
+    "choices": [
+      "Immunity passed from mother to child",
+      "Protection of a population when enough people are immune",
+      "Immunity from a previous infection",
+      "Immunity conferred by antibiotics"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "36191a358ed7bcd500acafb79d7c1f0523f6c2625a49fd1acba42e3d0b08bc3b",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "What type of vaccine is the tetanus vaccine?",
+    "correct_answer": "Toxoid vaccine",
+    "choices": [
+      "Live attenuated vaccine",
+      "Inactivated vaccine",
+      "Toxoid vaccine",
+      "mRNA vaccine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "0081b3086c095498b97b90588f6ca4907f3f05d1c34eac5283a9a59daf12e9b1",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "Which mRNA vaccines were developed for protection against COVID-19?",
+    "correct_answer": "Pfizer-BioNTech and Moderna",
+    "choices": [
+      "Johnson & Johnson and AstraZeneca",
+      "Pfizer-BioNTech and Moderna",
+      "Sinovac and Sinopharm",
+      "Novavax and Sputnik V"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "ed885860e3ae464e39f032e176dee456eb4da7a0df96a908c3976a5b87482a27",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "What is the annual vaccine developed to protect against seasonal respiratory illness?",
+    "correct_answer": "Flu vaccine",
+    "choices": [
+      "COVID-19 vaccine",
+      "Flu vaccine",
+      "RSV vaccine",
+      "Pneumonia vaccine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "2ebf1084a96baca501f8b8676363e1b5d6802de608013240615023873c6be0de",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "hard",
+    "question_text": "At what temperature must the Pfizer-BioNTech COVID-19 vaccine initially be stored?",
+    "correct_answer": "-70C (-94F)",
+    "choices": [
+      "-20C (-4F)",
+      "-40C (-40F)",
+      "-70C (-94F)",
+      "-10C (14F)"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "cf1b886f857608dc1c83ef005da458b5365bb5400c70804ee20e4a3fae9559a3",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "What disease, prevented by the HPV vaccine, is the most common sexually transmitted infection?",
+    "correct_answer": "Human papillomavirus",
+    "choices": [
+      "Herpes simplex",
+      "Human papillomavirus",
+      "Chlamydia",
+      "Gonorrhea"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "75e212679ad0fb35168dc3da7dc8a9617df9ad90d312162bae3ad7c22132a5b8",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "hard",
+    "question_text": "What does WHO's EPI stand for?",
+    "correct_answer": "Expanded Programme on Immunization",
+    "choices": [
+      "Essential Pediatric Immunization",
+      "Expanded Programme on Immunization",
+      "Emergency Pandemic Initiative",
+      "Epidemiological Prevention Institute"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "b57edf1b55bd8a5b9610d258251ebb3a1ff2af46a5ae469dbe0e996ca3a073e0",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "What is the BCG vaccine used to protect against?",
+    "correct_answer": "Tuberculosis",
+    "choices": [
+      "Measles",
+      "Tuberculosis",
+      "Polio",
+      "Tetanus"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "16ef1e04e7938d3bf27536614bc67edacd491b05ef5b57ed5a45052db70e91bd",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "What famous experiment confirmed that cowpox protected against smallpox?",
+    "correct_answer": "Jenner's experiment on James Phipps",
+    "choices": [
+      "Pasteur's anthrax trial",
+      "Jenner's experiment on James Phipps",
+      "Salk's polio field trial",
+      "Koch's tuberculin test"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "1ff7fced88976d474619064ec199dbd7d3d2b571e46a7b37468c23fc654c04d9",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "medium",
+    "question_text": "Which type of vaccine contains weakened but living forms of the pathogen?",
+    "correct_answer": "Live attenuated vaccine",
+    "choices": [
+      "Inactivated vaccine",
+      "Live attenuated vaccine",
+      "Subunit vaccine",
+      "Toxoid vaccine"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "7d02af6334b8ef4242a48bd05d6997b5a410d4610e30d0528e4b36764bcf30b2",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "easy",
+    "question_text": "What disease has been completely eradicated through vaccination?",
+    "correct_answer": "Smallpox",
+    "choices": [
+      "Polio",
+      "Smallpox",
+      "Measles",
+      "Mumps"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "d17e6a1a0d0e35e2f4287e2a28b4038c8294ab3c292dfaa71a8e58829a17d17c",
+    "language": "zh-tw"
+  },
+  {
+    "category": "vaccines",
+    "difficulty": "hard",
+    "question_text": "What is the vaccine for rabies first developed by Louis Pasteur made from?",
+    "correct_answer": "Dried spinal cords from infected rabbits",
+    "choices": [
+      "Cowpox virus",
+      "Dried spinal cords from infected rabbits",
+      "Weakened bacteria",
+      "Synthetic proteins"
+    ],
+    "image_asset": null,
+    "theme": "medical",
+    "translation_key": "8fc7be54a7d2fb1d15705e26eb755cc60e02cb3a3864f43be647b226815ba9bb",
+    "language": "zh-tw"
+  }
+]

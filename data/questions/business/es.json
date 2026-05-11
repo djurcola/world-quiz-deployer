@@ -1,0 +1,5362 @@
+[
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What is the accounting equation?",
+    "correct_answer": "Assets = Liabilities + Equity",
+    "choices": [
+      "Assets = Liabilities + Equity",
+      "Revenue = Expenses + Profit",
+      "Assets = Revenue - Expenses",
+      "Equity = Assets + Liabilities"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "3e73540d14be34ac22311fd601b958b131df59ffd2dfac88f9fff82dbcdf112f",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "Which financial statement shows a company's revenues and expenses over a period?",
+    "correct_answer": "Income Statement",
+    "choices": [
+      "Income Statement",
+      "Balance Sheet",
+      "Statement of Cash Flows",
+      "Statement of Retained Earnings"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "5be46920ba79672962ec50705f6c306a47632d773e3487898040fb0b006a612d",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What principle requires that expenses be matched with the revenues they helped generate?",
+    "correct_answer": "Matching Principle",
+    "choices": [
+      "Matching Principle",
+      "Revenue Recognition Principle",
+      "Historical Cost Principle",
+      "Full Disclosure Principle"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "732f942beae02474307213619f2fbb87609168e498298349137ad02134e40c11",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What does GAAP stand for?",
+    "correct_answer": "Generally Accepted Accounting Principles",
+    "choices": [
+      "Generally Accepted Accounting Principles",
+      "Generally Approved Audit Procedures",
+      "Global Accounting and Auditing Protocol",
+      "Government Authorized Accounting Policy"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "59b33dc6d230dde992b62679d740ad2453d57506289b111d523bfaa2b79aada9",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "Which accounting method records revenue when it is earned, regardless of when cash is received?",
+    "correct_answer": "Accrual Accounting",
+    "choices": [
+      "Accrual Accounting",
+      "Cash Basis Accounting",
+      "Modified Cash Accounting",
+      "Tax Basis Accounting"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a37d511cea9499538041aa525044f45ad65c94c57949ca5188681fd451e463bd",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What type of account is 'Accounts Receivable'?",
+    "correct_answer": "Asset",
+    "choices": [
+      "Asset",
+      "Liability",
+      "Equity",
+      "Expense"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "642453548838edc4a8b3b86c1d180fe81ec5acac01aabaa2ca97146f14464607",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "Which financial statement is a snapshot of a company's financial position at a specific point in time?",
+    "correct_answer": "Balance Sheet",
+    "choices": [
+      "Balance Sheet",
+      "Income Statement",
+      "Cash Flow Statement",
+      "Trial Balance"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "eb6f9e624c462b29955b39df514f7c2c71e2be539773ce0e2d6a7741c21ba825",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What does EBITDA stand for?",
+    "correct_answer": "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+    "choices": [
+      "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+      "Earnings Before Income, Taxes, Dividends, and Assets",
+      "Equity Based Interest Tax Depreciation Allocation",
+      "Earnings Basis Including Tax Deductions and Adjustments"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1bbac6d4984d9a528129091524e3e932e18600469ae380076cc967fef7d94b93",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "In double-entry bookkeeping, what must always be true for every transaction?",
+    "correct_answer": "Debits must equal credits",
+    "choices": [
+      "Debits must equal credits",
+      "Assets must exceed liabilities",
+      "Revenue must exceed expenses",
+      "Cash must increase"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "bd31bdb14c77af9f02c77a41f9dd8452d9c64c7653f45342166c906826a93a0f",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What is depreciation?",
+    "correct_answer": "The allocation of an asset's cost over its useful life",
+    "choices": [
+      "The allocation of an asset's cost over its useful life",
+      "The decrease in an asset's market value",
+      "The sale of an asset at a loss",
+      "The increase in an asset's book value over time"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c7ad9bc59aab86ee7005489bbdc9444c8cb776edf5cef10a7885c9ae4e285ae0",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "Which inventory valuation method assumes the oldest items are sold first?",
+    "correct_answer": "FIFO",
+    "choices": [
+      "FIFO",
+      "LIFO",
+      "Weighted Average",
+      "Specific Identification"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1fd674636f11ca8afe12018f2664c8e23901822f95481a79c7ac27c922440140",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What is 'Goodwill' in accounting?",
+    "correct_answer": "The excess of purchase price over the fair value of net assets acquired",
+    "choices": [
+      "The excess of purchase price over the fair value of net assets acquired",
+      "The value of a company's brand reputation",
+      "The amount customers are willing to pay above market price",
+      "A company's charitable contributions"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "228f0d1dd2fd1918ffcf258680335b8875d87ffc4890dfa6a3b2b93e735dec90",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What does IFRS stand for?",
+    "correct_answer": "International Financial Reporting Standards",
+    "choices": [
+      "International Financial Reporting Standards",
+      "International Fiscal Regulation System",
+      "Integrated Financial Reporting Services",
+      "Internal Finance and Revenue Standards"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "14a9f5f4330aed7ffdecbf2a1c74a8238bdb9782de93c9805491e5b2c682aa24",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "hard",
+    "question_text": "Which account is NOT considered a current liability?",
+    "correct_answer": "Bonds Payable (10-year)",
+    "choices": [
+      "Bonds Payable (10-year)",
+      "Accounts Payable",
+      "Accrued Expenses",
+      "Short-term Notes Payable"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "36251955e3cfde20d2d2bc2688c4298e7075c19b116da7737ea83b309f889e84",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What is the purpose of a trial balance?",
+    "correct_answer": "To verify that total debits equal total credits",
+    "choices": [
+      "To verify that total debits equal total credits",
+      "To calculate net income",
+      "To determine tax liability",
+      "To assess company valuation"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0eeca179d0f555d5de8e2cc9b83eeeec4e962924d493bb1912049e3c08782ca8",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "Which of the following is an intangible asset?",
+    "correct_answer": "Patent",
+    "choices": [
+      "Patent",
+      "Inventory",
+      "Factory Building",
+      "Delivery Truck"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a6e9a7ea69b42f5dd1159329570bd25f91eb073fd3aa0eef0c870d81fad38d8a",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What is working capital?",
+    "correct_answer": "Current Assets minus Current Liabilities",
+    "choices": [
+      "Current Assets minus Current Liabilities",
+      "Total Assets minus Total Liabilities",
+      "Cash minus Debt",
+      "Revenue minus Expenses"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "09c576b8a57fe0e3638f7b1d4b1ebf7127274a7bdfebd3468315781478d76afc",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What is the primary purpose of an audit?",
+    "correct_answer": "To provide reasonable assurance that financial statements are free of material misstatement",
+    "choices": [
+      "To provide reasonable assurance that financial statements are free of material misstatement",
+      "To calculate the company's tax liability",
+      "To determine if the company is profitable",
+      "To set the company's stock price"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "37379945d28d5b9a8a150363c5b50bb7381c1540473b7387fc466b10f587f928",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What is 'Retained Earnings'?",
+    "correct_answer": "Accumulated net income not distributed as dividends",
+    "choices": [
+      "Accumulated net income not distributed as dividends",
+      "Cash held in reserve for emergencies",
+      "Future expected profits",
+      "Revenue from ongoing operations"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "19738dbd43c09779e4fa6b80e6a1fc01cb090801522418002909ac8b95bd943a",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "hard",
+    "question_text": "Which depreciation method results in higher depreciation expense in the early years of an asset's life?",
+    "correct_answer": "Double-Declining Balance",
+    "choices": [
+      "Double-Declining Balance",
+      "Straight-Line",
+      "Units of Production",
+      "Sum-of-the-Years'-Digits"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2d1517492edf05dd4d08258318240fccadca639a5428a1b93f5a7969b7a7d65a",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What does 'liquidity' mean in accounting?",
+    "correct_answer": "How quickly an asset can be converted to cash",
+    "choices": [
+      "How quickly an asset can be converted to cash",
+      "How much cash a company holds",
+      "How profitable a company is",
+      "How much debt a company has"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a8dbfbf2f4855b607d09117dc795b6f10066ea83f3a24062e9e2c8e70b5e8397",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "On a balance sheet, which order are assets typically listed?",
+    "correct_answer": "In order of liquidity",
+    "choices": [
+      "In order of liquidity",
+      "Alphabetically",
+      "In order of value, largest first",
+      "In order of acquisition date"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7e68fe88128ef985b04ce4554f9da835094b40f235a82e45e931be21041cf768",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "hard",
+    "question_text": "What is a 'contra asset' account?",
+    "correct_answer": "An account that reduces the value of a related asset account",
+    "choices": [
+      "An account that reduces the value of a related asset account",
+      "An account that increases the value of a liability",
+      "An account that tracks off-balance-sheet items",
+      "An account used only for tax purposes"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "9a2bcfbdf73075618ee82078cb15a54e68814258b75793e7b91664f6469058d5",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What is the formula for calculating Gross Profit?",
+    "correct_answer": "Revenue minus Cost of Goods Sold",
+    "choices": [
+      "Revenue minus Cost of Goods Sold",
+      "Revenue minus Operating Expenses",
+      "Revenue minus Total Expenses",
+      "Revenue minus Taxes"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "894baed0025832e12a305bd76d49f3850fae05d27ff46cb5a4e0db370c9f8a46",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "Which of these is an example of an operating expense?",
+    "correct_answer": "Salaries and Wages",
+    "choices": [
+      "Salaries and Wages",
+      "Purchase of Equipment",
+      "Dividend Payments",
+      "Issuing Stock"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7ffdad7a882e2ec45c463d2e3978de92fce9b6642dee87bde215e0e9897604ad",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What section does 'Cash' belong to on the balance sheet?",
+    "correct_answer": "Current Assets",
+    "choices": [
+      "Current Assets",
+      "Non-Current Assets",
+      "Current Liabilities",
+      "Equity"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b47e18c04fdd2a2386b13400b7638f6226fa00ce694a9e25c6c4f2b5e9745cc9",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What does it mean when a company's current ratio is less than 1?",
+    "correct_answer": "Current liabilities exceed current assets",
+    "choices": [
+      "Current liabilities exceed current assets",
+      "The company is highly profitable",
+      "The company has no debt",
+      "The company is overvalued"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7084c93408b056f940f92148c369757159b8a7f863a5775167c180ec032d2af8",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "hard",
+    "question_text": "Which inventory valuation method is NOT allowed under IFRS?",
+    "correct_answer": "LIFO",
+    "choices": [
+      "LIFO",
+      "FIFO",
+      "Weighted Average",
+      "Specific Identification"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "42d3f6478d1a64162e0e327855d1646baa9e6bbeac127ee39d374218be8e26de",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "easy",
+    "question_text": "What is 'Accounts Payable' classified as?",
+    "correct_answer": "Current Liability",
+    "choices": [
+      "Current Liability",
+      "Current Asset",
+      "Long-term Liability",
+      "Equity"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "86b882eb47e7e394353cc6b1ee83d101349741802bc20065500134b56ce5d14e",
+    "language": "es"
+  },
+  {
+    "category": "accounting",
+    "difficulty": "medium",
+    "question_text": "What is the purpose of a bank reconciliation?",
+    "correct_answer": "To match the company's cash records with the bank statement",
+    "choices": [
+      "To match the company's cash records with the bank statement",
+      "To calculate interest earned",
+      "To determine creditworthiness",
+      "To file a tax return"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "fa728fc8be5d9e7945cc9de0a2c8e8a24c620cc101ac5eed9b2af8a23eb2dd07",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which company's slogan is 'Just Do It'?",
+    "correct_answer": "Nike",
+    "choices": [
+      "Nike",
+      "Adidas",
+      "Under Armour",
+      "Puma"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "fd091247dffd08b1e60c0ffd00755f95c9c1ae18299a1478b1d50c503b934e0b",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What does the 'M' in McDonald's logo represent?",
+    "correct_answer": "Golden Arches",
+    "choices": [
+      "Golden Arches",
+      "McDonald",
+      "Meals",
+      "Management"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0d132ec63dbfce9262c8982d22e79130d8033484c8ca4cceaaa0a63661fa36f8",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which company's logo is a bitten apple?",
+    "correct_answer": "Apple Inc.",
+    "choices": [
+      "Apple Inc.",
+      "Microsoft",
+      "Samsung",
+      "Amazon"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "602996fd7c6958dbe9a2c31922bb734aedc1386bf9dce449c4f5c21f42d484ca",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What color is the Coca-Cola logo predominantly?",
+    "correct_answer": "Red",
+    "choices": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c1049ea94e53f2d4de967f31a573e05c235377bb6e834989777a8cc716a9ad85",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which car company's logo features a prancing horse?",
+    "correct_answer": "Ferrari",
+    "choices": [
+      "Ferrari",
+      "Lamborghini",
+      "Porsche",
+      "Maserati"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e85c189082797633c1e055730168dce3999d74545d1f1fa0f91320b28d9a33f0",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "What is the slogan of L'Oreal?",
+    "correct_answer": "Because You're Worth It",
+    "choices": [
+      "Because You're Worth It",
+      "Maybe She's Born With It",
+      "The Best a Man Can Get",
+      "Impossible is Nothing"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "479c99a66f707fcaade9ff5eec4ac23253e40e5a1e26a71592ef85778a7891e4",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which company's logo is a swoosh?",
+    "correct_answer": "Nike",
+    "choices": [
+      "Nike",
+      "Adidas",
+      "Reebok",
+      "New Balance"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "3ce2fdde7cb0ad4882004f5f13f7c80316896ec788bbe67289b7baf932fbc0ba",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which tech company's logo is a four-color window pane?",
+    "correct_answer": "Microsoft",
+    "choices": [
+      "Microsoft",
+      "Apple",
+      "Google",
+      "IBM"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c02293f384fc7ab3880c4cb3217b4bcf111ddf323af5036493d82f56b639e66a",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "What animal is in the Lacoste logo?",
+    "correct_answer": "Crocodile",
+    "choices": [
+      "Crocodile",
+      "Alligator",
+      "Lizard",
+      "Snake"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "40d85f1df97371eef2545aa1b630b8c02fc3a88fdeb74b3ab677bc83df59242c",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which airline's logo features a kangaroo?",
+    "correct_answer": "Qantas",
+    "choices": [
+      "Qantas",
+      "Emirates",
+      "Singapore Airlines",
+      "Air New Zealand"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2cc94dc5f53dae6d125b2b68f6734ef036719936ccf92783fc76bc16c82db51b",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "What company owns Instagram?",
+    "correct_answer": "Meta",
+    "choices": [
+      "Meta",
+      "Google",
+      "Apple",
+      "Amazon"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b7e2cd9c7999870be6e0f012da2143a4b98774a878fec9075c21b3ab67a424e0",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "Which luxury brand's logo features two interlocking C's?",
+    "correct_answer": "Chanel",
+    "choices": [
+      "Chanel",
+      "Coach",
+      "Cartier",
+      "Calvin Klein"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "17893ffb34902e42429f4ba045ad4d47f70bff0b534fd6067e78633e4ef94a39",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "What does the Starbucks logo depict?",
+    "correct_answer": "A siren",
+    "choices": [
+      "A siren",
+      "A mermaid",
+      "A coffee bean",
+      "A ship"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "3822c2d0243d73ce051b782e785c0c03cb70371be9746db32fcf3a5917c5ea24",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "Which company uses the slogan 'Think Different'?",
+    "correct_answer": "Apple",
+    "choices": [
+      "Apple",
+      "IBM",
+      "Google",
+      "Microsoft"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1dce79de711720c80044333ac9620711ca3366825ed2039998b49efe07a25377",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What is the name of Amazon's voice assistant?",
+    "correct_answer": "Alexa",
+    "choices": [
+      "Alexa",
+      "Siri",
+      "Cortana",
+      "Bixby"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "37d11a8c5309061a4430d7bcd4ac5f31645a80e7620f8f3baa969e7f6317f7f2",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "Which car brand uses the tagline 'The Ultimate Driving Machine'?",
+    "correct_answer": "BMW",
+    "choices": [
+      "BMW",
+      "Mercedes-Benz",
+      "Audi",
+      "Lexus"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c3bab61551d01c5b7d352ca7b0ea888215ec2538d127e3c939e17c94a9486801",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What fast-food chain's mascot is a clown?",
+    "correct_answer": "McDonald's",
+    "choices": [
+      "McDonald's",
+      "Burger King",
+      "Wendy's",
+      "KFC"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "956979f2c164cf085f691e63752d844d1ccbd921b004781954e164f8bff1f582",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which social media company's logo is a blue bird?",
+    "correct_answer": "Twitter",
+    "choices": [
+      "Twitter",
+      "Facebook",
+      "LinkedIn",
+      "Snapchat"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a4287697f86c175f013880eddd6cda62fbcb068000b7a5bff91237db95b5f30b",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What energy drink company is known for its 'Red Bull gives you wings' slogan?",
+    "correct_answer": "Red Bull",
+    "choices": [
+      "Red Bull",
+      "Monster Energy",
+      "Rockstar",
+      "Bang"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c3634ec6c8fad7965c18deea11dbbe145ba33faef11d1935124c42d9f5250d12",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which company's logo is a green and white mermaid?",
+    "correct_answer": "Starbucks",
+    "choices": [
+      "Starbucks",
+      "Dunkin'",
+      "Peet's Coffee",
+      "Costa Coffee"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f6db1c52704e38828e10f857f9281bdb2331c4a317cc5a1a0ee5caeb2b78fe21",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "What is the slogan of Adidas?",
+    "correct_answer": "Impossible is Nothing",
+    "choices": [
+      "Impossible is Nothing",
+      "Just Do It",
+      "Forever Faster",
+      "Find Your Greatness"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "78542928525714b425723b25ba08246f0bd6c4063457d847bd14a86e326f5a44",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which e-commerce company's logo is a smile-shaped arrow from A to Z?",
+    "correct_answer": "Amazon",
+    "choices": [
+      "Amazon",
+      "eBay",
+      "Alibaba",
+      "Walmart"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7e6c77d7e7907f7ddeed851441b18b2968daf4125da297fa16abb39aac25fcf6",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which search engine's logo features primary colors?",
+    "correct_answer": "Google",
+    "choices": [
+      "Google",
+      "Bing",
+      "Yahoo",
+      "DuckDuckGo"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e96eb0102ac16e2f40ebda22ea247ae7d163b4ab62096b2cea4d6c47ef118b4f",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What company owns the brand YouTube?",
+    "correct_answer": "Google",
+    "choices": [
+      "Google",
+      "Meta",
+      "Apple",
+      "Amazon"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "9649a509f6b747ef216c7b5dc16743bcfd490b2421c96d649f707e6925edba43",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which sports brand's logo is three parallel stripes?",
+    "correct_answer": "Adidas",
+    "choices": [
+      "Adidas",
+      "Nike",
+      "Puma",
+      "Reebok"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a080a11bb89ce64950822118ea7eddedb4fda8830849d798a879f861bcc218c9",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What luxury car brand's logo is a three-pointed star?",
+    "correct_answer": "Mercedes-Benz",
+    "choices": [
+      "Mercedes-Benz",
+      "BMW",
+      "Audi",
+      "Jaguar"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "81ee985f4a89cf886c76fc64dee51d9a6537e0468d8f4bd45d1adfcc9f1fcd6d",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "Which beverage company's logo is a red and white script?",
+    "correct_answer": "Coca-Cola",
+    "choices": [
+      "Coca-Cola",
+      "Pepsi",
+      "Dr Pepper",
+      "Fanta"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ce28538d4575bc8558cf43ad6583b68c78b60de6efc5155276b054e6dd0b5ee3",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "easy",
+    "question_text": "What is the name of Apple's smart assistant?",
+    "correct_answer": "Siri",
+    "choices": [
+      "Siri",
+      "Alexa",
+      "Cortana",
+      "Google Assistant"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c3b9aa028bdd00bdb2f6da084489efacaeccdd73ab1c41b15128d65381a810e1",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "Which company's tagline is 'Connecting People'?",
+    "correct_answer": "Nokia",
+    "choices": [
+      "Nokia",
+      "Motorola",
+      "Samsung",
+      "Ericsson"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "bba2f8a15b4fa72fbf89beeff54ca9b0b11bc97ecf6567b7258ce141790dccf1",
+    "language": "es"
+  },
+  {
+    "category": "business-brands",
+    "difficulty": "medium",
+    "question_text": "What fashion brand's logo is a polo player on a horse?",
+    "correct_answer": "Ralph Lauren",
+    "choices": [
+      "Ralph Lauren",
+      "Tommy Hilfiger",
+      "Calvin Klein",
+      "Lacoste"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "9221858c8cd41a3188ce21c75ba1a87cd18e86e34fdfa6dbfa63e1050fcc5b45",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "Which company was founded first?",
+    "correct_answer": "Hudson's Bay Company (1670)",
+    "choices": [
+      "Hudson's Bay Company (1670)",
+      "JPMorgan Chase (1799)",
+      "DuPont (1802)",
+      "Colgate (1806)"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "3c871bbd721f709c6a11daac1d214250808737450b8a2476543d941c8de0422c",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "hard",
+    "question_text": "What was the first publicly traded company?",
+    "correct_answer": "Dutch East India Company (VOC)",
+    "choices": [
+      "Dutch East India Company (VOC)",
+      "British East India Company",
+      "Bank of England",
+      "Hudson's Bay Company"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "51cbd976c5c6b7e515dedc2248aee366881748b7b5ef994cb3ac7c31b848ca43",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "In what year did the Wall Street Crash occur, triggering the Great Depression?",
+    "correct_answer": "1929",
+    "choices": [
+      "1929",
+      "1932",
+      "1927",
+      "1935"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cd78311ae8de680fe39ada1a673ad06a16fe09552eb0c05bd25318eae5e7c0b0",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "Which company invented the assembly line for mass production?",
+    "correct_answer": "Ford Motor Company",
+    "choices": [
+      "Ford Motor Company",
+      "General Motors",
+      "Toyota",
+      "Boeing"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "76676d94eafb665b174bd5b7b014f93f9422c031cbef1699d95098b828c2707d",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "What was the name of the first major financial bubble that burst in 1720?",
+    "correct_answer": "South Sea Bubble",
+    "choices": [
+      "South Sea Bubble",
+      "Dutch Tulip Mania",
+      "Mississippi Bubble",
+      "Railway Mania"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2a0edac0869642a0107bfb6cf22624e5ca45279add084bd703510282fa68cc5b",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "Who wrote 'The Wealth of Nations' in 1776?",
+    "correct_answer": "Adam Smith",
+    "choices": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "Karl Marx",
+      "David Ricardo"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "237a9512f0366bc06b434d82f9a433ae8a10348a7639b123e8abb1feaaf1271b",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "What year was the euro introduced as a physical currency?",
+    "correct_answer": "2002",
+    "choices": [
+      "2002",
+      "1999",
+      "2005",
+      "1997"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f200579dd7cc90406c47f298223319a7432665d882a71ec029e3f77e75eb1497",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "Which company was founded by Thomas Edison?",
+    "correct_answer": "General Electric",
+    "choices": [
+      "General Electric",
+      "Westinghouse",
+      "Siemens",
+      "Philips"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "9b0e1cc3df46962e3183425535c48bc6ed375076fc659f4fcb8cd68188f9d758",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "What was the first credit card company?",
+    "correct_answer": "Diners Club",
+    "choices": [
+      "Diners Club",
+      "American Express",
+      "Visa",
+      "Mastercard"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2368b29af21f0bb1377e612c6360c1addb4e71dff7539a2ed6e2f87c3da6eeae",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "In what year was the New York Stock Exchange founded?",
+    "correct_answer": "1792",
+    "choices": [
+      "1792",
+      "1776",
+      "1817",
+      "1750"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2eb164ecb4748110e1c8b63af79fbea97d5984e4a2b2ab2e3a6e08b4bd247b60",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "What was the first company to be valued at $100 billion?",
+    "correct_answer": "General Electric",
+    "choices": [
+      "General Electric",
+      "Microsoft",
+      "IBM",
+      "ExxonMobil"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b5bb18cc7ce77a0a02095ab311b5543f801b98b8ad64079053f348847057ef7a",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "Which event triggered the 2008 global financial crisis?",
+    "correct_answer": "The collapse of the US subprime mortgage market",
+    "choices": [
+      "The collapse of the US subprime mortgage market",
+      "The dot-com bubble burst",
+      "The European sovereign debt crisis",
+      "The Asian financial crisis"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "58543999a0b0b254276cff87bb92468a0851a89a8cccddc0103154279b3a0d3d",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "Who is known as the 'father of modern management'?",
+    "correct_answer": "Peter Drucker",
+    "choices": [
+      "Peter Drucker",
+      "Frederick Taylor",
+      "Henry Ford",
+      "Jack Welch"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0a2b52fd211ef6d141b77ecaf884574e701ff049c06b1f5cde8e88a903fc8505",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "What was the first product sold by Sony?",
+    "correct_answer": "An electric rice cooker",
+    "choices": [
+      "An electric rice cooker",
+      "A transistor radio",
+      "A tape recorder",
+      "A television set"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "443936de261b07d9f88087656742f09c8d29605206878349d7da2b59bb5dad2b",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "When did the 'dot-com bubble' burst?",
+    "correct_answer": "2000",
+    "choices": [
+      "2000",
+      "2001",
+      "1999",
+      "2002"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1941c9f4dba5258a32b2e1ce913004c44db0adacda09d2dd27a3a56a8d6655c2",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "What company did John D. Rockefeller found?",
+    "correct_answer": "Standard Oil",
+    "choices": [
+      "Standard Oil",
+      "ExxonMobil",
+      "Chevron",
+      "Shell"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6ef10c963cd92aab2e72b86ccfce8cb0f9181e2e0ae45361bf9276834c3b46fb",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "What was the name of the first Apple computer?",
+    "correct_answer": "Apple I",
+    "choices": [
+      "Apple I",
+      "Macintosh",
+      "Apple II",
+      "Lisa"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c2f422ea327a13f0636075d70b44e1cc3dc0d5af33c5508d9f0dde949d6b5202",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "hard",
+    "question_text": "What year was the Securities and Exchange Commission (SEC) established in the US?",
+    "correct_answer": "1934",
+    "choices": [
+      "1934",
+      "1929",
+      "1933",
+      "1940"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "493bd4e66240adc93abf9c109bc474b944284e23a40eb07bc7021e3fcdd28b8a",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "Which company invented the barcode?",
+    "correct_answer": "IBM",
+    "choices": [
+      "IBM",
+      "Xerox",
+      "Hewlett-Packard",
+      "3M"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f30b06421a71801b89d6a24cc108d02de17fdac19571f9b3892f6b7fbd982500",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "hard",
+    "question_text": "What year did the Bretton Woods agreement establish the post-war international monetary system?",
+    "correct_answer": "1944",
+    "choices": [
+      "1944",
+      "1945",
+      "1947",
+      "1950"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "40a3d8c29ddce40382352b4b3ebeedb36ec51af5e2ad3be40ddc4e266da16369",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "Who founded the McDonald's corporation?",
+    "correct_answer": "Ray Kroc",
+    "choices": [
+      "Ray Kroc",
+      "Richard and Maurice McDonald",
+      "Harland Sanders",
+      "Dave Thomas"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b03360afb655c19aa0978eab8302da98e0afce9b60e3050bacf0a529ddcb32a8",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "hard",
+    "question_text": "What was the original name of Walmart?",
+    "correct_answer": "Walton's Five and Dime",
+    "choices": [
+      "Walton's Five and Dime",
+      "Sam's Club",
+      "Walton's General Store",
+      "Discount City"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e017cc89293673e6fb958c3e12a713c24214e7202fb6ffdcd83974c850932170",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "easy",
+    "question_text": "What famous investor is known as the 'Oracle of Omaha'?",
+    "correct_answer": "Warren Buffett",
+    "choices": [
+      "Warren Buffett",
+      "George Soros",
+      "Carl Icahn",
+      "Peter Lynch"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "eecd27689804e1a23cd60b5e69ba97d8529d608feac99ab8f5c0895a19274435",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "What was the first video game console company?",
+    "correct_answer": "Magnavox (Odyssey)",
+    "choices": [
+      "Magnavox (Odyssey)",
+      "Atari",
+      "Nintendo",
+      "Sega"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6c9c17d4308e0a356858b3ebf85684b6e97934a28cd526a0a6d0905cf10badc0",
+    "language": "es"
+  },
+  {
+    "category": "business-history",
+    "difficulty": "medium",
+    "question_text": "When was the first Bitcoin block mined?",
+    "correct_answer": "2009",
+    "choices": [
+      "2009",
+      "2008",
+      "2010",
+      "2011"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "746424ca8fe2a5add6b047361e72cebaf3b6a21448a30c826c4711971c679c65",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is a 'limited liability company'?",
+    "correct_answer": "A business structure where owners' personal assets are protected from business debts",
+    "choices": [
+      "A business structure where owners' personal assets are protected from business debts",
+      "A company that can only have a limited number of employees",
+      "A business that operates in a single location",
+      "A company with restricted revenue growth"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "99c0bd94d93c89c781a78621fc06b67249541812555449ff5edd8d434314427a",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What does a trademark protect?",
+    "correct_answer": "Brand names, logos, and slogans that distinguish goods or services",
+    "choices": [
+      "Brand names, logos, and slogans that distinguish goods or services",
+      "Inventions and technological innovations",
+      "Literary and artistic works",
+      "Confidential business information"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0d5476ac0e32f51760a014acb7e7f056d35692f0802bbe81b02ad08ce94f3111",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What is a 'patent'?",
+    "correct_answer": "An exclusive right granted for an invention for a limited period",
+    "choices": [
+      "An exclusive right granted for an invention for a limited period",
+      "A license to operate a business",
+      "A document proving company ownership",
+      "A government permit for international trade"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "56b4a996c9dce36a5178beb414a4a712868b60d31bd9c640c19acf98e1667e8d",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What does a copyright protect?",
+    "correct_answer": "Original works of authorship including literary, musical, and artistic works",
+    "choices": [
+      "Original works of authorship including literary, musical, and artistic works",
+      "Brand names and business logos",
+      "Inventions and manufacturing processes",
+      "Business methods and trade secrets"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f5fe28c8395c6a82a3f69e393024d8216012c2847b2b4a3fad99879f115d1364",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What is a 'Non-Disclosure Agreement' (NDA)?",
+    "correct_answer": "A legal contract preventing the sharing of confidential information",
+    "choices": [
+      "A legal contract preventing the sharing of confidential information",
+      "An agreement to publicly disclose company secrets",
+      "A contract that prevents employees from quitting",
+      "A government filing for business transparency"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "53bf75f0230b3eb1dd580272756b97f0aab70775b138df84e491bb03893fe327",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is 'breach of contract'?",
+    "correct_answer": "Failure to fulfill the terms of a legally binding agreement",
+    "choices": [
+      "Failure to fulfill the terms of a legally binding agreement",
+      "The initial signing of a legal contract",
+      "The renegotiation of contract terms",
+      "The expiration of a contract period"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f4de61747172fca33bf63c556ef349abc928226012b2a6fb2c72f9c392a91692",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is 'fiduciary duty'?",
+    "correct_answer": "A legal obligation to act in the best interest of another party",
+    "choices": [
+      "A legal obligation to act in the best interest of another party",
+      "The duty to pay taxes on time",
+      "The obligation to file annual reports",
+      "The requirement to hire a certain number of employees"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b65f94492e08d71ac6b28aa67b00b3786c93804a68a9c6cb91556536ad9ff928",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What type of law governs relationships between private parties?",
+    "correct_answer": "Civil Law",
+    "choices": [
+      "Civil Law",
+      "Criminal Law",
+      "Constitutional Law",
+      "Administrative Law"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f662e7b19b9055efa37c681bcbad54c6e0fe0d1865ccf689b5427e65f90f25bc",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is a 'non-compete clause'?",
+    "correct_answer": "A contract provision preventing an employee from working for a competitor for a period",
+    "choices": [
+      "A contract provision preventing an employee from working for a competitor for a period",
+      "A clause that allows unlimited competition between companies",
+      "A government regulation promoting market competition",
+      "An agreement between competitors to fix prices"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a8741220dfee69020bd8e6d4763aba22018fd9f94ea248254cde37db18bc540e",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What does 'IPO' mean in a legal context?",
+    "correct_answer": "Initial Public Offering",
+    "choices": [
+      "Initial Public Offering",
+      "International Patent Office",
+      "Intellectual Property Organization",
+      "Internal Partnership Obligation"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a92d60f28304252049730230a3272389c84fb98f6b4c985a1abd73b0225c60b0",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is 'white-collar crime'?",
+    "correct_answer": "Financially motivated nonviolent crime committed by business professionals",
+    "choices": [
+      "Financially motivated nonviolent crime committed by business professionals",
+      "Crime committed by people wearing white shirts",
+      "Crime involving physical violence in workplaces",
+      "Crime committed exclusively by government officials"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0f8cea66a2e241a9f6cde27cd1fb1bbf281126d5f45f0dc23bd1a6e8069cfa55",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is a 'merger' in corporate law?",
+    "correct_answer": "The combination of two companies into a single new entity",
+    "choices": [
+      "The combination of two companies into a single new entity",
+      "One company buying shares of another on the stock market",
+      "Companies agreeing to set the same prices",
+      "A company opening a new division"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d7f808761e3e32aebb9a5ab9ac2a5bd7e8ed8af197dbe3496cac5ff5ade24b15",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is 'insider trading'?",
+    "correct_answer": "Trading securities based on material non-public information",
+    "choices": [
+      "Trading securities based on material non-public information",
+      "Employees trading stocks during work hours",
+      "Trading stocks inside a company's building",
+      "Buying and selling stocks on the same day"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "611f5398ff70f72a27bb64ad92bc73379921cd93fba637771d2ad28ce6c54725",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is 'antitrust law' designed to prevent?",
+    "correct_answer": "Monopolies and anti-competitive business practices",
+    "choices": [
+      "Monopolies and anti-competitive business practices",
+      "International trade and commerce",
+      "Employee unionization",
+      "Corporate tax evasion"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2239cd1662b7bed9a304c00c12ff7eb07ad7ff125788a72dcb8677c35abd0dc3",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is a 'class action lawsuit'?",
+    "correct_answer": "A lawsuit filed by a group of people with similar claims against a defendant",
+    "choices": [
+      "A lawsuit filed by a group of people with similar claims against a defendant",
+      "A lawsuit filed by a single wealthy individual",
+      "A lawsuit involving only government entities",
+      "A lawsuit that takes place in a classroom setting"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "33e948bc6e7fde36cf1e361267839987b29c735ab4a550dec98e86cfab8da8fd",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What is 'intellectual property' in business law?",
+    "correct_answer": "Creations of the mind such as inventions, designs, and brand names protected by law",
+    "choices": [
+      "Creations of the mind such as inventions, designs, and brand names protected by law",
+      "Physical property owned by a company",
+      "The collective knowledge of employees",
+      "Real estate owned by businesses"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "04166667c8ef00a96bf75ad3bf85f58a8567e5abc25ba70f9063d76e7498f418",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "hard",
+    "question_text": "What is 'piercing the corporate veil'?",
+    "correct_answer": "A court holding shareholders personally liable for corporate obligations",
+    "choices": [
+      "A court holding shareholders personally liable for corporate obligations",
+      "A corporate strategy for tax avoidance",
+      "The process of making a private company public",
+      "A method for dissolving a corporation"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c7b4a2ecfda65f85cdf2b4373eda5026fa9c9de366a6926b3ca115d8e56fbf78",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "hard",
+    "question_text": "What is 'Force Majeure' in contract law?",
+    "correct_answer": "A clause that frees parties from obligation when extraordinary events occur",
+    "choices": [
+      "A clause that frees parties from obligation when extraordinary events occur",
+      "A provision that enforces contracts with military force",
+      "A clause that doubles penalties for contract breach",
+      "A legal principle that contracts are always enforceable"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "723ed1d2e40f589c7d41dd9978f54a5f023fe58cc5c349df26986de62b0260d1",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is a 'cease and desist' letter?",
+    "correct_answer": "A formal request to stop allegedly illegal activity before legal action",
+    "choices": [
+      "A formal request to stop allegedly illegal activity before legal action",
+      "A government order to close a business permanently",
+      "A document ending a partnership agreement",
+      "A letter confirming a business has stopped operating"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1fbf2b2b913bb366879df2c13dcdbe1ef4eef7af4679c70a39a2be3efb290ab2",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What is a 'whistleblower'?",
+    "correct_answer": "A person who exposes illegal or unethical activity within an organization",
+    "choices": [
+      "A person who exposes illegal or unethical activity within an organization",
+      "An employee who plays a whistle at company events",
+      "A referee in corporate sports leagues",
+      "A person who starts rumors about competitors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "eaa39a329a6c3e9a2ed0224cdcadaea48104098d091a9ac12c095b80ad66e596",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "hard",
+    "question_text": "What does 'Sarbanes-Oxley Act' primarily regulate?",
+    "correct_answer": "Financial reporting and corporate governance for public companies",
+    "choices": [
+      "Financial reporting and corporate governance for public companies",
+      "Environmental standards for manufacturing",
+      "Employee minimum wage and overtime rules",
+      "International trade agreements"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "48ceac85a4f4ab67396f88f3d82304c2b04b4d8ce31368c7a6ac85d39276375b",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is a 'trade secret'?",
+    "correct_answer": "Confidential business information that provides a competitive edge",
+    "choices": [
+      "Confidential business information that provides a competitive edge",
+      "A secret agreement between competing companies",
+      "Government-classified business information",
+      "Publicly available business data"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cbbdefdb7b7f1ac933f35aa696c1bc67cdca94d80d4f863c1a037d9bf9829b83",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "easy",
+    "question_text": "What is 'corporate social responsibility'?",
+    "correct_answer": "A company's commitment to behave ethically and contribute to economic development",
+    "choices": [
+      "A company's commitment to behave ethically and contribute to economic development",
+      "The legal requirement for corporations to pay taxes",
+      "The government's responsibility to regulate businesses",
+      "A corporation's duty to maximize profits above all else"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "40d43d9d134753bc715e601625480e309656369d46fa22a7497bae35e4c4e6f8",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is a 'proxy' in corporate governance?",
+    "correct_answer": "Authorization for someone else to vote on a shareholder's behalf",
+    "choices": [
+      "Authorization for someone else to vote on a shareholder's behalf",
+      "A substitute CEO during executive absence",
+      "A temporary replacement product",
+      "A secondary stock listing on another exchange"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ec2c4b3ba6bc0a7f2e8a06d57f4d969a91255c79758a5f36ea1a46d90b906a3e",
+    "language": "es"
+  },
+  {
+    "category": "business-law",
+    "difficulty": "medium",
+    "question_text": "What is 'arbitration'?",
+    "correct_answer": "A private dispute resolution process outside of court",
+    "choices": [
+      "A private dispute resolution process outside of court",
+      "A court trial with a jury",
+      "The process of merging two companies",
+      "A government investigation of business practices"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "026e52ac80f397dfd02c832116b47be0315e23d27d5d7f74b8c40b56360f9ff4",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'capital structure'?",
+    "correct_answer": "The mix of debt and equity used to finance a company's operations",
+    "choices": [
+      "The mix of debt and equity used to finance a company's operations",
+      "The physical layout of a company's headquarters",
+      "The organizational hierarchy of a corporation",
+      "The distribution of shares among investors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "fc3de7a6af6fe68ca570af32c5b09926a29cea2067b92c48424a94ec4a88e661",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "hard",
+    "question_text": "What does WACC stand for?",
+    "correct_answer": "Weighted Average Cost of Capital",
+    "choices": [
+      "Weighted Average Cost of Capital",
+      "Working Asset Capital Calculation",
+      "Weighted Annual Corporate Charge",
+      "Working and Accrued Capital Costs"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "699da62efd2f7a14fc8ca2e4e55ce7ab9fe2013664142aae70b4561208cb42d6",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "easy",
+    "question_text": "What is an M&A?",
+    "correct_answer": "Mergers and Acquisitions",
+    "choices": [
+      "Mergers and Acquisitions",
+      "Management and Administration",
+      "Markets and Analytics",
+      "Manufacturing and Assembly"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7db3cda5918222766596a582bd0e717f0f736ce79c8af67adc19d935a28fa43d",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'net present value' used for?",
+    "correct_answer": "Evaluating the profitability of an investment by discounting future cash flows",
+    "choices": [
+      "Evaluating the profitability of an investment by discounting future cash flows",
+      "Calculating a company's current stock price",
+      "Determining annual tax obligations",
+      "Measuring employee productivity"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "533fb235306d645ccd8d2901e17fcb9266e3db2a49a3dc30e51c55b8c87b72b6",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is the 'time value of money' principle?",
+    "correct_answer": "Money available now is worth more than the same amount in the future",
+    "choices": [
+      "Money available now is worth more than the same amount in the future",
+      "All money has equal value regardless of time",
+      "Future money is always worth more due to interest",
+      "Money's value only changes during economic crises"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "74efc9158c9a6536aaa569a6e5493fd0703fb3e682e9b013e605e419ee9f739f",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'leverage' in corporate finance?",
+    "correct_answer": "Using borrowed capital to increase the potential return on investment",
+    "choices": [
+      "Using borrowed capital to increase the potential return on investment",
+      "Having an advantage in negotiations with suppliers",
+      "The act of acquiring multiple smaller companies",
+      "Using stock options to compensate employees"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "646e31d97b1c0ab0aa8f4c13bb0745c3bfec474183ac3105e31a35bd2791beca",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "easy",
+    "question_text": "What does 'IPO' mean?",
+    "correct_answer": "Initial Public Offering",
+    "choices": [
+      "Initial Public Offering",
+      "Internal Profit Optimization",
+      "International Private Operation",
+      "Investment Portfolio Organization"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c0d664d1c567e3ed093aee971d7db73ae1c329c17b66bfe045fcc79f472d306b",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "hard",
+    "question_text": "What is the formula for calculating net present value?",
+    "correct_answer": "Sum of discounted future cash flows minus initial investment",
+    "choices": [
+      "Sum of discounted future cash flows minus initial investment",
+      "Total revenue minus total expenses",
+      "Current assets minus current liabilities",
+      "Market value minus book value"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "3bc92f2bec4952fbd9ca4fb20d1844a27c100c617c5dfe009e14eee1c252001a",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is a 'dividend policy'?",
+    "correct_answer": "A company's approach to distributing profits to shareholders",
+    "choices": [
+      "A company's approach to distributing profits to shareholders",
+      "A government policy on taxing corporate dividends",
+      "An accounting rule for recording dividend payments",
+      "A strategy for setting product prices"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d17dc7746f2331c97e139ea06ffdc5ab994012bdfdc34a7572d7869fa9d88eff",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "hard",
+    "question_text": "What is 'enterprise value'?",
+    "correct_answer": "Market capitalization plus debt minus cash",
+    "choices": [
+      "Market capitalization plus debt minus cash",
+      "Total assets minus total liabilities",
+      "Share price multiplied by number of shares",
+      "Annual revenue minus annual expenses"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "50ecdfeb20cd7f6f5b6204784330a60604fc8c57bac8d1ea6192abc8d3df6cfe",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is a 'hostile takeover'?",
+    "correct_answer": "An acquisition attempt opposed by the target company's management",
+    "choices": [
+      "An acquisition attempt opposed by the target company's management",
+      "A merger that involves military contractors",
+      "An acquisition where employees protest",
+      "A government-forced corporate restructuring"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "93e23a9bdf1f4ba1015675a8fffb5f410cb7ebb51e1f72a64946da38b45d3f3b",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "hard",
+    "question_text": "What is 'internal rate of return'?",
+    "correct_answer": "The discount rate that makes the net present value of all cash flows equal to zero",
+    "choices": [
+      "The discount rate that makes the net present value of all cash flows equal to zero",
+      "The profit margin on internal company projects",
+      "The rate at which a company repays its debt",
+      "The growth rate of a company's internal operations"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "49df4e1b6d645d4b732c6e8de58b587ab4f192e54f2b55b5c9b7b9c1b2d52aae",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'due diligence' in M&A?",
+    "correct_answer": "A comprehensive investigation of a target company before an acquisition",
+    "choices": [
+      "A comprehensive investigation of a target company before an acquisition",
+      "The legal requirement to report mergers to the government",
+      "The obligation of board members to attend all meetings",
+      "The process of firing underperforming employees post-merger"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "adc8d489301918fc318fa38cc40cd4680d81239523c4d15af19dfb98fd202af7",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'share buyback'?",
+    "correct_answer": "A company repurchasing its own shares from the market",
+    "choices": [
+      "A company repurchasing its own shares from the market",
+      "Investors returning shares to the company for a refund",
+      "A company issuing new shares to the public",
+      "A government purchasing private company shares"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7a140f2b660c8b37f2f719bc35278a093ed5c771c190569253be646aa977b59a",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'debt-to-equity ratio'?",
+    "correct_answer": "A measure of financial leverage comparing total debt to shareholders' equity",
+    "choices": [
+      "A measure of financial leverage comparing total debt to shareholders' equity",
+      "A comparison of short-term debt to long-term debt",
+      "The ratio of corporate debt to national debt",
+      "A measure of how quickly a company pays its debts"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "dc8fc805b0becac0608f34fae022a80bd32926a9e05e58be63dba2a66efab508",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "hard",
+    "question_text": "What is the 'Modigliani-Miller theorem' about?",
+    "correct_answer": "In perfect markets, a company's value is independent of its capital structure",
+    "choices": [
+      "In perfect markets, a company's value is independent of its capital structure",
+      "A company should use 50% debt and 50% equity for optimal returns",
+      "Dividend payments always increase company value",
+      "Stock buybacks are always better than dividends"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b6644ab7f82e493fedca2738fa4c9e0260cc86fe95e8d96b1749b174542ebeb8",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is a 'poison pill' in finance?",
+    "correct_answer": "A defensive tactic to make a company less attractive to hostile acquirers",
+    "choices": [
+      "A defensive tactic to make a company less attractive to hostile acquirers",
+      "An illegal tactic to manipulate stock prices",
+      "A type of high-risk investment product",
+      "A strategy for eliminating underperforming divisions"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f41ff271d261dbd71c275dae0533c43a274ad0d79f0b3f34eeecee6188427a7e",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'amortization'?",
+    "correct_answer": "Gradually writing off the cost of an intangible asset over its useful life",
+    "choices": [
+      "Gradually writing off the cost of an intangible asset over its useful life",
+      "Paying off a loan in equal installments",
+      "The process of dissolving a corporation",
+      "Converting physical assets to cash"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "302359ed551046b9d904ab7a3a9ddbd8ac65ef9701db467c44495525ef68cb22",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'free cash flow'?",
+    "correct_answer": "Cash generated by operations after capital expenditures",
+    "choices": [
+      "Cash generated by operations after capital expenditures",
+      "Cash that can be spent without board approval",
+      "Revenue that is not subject to taxation",
+      "Cash held in offshore accounts"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "69fde54916677800b953191ba4253ade8cad5d7783d7ca56f15518857d90c76b",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is a 'spin-off' in corporate finance?",
+    "correct_answer": "Creating a new independent company from an existing division of a parent company",
+    "choices": [
+      "Creating a new independent company from an existing division of a parent company",
+      "A rapid increase in a company's stock price",
+      "Selling a company's non-core assets for cash",
+      "A marketing campaign derived from an existing campaign"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8143cb7d3b784082b41168c625eecc223cf4cab53df5a57496d4e3871914d37d",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "hard",
+    "question_text": "What is 'terminal value' in DCF analysis?",
+    "correct_answer": "The estimated value of a business beyond the forecast period",
+    "choices": [
+      "The estimated value of a business beyond the forecast period",
+      "The final sale price of a company in liquidation",
+      "The value of a company's physical assets at end of life",
+      "The minimum value a company is expected to maintain"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "bbe1cb7ac0267d7bfcd80c19b4b2c796afd0ffa5ce599f4a52bd65f396309a2d",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "easy",
+    "question_text": "What is 'corporate governance'?",
+    "correct_answer": "The system of rules and practices by which a company is directed and controlled",
+    "choices": [
+      "The system of rules and practices by which a company is directed and controlled",
+      "The government agency that regulates corporations",
+      "The management of a company's international offices",
+      "The process of electing a board of directors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "50ba1dbdc9c2046048c26456f6173b8a4bfb3ad014b927b724a70ad948a18edc",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'EBIT'?",
+    "correct_answer": "Earnings Before Interest and Taxes",
+    "choices": [
+      "Earnings Before Interest and Taxes",
+      "Equity Before Income and Taxation",
+      "Estimated Business Income Total",
+      "Earnings Basis Including Taxation"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "44ff2a556e58651cbcb62c10d69bfb5ccaaf91b87552fb2f626a99cb826432cd",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'financial distress'?",
+    "correct_answer": "A situation where a company struggles to meet its financial obligations",
+    "choices": [
+      "A situation where a company struggles to meet its financial obligations",
+      "A temporary drop in quarterly profits",
+      "A decrease in employee satisfaction",
+      "A reduction in the company's credit rating by one notch"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "328a9e10488e3b56412d64aeaa111ea962c77b6769a411f439250d5d499b52c5",
+    "language": "es"
+  },
+  {
+    "category": "corporate-finance",
+    "difficulty": "medium",
+    "question_text": "What is 'payback period'?",
+    "correct_answer": "The time required to recover the cost of an investment",
+    "choices": [
+      "The time required to recover the cost of an investment",
+      "The period during which a loan must be repaid",
+      "The time between dividend payments",
+      "The notice period for employee termination"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d38dd03b3ec073b96ce789430436cfab094cf3c4d7c5f42b701c412c2e71ac4d",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "What is the basic economic problem?",
+    "correct_answer": "Scarcity — unlimited wants with limited resources",
+    "choices": [
+      "Scarcity — unlimited wants with limited resources",
+      "Inflation — rising prices over time",
+      "Unemployment — lack of jobs",
+      "Monopoly — one company dominating a market"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "014f51f2364fab019a9ba79b81debc52e103b4a1d9ccb9c49edc1d03f2d95338",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "What does GDP stand for?",
+    "correct_answer": "Gross Domestic Product",
+    "choices": [
+      "Gross Domestic Product",
+      "General Demand Projection",
+      "Gross Development Plan",
+      "Government Debt Percentage"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "5186410f8a3627691a25a91c6e9a6089d2187857f8a47a1b4d8210e3ee308964",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "What is 'supply and demand'?",
+    "correct_answer": "The economic model determining price based on availability and desire for goods",
+    "choices": [
+      "The economic model determining price based on availability and desire for goods",
+      "A government program for distributing resources",
+      "A method for calculating corporate taxes",
+      "A strategy for marketing products"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ce5de13e9983f63474f684e980d876dacf7164687a0f4af56691939b1ad90e71",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "What is a 'monopoly'?",
+    "correct_answer": "A market structure with a single seller of a unique product",
+    "choices": [
+      "A market structure with a single seller of a unique product",
+      "A government-owned business",
+      "A market with exactly two competitors",
+      "A board game about real estate"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6dd672640445bc71ae3a94081a363dfe5e075b4ad80558445dbef61398ff7815",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is 'opportunity cost'?",
+    "correct_answer": "The value of the next best alternative foregone when making a choice",
+    "choices": [
+      "The value of the next best alternative foregone when making a choice",
+      "The monetary cost of an investment opportunity",
+      "The price of starting a new business",
+      "The cost of missed sales opportunities"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6bd0bc34a44edc2065d93f7fec0e8775d68665b90e484a6f06b3997e863736b1",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is the 'invisible hand' concept introduced by Adam Smith?",
+    "correct_answer": "Individuals pursuing self-interest unintentionally benefit society",
+    "choices": [
+      "Individuals pursuing self-interest unintentionally benefit society",
+      "Government intervention naturally guides the economy",
+      "Central banks control all economic activity",
+      "Stock markets are unpredictable and random"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e7c0a36b2a75b832e37c1275e45ff03b5a2d18cdb9044982bb6ba935d0f69e15",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is a 'trade deficit'?",
+    "correct_answer": "When a country imports more goods than it exports",
+    "choices": [
+      "When a country imports more goods than it exports",
+      "When a country has no international trade",
+      "When a country exports more goods than it imports",
+      "When a country bans all imports"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d50735e2087ae70f359d4a0350d50153a8011d2051918951b3b0624c4502bb8b",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What does CPI stand for?",
+    "correct_answer": "Consumer Price Index",
+    "choices": [
+      "Consumer Price Index",
+      "Corporate Profit Index",
+      "Cost Per Item",
+      "Central Pricing Indicator"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "75487c06eb5cd7fd7f2b9c584b0406a5f8138877de4cffabcdf439956e7653ae",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is 'fiscal policy'?",
+    "correct_answer": "Government policy on taxation and spending to influence the economy",
+    "choices": [
+      "Government policy on taxation and spending to influence the economy",
+      "Central bank policy on interest rates",
+      "Policy on corporate financial reporting",
+      "Personal finance management strategy"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0553b3cfde0a7c98ef6284b8c02cc4a92f7daae5ca15ec72ebfd67c7fc20ba5f",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is 'monetary policy'?",
+    "correct_answer": "Actions by a central bank to control money supply and interest rates",
+    "choices": [
+      "Actions by a central bank to control money supply and interest rates",
+      "Government decisions on tax rates",
+      "Policies about currency design and printing",
+      "Regulations on stock market trading"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e7444cd703fe96faaf7fbd0fd20ca175e1ca9da19c14a651d1661e6b145389d0",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is the 'law of demand'?",
+    "correct_answer": "As price increases, quantity demanded decreases, all else being equal",
+    "choices": [
+      "As price increases, quantity demanded decreases, all else being equal",
+      "Demand always increases over time",
+      "Demand is determined only by income",
+      "Price has no effect on demand"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "5e9cd2c176880f07a428817eb4115ad8e5663d6342edb1871c7b198d6be08cdc",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "What is a 'recession'?",
+    "correct_answer": "A significant decline in economic activity lasting more than a few months",
+    "choices": [
+      "A significant decline in economic activity lasting more than a few months",
+      "A period when stock prices only go down",
+      "A single quarter of negative growth",
+      "An increase in unemployment benefits"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d9b2da22cf6b81c3a406e06cbc5951f6a2923fd5b8deff8f1f545da10b71aff6",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "Who is known as the 'father of modern economics'?",
+    "correct_answer": "Adam Smith",
+    "choices": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "Milton Friedman",
+      "Karl Marx"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6720ca24f452040b72b9e05bf859325f7cafac2874b31dcc0860f2f2d952633c",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What does 'elasticity' measure in economics?",
+    "correct_answer": "The responsiveness of quantity demanded or supplied to changes in price",
+    "choices": [
+      "The responsiveness of quantity demanded or supplied to changes in price",
+      "The flexibility of government economic policy",
+      "The durability of consumer goods",
+      "The adaptability of businesses to market changes"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a639e0c0cddf5bb5b656e6debd6a18d94c85246041ee1ecd640b8daa7e14a2f1",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is a 'centrally planned economy'?",
+    "correct_answer": "An economy where the government makes all decisions about production and distribution",
+    "choices": [
+      "An economy where the government makes all decisions about production and distribution",
+      "An economy managed from a central business district",
+      "An economy focused on central bank operations",
+      "An economy with a single large corporation"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d5265cee17bc6bc772b1317803fc41ed843c573d4718031eacfdd9559b2d0d66",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What is 'comparative advantage'?",
+    "correct_answer": "The ability to produce a good at a lower opportunity cost than another producer",
+    "choices": [
+      "The ability to produce a good at a lower opportunity cost than another producer",
+      "The ability to produce more of a good than any competitor",
+      "The advantage of being the first to enter a market",
+      "The benefit of having more natural resources"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7b5deab639e7d2f2f3ce2b2eba019c94ae0a4fcb3c826e5484a315ff94bb92ea",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What does the 'Phillips curve' illustrate?",
+    "correct_answer": "The inverse relationship between unemployment and inflation",
+    "choices": [
+      "The inverse relationship between unemployment and inflation",
+      "The relationship between supply and demand",
+      "The correlation between GDP and population growth",
+      "The link between interest rates and stock prices"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "632e145b84cff51419a810b009c85f86ed63db16132bb607415ef2b2dee087a2",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What is 'stagflation'?",
+    "correct_answer": "High inflation combined with high unemployment and stagnant demand",
+    "choices": [
+      "High inflation combined with high unemployment and stagnant demand",
+      "Rapid economic growth with low inflation",
+      "A period of falling prices and rising employment",
+      "An economy that is neither growing nor shrinking"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7fa2295862b625a05e81f1b239c01bdbba29631ec6de0b4bd2bf24bf5ba972a1",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What is the 'tragedy of the commons'?",
+    "correct_answer": "Shared resources are depleted because individuals act in their own self-interest",
+    "choices": [
+      "Shared resources are depleted because individuals act in their own self-interest",
+      "Government ownership always leads to inefficiency",
+      "Private property rights cause economic inequality",
+      "Public goods are always overproduced"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "4e0b5fb7ca23b771d1b0c55aaaa67f44d01d7c84298a303ce3db1c617142d342",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is a 'public good'?",
+    "correct_answer": "A good that is non-excludable and non-rivalrous in consumption",
+    "choices": [
+      "A good that is non-excludable and non-rivalrous in consumption",
+      "Any good provided by the government",
+      "A good that benefits the public rather than private interests",
+      "A product that is publicly traded on stock exchanges"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c99ca64356cb6928c7864ad662864c1d163c84fd5f0ff89de561c3db3adf06a6",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What is the 'Gini coefficient'?",
+    "correct_answer": "A measure of income inequality within a population",
+    "choices": [
+      "A measure of income inequality within a population",
+      "A measure of a country's total wealth",
+      "A measure of economic growth rate",
+      "A measure of international trade balance"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b65fc311059c20901f0e897d96fed8616a1ac6359a87ed1b9736f54c4727cd34",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What is 'quantitative easing'?",
+    "correct_answer": "A central bank purchasing government bonds to increase money supply",
+    "choices": [
+      "A central bank purchasing government bonds to increase money supply",
+      "The government lowering tax rates",
+      "A method of calculating economic growth",
+      "A way to measure inflation expectations"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8e109dbbc79ababf49fd4957fe2daeb84fcc858266c84a19ba603c6f3cf0d693",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is the difference between 'microeconomics' and 'macroeconomics'?",
+    "correct_answer": "Micro studies individual markets; macro studies the economy as a whole",
+    "choices": [
+      "Micro studies individual markets; macro studies the economy as a whole",
+      "Micro studies small businesses; macro studies large corporations",
+      "Micro uses small data sets; macro uses large data sets",
+      "Micro studies short-term trends; macro studies long-term trends"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "abe6cab784a5457a782da1b8133594511cba52c2bd099f0bdd7e9c572b405352",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "What is a 'subsidy'?",
+    "correct_answer": "A government payment to producers to lower costs or encourage production",
+    "choices": [
+      "A government payment to producers to lower costs or encourage production",
+      "A tax on imported goods",
+      "A fee charged for government services",
+      "A loan from the government to businesses"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "aedc8aec37444a3137348b61c7ed50f28d9a94706452fcec998372a577aa0a8c",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What is 'crowding out' in economics?",
+    "correct_answer": "When increased government spending reduces private sector investment",
+    "choices": [
+      "When increased government spending reduces private sector investment",
+      "When too many products compete in the same market",
+      "When population density exceeds infrastructure capacity",
+      "When international trade displaces domestic producers"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "27c57ed119ab93170a9f335ef99bd834f5163684318e8abce1aef484e9be30ca",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is 'hyperinflation'?",
+    "correct_answer": "Extremely rapid and out-of-control price increases",
+    "choices": [
+      "Extremely rapid and out-of-control price increases",
+      "A moderate increase in prices over several years",
+      "Inflation that affects only luxury goods",
+      "A deliberate increase in the money supply"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "08e00e79c4edcb7c4148f7cd5ae2ea94c5c91caa29aac44810a2e48b68b6dadb",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "hard",
+    "question_text": "What is the 'Laffer curve'?",
+    "correct_answer": "A theoretical relationship between tax rates and government revenue",
+    "choices": [
+      "A theoretical relationship between tax rates and government revenue",
+      "A curve showing the relationship between supply and demand",
+      "A graphical representation of economic growth over time",
+      "A model predicting consumer spending patterns"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7ae065596368d89de8c97cfdff6fab64656bfc08497b34e729851cb91ed90031",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "easy",
+    "question_text": "What is a 'tariff'?",
+    "correct_answer": "A tax imposed on imported goods",
+    "choices": [
+      "A tax imposed on imported goods",
+      "A subsidy for domestic producers",
+      "A limit on the quantity of imports",
+      "A trade agreement between two countries"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b755f53de3b06a15e1e79649d135ee12514e4333b2e114d01ee033eb160e18cb",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is the 'circular flow model' in economics?",
+    "correct_answer": "A model showing the flow of money and goods between households and firms",
+    "choices": [
+      "A model showing the flow of money and goods between households and firms",
+      "A diagram of international trade routes",
+      "A model for corporate cash management",
+      "A chart of stock market cycles"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8a7f49970a5a58cf39ca88c7111b44e99efed951f5ee39cde34d3d7fa3b831e4",
+    "language": "es"
+  },
+  {
+    "category": "economics",
+    "difficulty": "medium",
+    "question_text": "What is 'deflation'?",
+    "correct_answer": "A general decline in prices, often signaling economic trouble",
+    "choices": [
+      "A general decline in prices, often signaling economic trouble",
+      "A decrease in government spending",
+      "A reduction in the national debt",
+      "A fall in stock market values"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d5ac915cfed100535f9a90ce101a28241782f1a905d193cb992ecbe8a9e0beff",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What is a 'startup'?",
+    "correct_answer": "A young company founded to develop a unique product or service and bring it to market",
+    "choices": [
+      "A young company founded to develop a unique product or service and bring it to market",
+      "Any small business with fewer than 10 employees",
+      "A company that has been operating for less than 1 year",
+      "A government-funded business initiative"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "06e0f265f02bfa5ca9fba91cb75aa08e02dd1518618f2fe126c60ec92575a25c",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What does 'venture capital' refer to?",
+    "correct_answer": "Investment in early-stage companies with high growth potential",
+    "choices": [
+      "Investment in early-stage companies with high growth potential",
+      "Loans provided by commercial banks",
+      "Government grants for small businesses",
+      "Investment in publicly traded stocks"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a8b663dc5d2045bf56379ccfe72dad4f4c88737637e719247fa68317938ca656",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "Who co-founded Apple Inc. with Steve Jobs and Ronald Wayne?",
+    "correct_answer": "Steve Wozniak",
+    "choices": [
+      "Steve Wozniak",
+      "Bill Gates",
+      "Tim Cook",
+      "Jony Ive"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "348c99084dce36d0181e444b31cf476515aed34c783ce0c5c66973fe01836615",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'bootstrapping' a business?",
+    "correct_answer": "Starting a business with personal savings and revenue, without external funding",
+    "choices": [
+      "Starting a business with personal savings and revenue, without external funding",
+      "Using company assets as loan collateral",
+      "Hiring employees with equity instead of salary",
+      "Acquiring competitors to grow quickly"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "440ede3e93d6d8a3277222a29c809f695ab8c596997efef529844c3b4cbb6726",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What is a 'business model'?",
+    "correct_answer": "A company's plan for making a profit and delivering value to customers",
+    "choices": [
+      "A company's plan for making a profit and delivering value to customers",
+      "A physical model of a company's office layout",
+      "A mathematical formula for calculating revenue",
+      "A template for writing a business plan"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "5cead0aba3180345500fc722fae150bce4e5c0d66607997b9e56466920e2077f",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is an 'angel investor'?",
+    "correct_answer": "A wealthy individual who provides capital to startups in exchange for equity",
+    "choices": [
+      "A wealthy individual who provides capital to startups in exchange for equity",
+      "A government official who approves business licenses",
+      "A professional who provides free consulting to new businesses",
+      "A banker who specializes in small business loans"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "29e08762fba3f3f6fb1b48f4478452a919309074eadacd63e62dbed3935eadb9",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What company did Jeff Bezos found?",
+    "correct_answer": "Amazon",
+    "choices": [
+      "Amazon",
+      "eBay",
+      "Google",
+      "Netflix"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d40a385396735e54b8d39ad74ce89779581b627c44cee5407d63bd4e5759ba1e",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What does 'MVP' stand for in startups?",
+    "correct_answer": "Minimum Viable Product",
+    "choices": [
+      "Minimum Viable Product",
+      "Most Valuable Player",
+      "Maximum Value Proposition",
+      "Marketing Value Plan"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a289dc123f129755351aebf944283d82d69e26ac1f3b09c973b1f46963f633f0",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'equity' in a startup context?",
+    "correct_answer": "Ownership shares in a company",
+    "choices": [
+      "Ownership shares in a company",
+      "Cash reserves of a company",
+      "The company's total revenue",
+      "A loan given to the company"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0f7b9fd2b4cdc8e4689e909727e33f5b3e15811e712ed0229a149c6330b8a975",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What is a 'unicorn' in business?",
+    "correct_answer": "A privately held startup valued at over $1 billion",
+    "choices": [
+      "A privately held startup valued at over $1 billion",
+      "A company with exactly one founder",
+      "A business that is unique in its industry",
+      "A startup that turned profitable in its first year"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "79310b279b186c6eb0a53f56ce9e4c0adc5aa836a0bf9d06d7b7560977671b3c",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "Who founded Microsoft?",
+    "correct_answer": "Bill Gates and Paul Allen",
+    "choices": [
+      "Bill Gates and Paul Allen",
+      "Steve Jobs and Steve Wozniak",
+      "Larry Page and Sergey Brin",
+      "Mark Zuckerberg and Eduardo Saverin"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "47abdfbc0c32bb87004242b99135b8a22b3fbec0b3bb664a703ad32d53a08083",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is a 'pitch deck'?",
+    "correct_answer": "A presentation used to present a business idea to potential investors",
+    "choices": [
+      "A presentation used to present a business idea to potential investors",
+      "A deck of cards used in business networking events",
+      "The top floor of a startup office building",
+      "A legal document for incorporating a company"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cfbb45fc4cd66a0015f8f1efc40e7ebcd97775b22e3be8092861d08a58a1fbfb",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'Series A' funding?",
+    "correct_answer": "The first significant round of venture capital financing for a startup",
+    "choices": [
+      "The first significant round of venture capital financing for a startup",
+      "The initial funding from friends and family",
+      "A government grant for first-time entrepreneurs",
+      "The final round of funding before an IPO"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "556fb218d3c782c90bdcf52432853789f25eba4e11de889dec4c7917a617df81",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What company did Elon Musk co-found before Tesla?",
+    "correct_answer": "PayPal",
+    "choices": [
+      "PayPal",
+      "Amazon",
+      "Google",
+      "SpaceX"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d2043de6b4b059b5477317ce9b632dc1e01baefabfd97be24651ed4e99de4dc3",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What is 'intellectual property'?",
+    "correct_answer": "Creations of the mind such as inventions and brand names protected by law",
+    "choices": [
+      "Creations of the mind such as inventions and brand names protected by law",
+      "Physical property owned by a business",
+      "The collective knowledge of a company's employees",
+      "Real estate owned by a corporation"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8bd727a4907d796c95c9f3dad72bf1e42be7917911d823196684ad80848430b4",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What is a 'sole proprietorship'?",
+    "correct_answer": "A business owned and run by one person with no legal distinction from the owner",
+    "choices": [
+      "A business owned and run by one person with no legal distinction from the owner",
+      "A business with only one employee",
+      "A business that sells only one product",
+      "A company owned entirely by shareholders"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ae591bb4912bf2cfae0c741cb2f8b1fe6d4dd16e401f1f41a1459690d4aa0dea",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'lean startup' methodology?",
+    "correct_answer": "Building a business through iterative product releases and customer feedback",
+    "choices": [
+      "Building a business through iterative product releases and customer feedback",
+      "Running a business with minimal expenses and no waste",
+      "Starting a company focused on health and fitness products",
+      "Operating with fewer than five employees indefinitely"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ceaf7cd63bad7dcc1007b89cf4fb18fb3b49320eaa6a96bc34cf2e317de34821",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "Who is the founder of Facebook?",
+    "correct_answer": "Mark Zuckerberg",
+    "choices": [
+      "Mark Zuckerberg",
+      "Jack Dorsey",
+      "Evan Spiegel",
+      "Kevin Systrom"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "de662fd6d1e2ab7f8acc69cd7e5f9cb7e188b0113fb3fe170c27cb9ad7939b39",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'exit strategy' in entrepreneurship?",
+    "correct_answer": "A planned way for founders to sell their stake and cash out of the business",
+    "choices": [
+      "A planned way for founders to sell their stake and cash out of the business",
+      "The plan for closing a failing business",
+      "The strategy for leaving a competitive market",
+      "The method for firing underperforming employees"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "13d8905ca05df7576aed5b01d28133ac14649ddc514c14c0746adee28f804513",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What does 'B2C' stand for?",
+    "correct_answer": "Business to Consumer",
+    "choices": [
+      "Business to Consumer",
+      "Business to Corporation",
+      "Back to Customer",
+      "Buyer to Company"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "916cd80983fcbbad0256805050575194aab5411eb455f500d02f95cd176b5496",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What was the first company to reach a $1 trillion market capitalization?",
+    "correct_answer": "Apple",
+    "choices": [
+      "Apple",
+      "Microsoft",
+      "Amazon",
+      "Google"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6241d71ae311032c725d1252e4af9e5691bc5ca56fe41df80ee09d89f8c72b7d",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'crowdfunding'?",
+    "correct_answer": "Raising small amounts of money from a large number of people, typically online",
+    "choices": [
+      "Raising small amounts of money from a large number of people, typically online",
+      "Forming a large crowd of customers outside a store",
+      "Funding a company through government grants only",
+      "Investing in overcrowded market sectors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e266ebc7797662f8de7a9f578fa151d19264c8eaa97802c332235b46b31577a9",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is a 'non-disclosure agreement'?",
+    "correct_answer": "A legal contract preventing one party from sharing confidential information",
+    "choices": [
+      "A legal contract preventing one party from sharing confidential information",
+      "An agreement to publicly disclose company information",
+      "A contract that prevents a company from denying service",
+      "A document that discloses company ownership details"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1eea7e6b3ac998438903735a7cfbcc55aba0f4ce55559ce534c67e1054133dbf",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "Who founded the Virgin Group?",
+    "correct_answer": "Richard Branson",
+    "choices": [
+      "Richard Branson",
+      "Elon Musk",
+      "Warren Buffett",
+      "Jeff Bezos"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d49fa0131145350e60fadc4bfd62523d58cf7bb99836b9923877e1e6cd36822f",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'disruptive innovation'?",
+    "correct_answer": "An innovation that creates a new market and eventually displaces established competitors",
+    "choices": [
+      "An innovation that creates a new market and eventually displaces established competitors",
+      "Any product that causes social unrest",
+      "An invention that is immediately banned by regulators",
+      "A technology that improves an existing product incrementally"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "95f10444f7e2faae14f3531380161d290752ddc5ea46d94396fb9fcb8f64b761",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What is a 'franchise'?",
+    "correct_answer": "A business model where an individual pays to operate under an established brand",
+    "choices": [
+      "A business model where an individual pays to operate under an established brand",
+      "A government-owned business",
+      "A company with multiple unrelated divisions",
+      "A business that sells only imported products"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "24d039655f7cef8b4b61c90fc919a2312243f529b8b37763c7be19e248ac1bb6",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is a 'business incubator'?",
+    "correct_answer": "An organization that helps startups grow by providing workspace, mentorship, and resources",
+    "choices": [
+      "An organization that helps startups grow by providing workspace, mentorship, and resources",
+      "A bank that provides startup loans",
+      "A government agency that registers new businesses",
+      "A consulting firm that writes business plans"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b1e5a6ab622686688a2a74c6f8160e1f20e5fbb8398b0779951c9f4daa43571f",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'burn rate' in a startup context?",
+    "correct_answer": "The rate at which a company spends its cash reserves",
+    "choices": [
+      "The rate at which a company spends its cash reserves",
+      "The rate at which employees leave the company",
+      "The speed of product development",
+      "The rate of customer acquisition"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "41b5c894fcab2e7411df5f72267d02699ccf1b3800a910ec010325e653e227d7",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "easy",
+    "question_text": "What is the 'Sharing Economy'?",
+    "correct_answer": "An economic model where individuals share access to goods and services, often via technology",
+    "choices": [
+      "An economic model where individuals share access to goods and services, often via technology",
+      "A government program for distributing resources equally",
+      "An economy based on bartering goods",
+      "A stock market where shares are evenly distributed"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ddace3a14a82763ba8071a436b1cc22d51c09af4470dd27689490f33a533b576",
+    "language": "es"
+  },
+  {
+    "category": "entrepreneurship",
+    "difficulty": "medium",
+    "question_text": "What is 'first-mover advantage'?",
+    "correct_answer": "The competitive edge gained by being the first to enter a market",
+    "choices": [
+      "The competitive edge gained by being the first to enter a market",
+      "The advantage of moving offices before competitors",
+      "The benefit of hiring employees before they are experienced",
+      "The profit from selling products at the lowest price"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "dbece8b2d956c9c5478fefc09be6c671cc0c5098e36aef199849d44d882a6921",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is the primary goal of financial management?",
+    "correct_answer": "Maximize shareholder wealth",
+    "choices": [
+      "Maximize shareholder wealth",
+      "Maximize revenue",
+      "Minimize costs",
+      "Maximize market share"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d5d0c487bb44935ab9ccee0d6e5a874230b7a51e7ca8ce83a1512866cdc236a6",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What does a bond's 'coupon rate' represent?",
+    "correct_answer": "The annual interest payment as a percentage of face value",
+    "choices": [
+      "The annual interest payment as a percentage of face value",
+      "The price at which the bond was issued",
+      "The bond's current market price",
+      "The bond's maturity value"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e82264be5a357bc183607fe4be6ce6074a52d1063c34bb15975c3db51cded156",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is a stock market index?",
+    "correct_answer": "A measurement of a section of the stock market",
+    "choices": [
+      "A measurement of a section of the stock market",
+      "The total value of all stocks in a country",
+      "A regulatory agency that oversees trading",
+      "A company that buys and sells stocks"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "18be081161101859406b61891388ca482c81cd9714edff308b8bdfa11ef35595",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What does IPO stand for?",
+    "correct_answer": "Initial Public Offering",
+    "choices": [
+      "Initial Public Offering",
+      "International Private Offering",
+      "Initial Private Option",
+      "Investment Portfolio Optimization"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "851761a0aa6f8a35abb50ade1f586379bff20b173161fa9e60827795b8800f69",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is a dividend?",
+    "correct_answer": "A distribution of a company's profits to shareholders",
+    "choices": [
+      "A distribution of a company's profits to shareholders",
+      "A fee paid to stock brokers",
+      "Interest earned on bonds",
+      "The increase in a stock's price"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6731528427b76118b05acf59060d413119bde4653c2803dfbc05180d08e83d70",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What does the S&P 500 track?",
+    "correct_answer": "500 large publicly traded companies in the United States",
+    "choices": [
+      "500 large publicly traded companies in the United States",
+      "500 global technology companies",
+      "500 largest international corporations",
+      "500 small-cap American companies"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "5c737010b7676d44c636b5702ac86b21b7a86daa616fdb7258d1ceec03ba4186",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is a 'bull market'?",
+    "correct_answer": "A market in which prices are rising",
+    "choices": [
+      "A market in which prices are rising",
+      "A market in which prices are falling",
+      "A market with no trading activity",
+      "A market focused on agricultural commodities"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "806655dab7b964d054cf78579fe62882772308725aa5502e3c81b7a36a37ea5b",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is 'diversification' in investing?",
+    "correct_answer": "Spreading investments across different assets to reduce risk",
+    "choices": [
+      "Spreading investments across different assets to reduce risk",
+      "Investing all money in one stock",
+      "Buying only government bonds",
+      "Selling all assets for cash"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2afd252c7db7f63ffb3ec20a27f3cbda631a18246e8f67b6d4aac4224f3c5382",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What is compound interest?",
+    "correct_answer": "Interest earned on both principal and previously accumulated interest",
+    "choices": [
+      "Interest earned on both principal and previously accumulated interest",
+      "Interest earned only on the original principal",
+      "Interest paid annually",
+      "Interest paid to the government"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c5cfe4f7c59f8df354dc2dbf0ed9b8492a3a020961ca0d139a05adbbf11c4e0d",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What does the P/E ratio measure?",
+    "correct_answer": "Price per share divided by earnings per share",
+    "choices": [
+      "Price per share divided by earnings per share",
+      "Profit divided by equity",
+      "Price divided by expenses",
+      "Production divided by efficiency"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0da24c58dc506325f3b72ffbf80ae2f3cac61a85102f52b85aba0da75f5a420a",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is a 'bear market'?",
+    "correct_answer": "A market in which prices are falling",
+    "choices": [
+      "A market in which prices are falling",
+      "A market in which prices are rising",
+      "A market that is closed for trading",
+      "A market for precious metals only"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7c5e0c9967751ea74accc686f22e386a297c56f2b905ba56a4f792912b6665b3",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What does ROI stand for?",
+    "correct_answer": "Return on Investment",
+    "choices": [
+      "Return on Investment",
+      "Rate of Interest",
+      "Revenue over Income",
+      "Risk of Insolvency"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "94b7b07128eb0368e6e2c068772eeb0f172a784fc6301e400100554077420854",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What is a 'Blue Chip' stock?",
+    "correct_answer": "Shares of a large, well-established, and financially sound company",
+    "choices": [
+      "Shares of a large, well-established, and financially sound company",
+      "Shares of a technology startup",
+      "Stocks traded on foreign exchanges",
+      "Stocks priced under $5 per share"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "632f381ad9bf370a5d6a47a368a1bb6d46a5df194f6ab7141f8e096565f0e292",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What does beta measure in finance?",
+    "correct_answer": "A stock's volatility relative to the overall market",
+    "choices": [
+      "A stock's volatility relative to the overall market",
+      "A company's total debt level",
+      "The dividend yield of a stock",
+      "The number of shares outstanding"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8b3aae87f3f11fc6c7f128a3580038bb83deca03bf344df81b6c8c51cff957ea",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What is a 'market order'?",
+    "correct_answer": "An order to buy or sell a stock immediately at the best available price",
+    "choices": [
+      "An order to buy or sell a stock immediately at the best available price",
+      "An order that executes only at a specified price",
+      "An order to buy only stocks in a specific sector",
+      "An order placed after market hours"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2db4f0091ceb673d8b518c3e61201af2c28f93a3d4f83f059491b0012288505d",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What is the 'time value of money'?",
+    "correct_answer": "A dollar today is worth more than a dollar in the future",
+    "choices": [
+      "A dollar today is worth more than a dollar in the future",
+      "Money loses value only during inflation",
+      "All money has the same value regardless of time",
+      "Future money is always worth more than present money"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1614dafee1d35a6efd6d9f18d246c597c46273ae680f2d6743d9332f147a947c",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is a 'mutual fund'?",
+    "correct_answer": "A pool of money from many investors used to buy a diversified portfolio",
+    "choices": [
+      "A pool of money from many investors used to buy a diversified portfolio",
+      "A government-backed savings account",
+      "A loan made between two companies",
+      "A type of corporate bond"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f2ae751224653949e92fd6f4539966d703bafa589c76ffcbc092294aa4481e5a",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "hard",
+    "question_text": "What is a 'hedge fund'?",
+    "correct_answer": "A private investment fund using advanced strategies and accessible only to accredited investors",
+    "choices": [
+      "A private investment fund using advanced strategies and accessible only to accredited investors",
+      "A fund that only invests in commodities",
+      "A government-managed retirement fund",
+      "A fund that guarantees returns"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6438376bae446210f4c281a0ae80daf2299cc7f8c0bb39cb1065d4be6ffa04de",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What does the Dow Jones Industrial Average track?",
+    "correct_answer": "30 large publicly owned companies in the United States",
+    "choices": [
+      "30 large publicly owned companies in the United States",
+      "The entire US stock market",
+      "500 small-cap companies",
+      "International stock exchanges"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "260db42eddeb608c6270b4ccc3f4a39a566ce915681113b9756beee8ffd1b9b5",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What credit score range is generally considered 'excellent' for FICO?",
+    "correct_answer": "800 to 850",
+    "choices": [
+      "800 to 850",
+      "650 to 700",
+      "700 to 750",
+      "550 to 600"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c34c3fd83b8a80935b52b55d6a135841350710fdac155237985f89de19eb7422",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What is an ETF?",
+    "correct_answer": "Exchange-Traded Fund",
+    "choices": [
+      "Exchange-Traded Fund",
+      "Extended Term Finance",
+      "Equity Transfer Facility",
+      "Electronic Trading Form"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "91b9f8f6100e3cfbbd6f12951628a5e5c3b4f9bdde15a901bf71645ae1b3a8f1",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "hard",
+    "question_text": "What is the 'risk-free rate' typically based on?",
+    "correct_answer": "Government bond yields",
+    "choices": [
+      "Government bond yields",
+      "Corporate bond yields",
+      "Savings account interest rates",
+      "Stock market average returns"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "5cce0f9df4d32747fb326afbeeea0fbe8eecce33f484b9244a1847cc05cb82be",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What is 'market capitalization'?",
+    "correct_answer": "The total value of a company's outstanding shares",
+    "choices": [
+      "The total value of a company's outstanding shares",
+      "The total revenue of a company",
+      "The number of employees in a company",
+      "The company's total debt"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0198d4654cf985b4e153ee92069605edd69f260468242b0110649c01ae2c6f61",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "hard",
+    "question_text": "What is a 'call option'?",
+    "correct_answer": "The right to buy a stock at a specified price before a certain date",
+    "choices": [
+      "The right to buy a stock at a specified price before a certain date",
+      "The obligation to buy a stock at a specified price",
+      "The right to sell a stock at a specified price",
+      "A request to speak with company management"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f32802d4a81f096ecfd10bae3e1854e7f30f195a326e9c2d57296cd69a65f3ef",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "hard",
+    "question_text": "What does the Sharpe Ratio measure?",
+    "correct_answer": "Risk-adjusted return of an investment",
+    "choices": [
+      "Risk-adjusted return of an investment",
+      "The total return of an investment",
+      "The liquidity of an asset",
+      "The tax efficiency of an investment"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e1cfa6333d933a24edbc03665707530732de859151ba3ab0febec15ee56e73a0",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "easy",
+    "question_text": "What is 'inflation'?",
+    "correct_answer": "A general increase in prices and fall in the purchasing value of money",
+    "choices": [
+      "A general increase in prices and fall in the purchasing value of money",
+      "A decrease in the supply of money",
+      "An increase in interest rates",
+      "A rise in stock market values"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b393ec1fc2392e1ed26f9e5e6ef9122396b80fccee078c3752b5d71935404661",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What is a 'junk bond'?",
+    "correct_answer": "A high-yield bond with a credit rating below investment grade",
+    "choices": [
+      "A high-yield bond with a credit rating below investment grade",
+      "A bond issued by a technology company",
+      "A bond that has matured",
+      "A bond that pays no interest"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "99f322bd646948c1a9fd8dcba1fb0626abafa6befbc0fca72ac5418965e7f0e5",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What does the Federal Reserve primarily use to control inflation?",
+    "correct_answer": "Adjusting interest rates",
+    "choices": [
+      "Adjusting interest rates",
+      "Setting stock prices",
+      "Controlling corporate profits",
+      "Regulating cryptocurrency"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ce22a0c3e97fada650f98d6a6897c5777ec91b90571f40c02ab026d566c81bed",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "hard",
+    "question_text": "What is a 'short sale'?",
+    "correct_answer": "Selling borrowed shares, hoping to buy them back at a lower price",
+    "choices": [
+      "Selling borrowed shares, hoping to buy them back at a lower price",
+      "Selling shares within one day of purchase",
+      "Selling shares at a loss for tax purposes",
+      "Selling a small number of shares"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "61fb931ca24e22ba20d588dcc00c09c73a62a98cecba23b0a29efaeaef34ee2b",
+    "language": "es"
+  },
+  {
+    "category": "finance",
+    "difficulty": "medium",
+    "question_text": "What does 'net present value' calculate?",
+    "correct_answer": "The difference between the present value of cash inflows and outflows",
+    "choices": [
+      "The difference between the present value of cash inflows and outflows",
+      "The future value of current investments",
+      "The total profit of a project",
+      "The accounting book value of an asset"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c1147daa7a33a033336d92573a2035139a228cc5972b5a6ba8e733746e073711",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is the primary function of management as defined by Henri Fayol?",
+    "correct_answer": "Planning, Organizing, Leading, Controlling",
+    "choices": [
+      "Planning, Organizing, Leading, Controlling",
+      "Hiring, Training, Motivating, Firing",
+      "Researching, Developing, Producing, Selling",
+      "Budgeting, Reporting, Auditing, Forecasting"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1ba3705d3cdd828fad66cbc0db9d333cefcd1d6a2a6fffc355e7b9c74b5d6c60",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is a 'span of control' in organizational structure?",
+    "correct_answer": "The number of subordinates a manager directly supervises",
+    "choices": [
+      "The number of subordinates a manager directly supervises",
+      "The geographic area a manager is responsible for",
+      "The budget a manager controls",
+      "The time period a manager oversees"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "fb8998852db9156f1fe66392ee4e05f2bf732ae6b810294e899dc4eadddbd8d6",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What leadership style involves making decisions without consulting subordinates?",
+    "correct_answer": "Autocratic",
+    "choices": [
+      "Autocratic",
+      "Democratic",
+      "Laissez-faire",
+      "Transactional"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "20799a081998a3fa491fd174527e4d36f34644566b59b1f64f67deae3af0e6cc",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'Maslow's hierarchy of needs'?",
+    "correct_answer": "A theory of motivation based on five levels of human needs",
+    "choices": [
+      "A theory of motivation based on five levels of human needs",
+      "A framework for organizational structure",
+      "A model for pricing strategy",
+      "A system for inventory management"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "741592b83b42ad09284d72bf218379d2bff0850bcbd30f2266e2d67bb09febda",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "hard",
+    "question_text": "What is 'Theory X and Theory Y'?",
+    "correct_answer": "Douglas McGregor's theory about two contrasting views of worker motivation",
+    "choices": [
+      "Douglas McGregor's theory about two contrasting views of worker motivation",
+      "A mathematical model for production optimization",
+      "A theory about market competition",
+      "A framework for product development"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "48d0500e82c7f5a38b97a4925ae62fbd182a06f03d7ada1e13c04b7c4c898ee1",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What is the primary purpose of performance management?",
+    "correct_answer": "To ensure employees' activities align with organizational goals",
+    "choices": [
+      "To ensure employees' activities align with organizational goals",
+      "To punish underperforming employees",
+      "To determine executive compensation only",
+      "To reduce the number of employees"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "bdd00d952ac2c10e7f7703aed8bc026a0331aa6d89a35396ee8c463cf2f98648",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "hard",
+    "question_text": "What is a 'matrix organizational structure'?",
+    "correct_answer": "A structure where employees report to both functional and project managers",
+    "choices": [
+      "A structure where employees report to both functional and project managers",
+      "A structure shaped like a grid on an org chart",
+      "A structure used exclusively by mathematical companies",
+      "A structure with exactly four levels of hierarchy"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "9b242c327584d8cb6058e69888c4bca432986502d3b6b8c1d75fc44b9c1f4584",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What does 'MBO' stand for in management?",
+    "correct_answer": "Management by Objectives",
+    "choices": [
+      "Management by Objectives",
+      "Managed Business Operations",
+      "Maximum Business Output",
+      "Matrix-Based Organization"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1312fe6b329a9a6d335b3e8b41e1b8c0b49c2964aad67d8a806009fae0dd492e",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "Who is considered the 'father of scientific management'?",
+    "correct_answer": "Frederick Winslow Taylor",
+    "choices": [
+      "Frederick Winslow Taylor",
+      "Peter Drucker",
+      "Henry Ford",
+      "W. Edwards Deming"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "30f024832e3f3e109dd4a3a84fe5ec7f1e8f14a01cf3e4c7205804f4b15be95d",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What is 'corporate culture'?",
+    "correct_answer": "The shared values, beliefs, and practices of an organization",
+    "choices": [
+      "The shared values, beliefs, and practices of an organization",
+      "The art collection displayed in a corporate office",
+      "The ethnic diversity of a company's workforce",
+      "The entertainment budget of a corporation"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f8c63465b1f69bfd90a2f09a352641ea91c82aa34a99ee765fee15427debe8b2",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is the 'Peter Principle'?",
+    "correct_answer": "People are promoted until they reach their level of incompetence",
+    "choices": [
+      "People are promoted until they reach their level of incompetence",
+      "Profit always increases with company size",
+      "Products improve with more features",
+      "Projects finish faster with more people"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8e419a07f285716baa08634f180c802a9236b8274d9c5ad38242e99c04146cd9",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'Change Management'?",
+    "correct_answer": "A structured approach to transitioning individuals and organizations to a desired future state",
+    "choices": [
+      "A structured approach to transitioning individuals and organizations to a desired future state",
+      "The process of changing a company's name",
+      "Managing fluctuations in stock prices",
+      "Rotating employees to different departments"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "18693c1c886c761308767f85d75c1482f2da8fa338354eb8d16e02d95d003ed1",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is a '360-degree feedback' system?",
+    "correct_answer": "Performance feedback collected from supervisors, peers, and subordinates",
+    "choices": [
+      "Performance feedback collected from supervisors, peers, and subordinates",
+      "A camera system monitoring employee workspaces",
+      "Feedback given only once a year",
+      "Customer satisfaction surveys"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "4aec697a53e5d6f56803c574b8ba2ff012492e1bff490d44b63e4b5cb43fe11f",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What is 'employee turnover'?",
+    "correct_answer": "The rate at which employees leave and are replaced",
+    "choices": [
+      "The rate at which employees leave and are replaced",
+      "The rate at which employees are promoted",
+      "The rotation of work shifts",
+      "The transfer of employees between departments"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a450ceccc60e7574da77a99171f44c7d5c15d58019d3636a319d22358ad3320c",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'flat organizational structure'?",
+    "correct_answer": "A structure with few or no levels of middle management",
+    "choices": [
+      "A structure with few or no levels of middle management",
+      "A structure where all offices are on one floor",
+      "A structure with equal pay for all employees",
+      "A structure without any managers at all"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "025443879fc2cc39c92072f88e7d3db270518668d84112dfcb022760e9d9322e",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'emotional intelligence' in leadership?",
+    "correct_answer": "The ability to recognize and manage one's own emotions and those of others",
+    "choices": [
+      "The ability to recognize and manage one's own emotions and those of others",
+      "The tendency to make decisions based on feelings rather than data",
+      "The intelligence quotient measured during emotional states",
+      "The skill of hiding emotions in a professional setting"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "34683a6bf71670527e698763341bea34b6e5d4d8f82ca80c95a30b23fb0a257e",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What is the primary role of a 'board of directors'?",
+    "correct_answer": "To oversee the company's management and protect shareholder interests",
+    "choices": [
+      "To oversee the company's management and protect shareholder interests",
+      "To handle day-to-day operations of the company",
+      "To set prices for the company's products",
+      "To hire all company employees directly"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6a5542ea1bf85bd74ee5cf141df8847765fcfd62caa5990d24e17abaeb4f322b",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What is 'delegation' in management?",
+    "correct_answer": "Assigning responsibility and authority to subordinates to complete a task",
+    "choices": [
+      "Assigning responsibility and authority to subordinates to complete a task",
+      "Eliminating middle management positions",
+      "Transferring an employee to a different department",
+      "Reducing the number of tasks on a project"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0a7ed714ea8fb6feccb98db1b211edbf357c0ad42967db1049e7117c782a3c74",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "hard",
+    "question_text": "What is the 'Hawthorne effect'?",
+    "correct_answer": "The tendency of people to modify their behavior when they know they are being observed",
+    "choices": [
+      "The tendency of people to modify their behavior when they know they are being observed",
+      "The decline in productivity during afternoon hours",
+      "The increase in output from using electric lighting",
+      "The improvement in quality from automated systems"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "80e4edd670279caa2ae2f6d3505c85e353b105c85934cb191c34a3550becceb7",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'succession planning'?",
+    "correct_answer": "Identifying and developing future leaders to fill key positions",
+    "choices": [
+      "Identifying and developing future leaders to fill key positions",
+      "Planning the order in which projects will be completed",
+      "Scheduling shifts for employees",
+      "Determining the order of product launches"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ba8b749d7e7b95f72c4aec49e5f71a7123b6a47e944f7ec29a7a30533cb29f26",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'servant leadership'?",
+    "correct_answer": "A leadership philosophy where the leader's primary goal is to serve others",
+    "choices": [
+      "A leadership philosophy where the leader's primary goal is to serve others",
+      "A style where leaders act as personal servants to executives",
+      "A leadership model used exclusively in the hospitality industry",
+      "A system where employees take turns being the leader"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cbeef0db79201f6176af094d9103be4c101354e1e0d7003b61a82b107ae6bb87",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "hard",
+    "question_text": "What is a 'PESTLE analysis'?",
+    "correct_answer": "Analysis of Political, Economic, Social, Technological, Legal, and Environmental factors",
+    "choices": [
+      "Analysis of Political, Economic, Social, Technological, Legal, and Environmental factors",
+      "A method for pest control in corporate facilities",
+      "Analysis of Product, Expense, Sales, Tax, Labor, and Energy",
+      "A strategy for eliminating business pests or problems"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "23228f01d1ad3975b73b795a1df6b89ec9030859d943ce3647737ad18d7a5838",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What does 'KPIs' stand for?",
+    "correct_answer": "Key Performance Indicators",
+    "choices": [
+      "Key Performance Indicators",
+      "Key Personnel Interviews",
+      "Knowledge Process Integration",
+      "Known Profit Increments"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d3e98ef5c1bc82118b95379f70eb5570a8a9c9b27a58af26958093572d4b968e",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'total quality management'?",
+    "correct_answer": "An organization-wide approach to continuous quality improvement",
+    "choices": [
+      "An organization-wide approach to continuous quality improvement",
+      "A system where only managers control quality",
+      "A method focused solely on product inspection",
+      "A government-mandated quality standard"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2b0319e70de8646a1e44b2477845d06ce38295b483bca1d91948db5c5182270b",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'organizational behavior'?",
+    "correct_answer": "The study of how people interact within groups in a workplace",
+    "choices": [
+      "The study of how people interact within groups in a workplace",
+      "The behavior of organizations in the stock market",
+      "The study of corporate legal compliance",
+      "The behavior of companies toward competitors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "61b5f4dcf8245da52a9c27ac4207c7b6e226b66ccf69ed8ce41dc12bd1ee1731",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What is 'work-life balance'?",
+    "correct_answer": "The balance between professional work and personal life",
+    "choices": [
+      "The balance between professional work and personal life",
+      "Working exactly eight hours per day",
+      "Spending equal time on all work tasks",
+      "Having as many hobbies as work responsibilities"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d95d9f01c8106cb82839c9beabbb91db6e48b9085da58e02b1b34f523707dd3f",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "hard",
+    "question_text": "What is 'transformational leadership'?",
+    "correct_answer": "Leadership that inspires positive changes in followers through idealized influence and intellectual stimulation",
+    "choices": [
+      "Leadership that inspires positive changes in followers through idealized influence and intellectual stimulation",
+      "Leadership focused on transforming business processes",
+      "Leadership that changes frequently based on circumstances",
+      "Leadership used during company mergers and acquisitions"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "273f69c08baa281363ed36d51a38c5ce22f2d186367c56f24239a4906e2cf9a6",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "easy",
+    "question_text": "What is the primary purpose of a 'mission statement'?",
+    "correct_answer": "To define the organization's purpose and primary objectives",
+    "choices": [
+      "To define the organization's purpose and primary objectives",
+      "To describe the company's financial goals only",
+      "To list all products the company sells",
+      "To identify the company's competitors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d0ea144d25a7cf2035144616fb6e1952ecf4b46127395c144a33bc7e4c96e750",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "hard",
+    "question_text": "What is 'situational leadership'?",
+    "correct_answer": "A leadership model that adapts style based on the readiness level of followers",
+    "choices": [
+      "A leadership model that adapts style based on the readiness level of followers",
+      "Leadership that changes every fiscal quarter",
+      "Leadership determined by random selection of managers",
+      "Leadership based on the physical location of the office"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "da6936ab6614a062fd00a30e0692d10887c419c43a40d77d34bee03d92af0766",
+    "language": "es"
+  },
+  {
+    "category": "management",
+    "difficulty": "medium",
+    "question_text": "What is 'intrinsic motivation'?",
+    "correct_answer": "Motivation driven by internal rewards and personal satisfaction",
+    "choices": [
+      "Motivation driven by internal rewards and personal satisfaction",
+      "Motivation driven by salary and bonuses only",
+      "Motivation from fear of punishment",
+      "Motivation provided by external consultants"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7d961fba1a089781c7fc3eeb73a19047415fb797f2e3b8624b4a542648cc6f05",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What are the '4 Ps' of marketing?",
+    "correct_answer": "Product, Price, Place, Promotion",
+    "choices": [
+      "Product, Price, Place, Promotion",
+      "People, Process, Profit, Plan",
+      "Product, Profit, People, Place",
+      "Price, Positioning, Packaging, People"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f4f67f69d73a62e63cd67e6b30dae56b7ebf7eee937959130ae1f2516ed0a03f",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What is a 'target market'?",
+    "correct_answer": "A specific group of consumers a company aims its products at",
+    "choices": [
+      "A specific group of consumers a company aims its products at",
+      "The total number of people in a country",
+      "A company's competitors",
+      "A government-regulated market"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "acd92ea622b2e0638ba928500bb19da7655f49defc61f564262f39038ab64431",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What does SWOT analysis stand for?",
+    "correct_answer": "Strengths, Weaknesses, Opportunities, Threats",
+    "choices": [
+      "Strengths, Weaknesses, Opportunities, Threats",
+      "Sales, Workforce, Operations, Technology",
+      "Strategy, Workflow, Output, Targets",
+      "Systems, Web, Office, Training"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d68b7acf41137c61cc94f9dca84ed0dd847a7b48409cfe8690f01763d68c9e0b",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is 'brand equity'?",
+    "correct_answer": "The commercial value derived from consumer perception of a brand name",
+    "choices": [
+      "The commercial value derived from consumer perception of a brand name",
+      "The total value of a company's stock",
+      "The cost to create a new brand",
+      "The number of products sold under a brand"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e61e57382f8479bb50582080ac3f8411ad400219ae925388d5149bc3d52d40db",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What does SEO stand for in digital marketing?",
+    "correct_answer": "Search Engine Optimization",
+    "choices": [
+      "Search Engine Optimization",
+      "Social Engagement Optimization",
+      "Sales Efficiency Operations",
+      "Standard E-commerce Operations"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e154782b0960f896635f068efe457607de0fde2798d717ca6c7aaeb1deea1654",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What is a 'call to action' in marketing?",
+    "correct_answer": "A prompt that encourages the audience to take a specific action",
+    "choices": [
+      "A prompt that encourages the audience to take a specific action",
+      "A phone call to a customer",
+      "A legal notice in an advertisement",
+      "A request for a product refund"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "04898620684c6ee3f128c4711bf60f2e3f278048c40b317af9828cbd43068ed8",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is 'market segmentation'?",
+    "correct_answer": "Dividing a broad market into subgroups of consumers with common needs",
+    "choices": [
+      "Dividing a broad market into subgroups of consumers with common needs",
+      "Cutting marketing costs by eliminating segments",
+      "Creating separate companies for each product",
+      "Merging multiple markets into one"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "4add05e0352ad25388bd0fa9093f68da115d2fb7ea712ad30dfcab16ef89e39e",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What pricing strategy sets a high initial price and lowers it over time?",
+    "correct_answer": "Price Skimming",
+    "choices": [
+      "Price Skimming",
+      "Penetration Pricing",
+      "Cost-Plus Pricing",
+      "Competitive Pricing"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cacf1b554bfbe89fe7c2015f699cd3e96d4f12c8e7a05cdd9cfbd219bb0174c8",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is 'guerrilla marketing'?",
+    "correct_answer": "Low-cost unconventional marketing tactics to get maximum exposure",
+    "choices": [
+      "Low-cost unconventional marketing tactics to get maximum exposure",
+      "Military-themed advertising campaigns",
+      "Marketing to government agencies",
+      "Aggressive hostile takeover advertising"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "32f871605ab812f7abd4ccd4e0c1b8cd19ad89ebac30236e7933fd6fdcd16b93",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What does CPC stand for in online advertising?",
+    "correct_answer": "Cost Per Click",
+    "choices": [
+      "Cost Per Click",
+      "Customer Purchase Cost",
+      "Content Placement Cost",
+      "Click Performance Conversion"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "eb1bfe5e63a8fbe35046c63fdf9cbc939d5ce5d2efbaeb037599890c648f2eeb",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is 'product positioning'?",
+    "correct_answer": "How a product is perceived in consumers' minds relative to competitors",
+    "choices": [
+      "How a product is perceived in consumers' minds relative to competitors",
+      "Where a product is placed on store shelves",
+      "The geographic location of product manufacturing",
+      "The price tier of a product"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8f8537c275c63004cfe02d1fbf5ae1858884b14b7cbfe633c704e181a5671bd0",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is the 'AIDA' model in advertising?",
+    "correct_answer": "Attention, Interest, Desire, Action",
+    "choices": [
+      "Attention, Interest, Desire, Action",
+      "Analysis, Implementation, Development, Assessment",
+      "Awareness, Information, Decision, Acquisition",
+      "Advertising, Interest, Demand, Awareness"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "32faf6b998565e166535c3311b76e57e23ca20757bd87fbc21ce04347fa818a5",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is a 'loss leader' pricing strategy?",
+    "correct_answer": "Selling a product below cost to attract customers who will buy other items",
+    "choices": [
+      "Selling a product below cost to attract customers who will buy other items",
+      "Leading the market by having the lowest prices on all products",
+      "Eliminating products that lose money",
+      "Setting prices based on the industry leader"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "14850cd311add1008237aaf185a04292554094fd3bca698a8b13d5f7d33d0dd3",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What does CRM stand for?",
+    "correct_answer": "Customer Relationship Management",
+    "choices": [
+      "Customer Relationship Management",
+      "Consumer Retail Marketing",
+      "Corporate Resource Management",
+      "Customer Retention Model"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e8512870299a83254f52c10f73ee1545df352967506aabf1ac9ee8d73144f758",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What is 'content marketing'?",
+    "correct_answer": "Creating and distributing valuable content to attract and retain a target audience",
+    "choices": [
+      "Creating and distributing valuable content to attract and retain a target audience",
+      "Marketing that appears only in print content",
+      "Marketing content that is entertaining but not promotional",
+      "Selling content as a product"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "be8312c53e1ffd87ebc185557e8542f0313bc730ce4472ab8594d10b5190447d",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is 'bounce rate' in web analytics?",
+    "correct_answer": "The percentage of visitors who leave after viewing only one page",
+    "choices": [
+      "The percentage of visitors who leave after viewing only one page",
+      "The rate at which emails are returned as undeliverable",
+      "The speed at which a website loads",
+      "The percentage of customers who return a product"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "029a8db900bab2486559efc294fe0d464fd7295e83139ec8edf14d57591ab6ef",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is the 'product life cycle'?",
+    "correct_answer": "Introduction, Growth, Maturity, Decline",
+    "choices": [
+      "Introduction, Growth, Maturity, Decline",
+      "Development, Launch, Sale, Retirement",
+      "Planning, Production, Distribution, Support",
+      "Initial, Middle, Late, End"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b39325310b81e197ea73b7c5a2fe92bbff5e19bbcf30df1ec853f8db6b04d30a",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What is 'viral marketing'?",
+    "correct_answer": "Marketing that spreads quickly from person to person like a virus",
+    "choices": [
+      "Marketing that spreads quickly from person to person like a virus",
+      "Marketing for healthcare and pharmaceutical products",
+      "Marketing that uses only video content",
+      "Marketing that is illegal or unethical"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ebfd6a3de0b81c7e8c8211f497a52c511c1effa17f87ca42ac95aa3ac36763fe",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What does CPM stand for in advertising?",
+    "correct_answer": "Cost Per Mille (thousand impressions)",
+    "choices": [
+      "Cost Per Mille (thousand impressions)",
+      "Customer Purchase Measurement",
+      "Content Performance Metric",
+      "Campaign Profit Margin"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "beac08b7e9386af8d24b0793fb284814bb146268a1c52c1252d54eccb30c63c4",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is 'permission marketing'?",
+    "correct_answer": "Marketing where consumers agree to receive promotional messages",
+    "choices": [
+      "Marketing where consumers agree to receive promotional messages",
+      "Marketing that requires government approval",
+      "Marketing only to business executives",
+      "Marketing using only legal documents"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "fcde2d1d083e9700f2708e5f9d6cab5021a491ee7843883cb92b40d649382489",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What is a 'USP' in marketing?",
+    "correct_answer": "Unique Selling Proposition",
+    "choices": [
+      "Unique Selling Proposition",
+      "Universal Sales Platform",
+      "United Service Provider",
+      "Ultimate Strategy Plan"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0b3aeb5b6219393af282b015c0947827daaa1a2f3bbb22879fdea8d82a2dec13",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What does 'market share' represent?",
+    "correct_answer": "The percentage of total sales in an industry generated by a particular company",
+    "choices": [
+      "The percentage of total sales in an industry generated by a particular company",
+      "The total number of products a company sells",
+      "The stock market value of a company",
+      "The number of markets a company operates in"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b4ed5e75a888c8985f4da758351e8b4c472c33c0c90c7c28edefd0577a46e2aa",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What is 'influencer marketing'?",
+    "correct_answer": "Using individuals with a large social following to promote products",
+    "choices": [
+      "Using individuals with a large social following to promote products",
+      "Marketing that influences government policy",
+      "Marketing aimed at corporate executives only",
+      "Using celebrity endorsements exclusively on TV"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "75711f9d302b30d38f1e0bbce96cb19273da9879cb4256fc66e8501d11529bda",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What is a 'focus group'?",
+    "correct_answer": "A small group of people whose opinions are studied to gather market research",
+    "choices": [
+      "A small group of people whose opinions are studied to gather market research",
+      "The main target audience for a product",
+      "A company's core management team",
+      "A group of competing products in a market"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "51cc1ee75e23e24e707d3416d94b30350358a49e9675c1bfbec1463d7f1b3a87",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "easy",
+    "question_text": "What does B2B stand for?",
+    "correct_answer": "Business to Business",
+    "choices": [
+      "Business to Business",
+      "Buyer to Buyer",
+      "Back to Basics",
+      "Business to Bank"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c1815877d87acbdbc493e6ed63d3f14062b6a384b8283475e34349f65712058f",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "hard",
+    "question_text": "What is 'price elasticity of demand'?",
+    "correct_answer": "A measure of how sensitive quantity demanded is to a change in price",
+    "choices": [
+      "A measure of how sensitive quantity demanded is to a change in price",
+      "The maximum price a customer will pay",
+      "The flexibility of pricing strategy",
+      "The rate at which prices increase over time"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8777c848c5466acdbee8071a62b69c1b466dba70d59df41e0127b1527d8b71db",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "hard",
+    "question_text": "What is 'cannibalization' in marketing?",
+    "correct_answer": "When a new product eats into sales of a company's existing products",
+    "choices": [
+      "When a new product eats into sales of a company's existing products",
+      "When a competitor copies a company's product",
+      "When a product is discontinued due to low sales",
+      "When a product is sold below cost"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d9a224750a4153638ceb9bf51c4bf565dc110c527ffc98bcbe8fc74c2ae3c01a",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What type of marketing focuses on retaining existing customers?",
+    "correct_answer": "Loyalty Marketing",
+    "choices": [
+      "Loyalty Marketing",
+      "Acquisition Marketing",
+      "Viral Marketing",
+      "Guerrilla Marketing"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "eda7206f6daa4e5a588648f8deca8034baa3e1d44cd085c41d9d915fea41ca01",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "hard",
+    "question_text": "What is 'omnichannel marketing'?",
+    "correct_answer": "Providing a seamless customer experience across all channels",
+    "choices": [
+      "Providing a seamless customer experience across all channels",
+      "Marketing exclusively through online channels",
+      "Marketing using television as the primary channel",
+      "Marketing to multiple unrelated industries"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "d664121cc55c87b4f3a78c3d296b5de8f81ef1f3b60d7bdf47b6510b38c89a8f",
+    "language": "es"
+  },
+  {
+    "category": "marketing",
+    "difficulty": "medium",
+    "question_text": "What does NPS stand for in customer experience?",
+    "correct_answer": "Net Promoter Score",
+    "choices": [
+      "Net Promoter Score",
+      "Net Profit Share",
+      "New Product Strategy",
+      "National Pricing Standard"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0068c80dd6e5d9525b937d1ff676add96db046c473d458ceca141f1e21d56706",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "easy",
+    "question_text": "What is 'supply chain management'?",
+    "correct_answer": "Managing the flow of goods from raw materials to final customers",
+    "choices": [
+      "Managing the flow of goods from raw materials to final customers",
+      "Managing employee payroll and benefits",
+      "Managing a company's social media presence",
+      "Managing the layout of retail stores"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "eefd780f53f6b232bcdf3b4627194fe68b1b8c6e5f812b5f18aa6391c71826a8",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What does 'JIT' stand for in operations management?",
+    "correct_answer": "Just-In-Time",
+    "choices": [
+      "Just-In-Time",
+      "Job Inventory Tracking",
+      "Joint Industrial Training",
+      "Justified Inventory Turnover"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "487a98cc2976d789522a2a4782c950f0bc96b29e9a9137a243371ebd2a2aa9be",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'Six Sigma'?",
+    "correct_answer": "A methodology aimed at reducing defects to fewer than 3.4 per million opportunities",
+    "choices": [
+      "A methodology aimed at reducing defects to fewer than 3.4 per million opportunities",
+      "A system of working exactly six hours per day",
+      "A process for managing exactly six product lines",
+      "A certification requiring six years of experience"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a0ee453a80c2db9629411213deaef8aff48e8d801ca1b12a4f4279c5588a64b7",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'inventory turnover'?",
+    "correct_answer": "The number of times inventory is sold and replaced in a given period",
+    "choices": [
+      "The number of times inventory is sold and replaced in a given period",
+      "The rate at which employees rotate job positions",
+      "The speed of product returns from customers",
+      "The frequency at which prices are updated"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "1049bd83b84a2d66a6636e9d02492320b3a6ea7716a9b04c98dc826d1367b4d9",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'Lean Manufacturing'?",
+    "correct_answer": "A production philosophy focused on minimizing waste while maximizing productivity",
+    "choices": [
+      "A production philosophy focused on minimizing waste while maximizing productivity",
+      "Manufacturing with the fewest possible employees",
+      "A production method using only lightweight materials",
+      "A manufacturing process for diet and health products"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "3f0d6aeb8867732e899d731e0f1147a63f2e0b2845e767f66c0d49bd235706f4",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "hard",
+    "question_text": "What is the 'bullwhip effect' in supply chain?",
+    "correct_answer": "Small changes in consumer demand causing larger fluctuations upstream in the supply chain",
+    "choices": [
+      "Small changes in consumer demand causing larger fluctuations upstream in the supply chain",
+      "The effect of aggressive marketing on sales volume",
+      "The impact of stock market volatility on supply chains",
+      "The tendency for suppliers to overcharge during high demand"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ec1eb10b6b604e5f3e6ab04e0f9368f75200c2e3d7b6cec9b14f67175bc5f744",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'Total Quality Management'?",
+    "correct_answer": "An organization-wide effort to continuously improve the quality of products and processes",
+    "choices": [
+      "An organization-wide effort to continuously improve the quality of products and processes",
+      "A management style that focuses exclusively on total costs",
+      "A system where quality is checked only by top managers",
+      "A government program for manufacturing standards"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "4b4c3f6e7a8501b879a92c81444843650dee8117ce9f9907f056fab034e57ef5",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What does 'ERP' stand for?",
+    "correct_answer": "Enterprise Resource Planning",
+    "choices": [
+      "Enterprise Resource Planning",
+      "Employee Retention Program",
+      "Efficiency and Reliability Process",
+      "Enterprise Revenue Protection"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "37e65e6edc151b31fc73f8d2ff3af31a3d732ee625451436cb0471d19678776b",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'capacity utilization'?",
+    "correct_answer": "The percentage of potential output that is actually being achieved",
+    "choices": [
+      "The percentage of potential output that is actually being achieved",
+      "The number of employees working at full capacity",
+      "The maximum number of products a factory can store",
+      "The amount of warehouse space currently in use"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "0d8c15d5aedb65e5d4001e527d1c3e22801ec38ca82c073b4e26049829efc03c",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "hard",
+    "question_text": "What is 'Kanban'?",
+    "correct_answer": "A scheduling system for lean manufacturing that uses visual signals to trigger action",
+    "choices": [
+      "A scheduling system for lean manufacturing that uses visual signals to trigger action",
+      "A Japanese management philosophy about company loyalty",
+      "A type of inventory storage system",
+      "A method for calculating production costs"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "42602cebc8743525ed4c482c9b0677e1962e400107dc9f357299a6680ff566ac",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "easy",
+    "question_text": "What is 'quality control'?",
+    "correct_answer": "The process of ensuring products meet specified quality standards",
+    "choices": [
+      "The process of ensuring products meet specified quality standards",
+      "The act of controlling the number of products manufactured",
+      "The process of reducing product variety",
+      "The act of limiting employee authority over quality"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7acd16cea8e57df5097fe14b8147b86ab9bcbb525b8c0366429b102ff37d5e8a",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "hard",
+    "question_text": "What is 'reverse logistics'?",
+    "correct_answer": "Moving goods from their final destination back for returns, recycling, or disposal",
+    "choices": [
+      "Moving goods from their final destination back for returns, recycling, or disposal",
+      "Shipping products in the opposite direction of normal traffic",
+      "Delivering products starting from the last order first",
+      "Using backwards-facing loading docks"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "4e31e66bda0bf78ed4bbc72f6e0cb8110ea5c124e82a55c2368ed783e61aec78",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is a 'bottleneck' in operations?",
+    "correct_answer": "A point of congestion in a system where the flow of work is restricted",
+    "choices": [
+      "A point of congestion in a system where the flow of work is restricted",
+      "The narrowest part of a factory building",
+      "A limitation on the number of employees hired",
+      "A government restriction on production volume"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "91432c93071415483444e9e7e6b9679b22c39c97d4cfeb1bbf9f24bc22f7d42a",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "hard",
+    "question_text": "What is 'economies of scope'?",
+    "correct_answer": "Cost savings achieved by producing multiple products together rather than separately",
+    "choices": [
+      "Cost savings achieved by producing multiple products together rather than separately",
+      "The economic benefit of operating in multiple countries",
+      "The advantage of having a broad product scope",
+      "Savings from reducing the scope of operations"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "7c3de5efea73cc94b9ddcdb26eacd69e992023b659755a0e49bae93080010ce6",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What does 'ISO 9001' relate to?",
+    "correct_answer": "Quality management system standards",
+    "choices": [
+      "Quality management system standards",
+      "Environmental management standards",
+      "Occupational health and safety standards",
+      "Information security management standards"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "edd363e827bbef07e0358a5e55a062c5829035040cdada43e239f10fb9f12d75",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'mass customization'?",
+    "correct_answer": "Producing customized goods at mass production efficiency and cost",
+    "choices": [
+      "Producing customized goods at mass production efficiency and cost",
+      "Manufacturing the largest possible quantity of identical products",
+      "Creating custom products for mass-market celebrities",
+      "Producing goods specifically for large crowds"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cb16282bd396282c68c046bf160a61671b61dafd9ff35325e23c5b7bd87bde4c",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'safety stock'?",
+    "correct_answer": "Extra inventory held to prevent stockouts due to demand or supply variability",
+    "choices": [
+      "Extra inventory held to prevent stockouts due to demand or supply variability",
+      "Stock that has passed all safety inspections",
+      "Shares in a company held for emergency situations",
+      "Products that meet government safety regulations"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f4eceae3209ff3d910ec8381076b7ed8e9d4b2211c05f0456686ed522a4de2d2",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is the 'Pareto principle' in operations?",
+    "correct_answer": "Roughly 80% of consequences come from 20% of causes",
+    "choices": [
+      "Roughly 80% of consequences come from 20% of causes",
+      "50% of output comes from 50% of input",
+      "All inputs contribute equally to outputs",
+      "100% of defects come from 100% of processes"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "135fa3b8281a8b8ca8aad4eba6de67338210c63c9fa63998f548c7f47c4dc965",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'process mapping'?",
+    "correct_answer": "A visual representation of the steps involved in a workflow or process",
+    "choices": [
+      "A visual representation of the steps involved in a workflow or process",
+      "A geographic map of factory locations",
+      "A chart showing the company's management hierarchy",
+      "A diagram of the product life cycle"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "f221fe9953b8156c3ba726fb2d3c63136f455c69c2fa3f0b96ece0a4541ee84f",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'Kaizen'?",
+    "correct_answer": "A Japanese philosophy of continuous incremental improvement",
+    "choices": [
+      "A Japanese philosophy of continuous incremental improvement",
+      "A Japanese accounting method for inventory valuation",
+      "A Japanese management style focused on rapid radical change",
+      "A Japanese system for employee punishment"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "42cadb5f6f60c406f9d426dc9390e263ab753cc19078cadc90b08a56c1a1caf5",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is 'cycle time' in operations?",
+    "correct_answer": "The total time from the beginning to the end of a process",
+    "choices": [
+      "The total time from the beginning to the end of a process",
+      "The time it takes for a product to go out of style",
+      "The time between annual inventory counts",
+      "The useful life of manufacturing equipment"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "fd91cf020632773463746af71760358a8786301834f58a6eb2c8e50b90399060",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "easy",
+    "question_text": "What is 'outsourcing' in operations?",
+    "correct_answer": "Hiring external parties to perform services or produce goods",
+    "choices": [
+      "Hiring external parties to perform services or produce goods",
+      "Selling products to customers in other countries",
+      "Finding new sources of raw materials",
+      "Expanding a business into new geographic markets"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "b0409cd81322c955cd2b59cbaddeef92799c2e956036b1ae83a7a997038f6375",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "hard",
+    "question_text": "What is 'Theory of Constraints'?",
+    "correct_answer": "A methodology for identifying the most significant limiting factor in achieving a goal",
+    "choices": [
+      "A methodology for identifying the most significant limiting factor in achieving a goal",
+      "A theory that businesses have unlimited growth potential",
+      "A principle that constraints should be completely eliminated",
+      "A belief that all processes have exactly one constraint"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "8736deeed0669cca5b3b40b7cd8589379626a949179695a24a47a9bd4712c3a4",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "hard",
+    "question_text": "What is 'fill rate' in inventory management?",
+    "correct_answer": "The percentage of customer demand that is met from available stock without backorders",
+    "choices": [
+      "The percentage of customer demand that is met from available stock without backorders",
+      "The rate at which a warehouse fills with inventory",
+      "The speed at which products are packed for shipping",
+      "The percentage of job vacancies that are filled each year"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a29f9c5c951cfb917ec4d042cb6321541a0a844ee7edfc33d35d766fbfd9cf7c",
+    "language": "es"
+  },
+  {
+    "category": "operations",
+    "difficulty": "medium",
+    "question_text": "What is a 'make-or-buy decision'?",
+    "correct_answer": "Choosing between manufacturing a product internally or purchasing it from a supplier",
+    "choices": [
+      "Choosing between manufacturing a product internally or purchasing it from a supplier",
+      "Deciding whether to make profit or buy market share",
+      "Choosing between making products or services",
+      "Deciding whether to hire employees or use contractors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cb9b017c8ea38af71d63a594c881a668a098e993fe30101e53e91f37ef4f5291",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is Porter's Five Forces model used for?",
+    "correct_answer": "Analyzing the competitive intensity and attractiveness of an industry",
+    "choices": [
+      "Analyzing the competitive intensity and attractiveness of an industry",
+      "Calculating a company's market share",
+      "Determining the optimal price for a product",
+      "Evaluating employee performance"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "a6fbb38354c418ff7dd17c64fcb859320eda277f2d9298c0b61fdc7dce6f7801",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "Which of these is NOT one of Porter's Five Forces?",
+    "correct_answer": "Government regulation",
+    "choices": [
+      "Government regulation",
+      "Threat of new entrants",
+      "Bargaining power of buyers",
+      "Threat of substitute products"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6ffa15412292fca392c7770ef8ecb304da2adae43cb61333fa8d22cdd92951bd",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "easy",
+    "question_text": "What is 'competitive advantage'?",
+    "correct_answer": "A condition that allows a company to outperform its rivals",
+    "choices": [
+      "A condition that allows a company to outperform its rivals",
+      "Having the lowest prices in the market",
+      "Being the largest company in the industry",
+      "Having the most employees"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "e3647e71153c6de5f5efc46dfa83f854393aacb7cf4e72ec2bc8281f5fdc2354",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'vertical integration'?",
+    "correct_answer": "A company owning multiple stages of its supply chain",
+    "choices": [
+      "A company owning multiple stages of its supply chain",
+      "A company expanding into international markets",
+      "A company buying its competitors",
+      "A company diversifying into unrelated industries"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6ef311d6d36fb672e73a658a030fd1b582922d5e1538d74d8a01972c897eb8e7",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "What is a 'BCG matrix'?",
+    "correct_answer": "A portfolio planning tool categorizing business units as Stars, Cash Cows, Question Marks, or Dogs",
+    "choices": [
+      "A portfolio planning tool categorizing business units as Stars, Cash Cows, Question Marks, or Dogs",
+      "A financial matrix for calculating stock returns",
+      "A chart showing employee performance rankings",
+      "A diagram of company hierarchy levels"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "bd8e576afb22503dc935fd9813d65babdc2b45b617c19a2f3b58d91bfc2d0bf3",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'blue ocean strategy'?",
+    "correct_answer": "Creating uncontested market space that makes competition irrelevant",
+    "choices": [
+      "Creating uncontested market space that makes competition irrelevant",
+      "Expanding a business into ocean-related industries",
+      "Investing only in international markets",
+      "A strategy focused exclusively on cost reduction"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "01432f5365a3671f6a4c60af37c2e87e9de1bbe776a03f2f75be5b39fbbaa6b2",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'core competency'?",
+    "correct_answer": "A unique capability that gives a company a competitive edge",
+    "choices": [
+      "A unique capability that gives a company a competitive edge",
+      "The basic skills required for any job",
+      "The minimum acceptable performance level",
+      "A standard industry certification"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "660e3e9f36cac3503dfe98a89ef2a4002f2df1f7c3fb17288e693d05f2382191",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "What is the 'Ansoff Matrix'?",
+    "correct_answer": "A strategic framework for growth via market penetration, product development, market development, and diversification",
+    "choices": [
+      "A strategic framework for growth via market penetration, product development, market development, and diversification",
+      "A mathematical formula for calculating optimal pricing",
+      "A tool for assessing employee skills",
+      "A model for predicting stock market trends"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2d29f3192421df957252cdb90cf936c7f6aad369b5d3ca9d77b174590e32d349",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'economies of scale'?",
+    "correct_answer": "Cost advantages gained by increasing production volume",
+    "choices": [
+      "Cost advantages gained by increasing production volume",
+      "The relationship between economic growth and population",
+      "A measurement system for national economies",
+      "The balance between imports and exports"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "26824eeeb7bc170d5ca09c2569188b07393c54125af51030de73ac6e761e9207",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is a 'differentiation strategy'?",
+    "correct_answer": "Making a product unique to justify a premium price",
+    "choices": [
+      "Making a product unique to justify a premium price",
+      "Selling products at the lowest possible price",
+      "Selling the same product in many different countries",
+      "Creating different versions for different customer segments"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cd670b9dc485aaf70a8171169dfb7030db55fa68f2cb923a0a35382be36c1c32",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'horizontal integration'?",
+    "correct_answer": "A company acquiring or merging with competitors in the same industry",
+    "choices": [
+      "A company acquiring or merging with competitors in the same industry",
+      "A company expanding into completely unrelated industries",
+      "A company opening offices on multiple floors of a building",
+      "A company moving its headquarters overseas"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "9b241f7646afd033fe7fca89f060e76f84553eceee60b8568ede4436b6d6d3b2",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "What does VRIO framework stand for?",
+    "correct_answer": "Value, Rarity, Imitability, Organization",
+    "choices": [
+      "Value, Rarity, Imitability, Organization",
+      "Vision, Revenue, Innovation, Output",
+      "Value, Return, Investment, Opportunity",
+      "Volume, Rate, Income, Operations"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6c3abbd34f24535e227f0a09df168aea3826a4528edd720a29c6ba089f82e760",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'strategic alliance'?",
+    "correct_answer": "A partnership between two companies to pursue mutual objectives while remaining independent",
+    "choices": [
+      "A partnership between two companies to pursue mutual objectives while remaining independent",
+      "A merger where both companies cease to exist",
+      "A legal requirement for public companies",
+      "A hostile takeover bid"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "bf14b37c912f942370abed7b1b5c5f1fd34b09d11565935d117772c28f8a901d",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is a 'cost leadership strategy'?",
+    "correct_answer": "Becoming the lowest-cost producer in an industry",
+    "choices": [
+      "Becoming the lowest-cost producer in an industry",
+      "Spending more on leadership development than competitors",
+      "Hiring the most expensive executives",
+      "Reducing prices below competitors temporarily"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "c2efa62491bf690048b3e2a1eccbd6b682ee953b59c751f7395711b55324365a",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'diversification' in corporate strategy?",
+    "correct_answer": "Expanding into new products or markets different from the current business",
+    "choices": [
+      "Expanding into new products or markets different from the current business",
+      "Hiring employees from diverse backgrounds",
+      "Investing in multiple stock exchanges",
+      "Operating in multiple locations within one country"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "62241426e4e7859e79266c96488ddb0d5e7ca7886f355ec5a7fcff8c6644ece5",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "What is the 'Balanced Scorecard'?",
+    "correct_answer": "A strategic planning framework measuring performance from financial, customer, internal process, and learning perspectives",
+    "choices": [
+      "A strategic planning framework measuring performance from financial, customer, internal process, and learning perspectives",
+      "A financial statement showing equal debits and credits",
+      "A report card for employee performance reviews",
+      "A method for calculating balanced investment portfolios"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "ad15026d5d5b2248780490afe90c85504c2e87d0612f78b5e8c46d23b10261b8",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is a 'sustainable competitive advantage'?",
+    "correct_answer": "An advantage that persists over time because competitors cannot easily replicate it",
+    "choices": [
+      "An advantage that persists over time because competitors cannot easily replicate it",
+      "An advantage related to environmental sustainability",
+      "A temporary advantage from a price promotion",
+      "An advantage based solely on location"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "cdc156c6fdf0ced0abafcf4e4eba2ebb0bcb39cd467b0689ce30fd027ea2e9d9",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "What is 'Game Theory' in business strategy?",
+    "correct_answer": "The study of strategic decision-making where outcomes depend on the actions of others",
+    "choices": [
+      "The study of strategic decision-making where outcomes depend on the actions of others",
+      "A theory about gamifying business processes",
+      "A method of competition in the video game industry",
+      "A strategy for marketing entertainment products"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "98867f6d3a3647e8d3233951403a4f28cc5342dc4482cafeddc50d5a632decea",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "easy",
+    "question_text": "What is 'outsourcing'?",
+    "correct_answer": "Contracting business functions to third-party providers",
+    "choices": [
+      "Contracting business functions to third-party providers",
+      "Selling products only to international customers",
+      "Hiring employees from other companies",
+      "Moving company headquarters to another country"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "5df7c99bde32ffe6feca93a1c004fab00e49e0c8940a2493ee53fdb3ab79213c",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'benchmarking'?",
+    "correct_answer": "Comparing business processes and performance metrics to industry bests",
+    "choices": [
+      "Comparing business processes and performance metrics to industry bests",
+      "Creating a physical mark or benchmark on products",
+      "Setting the highest prices in an industry as a standard",
+      "Measuring employee height and weight standards"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "fd266199065fb51d8fdd6c36b1635141a124668cf8436e752e867e71888b2e93",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is a 'joint venture'?",
+    "correct_answer": "A business arrangement where two or more parties create a separate entity for a specific project",
+    "choices": [
+      "A business arrangement where two or more parties create a separate entity for a specific project",
+      "A merger of two equal-sized companies",
+      "An acquisition where one company buys another outright",
+      "A situation where two companies accidentally enter the same market"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "6a18b73b5cd230ebc152cc575b12dbdf5f0daaa2ef891bf79d3334fa35a32e26",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "What is the 'resource-based view' of strategy?",
+    "correct_answer": "A theory that a firm's unique resources and capabilities drive competitive advantage",
+    "choices": [
+      "A theory that a firm's unique resources and capabilities drive competitive advantage",
+      "A view that only natural resources matter in business",
+      "A perspective focused solely on financial resources",
+      "A method of viewing company resources through financial statements"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "2eed89843081d027f582fad09d2bf5c0c512090b67e597d24f3a9d3e920d4cab",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "hard",
+    "question_text": "What is 'strategic drift'?",
+    "correct_answer": "When a company's strategy gradually becomes misaligned with its external environment",
+    "choices": [
+      "When a company's strategy gradually becomes misaligned with its external environment",
+      "When a company deliberately changes its strategy annually",
+      "When a company's stock price drifts downward slowly",
+      "When key employees gradually drift away to competitors"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "46457198121d963377703c38b1cb32312a9b8b8356d7a92e0269619f4b2e9737",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is 'synergy' in mergers and acquisitions?",
+    "correct_answer": "The concept that the combined value of two companies exceeds their individual values",
+    "choices": [
+      "The concept that the combined value of two companies exceeds their individual values",
+      "The cost savings from firing duplicate employees",
+      "The increase in stock price after a merger announcement",
+      "The regulatory approval process for mergers"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "05ef84467002f2b730d1585d1aa12d896180ee174ec70f9094618fbf21e6eb63",
+    "language": "es"
+  },
+  {
+    "category": "strategy",
+    "difficulty": "medium",
+    "question_text": "What is a 'strategic business unit'?",
+    "correct_answer": "A semi-autonomous division within a company with its own strategy and profit responsibility",
+    "choices": [
+      "A semi-autonomous division within a company with its own strategy and profit responsibility",
+      "The smallest operational unit within a company",
+      "A temporary team formed for a specific strategic project",
+      "The CEO's office and direct reports"
+    ],
+    "image_asset": null,
+    "theme": "business",
+    "translation_key": "84aafbb7e856f47696a7ec96b67cf14b0233478720c682f3617b17c98aee522c",
+    "language": "es"
+  }
+]
