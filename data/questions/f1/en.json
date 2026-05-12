@@ -5,10 +5,10 @@
     "question_text": "Which circuit hosts the Monaco Grand Prix?",
     "correct_answer": "Circuit de Monaco",
     "choices": [
-      "Circuit de Monaco",
-      "Circuit de Barcelona-Catalunya",
       "Circuit Gilles Villeneuve",
-      "Circuit de Spa-Francorchamps"
+      "Circuit de Barcelona-Catalunya",
+      "Circuit de Spa-Francorchamps",
+      "Circuit de Monaco"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -21,10 +21,10 @@
     "question_text": "Which circuit hosts the British Grand Prix?",
     "correct_answer": "Silverstone",
     "choices": [
-      "Silverstone",
-      "Brands Hatch",
+      "Goodwood",
       "Donington Park",
-      "Goodwood"
+      "Silverstone",
+      "Brands Hatch"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -37,10 +37,10 @@
     "question_text": "Which circuit hosts the Italian Grand Prix?",
     "correct_answer": "Monza",
     "choices": [
-      "Monza",
       "Imola",
+      "Misano",
       "Mugello",
-      "Misano"
+      "Monza"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -53,9 +53,9 @@
     "question_text": "Which circuit hosts the Japanese Grand Prix?",
     "correct_answer": "Suzuka",
     "choices": [
-      "Suzuka",
       "Fuji Speedway",
       "Okayama",
+      "Suzuka",
       "Motegi"
     ],
     "image_asset": null,
@@ -69,10 +69,10 @@
     "question_text": "Which circuit hosts the Belgian Grand Prix?",
     "correct_answer": "Spa-Francorchamps",
     "choices": [
-      "Spa-Francorchamps",
       "Zolder",
       "Zandvoort",
-      "Nürburgring"
+      "Nürburgring",
+      "Spa-Francorchamps"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -85,10 +85,10 @@
     "question_text": "Which circuit hosts the Brazilian Grand Prix?",
     "correct_answer": "Interlagos",
     "choices": [
-      "Interlagos",
       "Jacarepaguá",
+      "Curitiba",
       "Brasília",
-      "Curitiba"
+      "Interlagos"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -101,9 +101,9 @@
     "question_text": "What is the official name of Interlagos?",
     "correct_answer": "Autódromo José Carlos Pace",
     "choices": [
-      "Autódromo José Carlos Pace",
-      "Autódromo Nelson Piquet",
       "Autódromo Ayrton Senna",
+      "Autódromo Nelson Piquet",
+      "Autódromo José Carlos Pace",
       "Autódromo Emerson Fittipaldi"
     ],
     "image_asset": null,
@@ -117,10 +117,10 @@
     "question_text": "Which circuit hosts the United States Grand Prix?",
     "correct_answer": "Circuit of the Americas",
     "choices": [
-      "Circuit of the Americas",
       "Indianapolis Motor Speedway",
-      "Watkins Glen",
-      "Long Beach"
+      "Long Beach",
+      "Circuit of the Americas",
+      "Watkins Glen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -134,8 +134,8 @@
     "correct_answer": "Austin",
     "choices": [
       "Austin",
-      "Dallas",
       "Houston",
+      "Dallas",
       "San Antonio"
     ],
     "image_asset": null,
@@ -149,10 +149,10 @@
     "question_text": "Which circuit hosts the Singapore Grand Prix?",
     "correct_answer": "Marina Bay Street Circuit",
     "choices": [
-      "Marina Bay Street Circuit",
-      "Baku City Circuit",
       "Albert Park Circuit",
-      "Jeddah Corniche Circuit"
+      "Jeddah Corniche Circuit",
+      "Marina Bay Street Circuit",
+      "Baku City Circuit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -165,10 +165,10 @@
     "question_text": "Which country hosts the longest circuit on the current F1 calendar?",
     "correct_answer": "Belgium",
     "choices": [
-      "Belgium",
-      "Saudi Arabia",
       "Italy",
-      "Azerbaijan"
+      "Saudi Arabia",
+      "Azerbaijan",
+      "Belgium"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -181,10 +181,10 @@
     "question_text": "Which Eau Rouge is a famous corner on which circuit?",
     "correct_answer": "Spa-Francorchamps",
     "choices": [
-      "Spa-Francorchamps",
-      "Suzuka",
+      "Silverstone",
       "Monza",
-      "Silverstone"
+      "Suzuka",
+      "Spa-Francorchamps"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -197,10 +197,10 @@
     "question_text": "Which F1 circuit features the famous Parabolica corner?",
     "correct_answer": "Monza",
     "choices": [
-      "Monza",
+      "Spa-Francorchamps",
       "Mugello",
-      "Imola",
-      "Spa-Francorchamps"
+      "Monza",
+      "Imola"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -213,10 +213,10 @@
     "question_text": "Which F1 circuit features a section called 'Maggotts and Becketts'?",
     "correct_answer": "Silverstone",
     "choices": [
-      "Silverstone",
-      "Spa-Francorchamps",
       "Suzuka",
-      "Monza"
+      "Monza",
+      "Spa-Francorchamps",
+      "Silverstone"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -231,8 +231,8 @@
     "choices": [
       "Interlagos",
       "Monza",
-      "Suzuka",
-      "Silverstone"
+      "Silverstone",
+      "Suzuka"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -245,10 +245,10 @@
     "question_text": "Which circuit hosted the first-ever Formula 1 World Championship Grand Prix in 1950?",
     "correct_answer": "Silverstone",
     "choices": [
+      "Spa-Francorchamps",
       "Silverstone",
-      "Monza",
       "Monaco",
-      "Spa-Francorchamps"
+      "Monza"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -261,10 +261,10 @@
     "question_text": "Which circuit is known as 'The Cathedral of Speed'?",
     "correct_answer": "Monza",
     "choices": [
-      "Monza",
       "Silverstone",
+      "Hockenheim",
       "Spa-Francorchamps",
-      "Hockenheim"
+      "Monza"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -277,10 +277,10 @@
     "question_text": "The Tunnel is a unique feature on which F1 circuit?",
     "correct_answer": "Monaco",
     "choices": [
-      "Monaco",
       "Singapore",
-      "Abu Dhabi",
-      "Baku"
+      "Baku",
+      "Monaco",
+      "Abu Dhabi"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -293,10 +293,10 @@
     "question_text": "Which circuit is the only F1 track to feature a section that runs through a hotel?",
     "correct_answer": "Yas Marina",
     "choices": [
-      "Yas Marina",
-      "Marina Bay",
+      "Baku",
       "Monaco",
-      "Baku"
+      "Marina Bay",
+      "Yas Marina"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -326,9 +326,9 @@
     "correct_answer": "Autódromo Hermanos Rodríguez",
     "choices": [
       "Autódromo Hermanos Rodríguez",
-      "Interlagos",
       "Red Bull Ring",
-      "Circuit de Barcelona-Catalunya"
+      "Circuit de Barcelona-Catalunya",
+      "Interlagos"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -342,9 +342,9 @@
     "correct_answer": "Mexico",
     "choices": [
       "Mexico",
-      "Brazil",
+      "Spain",
       "Argentina",
-      "Spain"
+      "Brazil"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -357,10 +357,10 @@
     "question_text": "Which circuit hosts the Las Vegas Grand Prix?",
     "correct_answer": "Las Vegas Strip Circuit",
     "choices": [
-      "Las Vegas Strip Circuit",
       "Caesars Palace",
+      "Circuit of the Americas",
       "Long Beach",
-      "Circuit of the Americas"
+      "Las Vegas Strip Circuit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -373,10 +373,10 @@
     "question_text": "Which iconic corner at Suzuka is known for its figure-eight layout?",
     "correct_answer": "130R",
     "choices": [
-      "130R",
-      "Spoon Curve",
       "Degner Curve",
-      "Dunlop Curve"
+      "Dunlop Curve",
+      "130R",
+      "Spoon Curve"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -389,9 +389,9 @@
     "question_text": "Which circuit features the 'Swimming Pool' section?",
     "correct_answer": "Monaco",
     "choices": [
+      "Abu Dhabi",
       "Monaco",
       "Singapore",
-      "Abu Dhabi",
       "Miami"
     ],
     "image_asset": null,
@@ -405,10 +405,10 @@
     "question_text": "Which circuit hosts the Miami Grand Prix?",
     "correct_answer": "Miami International Autodrome",
     "choices": [
-      "Miami International Autodrome",
       "Circuit of the Americas",
-      "Sebring",
-      "Daytona"
+      "Daytona",
+      "Miami International Autodrome",
+      "Sebring"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -421,10 +421,10 @@
     "question_text": "Which circuit hosts the Saudi Arabian Grand Prix?",
     "correct_answer": "Jeddah Corniche Circuit",
     "choices": [
-      "Jeddah Corniche Circuit",
-      "Riyadh Street Circuit",
+      "Lusail International Circuit",
       "Yas Marina Circuit",
-      "Lusail International Circuit"
+      "Riyadh Street Circuit",
+      "Jeddah Corniche Circuit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -437,10 +437,10 @@
     "question_text": "Which F1 circuit is nicknamed 'The Temple of Speed'?",
     "correct_answer": "Monza",
     "choices": [
-      "Monza",
       "Silverstone",
-      "Spa-Francorchamps",
-      "Suzuka"
+      "Suzuka",
+      "Monza",
+      "Spa-Francorchamps"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -453,10 +453,10 @@
     "question_text": "Which corner at Circuit of the Americas is famously uphill and inspired by the Nürburgring?",
     "correct_answer": "Turn 1",
     "choices": [
-      "Turn 1",
+      "Turn 20",
       "Turn 11",
-      "Turn 15",
-      "Turn 20"
+      "Turn 1",
+      "Turn 15"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -485,10 +485,10 @@
     "question_text": "Which circuit is the shortest on the current F1 calendar by lap distance?",
     "correct_answer": "Monaco",
     "choices": [
-      "Monaco",
-      "Zandvoort",
       "Red Bull Ring",
-      "Hungaroring"
+      "Monaco",
+      "Hungaroring",
+      "Zandvoort"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -502,9 +502,9 @@
     "correct_answer": "Albert Park",
     "choices": [
       "Albert Park",
-      "Sydney Motorsport Park",
+      "Adelaide",
       "Phillip Island",
-      "Adelaide"
+      "Sydney Motorsport Park"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -533,10 +533,10 @@
     "question_text": "On which island is the Circuit Gilles Villeneuve located?",
     "correct_answer": "Notre Dame Island",
     "choices": [
-      "Notre Dame Island",
       "Vancouver Island",
-      "Prince Edward Island",
-      "Cape Breton Island"
+      "Cape Breton Island",
+      "Notre Dame Island",
+      "Prince Edward Island"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -549,9 +549,9 @@
     "question_text": "Which F1 circuit features a section that goes under a bridge and then over a bridge in quick succession?",
     "correct_answer": "Suzuka",
     "choices": [
-      "Suzuka",
       "Spa-Francorchamps",
       "Silverstone",
+      "Suzuka",
       "Circuit of the Americas"
     ],
     "image_asset": null,
@@ -565,10 +565,10 @@
     "question_text": "Which circuit hosted the 2020 Sakhir Grand Prix on an outer-loop layout?",
     "correct_answer": "Bahrain International Circuit",
     "choices": [
-      "Bahrain International Circuit",
       "Yas Marina Circuit",
       "Lusail International Circuit",
-      "Jeddah Corniche Circuit"
+      "Jeddah Corniche Circuit",
+      "Bahrain International Circuit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -581,8 +581,8 @@
     "question_text": "Which F1 circuit features the 'Bus Stop' chicane?",
     "correct_answer": "Spa-Francorchamps",
     "choices": [
-      "Spa-Francorchamps",
       "Silverstone",
+      "Spa-Francorchamps",
       "Monza",
       "Suzuka"
     ],
@@ -598,8 +598,8 @@
     "correct_answer": "Monaco",
     "choices": [
       "Monaco",
-      "Singapore",
       "Baku",
+      "Singapore",
       "Las Vegas"
     ],
     "image_asset": null,
@@ -613,10 +613,10 @@
     "question_text": "Which Dutch circuit returned to the F1 calendar in 2021 after a 36-year absence?",
     "correct_answer": "Zandvoort",
     "choices": [
-      "Zandvoort",
       "Assen",
-      "Rotterdam",
-      "Eindhoven"
+      "Zandvoort",
+      "Eindhoven",
+      "Rotterdam"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -629,10 +629,10 @@
     "question_text": "Zandvoort features a unique banked corner known as what?",
     "correct_answer": "Hugenholtzbocht",
     "choices": [
-      "Hugenholtzbocht",
+      "Arie Luyendijkbocht",
       "Tarzanbocht",
       "Scheivlak",
-      "Arie Luyendijkbocht"
+      "Hugenholtzbocht"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -645,10 +645,10 @@
     "question_text": "Which circuit hosted the German Grand Prix most frequently during the 2000s?",
     "correct_answer": "Hockenheimring",
     "choices": [
-      "Hockenheimring",
+      "Oschersleben",
       "Nürburgring",
-      "Lausitzring",
-      "Oschersleben"
+      "Hockenheimring",
+      "Lausitzring"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -661,9 +661,9 @@
     "question_text": "Which circuit is known for its iconic 'Grand Hotel Hairpin'?",
     "correct_answer": "Monaco",
     "choices": [
-      "Monaco",
-      "Hungaroring",
       "Zandvoort",
+      "Hungaroring",
+      "Monaco",
       "Interlagos"
     ],
     "image_asset": null,
@@ -677,10 +677,10 @@
     "question_text": "Which F1 circuit is built within a dry lake bed?",
     "correct_answer": "Bahrain International Circuit",
     "choices": [
-      "Bahrain International Circuit",
+      "Jeddah Corniche Circuit",
       "Yas Marina Circuit",
       "Losail International Circuit",
-      "Jeddah Corniche Circuit"
+      "Bahrain International Circuit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -693,10 +693,10 @@
     "question_text": "Which circuit hosted the only F1 race to be held in South Korea?",
     "correct_answer": "Korea International Circuit",
     "choices": [
+      "Taebaek Racing Park",
       "Korea International Circuit",
-      "Inje Speedium",
       "Everland Speedway",
-      "Taebaek Racing Park"
+      "Inje Speedium"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -709,10 +709,10 @@
     "question_text": "Which track on the current F1 calendar has the most corners?",
     "correct_answer": "Singapore",
     "choices": [
-      "Singapore",
       "Monaco",
-      "Jeddah",
-      "Baku"
+      "Singapore",
+      "Baku",
+      "Jeddah"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -725,10 +725,10 @@
     "question_text": "Which F1 circuit is located within Buriram province in Thailand?",
     "correct_answer": "Chang International Circuit",
     "choices": [
-      "Chang International Circuit",
-      "Sepang International Circuit",
       "Marina Bay Street Circuit",
-      "Bangkok Street Circuit"
+      "Chang International Circuit",
+      "Bangkok Street Circuit",
+      "Sepang International Circuit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -741,10 +741,10 @@
     "question_text": "Which circuit features a famous corner called 'Tabac'?",
     "correct_answer": "Monaco",
     "choices": [
-      "Monaco",
+      "Marina Bay",
       "Circuit Gilles Villeneuve",
       "Baku City Circuit",
-      "Marina Bay"
+      "Monaco"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -757,9 +757,9 @@
     "question_text": "Which circuit was originally a concrete oval known as 'The Brickyard'?",
     "correct_answer": "Indianapolis Motor Speedway",
     "choices": [
-      "Indianapolis Motor Speedway",
       "Daytona International Speedway",
       "Talladega Superspeedway",
+      "Indianapolis Motor Speedway",
       "Charlotte Motor Speedway"
     ],
     "image_asset": null,
@@ -773,10 +773,10 @@
     "question_text": "Which F1 circuit features the 'Sea Lion' corner?",
     "correct_answer": "Baku City Circuit",
     "choices": [
+      "Abu Dhabi",
       "Baku City Circuit",
       "Monaco",
-      "Singapore",
-      "Abu Dhabi"
+      "Singapore"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -789,10 +789,10 @@
     "question_text": "Which circuit had a redesign in 2022 that removed the chicane and added a long sweeping right-hander?",
     "correct_answer": "Circuit de Barcelona-Catalunya",
     "choices": [
-      "Circuit de Barcelona-Catalunya",
       "Silverstone",
       "Monza",
-      "Spa-Francorchamps"
+      "Spa-Francorchamps",
+      "Circuit de Barcelona-Catalunya"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -805,10 +805,10 @@
     "question_text": "Which circuit is known for having the longest straight on the current F1 calendar?",
     "correct_answer": "Baku City Circuit",
     "choices": [
-      "Baku City Circuit",
+      "Jeddah Corniche Circuit",
       "Monza",
       "Las Vegas Strip Circuit",
-      "Jeddah Corniche Circuit"
+      "Baku City Circuit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -821,10 +821,10 @@
     "question_text": "In which country is the Hungaroring located?",
     "correct_answer": "Hungary",
     "choices": [
-      "Hungary",
       "Romania",
+      "Czech Republic",
       "Poland",
-      "Czech Republic"
+      "Hungary"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -838,9 +838,9 @@
     "correct_answer": "Budapest",
     "choices": [
       "Budapest",
-      "Vienna",
+      "Bratislava",
       "Prague",
-      "Bratislava"
+      "Vienna"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -854,9 +854,9 @@
     "correct_answer": "Las Vegas Strip Circuit",
     "choices": [
       "Las Vegas Strip Circuit",
-      "Caesars Palace",
       "Nevada Speedway",
-      "Desert Springs Circuit"
+      "Desert Springs Circuit",
+      "Caesars Palace"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -869,10 +869,10 @@
     "question_text": "Which F1 team has won the most Constructors' Championships?",
     "correct_answer": "Ferrari",
     "choices": [
+      "Williams",
       "Ferrari",
-      "McLaren",
       "Mercedes",
-      "Williams"
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -886,9 +886,9 @@
     "correct_answer": "16",
     "choices": [
       "16",
+      "15",
       "14",
-      "18",
-      "15"
+      "18"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -917,10 +917,10 @@
     "question_text": "Which team dominated Formula 1 from 2014 to 2021, winning eight consecutive Constructors' Championships?",
     "correct_answer": "Mercedes",
     "choices": [
-      "Mercedes",
       "Red Bull",
       "Ferrari",
-      "McLaren"
+      "McLaren",
+      "Mercedes"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -933,10 +933,10 @@
     "question_text": "Which team won the Constructors' Championship in 2022 and 2023?",
     "correct_answer": "Red Bull",
     "choices": [
-      "Red Bull",
-      "Mercedes",
       "Ferrari",
-      "McLaren"
+      "McLaren",
+      "Mercedes",
+      "Red Bull"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -949,10 +949,10 @@
     "question_text": "What is the full name of the Red Bull F1 team?",
     "correct_answer": "Oracle Red Bull Racing",
     "choices": [
+      "Red Bull Racing Tag Heuer",
       "Oracle Red Bull Racing",
-      "Red Bull Racing Honda",
       "Aston Martin Red Bull Racing",
-      "Red Bull Racing Tag Heuer"
+      "Red Bull Racing Honda"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -965,10 +965,10 @@
     "question_text": "Which team is the second-oldest surviving F1 constructor, founded in 1966?",
     "correct_answer": "McLaren",
     "choices": [
-      "McLaren",
       "Williams",
       "Ferrari",
-      "Mercedes"
+      "Mercedes",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -981,10 +981,10 @@
     "question_text": "Which team did Michael Schumacher drive for during his most dominant period from 2000 to 2004?",
     "correct_answer": "Ferrari",
     "choices": [
-      "Ferrari",
-      "McLaren",
+      "Mercedes",
       "Benetton",
-      "Mercedes"
+      "Ferrari",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -997,10 +997,10 @@
     "question_text": "Which team did Ayrton Senna drive for when he won all three of his World Championships?",
     "correct_answer": "McLaren",
     "choices": [
-      "McLaren",
       "Williams",
-      "Lotus",
-      "Ferrari"
+      "Ferrari",
+      "McLaren",
+      "Lotus"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1015,8 +1015,8 @@
     "choices": [
       "Red Bull",
       "Ferrari",
-      "McLaren",
-      "Mercedes"
+      "Mercedes",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1029,10 +1029,10 @@
     "question_text": "Which team name returned to F1 in 2021 after buying the assets of Racing Point?",
     "correct_answer": "Aston Martin",
     "choices": [
+      "Toyota",
       "Aston Martin",
-      "Jaguar",
       "Lotus",
-      "Toyota"
+      "Jaguar"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1045,9 +1045,9 @@
     "question_text": "What was the Aston Martin F1 team known as before its 2021 rebranding?",
     "correct_answer": "Racing Point",
     "choices": [
-      "Racing Point",
-      "Force India",
       "Jordan",
+      "Force India",
+      "Racing Point",
       "Midland"
     ],
     "image_asset": null,
@@ -1061,9 +1061,9 @@
     "question_text": "Which F1 team was originally founded as Tyrrell Racing in 1958?",
     "correct_answer": "Mercedes",
     "choices": [
-      "Mercedes",
       "Red Bull",
       "McLaren",
+      "Mercedes",
       "Williams"
     ],
     "image_asset": null,
@@ -1077,10 +1077,10 @@
     "question_text": "Which team entered F1 in 2010 under the name Lotus Racing?",
     "correct_answer": "Caterham",
     "choices": [
-      "Caterham",
+      "HRT",
       "Lotus",
       "Virgin",
-      "HRT"
+      "Caterham"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1094,9 +1094,9 @@
     "correct_answer": "Renault",
     "choices": [
       "Renault",
+      "Honda",
       "Ferrari",
-      "Mercedes",
-      "Honda"
+      "Mercedes"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1109,8 +1109,8 @@
     "question_text": "Which team was known as Benetton before Renault took over in 2002?",
     "correct_answer": "Renault",
     "choices": [
-      "Renault",
       "Alpine",
+      "Renault",
       "Lotus",
       "Williams"
     ],
@@ -1125,10 +1125,10 @@
     "question_text": "Which team did Alpine F1 evolve from?",
     "correct_answer": "Renault",
     "choices": [
-      "Renault",
-      "Benetton",
       "Lotus",
-      "Toleman"
+      "Benetton",
+      "Toleman",
+      "Renault"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1141,10 +1141,10 @@
     "question_text": "What was the Sauber F1 team known as between 2019 and 2023?",
     "correct_answer": "Alfa Romeo",
     "choices": [
-      "Alfa Romeo",
       "BMW Sauber",
-      "Sauber",
-      "Kick Sauber"
+      "Kick Sauber",
+      "Alfa Romeo",
+      "Sauber"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1157,10 +1157,10 @@
     "question_text": "Which team won its only Constructors' Championship in 2009 with the Brawn BGP 001 car?",
     "correct_answer": "Brawn GP",
     "choices": [
-      "Brawn GP",
-      "Mercedes",
       "Honda",
-      "Williams"
+      "Williams",
+      "Brawn GP",
+      "Mercedes"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1173,10 +1173,10 @@
     "question_text": "What team did Brawn GP become the following year?",
     "correct_answer": "Mercedes",
     "choices": [
-      "Mercedes",
-      "McLaren",
       "Red Bull",
-      "Ferrari"
+      "Mercedes",
+      "Ferrari",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1189,10 +1189,10 @@
     "question_text": "Which team has the record for most consecutive Constructors' Championships?",
     "correct_answer": "Mercedes",
     "choices": [
+      "McLaren",
       "Mercedes",
       "Ferrari",
-      "Red Bull",
-      "McLaren"
+      "Red Bull"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1205,10 +1205,10 @@
     "question_text": "How many Constructors' Championships did Williams win in the 1990s?",
     "correct_answer": "5",
     "choices": [
-      "5",
-      "4",
       "6",
-      "3"
+      "3",
+      "4",
+      "5"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1221,10 +1221,10 @@
     "question_text": "Which team did Max Verstappen drive for when he won his first World Championship?",
     "correct_answer": "Red Bull",
     "choices": [
-      "Red Bull",
       "Mercedes",
+      "McLaren",
       "Ferrari",
-      "McLaren"
+      "Red Bull"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1237,10 +1237,10 @@
     "question_text": "Which American F1 team competed from 2016 to 2022 before being sold to Dorilton Capital?",
     "correct_answer": "Haas",
     "choices": [
-      "Haas",
       "Caterham",
       "Manor",
-      "HRT"
+      "HRT",
+      "Haas"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1254,8 +1254,8 @@
     "correct_answer": "Honda",
     "choices": [
       "Honda",
-      "Toyota",
       "Nissan",
+      "Toyota",
       "Mazda"
     ],
     "image_asset": null,
@@ -1269,10 +1269,10 @@
     "question_text": "Which team is the only British-based team to have won a Constructors' Championship without being a full works team?",
     "correct_answer": "Williams",
     "choices": [
-      "Williams",
-      "McLaren",
       "Lotus",
-      "Tyrrell"
+      "Williams",
+      "Tyrrell",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1285,10 +1285,10 @@
     "question_text": "What was the last Italian team other than Ferrari to score an F1 victory?",
     "correct_answer": "AlphaTauri",
     "choices": [
-      "AlphaTauri",
-      "Alfa Romeo",
       "Maserati",
-      "Lancia"
+      "AlphaTauri",
+      "Lancia",
+      "Alfa Romeo"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1302,8 +1302,8 @@
     "correct_answer": "RB",
     "choices": [
       "RB",
-      "AlphaTauri",
       "Toro Rosso",
+      "AlphaTauri",
       "Minardi"
     ],
     "image_asset": null,
@@ -1318,9 +1318,9 @@
     "correct_answer": "Minardi",
     "choices": [
       "Minardi",
+      "Prost",
       "Jordan",
-      "Arrows",
-      "Prost"
+      "Arrows"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1333,10 +1333,10 @@
     "question_text": "Which team did Jenson Button win his 2009 World Championship with?",
     "correct_answer": "Brawn GP",
     "choices": [
-      "Brawn GP",
-      "McLaren",
       "Williams",
-      "Honda"
+      "Honda",
+      "Brawn GP",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1349,10 +1349,10 @@
     "question_text": "Which team's color is traditionally British Racing Green?",
     "correct_answer": "Aston Martin",
     "choices": [
-      "Aston Martin",
-      "Mercedes",
+      "Williams",
       "McLaren",
-      "Williams"
+      "Aston Martin",
+      "Mercedes"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1365,10 +1365,10 @@
     "question_text": "Which team is known as the 'Prancing Horse'?",
     "correct_answer": "Ferrari",
     "choices": [
-      "Ferrari",
       "McLaren",
-      "Williams",
-      "Alfa Romeo"
+      "Alfa Romeo",
+      "Ferrari",
+      "Williams"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1381,8 +1381,8 @@
     "question_text": "Which team is known as the 'Silver Arrows'?",
     "correct_answer": "Mercedes",
     "choices": [
-      "Mercedes",
       "Red Bull",
+      "Mercedes",
       "McLaren",
       "Aston Martin"
     ],
@@ -1397,10 +1397,10 @@
     "question_text": "What color is the Ferrari F1 team traditionally associated with?",
     "correct_answer": "Red",
     "choices": [
-      "Red",
       "Yellow",
+      "Green",
       "Black",
-      "Green"
+      "Red"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1413,10 +1413,10 @@
     "question_text": "Which team did Mario Andretti win his 1978 World Championship with?",
     "correct_answer": "Lotus",
     "choices": [
-      "Lotus",
-      "Ferrari",
+      "Williams",
       "McLaren",
-      "Williams"
+      "Lotus",
+      "Ferrari"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1429,10 +1429,10 @@
     "question_text": "Which team won the Constructors' Championship in its debut season in 1975?",
     "correct_answer": "Ferrari",
     "choices": [
-      "Ferrari",
-      "Lotus",
       "McLaren",
-      "Williams"
+      "Ferrari",
+      "Williams",
+      "Lotus"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1445,10 +1445,10 @@
     "question_text": "Which team has the most Grand Prix wins as a constructor?",
     "correct_answer": "Ferrari",
     "choices": [
+      "Williams",
       "Ferrari",
-      "McLaren",
       "Mercedes",
-      "Williams"
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1461,10 +1461,10 @@
     "question_text": "Which team did Niki Lauda drive for when he won his first two World Championships?",
     "correct_answer": "Ferrari",
     "choices": [
-      "Ferrari",
-      "McLaren",
+      "Brabham",
       "Mercedes",
-      "Brabham"
+      "McLaren",
+      "Ferrari"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1477,10 +1477,10 @@
     "question_text": "Which team did James Hunt drive for when he won the 1976 World Championship?",
     "correct_answer": "McLaren",
     "choices": [
-      "McLaren",
+      "Tyrrell",
       "Ferrari",
-      "Lotus",
-      "Tyrrell"
+      "McLaren",
+      "Lotus"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1494,9 +1494,9 @@
     "correct_answer": "Lotus",
     "choices": [
       "Lotus",
-      "Williams",
       "McLaren",
-      "Brabham"
+      "Brabham",
+      "Williams"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1510,9 +1510,9 @@
     "correct_answer": "Brabham",
     "choices": [
       "Brabham",
-      "Williams",
+      "Lotus",
       "McLaren",
-      "Lotus"
+      "Williams"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1525,9 +1525,9 @@
     "question_text": "Which team was originally owned by Sir Frank Williams and Patrick Head?",
     "correct_answer": "Williams",
     "choices": [
+      "Lotus",
       "Williams",
       "McLaren",
-      "Lotus",
       "Brabham"
     ],
     "image_asset": null,
@@ -1541,10 +1541,10 @@
     "question_text": "Which team did Jim Clark drive for during his entire F1 career?",
     "correct_answer": "Lotus",
     "choices": [
-      "Lotus",
-      "McLaren",
       "Ferrari",
-      "BRM"
+      "BRM",
+      "McLaren",
+      "Lotus"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1557,10 +1557,10 @@
     "question_text": "Which team did Juan Manuel Fangio win four of his five titles with?",
     "correct_answer": "Mercedes",
     "choices": [
-      "Mercedes",
       "Alfa Romeo",
+      "Ferrari",
       "Maserati",
-      "Ferrari"
+      "Mercedes"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1573,10 +1573,10 @@
     "question_text": "Which car manufacturer is the engine supplier for Aston Martin's F1 team?",
     "correct_answer": "Mercedes",
     "choices": [
-      "Mercedes",
+      "Renault",
       "Ferrari",
-      "Honda",
-      "Renault"
+      "Mercedes",
+      "Honda"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1589,10 +1589,10 @@
     "question_text": "Which team had a famous rivalry with Ferrari during the early 2000s?",
     "correct_answer": "McLaren",
     "choices": [
-      "McLaren",
-      "Williams",
       "Renault",
-      "Red Bull"
+      "Williams",
+      "Red Bull",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1605,10 +1605,10 @@
     "question_text": "Which team was founded by Bruce McLaren in 1963?",
     "correct_answer": "McLaren",
     "choices": [
-      "McLaren",
+      "Brabham",
       "Williams",
-      "Lotus",
-      "Brabham"
+      "McLaren",
+      "Lotus"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1621,10 +1621,10 @@
     "question_text": "Which team is based in Maranello, Italy?",
     "correct_answer": "Ferrari",
     "choices": [
-      "Ferrari",
       "AlphaTauri",
-      "Alfa Romeo",
-      "Lamborghini"
+      "Ferrari",
+      "Lamborghini",
+      "Alfa Romeo"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1637,10 +1637,10 @@
     "question_text": "Which team is based in Woking, England?",
     "correct_answer": "McLaren",
     "choices": [
-      "McLaren",
       "Mercedes",
-      "Red Bull",
-      "Aston Martin"
+      "McLaren",
+      "Aston Martin",
+      "Red Bull"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1653,10 +1653,10 @@
     "question_text": "Which team is based in Brackley, England?",
     "correct_answer": "Mercedes",
     "choices": [
-      "Mercedes",
-      "McLaren",
       "Red Bull",
-      "Williams"
+      "Mercedes",
+      "Williams",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1669,10 +1669,10 @@
     "question_text": "Which team is based in Milton Keynes, England?",
     "correct_answer": "Red Bull",
     "choices": [
-      "Red Bull",
       "Mercedes",
+      "Aston Martin",
       "McLaren",
-      "Aston Martin"
+      "Red Bull"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1685,10 +1685,10 @@
     "question_text": "Which team did Damon Hill drive for when he won the 1996 World Championship?",
     "correct_answer": "Williams",
     "choices": [
+      "Ferrari",
       "Williams",
       "McLaren",
-      "Lotus",
-      "Ferrari"
+      "Lotus"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1701,10 +1701,10 @@
     "question_text": "Which team did Alan Jones drive for when he won his 1980 World Championship?",
     "correct_answer": "Williams",
     "choices": [
-      "Williams",
+      "Ferrari",
       "Lotus",
-      "McLaren",
-      "Ferrari"
+      "Williams",
+      "McLaren"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1717,9 +1717,9 @@
     "question_text": "Which team won their first Grand Prix at the 2019 Brazilian Grand Prix with Pierre Gasly?",
     "correct_answer": "AlphaTauri",
     "choices": [
+      "Haas",
       "AlphaTauri",
       "Alfa Romeo",
-      "Haas",
       "Racing Point"
     ],
     "image_asset": null,
@@ -1733,10 +1733,10 @@
     "question_text": "What team is Haas F1's chassis supplier?",
     "correct_answer": "Dallara",
     "choices": [
-      "Dallara",
+      "March",
       "Lola",
       "Reynard",
-      "March"
+      "Dallara"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1749,10 +1749,10 @@
     "question_text": "Who holds the record for the most Formula 1 World Drivers' Championships?",
     "correct_answer": "Michael Schumacher and Lewis Hamilton",
     "choices": [
-      "Michael Schumacher and Lewis Hamilton",
       "Juan Manuel Fangio",
-      "Ayrton Senna",
-      "Sebastian Vettel"
+      "Sebastian Vettel",
+      "Michael Schumacher and Lewis Hamilton",
+      "Ayrton Senna"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1765,10 +1765,10 @@
     "question_text": "How many World Drivers' Championships did Michael Schumacher win?",
     "correct_answer": "7",
     "choices": [
-      "7",
+      "8",
       "6",
-      "5",
-      "8"
+      "7",
+      "5"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1782,9 +1782,9 @@
     "correct_answer": "7",
     "choices": [
       "7",
-      "6",
+      "8",
       "5",
-      "8"
+      "6"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1797,8 +1797,8 @@
     "question_text": "Which driver won the Formula 1 World Championship in 2021?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
       "Lewis Hamilton",
+      "Max Verstappen",
       "Valtteri Bottas",
       "Sergio Pérez"
     ],
@@ -1813,10 +1813,10 @@
     "question_text": "Which driver won the Formula 1 World Championship in 2022?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
       "Charles Leclerc",
       "Sergio Pérez",
-      "George Russell"
+      "George Russell",
+      "Max Verstappen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1829,10 +1829,10 @@
     "question_text": "Which driver won the Formula 1 World Championship in 2023?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
-      "Sergio Pérez",
       "Lewis Hamilton",
-      "Fernando Alonso"
+      "Fernando Alonso",
+      "Sergio Pérez",
+      "Max Verstappen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1845,9 +1845,9 @@
     "question_text": "Which driver won the Formula 1 World Championship in 2024?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
       "Lando Norris",
       "Charles Leclerc",
+      "Max Verstappen",
       "Oscar Piastri"
     ],
     "image_asset": null,
@@ -1861,10 +1861,10 @@
     "question_text": "Which driver won the Formula 1 World Championship in 2025?",
     "correct_answer": "Max Verstappen",
     "choices": [
+      "Lewis Hamilton",
       "Max Verstappen",
       "Lando Norris",
-      "Charles Leclerc",
-      "Lewis Hamilton"
+      "Charles Leclerc"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1877,10 +1877,10 @@
     "question_text": "What nationality is Max Verstappen?",
     "correct_answer": "Dutch",
     "choices": [
-      "Dutch",
       "Belgian",
-      "German",
-      "Austrian"
+      "Austrian",
+      "Dutch",
+      "German"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1893,10 +1893,10 @@
     "question_text": "What nationality is Lewis Hamilton?",
     "correct_answer": "British",
     "choices": [
-      "British",
-      "American",
+      "Canadian",
       "Australian",
-      "Canadian"
+      "American",
+      "British"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1909,10 +1909,10 @@
     "question_text": "What nationality is Charles Leclerc?",
     "correct_answer": "Monegasque",
     "choices": [
-      "Monegasque",
-      "French",
+      "Belgian",
       "Italian",
-      "Belgian"
+      "Monegasque",
+      "French"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1925,10 +1925,10 @@
     "question_text": "What nationality is Fernando Alonso?",
     "correct_answer": "Spanish",
     "choices": [
-      "Spanish",
-      "Portuguese",
       "Italian",
-      "Mexican"
+      "Spanish",
+      "Mexican",
+      "Portuguese"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1942,9 +1942,9 @@
     "correct_answer": "Brazilian",
     "choices": [
       "Brazilian",
-      "Argentinian",
+      "Colombian",
       "Portuguese",
-      "Colombian"
+      "Argentinian"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1957,8 +1957,8 @@
     "question_text": "What nationality is Michael Schumacher?",
     "correct_answer": "German",
     "choices": [
-      "German",
       "Austrian",
+      "German",
       "Swiss",
       "Dutch"
     ],
@@ -1973,10 +1973,10 @@
     "question_text": "What nationality is Sebastian Vettel?",
     "correct_answer": "German",
     "choices": [
-      "German",
       "Austrian",
-      "Swiss",
-      "Dutch"
+      "Dutch",
+      "German",
+      "Swiss"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -1989,9 +1989,9 @@
     "question_text": "Which British driver won the 2008 Formula 1 World Championship with McLaren?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
-      "Jenson Button",
       "Damon Hill",
+      "Jenson Button",
+      "Lewis Hamilton",
       "Nigel Mansell"
     ],
     "image_asset": null,
@@ -2005,10 +2005,10 @@
     "question_text": "Which Finnish driver won back-to-back titles with McLaren in 1998 and 1999?",
     "correct_answer": "Mika Häkkinen",
     "choices": [
-      "Mika Häkkinen",
-      "Kimi Räikkönen",
       "Keke Rosberg",
-      "Valtteri Bottas"
+      "Valtteri Bottas",
+      "Mika Häkkinen",
+      "Kimi Räikkönen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2021,10 +2021,10 @@
     "question_text": "Who was the first driver to win a Formula 1 World Championship?",
     "correct_answer": "Giuseppe Farina",
     "choices": [
+      "Mike Hawthorn",
       "Giuseppe Farina",
       "Juan Manuel Fangio",
-      "Alberto Ascari",
-      "Mike Hawthorn"
+      "Alberto Ascari"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2037,10 +2037,10 @@
     "question_text": "How many World Drivers' Championships did Alain Prost win?",
     "correct_answer": "4",
     "choices": [
-      "4",
-      "3",
+      "2",
       "5",
-      "2"
+      "4",
+      "3"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2054,8 +2054,8 @@
     "correct_answer": "4",
     "choices": [
       "4",
-      "3",
       "5",
+      "3",
       "2"
     ],
     "image_asset": null,
@@ -2069,10 +2069,10 @@
     "question_text": "How many World Drivers' Championships did Ayrton Senna win?",
     "correct_answer": "3",
     "choices": [
-      "3",
-      "4",
+      "5",
       "2",
-      "5"
+      "4",
+      "3"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2101,10 +2101,10 @@
     "question_text": "How many World Drivers' Championships did Niki Lauda win?",
     "correct_answer": "3",
     "choices": [
-      "3",
-      "2",
       "4",
-      "1"
+      "2",
+      "1",
+      "3"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2118,9 +2118,9 @@
     "correct_answer": "3",
     "choices": [
       "3",
-      "2",
+      "1",
       "4",
-      "1"
+      "2"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2133,10 +2133,10 @@
     "question_text": "How many World Drivers' Championships did Jim Clark win?",
     "correct_answer": "2",
     "choices": [
-      "2",
-      "1",
       "3",
-      "4"
+      "1",
+      "4",
+      "2"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2151,8 +2151,8 @@
     "choices": [
       "2",
       "1",
-      "3",
-      "4"
+      "4",
+      "3"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2165,8 +2165,8 @@
     "question_text": "How many World Drivers' Championships did Emerson Fittipaldi win?",
     "correct_answer": "2",
     "choices": [
-      "2",
       "1",
+      "2",
       "3",
       "4"
     ],
@@ -2181,8 +2181,8 @@
     "question_text": "Which Spanish driver won World Championships with Renault in 2005 and 2006?",
     "correct_answer": "Fernando Alonso",
     "choices": [
-      "Fernando Alonso",
       "Carlos Sainz",
+      "Fernando Alonso",
       "Pedro de la Rosa",
       "Jaime Alguersuari"
     ],
@@ -2197,10 +2197,10 @@
     "question_text": "At what age did Max Verstappen become the youngest driver to start an F1 race?",
     "correct_answer": "17",
     "choices": [
-      "17",
+      "19",
       "18",
-      "16",
-      "19"
+      "17",
+      "16"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2213,10 +2213,10 @@
     "question_text": "Which driver won the 2007 Formula 1 World Championship by a single point?",
     "correct_answer": "Kimi Räikkönen",
     "choices": [
-      "Kimi Räikkönen",
       "Lewis Hamilton",
+      "Felipe Massa",
       "Fernando Alonso",
-      "Felipe Massa"
+      "Kimi Räikkönen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2229,10 +2229,10 @@
     "question_text": "Who was the first American driver to win an F1 Grand Prix?",
     "correct_answer": "Johnnie Parsons",
     "choices": [
+      "Dan Gurney",
       "Johnnie Parsons",
       "Phil Hill",
-      "Mario Andretti",
-      "Dan Gurney"
+      "Mario Andretti"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2247,8 +2247,8 @@
     "choices": [
       "Max Verstappen",
       "Michael Schumacher",
-      "Lewis Hamilton",
-      "Sebastian Vettel"
+      "Sebastian Vettel",
+      "Lewis Hamilton"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2261,10 +2261,10 @@
     "question_text": "How many races did Max Verstappen win in the 2023 season?",
     "correct_answer": "19",
     "choices": [
-      "19",
+      "21",
       "15",
       "17",
-      "21"
+      "19"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2279,8 +2279,8 @@
     "choices": [
       "Alain Prost",
       "Niki Lauda",
-      "Nelson Piquet",
-      "Ayrton Senna"
+      "Ayrton Senna",
+      "Nelson Piquet"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2294,9 +2294,9 @@
     "correct_answer": "Jackie Stewart",
     "choices": [
       "Jackie Stewart",
+      "Stirling Moss",
       "Jim Clark",
-      "David Coulthard",
-      "Stirling Moss"
+      "David Coulthard"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2309,10 +2309,10 @@
     "question_text": "Which driver is known as 'The Iceman'?",
     "correct_answer": "Kimi Räikkönen",
     "choices": [
-      "Kimi Räikkönen",
-      "Mika Häkkinen",
       "Valtteri Bottas",
-      "Nico Rosberg"
+      "Nico Rosberg",
+      "Kimi Räikkönen",
+      "Mika Häkkinen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2325,8 +2325,8 @@
     "question_text": "Which driver is known as 'The Lion of the Desert'?",
     "correct_answer": "Ayrton Senna",
     "choices": [
-      "Ayrton Senna",
       "Juan Manuel Fangio",
+      "Ayrton Senna",
       "Gilles Villeneuve",
       "Jacky Ickx"
     ],
@@ -2341,10 +2341,10 @@
     "question_text": "Which Ferrari driver famously won the 1976 Japanese Grand Prix despite a near-fatal crash earlier that season?",
     "correct_answer": "Niki Lauda",
     "choices": [
+      "Mario Andretti",
       "Niki Lauda",
       "James Hunt",
-      "Clay Regazzoni",
-      "Mario Andretti"
+      "Clay Regazzoni"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2357,10 +2357,10 @@
     "question_text": "Who was the last driver to win a World Championship using a Cosworth DFV engine?",
     "correct_answer": "Keke Rosberg",
     "choices": [
+      "Mario Andretti",
       "Keke Rosberg",
       "Alan Jones",
-      "Nelson Piquet",
-      "Mario Andretti"
+      "Nelson Piquet"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2390,8 +2390,8 @@
     "correct_answer": "Mike Hawthorn",
     "choices": [
       "Mike Hawthorn",
-      "Graham Hill",
       "Jim Clark",
+      "Graham Hill",
       "Jackie Stewart"
     ],
     "image_asset": null,
@@ -2406,9 +2406,9 @@
     "correct_answer": "Graham Hill",
     "choices": [
       "Graham Hill",
-      "Jim Clark",
+      "Juan Manuel Fangio",
       "Jackie Stewart",
-      "Juan Manuel Fangio"
+      "Jim Clark"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2421,10 +2421,10 @@
     "question_text": "Who was the first Brazilian to win a Formula 1 World Championship?",
     "correct_answer": "Emerson Fittipaldi",
     "choices": [
+      "Rubens Barrichello",
       "Emerson Fittipaldi",
-      "Nelson Piquet",
       "Ayrton Senna",
-      "Rubens Barrichello"
+      "Nelson Piquet"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2439,8 +2439,8 @@
     "choices": [
       "Nico Rosberg",
       "Lewis Hamilton",
-      "Jenson Button",
-      "Felipe Massa"
+      "Felipe Massa",
+      "Jenson Button"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2453,10 +2453,10 @@
     "question_text": "Who was the first driver from Finland to win an F1 World Championship?",
     "correct_answer": "Keke Rosberg",
     "choices": [
-      "Keke Rosberg",
-      "Mika Häkkinen",
       "Kimi Räikkönen",
-      "Valtteri Bottas"
+      "Mika Häkkinen",
+      "Valtteri Bottas",
+      "Keke Rosberg"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2469,10 +2469,10 @@
     "question_text": "Which driver is the only one to have won the World Championship on two wheels and four?",
     "correct_answer": "John Surtees",
     "choices": [
-      "John Surtees",
-      "Mike Hailwood",
+      "Johnny Rutherford",
       "Jacky Ickx",
-      "Johnny Rutherford"
+      "John Surtees",
+      "Mike Hailwood"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2485,10 +2485,10 @@
     "question_text": "Who was the first Canadian driver to win a Formula 1 World Championship?",
     "correct_answer": "Jacques Villeneuve",
     "choices": [
-      "Jacques Villeneuve",
       "Gilles Villeneuve",
       "Lance Stroll",
-      "Alex Tagliani"
+      "Alex Tagliani",
+      "Jacques Villeneuve"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2501,8 +2501,8 @@
     "question_text": "Which South African driver won the 1979 Formula 1 World Championship?",
     "correct_answer": "Jody Scheckter",
     "choices": [
-      "Jody Scheckter",
       "John Watson",
+      "Jody Scheckter",
       "Tony Maggs",
       "John Love"
     ],
@@ -2517,9 +2517,9 @@
     "question_text": "Who was the first Australian to win a Formula 1 World Championship?",
     "correct_answer": "Jack Brabham",
     "choices": [
+      "Mark Webber",
       "Jack Brabham",
       "Alan Jones",
-      "Mark Webber",
       "Sir Jack Brabham"
     ],
     "image_asset": null,
@@ -2534,8 +2534,8 @@
     "correct_answer": "Jack Brabham",
     "choices": [
       "Jack Brabham",
-      "Bruce McLaren",
       "John Surtees",
+      "Bruce McLaren",
       "Dan Gurney"
     ],
     "image_asset": null,
@@ -2549,10 +2549,10 @@
     "question_text": "Which driver has the most pole positions in F1 history?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
-      "Michael Schumacher",
+      "Max Verstappen",
       "Ayrton Senna",
-      "Max Verstappen"
+      "Lewis Hamilton",
+      "Michael Schumacher"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2565,10 +2565,10 @@
     "question_text": "Who has the most consecutive F1 race wins?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
-      "Sebastian Vettel",
       "Michael Schumacher",
-      "Lewis Hamilton"
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Max Verstappen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2582,9 +2582,9 @@
     "correct_answer": "Luigi Fagioli",
     "choices": [
       "Luigi Fagioli",
-      "Nigel Mansell",
+      "Mario Andretti",
       "Damon Hill",
-      "Mario Andretti"
+      "Nigel Mansell"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2597,10 +2597,10 @@
     "question_text": "Which driver holds the record for most Grand Prix starts in F1 history?",
     "correct_answer": "Fernando Alonso",
     "choices": [
-      "Fernando Alonso",
       "Kimi Räikkönen",
+      "Rubens Barrichello",
       "Lewis Hamilton",
-      "Rubens Barrichello"
+      "Fernando Alonso"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2613,10 +2613,10 @@
     "question_text": "Which driver won the 1958 World Championship despite winning only one race that season?",
     "correct_answer": "Mike Hawthorn",
     "choices": [
-      "Mike Hawthorn",
-      "Stirling Moss",
       "Juan Manuel Fangio",
-      "Alberto Ascari"
+      "Alberto Ascari",
+      "Stirling Moss",
+      "Mike Hawthorn"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2661,9 +2661,9 @@
     "question_text": "Which driver has the most fastest laps in F1 history?",
     "correct_answer": "Michael Schumacher",
     "choices": [
-      "Michael Schumacher",
-      "Lewis Hamilton",
       "Kimi Räikkönen",
+      "Lewis Hamilton",
+      "Michael Schumacher",
       "Max Verstappen"
     ],
     "image_asset": null,
@@ -2677,9 +2677,9 @@
     "question_text": "Who was the youngest World Drivers' Champion in F1 history?",
     "correct_answer": "Sebastian Vettel",
     "choices": [
+      "Fernando Alonso",
       "Sebastian Vettel",
       "Lewis Hamilton",
-      "Fernando Alonso",
       "Max Verstappen"
     ],
     "image_asset": null,
@@ -2695,8 +2695,8 @@
     "choices": [
       "Alain Prost",
       "Nelson Piquet",
-      "Damon Hill",
-      "Ayrton Senna"
+      "Ayrton Senna",
+      "Damon Hill"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2710,9 +2710,9 @@
     "correct_answer": "1950",
     "choices": [
       "1950",
-      "1948",
       "1952",
-      "1946"
+      "1946",
+      "1948"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2725,10 +2725,10 @@
     "question_text": "Who won the first Formula 1 World Drivers' Championship in 1950?",
     "correct_answer": "Giuseppe Farina",
     "choices": [
-      "Giuseppe Farina",
+      "Luigi Fagioli",
       "Juan Manuel Fangio",
       "Alberto Ascari",
-      "Luigi Fagioli"
+      "Giuseppe Farina"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2742,9 +2742,9 @@
     "correct_answer": "Juan Manuel Fangio",
     "choices": [
       "Juan Manuel Fangio",
-      "Stirling Moss",
       "Alberto Ascari",
-      "Mike Hawthorn"
+      "Mike Hawthorn",
+      "Stirling Moss"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2757,10 +2757,10 @@
     "question_text": "In what year was the Constructors' Championship first introduced?",
     "correct_answer": "1958",
     "choices": [
-      "1958",
       "1950",
-      "1960",
-      "1955"
+      "1958",
+      "1955",
+      "1960"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2773,10 +2773,10 @@
     "question_text": "Which team won the first-ever Constructors' Championship?",
     "correct_answer": "Vanwall",
     "choices": [
-      "Vanwall",
-      "Ferrari",
+      "Maserati",
       "Cooper",
-      "Maserati"
+      "Vanwall",
+      "Ferrari"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2789,8 +2789,8 @@
     "question_text": "Which F1 team pioneered the rear-engine layout in the late 1950s?",
     "correct_answer": "Cooper",
     "choices": [
-      "Cooper",
       "Lotus",
+      "Cooper",
       "Ferrari",
       "Maserati"
     ],
@@ -2805,10 +2805,10 @@
     "question_text": "At which Grand Prix in 1958 did a woman first compete in an F1 race?",
     "correct_answer": "Monaco Grand Prix",
     "choices": [
-      "Monaco Grand Prix",
-      "Belgian Grand Prix",
       "French Grand Prix",
-      "Italian Grand Prix"
+      "Italian Grand Prix",
+      "Monaco Grand Prix",
+      "Belgian Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2822,8 +2822,8 @@
     "correct_answer": "Lella Lombardi",
     "choices": [
       "Lella Lombardi",
-      "Maria Teresa de Filippis",
       "Divina Galica",
+      "Maria Teresa de Filippis",
       "Desiré Wilson"
     ],
     "image_asset": null,
@@ -2837,9 +2837,9 @@
     "question_text": "In what year was ground effect aerodynamics banned in Formula 1?",
     "correct_answer": "1983",
     "choices": [
-      "1983",
       "1981",
       "1978",
+      "1983",
       "1985"
     ],
     "image_asset": null,
@@ -2853,9 +2853,9 @@
     "question_text": "Which season saw the introduction of turbocharged engines in Formula 1 by Renault?",
     "correct_answer": "1977",
     "choices": [
+      "1980",
       "1977",
       "1975",
-      "1980",
       "1982"
     ],
     "image_asset": null,
@@ -2869,9 +2869,9 @@
     "question_text": "At which Grand Prix did Ayrton Senna tragically lose his life?",
     "correct_answer": "San Marino Grand Prix",
     "choices": [
+      "Portuguese Grand Prix",
       "San Marino Grand Prix",
       "Italian Grand Prix",
-      "Portuguese Grand Prix",
       "Belgian Grand Prix"
     ],
     "image_asset": null,
@@ -2886,9 +2886,9 @@
     "correct_answer": "1994",
     "choices": [
       "1994",
+      "1992",
       "1995",
-      "1993",
-      "1992"
+      "1993"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2901,8 +2901,8 @@
     "question_text": "Which Austrian driver lost his life during the same weekend as Ayrton Senna?",
     "correct_answer": "Roland Ratzenberger",
     "choices": [
-      "Roland Ratzenberger",
       "Gerhard Berger",
+      "Roland Ratzenberger",
       "Karl Wendlinger",
       "Alexander Wurz"
     ],
@@ -2917,9 +2917,9 @@
     "question_text": "Which F1 race was infamously stopped after the first lap in 1998 due to a massive crash?",
     "correct_answer": "Belgian Grand Prix",
     "choices": [
-      "Belgian Grand Prix",
-      "Italian Grand Prix",
       "Australian Grand Prix",
+      "Italian Grand Prix",
+      "Belgian Grand Prix",
       "Canadian Grand Prix"
     ],
     "image_asset": null,
@@ -2933,9 +2933,9 @@
     "question_text": "Which historic race in 1976 saw Niki Lauda withdraw due to dangerous conditions?",
     "correct_answer": "Japanese Grand Prix",
     "choices": [
+      "Belgian Grand Prix",
       "Japanese Grand Prix",
       "German Grand Prix",
-      "Belgian Grand Prix",
       "Spanish Grand Prix"
     ],
     "image_asset": null,
@@ -2950,8 +2950,8 @@
     "correct_answer": "1994",
     "choices": [
       "1994",
-      "1993",
       "1995",
+      "1993",
       "1990"
     ],
     "image_asset": null,
@@ -2965,10 +2965,10 @@
     "question_text": "In what year was re-fuelling banned once again in Formula 1?",
     "correct_answer": "2010",
     "choices": [
-      "2010",
-      "2009",
       "2011",
-      "2012"
+      "2010",
+      "2012",
+      "2009"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2981,10 +2981,10 @@
     "question_text": "Which season saw the introduction of the V6 turbo hybrid engine formula?",
     "correct_answer": "2014",
     "choices": [
-      "2014",
-      "2013",
       "2015",
-      "2012"
+      "2012",
+      "2013",
+      "2014"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -2997,10 +2997,10 @@
     "question_text": "Which season saw the introduction of the Halo cockpit protection device?",
     "correct_answer": "2018",
     "choices": [
-      "2018",
+      "2019",
       "2017",
       "2016",
-      "2019"
+      "2018"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3013,10 +3013,10 @@
     "question_text": "Which controversial 1989 incident saw Ayrton Senna disqualified after a collision with Alain Prost at Suzuka?",
     "correct_answer": "Japanese Grand Prix",
     "choices": [
-      "Japanese Grand Prix",
-      "Australian Grand Prix",
       "Italian Grand Prix",
-      "Portuguese Grand Prix"
+      "Japanese Grand Prix",
+      "Portuguese Grand Prix",
+      "Australian Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3029,10 +3029,10 @@
     "question_text": "Which historic F1 season finale in 2021 saw Max Verstappen win his first title under controversial circumstances in Abu Dhabi?",
     "correct_answer": "2021",
     "choices": [
-      "2021",
-      "2020",
+      "2019",
       "2022",
-      "2019"
+      "2020",
+      "2021"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3045,10 +3045,10 @@
     "question_text": "Which season was shortened and disrupted due to the COVID-19 pandemic?",
     "correct_answer": "2020",
     "choices": [
-      "2020",
+      "2018",
       "2019",
-      "2021",
-      "2018"
+      "2020",
+      "2021"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3062,9 +3062,9 @@
     "correct_answer": "6th consecutive Constructors' Championship",
     "choices": [
       "6th consecutive Constructors' Championship",
+      "100th pole position",
       "200th Grand Prix win",
-      "15th Drivers' Championship",
-      "100th pole position"
+      "15th Drivers' Championship"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3078,9 +3078,9 @@
     "correct_answer": "Gilles Villeneuve",
     "choices": [
       "Gilles Villeneuve",
+      "Niki Lauda",
       "Ayrton Senna",
-      "Alain Prost",
-      "Niki Lauda"
+      "Alain Prost"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3093,10 +3093,10 @@
     "question_text": "In what year was the F1 Drivers' Championship first heavily disrupted by driver deaths?",
     "correct_answer": "1961",
     "choices": [
-      "1961",
-      "1963",
       "1958",
-      "1966"
+      "1966",
+      "1963",
+      "1961"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3109,10 +3109,10 @@
     "question_text": "At which Grand Prix did Jim Clark tragically die during a Formula 2 race?",
     "correct_answer": "German Grand Prix",
     "choices": [
-      "German Grand Prix",
-      "Belgian Grand Prix",
       "French Grand Prix",
-      "Italian Grand Prix"
+      "Italian Grand Prix",
+      "Belgian Grand Prix",
+      "German Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3125,10 +3125,10 @@
     "question_text": "Which circuit hosted the first-ever F1 Sprint race in 2021?",
     "correct_answer": "Silverstone",
     "choices": [
-      "Silverstone",
       "Monza",
+      "Spa-Francorchamps",
       "Interlagos",
-      "Spa-Francorchamps"
+      "Silverstone"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3141,10 +3141,10 @@
     "question_text": "Which year introduced the requirement that all driver helmets meet FIA 8860 safety standards?",
     "correct_answer": "2019",
     "choices": [
-      "2019",
       "2015",
       "2017",
-      "2021"
+      "2021",
+      "2019"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3157,10 +3157,10 @@
     "question_text": "In what year did F1 introduce double points for the final race of the season?",
     "correct_answer": "2014",
     "choices": [
-      "2014",
       "2013",
+      "2012",
       "2015",
-      "2012"
+      "2014"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3173,10 +3173,10 @@
     "question_text": "Which season saw McLaren's last Constructors' Championship win?",
     "correct_answer": "1998",
     "choices": [
-      "1998",
-      "1999",
       "2000",
-      "1997"
+      "1997",
+      "1998",
+      "1999"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3189,10 +3189,10 @@
     "question_text": "In what year was the first F1 car to use a carbon fibre monocoque introduced?",
     "correct_answer": "1981",
     "choices": [
-      "1981",
       "1978",
+      "1985",
       "1983",
-      "1985"
+      "1981"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3221,10 +3221,10 @@
     "question_text": "Which F1 season saw the introduction of onboard cameras for the first time?",
     "correct_answer": "1986",
     "choices": [
-      "1986",
       "1980",
-      "1983",
-      "1990"
+      "1990",
+      "1986",
+      "1983"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3237,10 +3237,10 @@
     "question_text": "Which season saw the introduction of KERS (Kinetic Energy Recovery System)?",
     "correct_answer": "2009",
     "choices": [
-      "2009",
-      "2010",
       "2008",
-      "2011"
+      "2009",
+      "2011",
+      "2010"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3253,10 +3253,10 @@
     "question_text": "Which team scored a historic 1-2 on its debut at the 1950 Monaco Grand Prix?",
     "correct_answer": "Alfa Romeo",
     "choices": [
-      "Alfa Romeo",
-      "Ferrari",
+      "Mercedes",
       "Maserati",
-      "Mercedes"
+      "Ferrari",
+      "Alfa Romeo"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3269,8 +3269,8 @@
     "question_text": "In what year was Formula 1's first Safety Car introduced during a race?",
     "correct_answer": "1973",
     "choices": [
-      "1973",
       "1971",
+      "1973",
       "1975",
       "1978"
     ],
@@ -3285,10 +3285,10 @@
     "question_text": "Which country hosted the first F1 Grand Prix held behind the Iron Curtain?",
     "correct_answer": "Hungary",
     "choices": [
-      "Hungary",
       "Romania",
+      "East Germany",
       "Czechoslovakia",
-      "East Germany"
+      "Hungary"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3301,10 +3301,10 @@
     "question_text": "In what year was the first Hungarian Grand Prix held?",
     "correct_answer": "1986",
     "choices": [
-      "1986",
+      "1988",
       "1985",
       "1987",
-      "1988"
+      "1986"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3317,10 +3317,10 @@
     "question_text": "Which 2007 season was marred by a major espionage scandal involving McLaren and Ferrari?",
     "correct_answer": "Spygate",
     "choices": [
-      "Spygate",
       "Crashgate",
+      "Fuelgate",
       "Pitgate",
-      "Fuelgate"
+      "Spygate"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3335,8 +3335,8 @@
     "choices": [
       "Singapore Grand Prix",
       "Brazilian Grand Prix",
-      "Japanese Grand Prix",
-      "Italian Grand Prix"
+      "Italian Grand Prix",
+      "Japanese Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3349,10 +3349,10 @@
     "question_text": "Who was the FIA race director during the controversial end of the 2021 Abu Dhabi Grand Prix?",
     "correct_answer": "Michael Masi",
     "choices": [
-      "Michael Masi",
+      "Niels Wittich",
       "Charlie Whiting",
-      "Herbie Blash",
-      "Niels Wittich"
+      "Michael Masi",
+      "Herbie Blash"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3365,10 +3365,10 @@
     "question_text": "Which season saw the most races contested in F1 history?",
     "correct_answer": "2024",
     "choices": [
-      "2024",
-      "2023",
+      "2021",
       "2022",
-      "2021"
+      "2023",
+      "2024"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3381,10 +3381,10 @@
     "question_text": "In what year was the F1 World Championship first determined at the final race?",
     "correct_answer": "1950",
     "choices": [
-      "1950",
-      "1953",
+      "1958",
       "1956",
-      "1958"
+      "1953",
+      "1950"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3397,8 +3397,8 @@
     "question_text": "Which season saw the first-ever driver to clinch a championship with races to spare?",
     "correct_answer": "1952",
     "choices": [
-      "1952",
       "1953",
+      "1952",
       "1950",
       "1951"
     ],
@@ -3413,9 +3413,9 @@
     "question_text": "Which season marked the debut of the 18-inch wheel rim size in Formula 1?",
     "correct_answer": "2022",
     "choices": [
-      "2022",
-      "2021",
       "2023",
+      "2021",
+      "2022",
       "2020"
     ],
     "image_asset": null,
@@ -3430,8 +3430,8 @@
     "correct_answer": "2011",
     "choices": [
       "2011",
-      "2010",
       "2012",
+      "2010",
       "2009"
     ],
     "image_asset": null,
@@ -3445,10 +3445,10 @@
     "question_text": "Which team dominated the 1988 season, winning 15 of 16 races?",
     "correct_answer": "McLaren",
     "choices": [
+      "Lotus",
       "McLaren",
       "Ferrari",
-      "Williams",
-      "Lotus"
+      "Williams"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3461,10 +3461,10 @@
     "question_text": "Who were the McLaren drivers in the dominant 1988 season?",
     "correct_answer": "Ayrton Senna and Alain Prost",
     "choices": [
-      "Ayrton Senna and Alain Prost",
-      "Ayrton Senna and Gerhard Berger",
+      "Ayrton Senna and Ron Dennis",
       "Alain Prost and Niki Lauda",
-      "Ayrton Senna and Ron Dennis"
+      "Ayrton Senna and Gerhard Berger",
+      "Ayrton Senna and Alain Prost"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3478,9 +3478,9 @@
     "correct_answer": "1971 Italian Grand Prix",
     "choices": [
       "1971 Italian Grand Prix",
-      "1982 Austrian Grand Prix",
       "1969 Italian Grand Prix",
-      "1997 European Grand Prix"
+      "1997 European Grand Prix",
+      "1982 Austrian Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3493,10 +3493,10 @@
     "question_text": "In which season was the F1 points system last changed before the 2025 Sprint changes?",
     "correct_answer": "2010",
     "choices": [
-      "2010",
+      "2012",
       "2014",
-      "2009",
-      "2012"
+      "2010",
+      "2009"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3509,10 +3509,10 @@
     "question_text": "Which season was Ferrari's last Constructors' Championship win before their drought?",
     "correct_answer": "2008",
     "choices": [
-      "2008",
+      "2006",
       "2007",
-      "2009",
-      "2006"
+      "2008",
+      "2009"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3526,9 +3526,9 @@
     "correct_answer": "Australian Grand Prix",
     "choices": [
       "Australian Grand Prix",
-      "British Grand Prix",
       "Malaysian Grand Prix",
-      "Bahrain Grand Prix"
+      "Bahrain Grand Prix",
+      "British Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3542,9 +3542,9 @@
     "correct_answer": "2009",
     "choices": [
       "2009",
+      "2011",
       "2010",
-      "2008",
-      "2011"
+      "2008"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3557,10 +3557,10 @@
     "question_text": "What was the first country outside Europe to host a Formula 1 Grand Prix?",
     "correct_answer": "Argentina",
     "choices": [
-      "Argentina",
       "United States",
+      "Morocco",
       "South Africa",
-      "Morocco"
+      "Argentina"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3573,10 +3573,10 @@
     "question_text": "In what year was the first Grand Prix held outside Europe?",
     "correct_answer": "1953",
     "choices": [
-      "1953",
-      "1950",
       "1955",
-      "1960"
+      "1950",
+      "1960",
+      "1953"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3589,8 +3589,8 @@
     "question_text": "Which senior FIA official was killed at the 2001 Australian Grand Prix?",
     "correct_answer": "Graham Beveridge",
     "choices": [
-      "Graham Beveridge",
       "Charlie Whiting",
+      "Graham Beveridge",
       "Sid Watkins",
       "Bernie Ecclestone"
     ],
@@ -3621,9 +3621,9 @@
     "question_text": "Which season saw the return of ground effect aerodynamics in Formula 1?",
     "correct_answer": "2022",
     "choices": [
-      "2022",
       "2021",
       "2023",
+      "2022",
       "2020"
     ],
     "image_asset": null,
@@ -3637,10 +3637,10 @@
     "question_text": "At which Grand Prix did Michael Schumacher claim his record-breaking 91st career win?",
     "correct_answer": "Belgian Grand Prix",
     "choices": [
-      "Belgian Grand Prix",
+      "Monaco Grand Prix",
       "Italian Grand Prix",
-      "German Grand Prix",
-      "Monaco Grand Prix"
+      "Belgian Grand Prix",
+      "German Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3654,9 +3654,9 @@
     "correct_answer": "Lewis Hamilton",
     "choices": [
       "Lewis Hamilton",
-      "Michael Schumacher",
       "Max Verstappen",
-      "Sebastian Vettel"
+      "Sebastian Vettel",
+      "Michael Schumacher"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3703,8 +3703,8 @@
     "choices": [
       "19",
       "17",
-      "21",
-      "15"
+      "15",
+      "21"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3718,9 +3718,9 @@
     "correct_answer": "Sebastian Vettel",
     "choices": [
       "Sebastian Vettel",
+      "Max Verstappen",
       "Lewis Hamilton",
-      "Ayrton Senna",
-      "Max Verstappen"
+      "Ayrton Senna"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3733,10 +3733,10 @@
     "question_text": "How many pole positions did Sebastian Vettel achieve in 2011?",
     "correct_answer": "15",
     "choices": [
-      "15",
-      "14",
+      "13",
       "16",
-      "13"
+      "15",
+      "14"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3749,10 +3749,10 @@
     "question_text": "Which driver holds the record for fastest race lap (average speed) in F1 history?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
       "Michael Schumacher",
-      "Jim Clark",
-      "Max Verstappen"
+      "Max Verstappen",
+      "Lewis Hamilton",
+      "Jim Clark"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3765,10 +3765,10 @@
     "question_text": "At which Grand Prix was the fastest average race speed recorded?",
     "correct_answer": "Italian Grand Prix",
     "choices": [
-      "Italian Grand Prix",
-      "Belgian Grand Prix",
       "British Grand Prix",
-      "Canadian Grand Prix"
+      "Canadian Grand Prix",
+      "Italian Grand Prix",
+      "Belgian Grand Prix"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3783,8 +3783,8 @@
     "choices": [
       "Niki Lauda",
       "Michael Schumacher",
-      "Alain Prost",
-      "Jack Brabham"
+      "Jack Brabham",
+      "Alain Prost"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3797,10 +3797,10 @@
     "question_text": "How many years passed between Niki Lauda's second and third World Championships?",
     "correct_answer": "7",
     "choices": [
-      "7",
-      "6",
       "5",
-      "8"
+      "6",
+      "8",
+      "7"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3813,10 +3813,10 @@
     "question_text": "Which driver holds the record for oldest World Champion?",
     "correct_answer": "Juan Manuel Fangio",
     "choices": [
-      "Juan Manuel Fangio",
-      "Jack Brabham",
       "Niki Lauda",
-      "Nigel Mansell"
+      "Juan Manuel Fangio",
+      "Nigel Mansell",
+      "Jack Brabham"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3829,10 +3829,10 @@
     "question_text": "At what age did Juan Manuel Fangio win his final World Championship?",
     "correct_answer": "46",
     "choices": [
-      "46",
       "44",
-      "48",
-      "45"
+      "45",
+      "46",
+      "48"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3845,10 +3845,10 @@
     "question_text": "Which driver holds the record for youngest race winner in F1 history?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
       "Sebastian Vettel",
-      "Fernando Alonso",
-      "Charles Leclerc"
+      "Charles Leclerc",
+      "Max Verstappen",
+      "Fernando Alonso"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3861,10 +3861,10 @@
     "question_text": "At what age did Max Verstappen win his first Grand Prix?",
     "correct_answer": "18",
     "choices": [
-      "18",
       "17",
-      "19",
-      "20"
+      "18",
+      "20",
+      "19"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3877,9 +3877,9 @@
     "question_text": "Which driver holds the record for oldest Grand Prix winner?",
     "correct_answer": "Luigi Fagioli",
     "choices": [
-      "Luigi Fagioli",
       "Juan Manuel Fangio",
       "Nigel Mansell",
+      "Luigi Fagioli",
       "Mario Andretti"
     ],
     "image_asset": null,
@@ -3894,9 +3894,9 @@
     "correct_answer": "53",
     "choices": [
       "53",
+      "49",
       "51",
-      "55",
-      "49"
+      "55"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3909,9 +3909,9 @@
     "question_text": "Which driver holds the record for most podium finishes in F1 history?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
+      "Sebastian Vettel",
       "Lewis Hamilton",
       "Michael Schumacher",
-      "Sebastian Vettel",
       "Max Verstappen"
     ],
     "image_asset": null,
@@ -3925,10 +3925,10 @@
     "question_text": "Which driver holds the record for most consecutive podium finishes?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
-      "Lewis Hamilton",
+      "Sebastian Vettel",
       "Michael Schumacher",
-      "Sebastian Vettel"
+      "Lewis Hamilton",
+      "Max Verstappen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3941,10 +3941,10 @@
     "question_text": "Which driver holds the record for most points scored in a single season?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
-      "Lewis Hamilton",
       "Michael Schumacher",
-      "Sebastian Vettel"
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Max Verstappen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3957,9 +3957,9 @@
     "question_text": "How many points did Max Verstappen score in the 2023 season?",
     "correct_answer": "575",
     "choices": [
-      "575",
       "454",
       "500",
+      "575",
       "620"
     ],
     "image_asset": null,
@@ -3973,10 +3973,10 @@
     "question_text": "Which driver holds the record for most consecutive Drivers' Championships?",
     "correct_answer": "Michael Schumacher",
     "choices": [
-      "Michael Schumacher",
-      "Lewis Hamilton",
       "Juan Manuel Fangio",
-      "Sebastian Vettel"
+      "Sebastian Vettel",
+      "Michael Schumacher",
+      "Lewis Hamilton"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -3989,10 +3989,10 @@
     "question_text": "How many consecutive Drivers' Championships did Michael Schumacher win from 2000 to 2004?",
     "correct_answer": "5",
     "choices": [
-      "5",
       "4",
       "6",
-      "3"
+      "3",
+      "5"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4005,8 +4005,8 @@
     "question_text": "Which driver holds the record for most laps led in a career?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
       "Michael Schumacher",
+      "Lewis Hamilton",
       "Max Verstappen",
       "Ayrton Senna"
     ],
@@ -4022,8 +4022,8 @@
     "correct_answer": "Max Verstappen",
     "choices": [
       "Max Verstappen",
-      "Lewis Hamilton",
       "Michael Schumacher",
+      "Lewis Hamilton",
       "Sebastian Vettel"
     ],
     "image_asset": null,
@@ -4039,8 +4039,8 @@
     "choices": [
       "41",
       "33",
-      "48",
-      "38"
+      "38",
+      "48"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4053,10 +4053,10 @@
     "question_text": "Which driver holds the record for most career hat-tricks (pole, win, fastest lap)?",
     "correct_answer": "Michael Schumacher",
     "choices": [
-      "Michael Schumacher",
       "Lewis Hamilton",
-      "Max Verstappen",
-      "Jim Clark"
+      "Michael Schumacher",
+      "Jim Clark",
+      "Max Verstappen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4069,10 +4069,10 @@
     "question_text": "Which driver holds the record for most wins without securing the title?",
     "correct_answer": "Stirling Moss",
     "choices": [
-      "Stirling Moss",
       "Gilles Villeneuve",
       "David Coulthard",
-      "Rubens Barrichello"
+      "Rubens Barrichello",
+      "Stirling Moss"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4085,10 +4085,10 @@
     "question_text": "How many wins did Stirling Moss achieve without ever winning the title?",
     "correct_answer": "16",
     "choices": [
-      "16",
       "14",
-      "18",
-      "12"
+      "16",
+      "12",
+      "18"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4101,10 +4101,10 @@
     "question_text": "Which driver holds the record for most wins from pole position?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
-      "Michael Schumacher",
+      "Sebastian Vettel",
       "Ayrton Senna",
-      "Sebastian Vettel"
+      "Lewis Hamilton",
+      "Michael Schumacher"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4117,10 +4117,10 @@
     "question_text": "Which driver holds the record for most consecutive pole positions?",
     "correct_answer": "Ayrton Senna",
     "choices": [
-      "Ayrton Senna",
       "Max Verstappen",
       "Lewis Hamilton",
-      "Michael Schumacher"
+      "Michael Schumacher",
+      "Ayrton Senna"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4134,8 +4134,8 @@
     "correct_answer": "8",
     "choices": [
       "8",
-      "7",
       "9",
+      "7",
       "6"
     ],
     "image_asset": null,
@@ -4149,10 +4149,10 @@
     "question_text": "Which driver holds the record for most wins at a single Grand Prix venue?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
       "Michael Schumacher",
-      "Ayrton Senna",
-      "Max Verstappen"
+      "Max Verstappen",
+      "Lewis Hamilton",
+      "Ayrton Senna"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4167,8 +4167,8 @@
     "choices": [
       "Silverstone",
       "Hungaroring",
-      "Monza",
-      "Circuit Gilles Villeneuve"
+      "Circuit Gilles Villeneuve",
+      "Monza"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4181,9 +4181,9 @@
     "question_text": "How many wins does Lewis Hamilton have at Silverstone?",
     "correct_answer": "9",
     "choices": [
-      "9",
       "8",
       "7",
+      "9",
       "10"
     ],
     "image_asset": null,
@@ -4197,10 +4197,10 @@
     "question_text": "Which driver holds the record for most wins at Monaco?",
     "correct_answer": "Ayrton Senna",
     "choices": [
-      "Ayrton Senna",
       "Graham Hill",
-      "Michael Schumacher",
-      "Alain Prost"
+      "Ayrton Senna",
+      "Alain Prost",
+      "Michael Schumacher"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4213,9 +4213,9 @@
     "question_text": "How many times did Ayrton Senna win the Monaco Grand Prix?",
     "correct_answer": "6",
     "choices": [
-      "6",
       "5",
       "7",
+      "6",
       "4"
     ],
     "image_asset": null,
@@ -4229,10 +4229,10 @@
     "question_text": "Which driver holds the record for most fastest laps in a career?",
     "correct_answer": "Michael Schumacher",
     "choices": [
-      "Michael Schumacher",
-      "Lewis Hamilton",
       "Kimi Räikkönen",
-      "Max Verstappen"
+      "Michael Schumacher",
+      "Max Verstappen",
+      "Lewis Hamilton"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4245,10 +4245,10 @@
     "question_text": "How many fastest laps did Michael Schumacher achieve in his career?",
     "correct_answer": "77",
     "choices": [
-      "77",
       "66",
       "91",
-      "84"
+      "84",
+      "77"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4263,8 +4263,8 @@
     "choices": [
       "Jim Clark",
       "Lewis Hamilton",
-      "Michael Schumacher",
-      "Max Verstappen"
+      "Max Verstappen",
+      "Michael Schumacher"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4277,9 +4277,9 @@
     "question_text": "How many Grand Chelems did Jim Clark achieve in his career?",
     "correct_answer": "8",
     "choices": [
-      "8",
-      "7",
       "9",
+      "7",
+      "8",
       "6"
     ],
     "image_asset": null,
@@ -4295,8 +4295,8 @@
     "choices": [
       "Lewis Hamilton",
       "Jacques Villeneuve",
-      "Niki Lauda",
-      "Mario Andretti"
+      "Mario Andretti",
+      "Niki Lauda"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4311,8 +4311,8 @@
     "choices": [
       "4",
       "5",
-      "3",
-      "6"
+      "6",
+      "3"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4325,9 +4325,9 @@
     "question_text": "Which driver holds the record for the most races started in F1 history?",
     "correct_answer": "Fernando Alonso",
     "choices": [
-      "Fernando Alonso",
       "Kimi Räikkönen",
       "Lewis Hamilton",
+      "Fernando Alonso",
       "Rubens Barrichello"
     ],
     "image_asset": null,
@@ -4357,10 +4357,10 @@
     "question_text": "Which driver holds the record for most wins with a single constructor?",
     "correct_answer": "Michael Schumacher",
     "choices": [
-      "Michael Schumacher",
       "Lewis Hamilton",
-      "Max Verstappen",
-      "Ayrton Senna"
+      "Ayrton Senna",
+      "Michael Schumacher",
+      "Max Verstappen"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4373,10 +4373,10 @@
     "question_text": "How many wins did Michael Schumacher achieve with Ferrari?",
     "correct_answer": "72",
     "choices": [
+      "70",
       "72",
-      "68",
       "75",
-      "70"
+      "68"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4389,10 +4389,10 @@
     "question_text": "Which driver holds the record for the most wins from pole position at the same circuit?",
     "correct_answer": "Ayrton Senna",
     "choices": [
-      "Ayrton Senna",
       "Michael Schumacher",
-      "Lewis Hamilton",
-      "Max Verstappen"
+      "Ayrton Senna",
+      "Max Verstappen",
+      "Lewis Hamilton"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4406,9 +4406,9 @@
     "correct_answer": "Monaco",
     "choices": [
       "Monaco",
-      "Suzuka",
       "Interlagos",
-      "Spa-Francorchamps"
+      "Spa-Francorchamps",
+      "Suzuka"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4421,10 +4421,10 @@
     "question_text": "Which driver holds the record for most consecutive races finished?",
     "correct_answer": "Max Verstappen",
     "choices": [
-      "Max Verstappen",
+      "Daniel Ricciardo",
       "Lewis Hamilton",
-      "Nick Heidfeld",
-      "Daniel Ricciardo"
+      "Max Verstappen",
+      "Nick Heidfeld"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4437,9 +4437,9 @@
     "question_text": "Which constructor holds the record for most wins at Monza?",
     "correct_answer": "Ferrari",
     "choices": [
-      "Ferrari",
-      "McLaren",
       "Mercedes",
+      "McLaren",
+      "Ferrari",
       "Williams"
     ],
     "image_asset": null,
@@ -4454,9 +4454,9 @@
     "correct_answer": "Red Bull",
     "choices": [
       "Red Bull",
+      "McLaren",
       "Mercedes",
-      "Ferrari",
-      "McLaren"
+      "Ferrari"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4469,10 +4469,10 @@
     "question_text": "How many points did Red Bull score in the 2023 season?",
     "correct_answer": "860",
     "choices": [
-      "860",
       "759",
-      "820",
-      "900"
+      "860",
+      "900",
+      "820"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4486,9 +4486,9 @@
     "correct_answer": "Red Bull",
     "choices": [
       "Red Bull",
-      "Mercedes",
       "Ferrari",
-      "McLaren"
+      "McLaren",
+      "Mercedes"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4502,8 +4502,8 @@
     "correct_answer": "8",
     "choices": [
       "8",
-      "6",
       "10",
+      "6",
       "7"
     ],
     "image_asset": null,
@@ -4517,10 +4517,10 @@
     "question_text": "Which driver holds the record for the most race wins set in the 21st century?",
     "correct_answer": "Lewis Hamilton",
     "choices": [
-      "Lewis Hamilton",
-      "Michael Schumacher",
       "Max Verstappen",
-      "Sebastian Vettel"
+      "Sebastian Vettel",
+      "Michael Schumacher",
+      "Lewis Hamilton"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4534,9 +4534,9 @@
     "correct_answer": "Lewis Hamilton",
     "choices": [
       "Lewis Hamilton",
+      "Max Verstappen",
       "Michael Schumacher",
-      "Alain Prost",
-      "Max Verstappen"
+      "Alain Prost"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4549,10 +4549,10 @@
     "question_text": "How many British Grand Prix wins does Lewis Hamilton hold?",
     "correct_answer": "9",
     "choices": [
-      "9",
-      "8",
       "7",
-      "10"
+      "10",
+      "8",
+      "9"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4565,9 +4565,9 @@
     "question_text": "Which driver holds the record for the shortest time between two F1 race wins?",
     "correct_answer": "Max Verstappen",
     "choices": [
+      "Michael Schumacher",
       "Max Verstappen",
       "Niki Lauda",
-      "Michael Schumacher",
       "Lewis Hamilton"
     ],
     "image_asset": null,
@@ -4582,9 +4582,9 @@
     "correct_answer": "Less than 24 hours",
     "choices": [
       "Less than 24 hours",
-      "2 days",
+      "48 hours",
       "3 days",
-      "48 hours"
+      "2 days"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4613,10 +4613,10 @@
     "question_text": "What does DRS stand for in Formula 1?",
     "correct_answer": "Drag Reduction System",
     "choices": [
-      "Drag Reduction System",
-      "Drag Resistance System",
       "Downforce Reduction System",
-      "Dynamic Rear System"
+      "Drag Resistance System",
+      "Dynamic Rear System",
+      "Drag Reduction System"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4630,9 +4630,9 @@
     "correct_answer": "To reduce drag and increase straight-line speed",
     "choices": [
       "To reduce drag and increase straight-line speed",
-      "To increase downforce in corners",
       "To improve braking performance",
-      "To cool the engine"
+      "To cool the engine",
+      "To increase downforce in corners"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4645,9 +4645,9 @@
     "question_text": "What does ERS stand for in Formula 1?",
     "correct_answer": "Energy Recovery System",
     "choices": [
-      "Energy Recovery System",
       "Electronic Recovery System",
       "Energy Regeneration System",
+      "Energy Recovery System",
       "Engine Recovery System"
     ],
     "image_asset": null,
@@ -4661,10 +4661,10 @@
     "question_text": "What does KERS stand for in Formula 1?",
     "correct_answer": "Kinetic Energy Recovery System",
     "choices": [
+      "Kinematically Enhanced Recovery System",
       "Kinetic Energy Recovery System",
-      "Kinetic Engine Recovery System",
       "Kilo Energy Recovery System",
-      "Kinematically Enhanced Recovery System"
+      "Kinetic Engine Recovery System"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4677,10 +4677,10 @@
     "question_text": "What is the minimum weight of an F1 car including the driver?",
     "correct_answer": "798 kg",
     "choices": [
-      "798 kg",
       "795 kg",
-      "800 kg",
-      "790 kg"
+      "798 kg",
+      "790 kg",
+      "800 kg"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4693,9 +4693,9 @@
     "question_text": "What is the engine configuration used in modern F1 cars?",
     "correct_answer": "1.6L V6 turbo hybrid",
     "choices": [
-      "1.6L V6 turbo hybrid",
       "2.4L V8 naturally aspirated",
       "3.0L V10 naturally aspirated",
+      "1.6L V6 turbo hybrid",
       "1.5L V4 turbo hybrid"
     ],
     "image_asset": null,
@@ -4709,10 +4709,10 @@
     "question_text": "What is the maximum rev limit of the current F1 V6 turbo hybrid engine?",
     "correct_answer": "15,000 rpm",
     "choices": [
-      "15,000 rpm",
-      "18,000 rpm",
       "12,000 rpm",
-      "20,000 rpm"
+      "20,000 rpm",
+      "18,000 rpm",
+      "15,000 rpm"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4726,9 +4726,9 @@
     "correct_answer": "Rubber",
     "choices": [
       "Rubber",
-      "Silicone",
       "Polyurethane",
-      "Kevlar"
+      "Kevlar",
+      "Silicone"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4742,9 +4742,9 @@
     "correct_answer": "Pirelli",
     "choices": [
       "Pirelli",
+      "Goodyear",
       "Michelin",
-      "Bridgestone",
-      "Goodyear"
+      "Bridgestone"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4757,9 +4757,9 @@
     "question_text": "What is the softest dry tire compound Pirelli offers for a race weekend?",
     "correct_answer": "C5",
     "choices": [
-      "C5",
-      "C1",
       "C3",
+      "C1",
+      "C5",
       "C0"
     ],
     "image_asset": null,
@@ -4773,10 +4773,10 @@
     "question_text": "What is the hardest dry tire compound Pirelli offers?",
     "correct_answer": "C1",
     "choices": [
-      "C1",
-      "C5",
       "C0",
-      "C3"
+      "C1",
+      "C3",
+      "C5"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4789,10 +4789,10 @@
     "question_text": "What color sidewall does Pirelli use for the soft compound tire?",
     "correct_answer": "Red",
     "choices": [
-      "Red",
-      "Yellow",
       "White",
-      "Green"
+      "Green",
+      "Red",
+      "Yellow"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4806,8 +4806,8 @@
     "correct_answer": "Yellow",
     "choices": [
       "Yellow",
-      "Red",
       "White",
+      "Red",
       "Blue"
     ],
     "image_asset": null,
@@ -4821,10 +4821,10 @@
     "question_text": "What color sidewall does Pirelli use for the hard compound tire?",
     "correct_answer": "White",
     "choices": [
-      "White",
-      "Red",
+      "Orange",
       "Yellow",
-      "Orange"
+      "Red",
+      "White"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4837,9 +4837,9 @@
     "question_text": "What color sidewall does Pirelli use for the intermediate tire?",
     "correct_answer": "Green",
     "choices": [
-      "Green",
-      "Blue",
       "Yellow",
+      "Blue",
+      "Green",
       "Orange"
     ],
     "image_asset": null,
@@ -4854,8 +4854,8 @@
     "correct_answer": "Blue",
     "choices": [
       "Blue",
-      "Green",
       "White",
+      "Green",
       "Orange"
     ],
     "image_asset": null,
@@ -4870,8 +4870,8 @@
     "correct_answer": "Head and Neck Support",
     "choices": [
       "Head and Neck Support",
-      "Head and Neck Safety",
       "High Acceleration Neck System",
+      "Head and Neck Safety",
       "Head Area Neck Support"
     ],
     "image_asset": null,
@@ -4885,10 +4885,10 @@
     "question_text": "What is the primary material used in modern F1 car chassis?",
     "correct_answer": "Carbon fibre",
     "choices": [
+      "Steel",
       "Carbon fibre",
-      "Aluminium",
       "Titanium",
-      "Steel"
+      "Aluminium"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4901,9 +4901,9 @@
     "question_text": "What is the purpose of the 'tea tray' on an F1 car?",
     "correct_answer": "It is the front splitter that controls airflow under the car",
     "choices": [
-      "It is the front splitter that controls airflow under the car",
-      "It holds the driver's drink bottle",
       "It is a cooling device for brakes",
+      "It holds the driver's drink bottle",
+      "It is the front splitter that controls airflow under the car",
       "It houses the car's electronics"
     ],
     "image_asset": null,
@@ -4917,10 +4917,10 @@
     "question_text": "What is ground effect in Formula 1?",
     "correct_answer": "Create downforce by shaping the car's floor to accelerate airflow underneath",
     "choices": [
-      "Create downforce by shaping the car's floor to accelerate airflow underneath",
-      "Create lift to keep the car on the track",
+      "The electrical grounding of the car's systems",
       "The effect of gravity on the car's suspension",
-      "The electrical grounding of the car's systems"
+      "Create lift to keep the car on the track",
+      "Create downforce by shaping the car's floor to accelerate airflow underneath"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4933,9 +4933,9 @@
     "question_text": "What is porpoising in Formula 1?",
     "correct_answer": "Vertical oscillation caused by ground effect stalling and reattaching",
     "choices": [
+      "A driver technique for warming tires",
       "Vertical oscillation caused by ground effect stalling and reattaching",
       "The car bouncing over kerbs",
-      "A driver technique for warming tires",
       "A suspension failure mode"
     ],
     "image_asset": null,
@@ -4949,9 +4949,9 @@
     "question_text": "Which season saw severe porpoising issues after new regulations were introduced?",
     "correct_answer": "2022",
     "choices": [
-      "2022",
       "2021",
       "2020",
+      "2022",
       "2023"
     ],
     "image_asset": null,
@@ -4965,10 +4965,10 @@
     "question_text": "What does ECU stand for in F1 engine management?",
     "correct_answer": "Electronic Control Unit",
     "choices": [
-      "Electronic Control Unit",
+      "Electronic Cooling Unit",
       "Engine Control Unit",
-      "Energy Control Unit",
-      "Electronic Cooling Unit"
+      "Electronic Control Unit",
+      "Energy Control Unit"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4981,10 +4981,10 @@
     "question_text": "Which company supplies the standardized ECU for all F1 teams?",
     "correct_answer": "McLaren Applied",
     "choices": [
-      "McLaren Applied",
+      "Cosworth",
       "Bosch",
       "Magneti Marelli",
-      "Cosworth"
+      "McLaren Applied"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -4997,10 +4997,10 @@
     "question_text": "What is the maximum fuel flow rate allowed in F1 under current regulations?",
     "correct_answer": "100 kg/h",
     "choices": [
-      "100 kg/h",
       "100 kg/h at 10,500 rpm",
+      "95 kg/h",
       "105 kg/h",
-      "95 kg/h"
+      "100 kg/h"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5013,8 +5013,8 @@
     "question_text": "What is the maximum fuel capacity of a modern F1 car?",
     "correct_answer": "110 kg",
     "choices": [
-      "110 kg",
       "105 kg",
+      "110 kg",
       "100 kg",
       "120 kg"
     ],
@@ -5029,10 +5029,10 @@
     "question_text": "What is the MGU-H in an F1 power unit?",
     "correct_answer": "Motor Generator Unit – Heat",
     "choices": [
-      "Motor Generator Unit – Heat",
-      "Motor Generator Unit – Hybrid",
+      "Motor Gear Unit – Heat",
       "Maximum Generating Unit – Heat",
-      "Motor Gear Unit – Heat"
+      "Motor Generator Unit – Hybrid",
+      "Motor Generator Unit – Heat"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5047,8 +5047,8 @@
     "choices": [
       "Motor Generator Unit – Kinetic",
       "Motor Generator Unit – KERS",
-      "Maximum Generating Unit – Kinetic",
-      "Motor Gear Unit – Kinetic"
+      "Motor Gear Unit – Kinetic",
+      "Maximum Generating Unit – Kinetic"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5061,10 +5061,10 @@
     "question_text": "What is the maximum number of power unit components a driver can use per season without penalty?",
     "correct_answer": "3",
     "choices": [
-      "3",
-      "4",
+      "5",
       "2",
-      "5"
+      "4",
+      "3"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5079,8 +5079,8 @@
     "choices": [
       "Brake-by-Wire",
       "Brake Balance Weight",
-      "Brake Boost Warning",
-      "Brake Bias Wrench"
+      "Brake Bias Wrench",
+      "Brake Boost Warning"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5093,10 +5093,10 @@
     "question_text": "What is the purpose of the brake-by-wire system in F1?",
     "correct_answer": "To control the rear brakes electronically and blend with energy recovery",
     "choices": [
-      "To control the rear brakes electronically and blend with energy recovery",
       "To eliminate the need for brake fluid",
+      "To reduce brake weight",
       "To increase braking force at the front only",
-      "To reduce brake weight"
+      "To control the rear brakes electronically and blend with energy recovery"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5110,9 +5110,9 @@
     "correct_answer": "305 mm front, 405 mm rear",
     "choices": [
       "305 mm front, 405 mm rear",
-      "270 mm front, 325 mm rear",
+      "350 mm front, 450 mm rear",
       "245 mm front, 325 mm rear",
-      "350 mm front, 450 mm rear"
+      "270 mm front, 325 mm rear"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5125,10 +5125,10 @@
     "question_text": "What is the wheel size used in Formula 1 since 2022?",
     "correct_answer": "18-inch",
     "choices": [
+      "15-inch",
       "18-inch",
-      "13-inch",
       "17-inch",
-      "15-inch"
+      "13-inch"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5141,9 +5141,9 @@
     "question_text": "Before 2022, what wheel size did Formula 1 use?",
     "correct_answer": "13-inch",
     "choices": [
-      "13-inch",
       "15-inch",
       "14-inch",
+      "13-inch",
       "12-inch"
     ],
     "image_asset": null,
@@ -5157,9 +5157,9 @@
     "question_text": "What is the Halo device's primary purpose in Formula 1?",
     "correct_answer": "To protect the driver's head from debris and impacts",
     "choices": [
-      "To protect the driver's head from debris and impacts",
-      "To improve aerodynamics",
       "To support the driver's neck",
+      "To improve aerodynamics",
+      "To protect the driver's head from debris and impacts",
       "To hold the car's radio antenna"
     ],
     "image_asset": null,
@@ -5173,10 +5173,10 @@
     "question_text": "What material is the Halo made from?",
     "correct_answer": "Titanium",
     "choices": [
-      "Titanium",
-      "Carbon fibre",
       "Steel",
-      "Aluminium"
+      "Carbon fibre",
+      "Aluminium",
+      "Titanium"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5189,10 +5189,10 @@
     "question_text": "How many gears do modern F1 cars have in their transmission?",
     "correct_answer": "8 forward gears plus reverse",
     "choices": [
-      "8 forward gears plus reverse",
-      "7 forward gears plus reverse",
+      "10 forward gears plus reverse",
       "6 forward gears plus reverse",
-      "10 forward gears plus reverse"
+      "7 forward gears plus reverse",
+      "8 forward gears plus reverse"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5205,10 +5205,10 @@
     "question_text": "What is the maximum permitted length of an F1 car?",
     "correct_answer": "5.63 meters",
     "choices": [
+      "5.8 meters",
       "5.63 meters",
       "5.0 meters",
-      "5.5 meters",
-      "5.8 meters"
+      "5.5 meters"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5222,9 +5222,9 @@
     "correct_answer": "2.0 meters",
     "choices": [
       "2.0 meters",
-      "1.8 meters",
+      "1.95 meters",
       "2.1 meters",
-      "1.95 meters"
+      "1.8 meters"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5237,10 +5237,10 @@
     "question_text": "What is the name of the safety structure behind the driver's head?",
     "correct_answer": "Headrest",
     "choices": [
-      "Headrest",
-      "Roll hoop",
+      "Back support",
       "Air box",
-      "Back support"
+      "Headrest",
+      "Roll hoop"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5253,10 +5253,10 @@
     "question_text": "What is the purpose of the roll hoop in F1?",
     "correct_answer": "To protect the driver if the car rolls over",
     "choices": [
-      "To protect the driver if the car rolls over",
+      "To support the rear wing",
       "To improve aerodynamics",
       "To house the engine air intake",
-      "To support the rear wing"
+      "To protect the driver if the car rolls over"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5269,10 +5269,10 @@
     "question_text": "What does the term 'flat spot' refer to in F1?",
     "correct_answer": "A worn patch on a tire from locked brakes",
     "choices": [
-      "A worn patch on a tire from locked brakes",
-      "A feature of the track surface",
       "A type of aerodynamic part",
-      "An engine failure mode"
+      "A worn patch on a tire from locked brakes",
+      "An engine failure mode",
+      "A feature of the track surface"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5286,9 +5286,9 @@
     "correct_answer": "To manage airflow around the side of the car",
     "choices": [
       "To manage airflow around the side of the car",
-      "To protect the car from debris",
       "To cool the engine",
-      "To house electronic components"
+      "To house electronic components",
+      "To protect the car from debris"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5301,9 +5301,9 @@
     "question_text": "What does the acronym FIA stand for?",
     "correct_answer": "Fédération Internationale de l'Automobile",
     "choices": [
+      "Formula Internationale Association",
       "Fédération Internationale de l'Automobile",
       "Federation of International Automakers",
-      "Formula Internationale Association",
       "Fédération Internationale d'Aerodynamique"
     ],
     "image_asset": null,
@@ -5317,9 +5317,9 @@
     "question_text": "What is a 'delta time' in F1?",
     "correct_answer": "The minimum lap time a driver must maintain under Safety Car conditions",
     "choices": [
+      "The time gap between qualifying and race",
       "The minimum lap time a driver must maintain under Safety Car conditions",
       "The difference in lap times between teammates",
-      "The time gap between qualifying and race",
       "The fastest theoretical lap time"
     ],
     "image_asset": null,
@@ -5333,10 +5333,10 @@
     "question_text": "What is the current F1 rule regarding power unit usage penalties?",
     "correct_answer": "Grid penalties for exceeding the allocation of engine components",
     "choices": [
-      "Grid penalties for exceeding the allocation of engine components",
-      "Time penalties during the race",
+      "Exclusion from the weekend",
       "Fine payments to the FIA",
-      "Exclusion from the weekend"
+      "Time penalties during the race",
+      "Grid penalties for exceeding the allocation of engine components"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5351,8 +5351,8 @@
     "choices": [
       "A fuel-saving technique where drivers ease off the throttle before braking",
       "A technique for warming tires",
-      "A method to clean debris from wings",
-      "A strategy for overtaking in corners"
+      "A strategy for overtaking in corners",
+      "A method to clean debris from wings"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5366,9 +5366,9 @@
     "correct_answer": "E10 fuel with 10% sustainable ethanol",
     "choices": [
       "E10 fuel with 10% sustainable ethanol",
+      "Diesel",
       "Pure gasoline",
-      "E85 fuel with 85% ethanol",
-      "Diesel"
+      "E85 fuel with 85% ethanol"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5382,9 +5382,9 @@
     "correct_answer": "900 mm above the reference plane",
     "choices": [
       "900 mm above the reference plane",
-      "800 mm above the reference plane",
       "950 mm above the reference plane",
-      "850 mm above the reference plane"
+      "850 mm above the reference plane",
+      "800 mm above the reference plane"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5397,10 +5397,10 @@
     "question_text": "How many brake discs does an F1 car have?",
     "correct_answer": "4",
     "choices": [
-      "4",
-      "2",
       "6",
-      "8"
+      "2",
+      "8",
+      "4"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5415,8 +5415,8 @@
     "choices": [
       "Carbon-carbon composite",
       "Steel",
-      "Ceramic",
-      "Titanium"
+      "Titanium",
+      "Ceramic"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5429,10 +5429,10 @@
     "question_text": "What is the operating temperature range of F1 carbon brakes?",
     "correct_answer": "200 to 1000 degrees Celsius",
     "choices": [
-      "200 to 1000 degrees Celsius",
+      "50 to 300 degrees Celsius",
       "100 to 500 degrees Celsius",
-      "500 to 1500 degrees Celsius",
-      "50 to 300 degrees Celsius"
+      "200 to 1000 degrees Celsius",
+      "500 to 1500 degrees Celsius"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5445,10 +5445,10 @@
     "question_text": "What does 'traction control' do in an F1 car?",
     "correct_answer": "Prevents wheel spin during acceleration",
     "choices": [
-      "Prevents wheel spin during acceleration",
       "Controls brake bias",
-      "Manages fuel consumption",
-      "Adjusts aerodynamic drag"
+      "Adjusts aerodynamic drag",
+      "Prevents wheel spin during acceleration",
+      "Manages fuel consumption"
     ],
     "image_asset": null,
     "theme": "f1",
@@ -5461,9 +5461,9 @@
     "question_text": "Is traction control currently allowed in Formula 1?",
     "correct_answer": "No",
     "choices": [
+      "Only in wet conditions",
       "No",
       "Yes",
-      "Only in wet conditions",
       "Only during qualifying"
     ],
     "image_asset": null,
